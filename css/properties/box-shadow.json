@@ -101,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-backgrounds-3/#box-shadow"
+          ]
         },
         "multiple_shadows": {
           "__compat": {

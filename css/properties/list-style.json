@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-lists-3/#list-style-property",
+            "https://www.w3.org/TR/CSS2/generate.html#propdef-list-style"
+          ]
         },
         "symbols": {
           "__compat": {
@@ -99,7 +103,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#symbols-function"
+            ]
           }
         }
       }

@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.css-houdini.org/worklets/#worklet"
+        ]
       },
       "addModule": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/worklets/#dom-worklet-addmodule"
+          ]
         }
       }
     }

@@ -114,7 +114,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-transforms-2/#propdef-perspective"
+          ]
         }
       }
     }

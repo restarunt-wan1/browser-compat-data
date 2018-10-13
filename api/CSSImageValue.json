@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.css-houdini.org/css-typed-om-1/#imagevalue-objects"
+        ]
       }
     }
   }

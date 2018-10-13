@@ -46,7 +46,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/specs/markers/#MarkerElement",
+            "https://svgwg.org/svg2-draft/painting.html#MarkerElement",
+            "https://www.w3.org/TR/SVG11/painting.html#MarkerElement"
+          ]
         },
         "markerHeight": {
           "__compat": {

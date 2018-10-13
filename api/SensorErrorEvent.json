@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/generic-sensor/#the-sensor-error-event-interface"
+        ]
       },
       "SensorErrorEvent": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/generic-sensor/#dom-sensorerrorevent-sensorerrorevent"
+          ]
         }
       },
       "error": {
@@ -150,7 +156,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/generic-sensor/#sensor-error-event-error"
+          ]
         }
       }
     }

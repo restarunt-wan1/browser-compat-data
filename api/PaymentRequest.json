@@ -76,7 +76,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/payment-request/#paymentrequest-interface"
+        ]
       },
       "PaymentRequest": {
         "__compat": {
@@ -155,7 +158,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#constructor"
+          ]
         }
       },
       "abort": {
@@ -234,7 +240,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#dom-paymentrequest-abort()"
+          ]
         }
       },
       "canMakePayment": {
@@ -313,7 +322,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request//#canmakepayment()-method"
+          ]
         }
       },
       "id": {
@@ -378,7 +390,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#dom-paymentrequest-id"
+          ]
         }
       },
       "onpaymentmethodchange": {
@@ -443,7 +458,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#onpaymentmethodchange-attribute"
+          ]
         }
       },
       "onshippingaddresschange": {
@@ -522,7 +540,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#onshippingaddresschange-attribute"
+          ]
         }
       },
       "onshippingoptionchange": {
@@ -601,7 +622,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#onshippingoptionchange-attribute"
+          ]
         }
       },
       "paymentAddress": {
@@ -826,7 +850,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#shippingoption"
+          ]
         }
       },
       "shippingType": {
@@ -905,7 +932,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#dom-paymentrequest-shippingtype"
+          ]
         }
       },
       "show": {
@@ -984,7 +1014,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#show()-method"
+          ]
         }
       }
     }

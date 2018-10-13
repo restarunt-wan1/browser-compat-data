@@ -89,7 +89,12 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/gamepad/#gamepad-interface",
+          "https://immersive-web.github.io/webvr/spec/1.1/#gamepad-getvrdisplays-attribute",
+          "https://w3c.github.io/gamepad/extensions.html#partial-gamepad-interface"
+        ]
       },
       "Gamepad": {
         "__compat": {
@@ -245,7 +250,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/#widl-Gamepad-axes"
+          ]
         }
       },
       "buttons": {
@@ -337,7 +345,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/#widl-Gamepad-buttons"
+          ]
         }
       },
       "connected": {
@@ -429,7 +440,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/#widl-Gamepad-connected"
+          ]
         }
       },
       "displayId": {
@@ -474,7 +488,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#gamepad-getvrdisplays-attribute"
+          ]
         }
       },
       "hand": {
@@ -533,7 +550,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#partial-gamepad-interface"
+          ]
         }
       },
       "hapticActuators": {
@@ -592,7 +612,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#partial-gamepad-interface"
+          ]
         }
       },
       "id": {
@@ -677,7 +700,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/#widl-Gamepad-id"
+          ]
         }
       },
       "index": {
@@ -762,7 +788,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/#widl-Gamepad-index"
+          ]
         }
       },
       "mapping": {
@@ -854,7 +883,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/#widl-Gamepad-mapping"
+          ]
         }
       },
       "pose": {
@@ -913,7 +945,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#partial-gamepad-interface"
+          ]
         }
       },
       "timestamp": {
@@ -1005,7 +1040,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/#widl-Gamepad-timestamp"
+          ]
         }
       }
     }

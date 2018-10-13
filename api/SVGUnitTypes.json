@@ -45,7 +45,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://svgwg.org/svg2-draft/types.html#InterfaceSVGUnitTypes",
+          "https://www.w3.org/TR/SVG11/types.html#InterfaceSVGUnitTypes"
+        ]
       }
     }
   }

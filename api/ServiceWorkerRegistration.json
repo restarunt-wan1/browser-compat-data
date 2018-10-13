@@ -60,7 +60,11 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/ServiceWorker/#service-worker-registration-obj",
+          "https://w3c.github.io/push-api/#widl-ServiceWorkerRegistration-pushManager"
+        ]
       },
       "active": {
         "__compat": {
@@ -122,7 +126,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-active-attribute"
+          ]
         }
       },
       "getNotifications": {
@@ -185,7 +192,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-getnotifications"
+          ]
         }
       },
       "installing": {
@@ -248,7 +258,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-installing-attribute"
+          ]
         }
       },
       "navigationPreload": {
@@ -311,7 +324,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-navigationpreload"
+          ]
         }
       },
       "onupdatefound": {
@@ -362,7 +378,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-onupdatefound-attribute"
+          ]
         }
       },
       "paymentManager": {
@@ -541,7 +560,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/push-api/#pushmanager-interface"
+          ]
         }
       },
       "scope": {
@@ -604,7 +626,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-scope-attribute"
+          ]
         }
       },
       "showNotification": {
@@ -667,7 +692,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-shownotificationtitle-options"
+          ]
         },
         "actions": {
           "__compat": {
@@ -717,7 +745,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-shownotificationtitle-options"
+            ]
           }
         },
         "badge": {
@@ -768,7 +799,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-shownotificationtitle-options"
+            ]
           }
         },
         "data": {
@@ -819,7 +853,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-shownotificationtitle-options"
+            ]
           }
         },
         "image": {
@@ -870,7 +907,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-shownotificationtitle-options"
+            ]
           }
         },
         "renotify": {
@@ -921,7 +961,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-shownotificationtitle-options"
+            ]
           }
         },
         "requireInteraction": {
@@ -972,7 +1015,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-shownotificationtitle-options"
+            ]
           }
         },
         "vibrate": {
@@ -1023,7 +1069,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://notifications.spec.whatwg.org/#dom-serviceworkerregistration-shownotificationtitle-options"
+            ]
           }
         }
       },
@@ -1154,7 +1203,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-unregister-method"
+          ]
         }
       },
       "update": {
@@ -1237,7 +1289,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-update-method"
+          ]
         }
       },
       "updateViaCache": {
@@ -1351,7 +1406,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-waiting-attribute"
+          ]
         }
       }
     }

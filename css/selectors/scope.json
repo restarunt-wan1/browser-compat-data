@@ -74,7 +74,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-4/#the-scope-pseudo"
+          ]
         },
         "dom_api": {
           "__compat": {

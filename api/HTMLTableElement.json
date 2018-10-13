@@ -42,7 +42,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmltableelement"
+        ]
       },
       "align": {
         "__compat": {
@@ -221,7 +224,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/tabular-data.html#dom-table-caption"
+          ]
         }
       },
       "cellPadding": {
@@ -763,7 +769,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/tables.html#dom-table-insertrow"
+          ]
         }
       },
       "rows": {
@@ -1078,7 +1087,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/tabular-data.html#dom-table-tfoot"
+          ]
         }
       },
       "tHead": {
@@ -1123,7 +1135,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/tabular-data.html#dom-table-thead"
+          ]
         }
       },
       "width": {

@@ -52,7 +52,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-values-4/#calc-notation"
+          ]
         }
       }
     }

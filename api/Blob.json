@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/FileAPI/#blob"
+        ]
       },
       "Blob": {
         "__compat": {
@@ -101,7 +104,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#constructorBlob"
+          ]
         }
       },
       "size": {
@@ -152,7 +158,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#dfn-size"
+          ]
         }
       },
       "type": {
@@ -203,7 +212,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#dfn-type"
+          ]
         }
       },
       "slice": {
@@ -270,7 +282,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#dfn-slice"
+          ]
         }
       }
     }

@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom/#cssstylesheet"
+        ]
       },
       "cssRules": {
         "__compat": {
@@ -188,7 +191,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom/#dom-cssstylesheet-deleterule"
+          ]
         }
       },
       "insertRule": {
@@ -236,7 +242,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom/#dom-cssstylesheet-insertrule"
+          ]
         },
         "optional_index": {
           "__compat": {

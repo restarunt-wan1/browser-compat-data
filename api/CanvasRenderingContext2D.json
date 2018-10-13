@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": false,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#2dcontext"
+        ]
       },
       "canvas": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-canvas"
+          ]
         }
       },
       "currentTransform": {
@@ -269,7 +275,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-direction"
+          ]
         }
       },
       "fillStyle": {
@@ -320,7 +329,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-fillstyle"
+          ]
         }
       },
       "filter": {
@@ -397,7 +409,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#filters"
+          ]
         }
       },
       "font": {
@@ -448,7 +463,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-font"
+          ]
         }
       },
       "globalAlpha": {
@@ -499,7 +517,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-globalalpha"
+          ]
         }
       },
       "globalCompositeOperation": {
@@ -550,7 +571,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-globalcompositeoperation"
+          ]
         }
       },
       "imageSmoothingEnabled": {
@@ -623,7 +647,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-imagesmoothingenabled"
+          ]
         }
       },
       "imageSmoothingQuality": {
@@ -674,7 +701,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#imagesmoothingquality"
+          ]
         }
       },
       "lineCap": {
@@ -725,7 +755,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-linecap"
+          ]
         }
       },
       "lineDashOffset": {
@@ -788,7 +821,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-linedashoffset"
+          ]
         }
       },
       "lineJoin": {
@@ -839,7 +875,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-linejoin"
+          ]
         }
       },
       "lineWidth": {
@@ -890,7 +929,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-linewidth"
+          ]
         }
       },
       "miterLimit": {
@@ -941,7 +983,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-miterlimit"
+          ]
         }
       },
       "shadowBlur": {
@@ -992,7 +1037,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-shadowblur"
+          ]
         }
       },
       "shadowColor": {
@@ -1043,7 +1091,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-shadowcolor"
+          ]
         }
       },
       "shadowOffsetX": {
@@ -1094,7 +1145,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-shadowoffsetx"
+          ]
         }
       },
       "shadowOffsetY": {
@@ -1145,7 +1199,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-shadowoffsety"
+          ]
         }
       },
       "strokeStyle": {
@@ -1196,7 +1253,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-strokestyle"
+          ]
         }
       },
       "textAlign": {
@@ -1247,7 +1307,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-textalign"
+          ]
         }
       },
       "textBaseline": {
@@ -1298,7 +1361,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-textbaseline"
+          ]
         }
       },
       "addHitRegion": {
@@ -1711,7 +1777,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-arc"
+          ]
         }
       },
       "arcTo": {
@@ -1762,7 +1831,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-arcto"
+          ]
         }
       },
       "beginPath": {
@@ -1813,7 +1885,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-beginpath"
+          ]
         }
       },
       "bezierCurveTo": {
@@ -1864,7 +1939,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-beziercurveto"
+          ]
         }
       },
       "clearHitRegions": {
@@ -1984,7 +2062,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-clearrect"
+          ]
         }
       },
       "clip": {
@@ -2035,7 +2116,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-clip"
+          ]
         },
         "Path_parameter": {
           "__compat": {
@@ -2137,7 +2221,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-closepath"
+          ]
         }
       },
       "createImageData": {
@@ -2188,7 +2275,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-createimagedata"
+          ]
         }
       },
       "createLinearGradient": {
@@ -2239,7 +2329,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-createlineargradient"
+          ]
         }
       },
       "createPattern": {
@@ -2290,7 +2383,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-createpattern"
+          ]
         }
       },
       "createRadialGradient": {
@@ -2341,7 +2437,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-createradialgradient"
+          ]
         }
       },
       "drawFocusIfNeeded": {
@@ -2422,7 +2521,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-drawfocusifneeded"
+          ]
         },
         "Path_parameter": {
           "__compat": {
@@ -2524,7 +2626,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-drawimage"
+          ]
         },
         "ImageBitmap_source_image": {
           "__compat": {
@@ -2832,7 +2937,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-ellipse"
+          ]
         }
       },
       "fill": {
@@ -2883,7 +2991,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-fill"
+          ]
         },
         "Path_parameter": {
           "__compat": {
@@ -2985,7 +3096,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-fillrect"
+          ]
         }
       },
       "fillText": {
@@ -3036,7 +3150,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-filltext"
+          ]
         }
       },
       "getImageData": {
@@ -3099,7 +3216,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-getimagedata"
+          ]
         }
       },
       "getLineDash": {
@@ -3150,7 +3270,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-getlinedash"
+          ]
         }
       },
       "isPointInPath": {
@@ -3201,7 +3324,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-ispointinpath"
+          ]
         },
         "Path_parameter": {
           "__compat": {
@@ -3303,7 +3429,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-ispointinstroke"
+          ]
         },
         "Path_parameter": {
           "__compat": {
@@ -3405,7 +3534,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-lineto"
+          ]
         }
       },
       "measureText": {
@@ -3456,7 +3588,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-measuretext"
+          ]
         }
       },
       "moveTo": {
@@ -3507,7 +3642,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-moveto"
+          ]
         }
       },
       "putImageData": {
@@ -3558,7 +3696,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-putimagedata"
+          ]
         }
       },
       "quadraticCurveTo": {
@@ -3609,7 +3750,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-quadraticcurveto"
+          ]
         }
       },
       "rect": {
@@ -3660,7 +3804,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-rect"
+          ]
         }
       },
       "removeHitRegion": {
@@ -3780,7 +3927,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-resettransform"
+          ]
         }
       },
       "restore": {
@@ -3831,7 +3981,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-restore"
+          ]
         }
       },
       "rotate": {
@@ -3882,7 +4035,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-rotate"
+          ]
         }
       },
       "save": {
@@ -3933,7 +4089,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-save"
+          ]
         }
       },
       "scale": {
@@ -3984,7 +4143,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-scale"
+          ]
         }
       },
       "scrollPathIntoView": {
@@ -4041,7 +4203,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-scrollpathintoview"
+          ]
         }
       },
       "setLineDash": {
@@ -4092,7 +4257,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-setlinedash"
+          ]
         }
       },
       "setTransform": {
@@ -4143,7 +4311,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-settransform"
+          ]
         }
       },
       "stroke": {
@@ -4194,7 +4365,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-stroke"
+          ]
         },
         "Path_parameter": {
           "__compat": {
@@ -4296,7 +4470,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-strokerect"
+          ]
         }
       },
       "strokeText": {
@@ -4347,7 +4524,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-stroketext"
+          ]
         }
       },
       "transform": {
@@ -4398,7 +4578,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-transform"
+          ]
         }
       },
       "translate": {
@@ -4449,7 +4632,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-context-2d-translate"
+          ]
         }
       }
     }

@@ -50,7 +50,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-values-3/#attr-notation",
+            "https://www.w3.org/TR/CSS2/generate.html#x18"
+          ]
         },
         "fallback": {
           "__compat": {

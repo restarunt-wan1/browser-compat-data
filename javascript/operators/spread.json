@@ -65,7 +65,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array-initializer",
+              "https://tc39.github.io/ecma262/#sec-object-initializer"
+            ]
           }
         },
         "spread_in_function_calls": {
@@ -131,7 +135,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array-initializer",
+              "https://tc39.github.io/ecma262/#sec-object-initializer"
+            ]
           }
         },
         "spread_in_destructuring": {
@@ -251,7 +259,11 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array-initializer",
+              "https://tc39.github.io/ecma262/#sec-object-initializer"
+            ]
           }
         }
       }

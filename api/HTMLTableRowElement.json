@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmltablerowelement"
+        ]
       },
       "align": {
         "__compat": {
@@ -557,7 +560,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/tables.html#dom-tr-insertcell"
+          ]
         },
         "optional_index_parameter": {
           "__compat": {

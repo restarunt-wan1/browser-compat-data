@@ -50,7 +50,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-4/#lang-pseudo",
+            "https://drafts.csswg.org/selectors-3/#lang-pseudo",
+            "https://www.w3.org/TR/CSS2/selector.html#lang"
+          ]
         }
       }
     }

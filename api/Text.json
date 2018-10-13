@@ -39,7 +39,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#text"
+        ]
       },
       "Text": {
         "__compat": {
@@ -81,7 +84,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#text"
+          ]
         }
       },
       "isElementContentWhitespace": {
@@ -167,7 +173,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-text-wholetext"
+          ]
         }
       },
       "assignedSlot": {
@@ -218,7 +227,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-slotable-assignedslot"
+          ]
         }
       },
       "replaceWholeText": {
@@ -333,7 +345,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-text-splittext"
+          ]
         }
       }
     }

@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/clipboard-apis/#clipboard-interface"
+        ]
       },
       "read": {
         "__compat": {
@@ -114,7 +117,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/clipboard-apis/#h-clipboard-read"
+          ]
         }
       },
       "readText": {
@@ -167,7 +173,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/clipboard-apis/#h-clipboard-readtext"
+          ]
         }
       },
       "write": {
@@ -234,7 +243,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/clipboard-apis/#h-clipboard-write-data"
+          ]
         }
       },
       "writeText": {
@@ -287,7 +299,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/clipboard-apis/#h-clipboard-writetext-data"
+          ]
         }
       }
     }

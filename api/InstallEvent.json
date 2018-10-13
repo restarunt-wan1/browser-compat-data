@@ -101,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#install-event-section"
+          ]
         }
       },
       "activeWorker": {
@@ -153,7 +156,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#install-event-section"
+          ]
         }
       }
     }

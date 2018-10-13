@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": false,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://wicg.github.io/mediasession/#the-mediametadata-interface"
+        ]
       },
       "MediaMetadata": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/mediasession/#the-mediametadata-interface"
+          ]
         }
       },
       "album": {
@@ -150,7 +156,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/mediasession/#dom-mediametadata-album"
+          ]
         }
       },
       "artist": {
@@ -201,7 +210,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/mediasession/#dom-mediametadata-artist"
+          ]
         }
       },
       "artwork": {
@@ -252,7 +264,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/mediasession/#dom-mediametadata-artwork"
+          ]
         }
       },
       "title": {
@@ -303,7 +318,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/mediasession/#dom-mediametadata-title"
+          ]
         }
       }
     }

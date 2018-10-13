@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/encrypted-media/#mediakeymessageevent"
+        ]
       },
       "MediaKeyMessageEvent": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/encrypted-media/#mediakeymessageevent"
+          ]
         }
       },
       "message": {
@@ -150,7 +156,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/encrypted-media/#widl-MediaKeyMessageEvent-message"
+          ]
         }
       },
       "messageType": {
@@ -201,7 +210,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/encrypted-media/#widl-MediaKeyMessageEvent-messageType"
+          ]
         }
       }
     }

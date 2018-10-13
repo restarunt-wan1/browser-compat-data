@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/geolocation-API/#position_error_interface"
+        ]
       },
       "secure_context_required": {
         "__compat": {
@@ -140,7 +143,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#code"
+          ]
         }
       },
       "message": {
@@ -188,7 +194,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#message"
+          ]
         }
       }
     }

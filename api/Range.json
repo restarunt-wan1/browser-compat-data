@@ -47,7 +47,12 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-range",
+          "https://w3c.github.io/DOM-Parsing/#extensions-to-the-range-interface",
+          "https://drafts.csswg.org/cssom-view/#extensions-to-the-range-interface"
+        ]
       },
       "Range": {
         "__compat": {
@@ -95,7 +100,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range"
+          ]
         }
       },
       "cloneContents": {
@@ -143,7 +151,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-clonecontents"
+          ]
         }
       },
       "cloneRange": {
@@ -191,7 +202,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-clonerange"
+          ]
         }
       },
       "collapse": {
@@ -239,7 +253,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-collapse"
+          ]
         },
         "toStart_parameter_optional": {
           "__compat": {
@@ -336,7 +353,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-collapsed"
+          ]
         }
       },
       "commonAncestorContainer": {
@@ -384,7 +404,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-commonancestorcontainer"
+          ]
         }
       },
       "compareBoundaryPoints": {
@@ -432,7 +455,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-compareboundarypoints"
+          ]
         }
       },
       "compareNode": {
@@ -529,7 +555,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-comparepoint"
+          ]
         }
       },
       "createContextualFragment": {
@@ -577,7 +606,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/DOM-Parsing/#idl-def-range-createcontextualfragment(domstring)"
+          ]
         }
       },
       "deleteContents": {
@@ -625,7 +657,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-deletecontents"
+          ]
         }
       },
       "detach": {
@@ -680,7 +715,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-detach"
+          ]
         }
       },
       "endContainer": {
@@ -728,7 +766,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-endcontainer"
+          ]
         }
       },
       "endOffset": {
@@ -776,7 +817,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-endoffset"
+          ]
         }
       },
       "extractContents": {
@@ -824,7 +868,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-extractcontents"
+          ]
         }
       },
       "getBoundingClientRect": {
@@ -872,7 +919,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-range-getboundingclientrect"
+          ]
         }
       },
       "getClientRects": {
@@ -920,7 +970,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-range-getclientrects"
+          ]
         }
       },
       "insertNode": {
@@ -968,7 +1021,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-insertnode"
+          ]
         },
         "collapsed_ranges": {
           "__compat": {
@@ -1064,7 +1120,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-intersectsnode"
+          ]
         }
       },
       "isPointInRange": {
@@ -1112,7 +1171,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-ispointinrange"
+          ]
         }
       },
       "selectNode": {
@@ -1160,7 +1222,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-selectnode"
+          ]
         }
       },
       "selectNodeContents": {
@@ -1208,7 +1273,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-selectnodecontents"
+          ]
         }
       },
       "setEnd": {
@@ -1256,7 +1324,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-setend"
+          ]
         }
       },
       "setEndAfter": {
@@ -1304,7 +1375,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-setendafter"
+          ]
         }
       },
       "setEndBefore": {
@@ -1352,7 +1426,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-setendbefore"
+          ]
         }
       },
       "setStart": {
@@ -1400,7 +1477,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-setstart"
+          ]
         }
       },
       "setStartAfter": {
@@ -1448,7 +1528,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-setstartafter"
+          ]
         }
       },
       "setStartBefore": {
@@ -1496,7 +1579,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-setstartbefore"
+          ]
         }
       },
       "startContainer": {
@@ -1544,7 +1630,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-startcontainer"
+          ]
         }
       },
       "startOffset": {
@@ -1592,7 +1681,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-startoffset"
+          ]
         }
       },
       "surroundContents": {
@@ -1640,7 +1732,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-surroundcontents"
+          ]
         }
       },
       "toString": {
@@ -1688,7 +1783,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-stringifier"
+          ]
         }
       }
     }

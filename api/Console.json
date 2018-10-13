@@ -141,7 +141,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#assert"
+          ]
         }
       },
       "clear": {
@@ -189,7 +192,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#clear"
+          ]
         }
       },
       "count": {
@@ -237,7 +243,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#count"
+          ]
         }
       },
       "countReset": {
@@ -288,7 +297,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#count"
+          ]
         }
       },
       "dir": {
@@ -336,7 +348,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#dir"
+          ]
         }
       },
       "dirxml": {
@@ -384,7 +399,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#dirxml"
+          ]
         }
       },
       "error": {
@@ -432,7 +450,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#error"
+          ]
         },
         "substitution_strings": {
           "__compat": {
@@ -628,7 +649,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#group"
+          ]
         }
       },
       "groupCollapsed": {
@@ -676,7 +700,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#groupcollapsed"
+          ]
         }
       },
       "groupEnd": {
@@ -724,7 +751,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#groupend"
+          ]
         }
       },
       "info": {
@@ -775,7 +805,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#info"
+          ]
         },
         "substitution_strings": {
           "__compat": {
@@ -874,7 +907,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#log"
+          ]
         },
         "substitution_strings": {
           "__compat": {
@@ -1072,7 +1108,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#table"
+          ]
         }
       },
       "time": {
@@ -1120,7 +1159,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#time"
+          ]
         }
       },
       "timeEnd": {
@@ -1168,7 +1210,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#timeend"
+          ]
         }
       },
       "timeLog": {
@@ -1218,7 +1263,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#timelog"
+          ]
         }
       },
       "timestamp": {
@@ -1314,7 +1362,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#trace"
+          ]
         }
       },
       "warn": {
@@ -1362,7 +1413,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://console.spec.whatwg.org/#warn"
+          ]
         },
         "substitution_strings": {
           "__compat": {

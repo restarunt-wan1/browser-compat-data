@@ -54,7 +54,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "bitwise_and": {
@@ -109,7 +112,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "bitwise_or": {
@@ -164,7 +170,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "bitwise_xor": {
@@ -219,7 +228,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "division": {
@@ -274,7 +286,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "exponentiation": {
@@ -340,7 +355,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "left_shift": {
@@ -395,7 +413,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "multiplication": {
@@ -450,7 +471,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "remainder": {
@@ -505,7 +529,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "right_shift": {
@@ -560,7 +587,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "simple": {
@@ -615,7 +645,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "subtraction": {
@@ -670,7 +703,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         },
         "unsigned_right_shift": {
@@ -725,7 +761,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-assignment-operators"
+            ]
           }
         }
       }

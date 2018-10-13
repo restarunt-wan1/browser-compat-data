@@ -60,7 +60,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webrtc-stats/#streamstats-dict*"
+        ]
       },
       "codecId": {
         "__compat": {
@@ -110,7 +113,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-kind"
+          ]
         }
       },
       "firCount": {
@@ -161,7 +167,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-fircount"
+          ]
         }
       },
       "isRemote": {
@@ -265,7 +274,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-kind"
+          ]
         }
       },
       "mediaTrackId": {
@@ -418,7 +430,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-nackcount"
+          ]
         }
       },
       "pliCount": {
@@ -469,7 +484,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-plicount"
+          ]
         }
       },
       "qpSum": {
@@ -520,7 +538,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-qpsum"
+          ]
         }
       },
       "remoteId": {
@@ -622,7 +643,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-slicount"
+          ]
         }
       },
       "ssrc": {
@@ -673,7 +697,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-ssrc"
+          ]
         }
       },
       "transportId": {
@@ -724,7 +751,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-stats/#dom-rtcrtpstreamstats-transportid"
+          ]
         }
       }
     }

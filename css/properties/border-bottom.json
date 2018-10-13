@@ -43,7 +43,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-backgrounds-3/#border-bottom",
+            "https://www.w3.org/TR/CSS2/box.html#propdef-border-bottom"
+          ]
         }
       }
     }

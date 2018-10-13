@@ -45,7 +45,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.fxtf.org/geometry/#DOMPoint"
+        ]
       },
       "DOMPoint": {
         "__compat": {
@@ -93,7 +96,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.fxtf.org/geometry/#dom-dompoint-dompoint"
+          ]
         }
       }
     }

@@ -106,7 +106,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-grid/#propdef-grid-template-rows"
+          ]
         },
         "minmax": {
           "__compat": {
@@ -203,7 +206,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-grid/#valdef-grid-template-columns-minmax"
+            ]
           }
         },
         "repeat": {
@@ -303,7 +309,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-grid/#funcdef-repeat"
+            ]
           }
         },
         "fit-content": {
@@ -355,7 +364,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-sizing-3/#valdef-width-fit-content-length-percentage",
+              "https://drafts.csswg.org/css-grid/#valdef-grid-template-columns-fit-content"
+            ]
           }
         }
       }

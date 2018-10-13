@@ -50,7 +50,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#selector-active",
+            "https://drafts.csswg.org/selectors-4/#active-pseudo",
+            "https://drafts.csswg.org/selectors-3/#useraction-pseudos",
+            "https://www.w3.org/TR/CSS2/selector.html#dynamic-pseudo-classes"
+          ]
         },
         "non_a_elements": {
           "__compat": {

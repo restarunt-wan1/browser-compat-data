@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#parentnode"
+        ]
       },
       "document_documentfragment": {
         "__compat": {
@@ -149,7 +152,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-childElementCount"
+          ]
         },
         "document_documentfragment": {
           "__compat": {
@@ -252,7 +258,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-children"
+          ]
         },
         "document_documentfragment": {
           "__compat": {
@@ -405,7 +414,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-firstelementchild"
+          ]
         },
         "document_documentfragment": {
           "__compat": {
@@ -507,7 +519,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-lastelementchild"
+          ]
         },
         "document_documentfragment": {
           "__compat": {
@@ -609,7 +624,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-append"
+          ]
         }
       },
       "prepend": {
@@ -660,7 +678,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-prepend"
+          ]
         }
       },
       "querySelectorAll": {
@@ -712,7 +733,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall"
+          ]
         }
       }
     }

@@ -39,7 +39,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/comms.html#broadcastchannel"
+        ]
       },
       "BroadcastChannel": {
         "__compat": {
@@ -81,7 +84,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-broadcastchannel"
+          ]
         }
       },
       "name": {
@@ -123,7 +129,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-broadcastchannel-name"
+          ]
         }
       },
       "onmessage": {
@@ -165,7 +174,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#handler-broadcastchannel-onmessage"
+          ]
         }
       },
       "onmessageerror": {
@@ -207,7 +219,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#handler-broadcastchannel-onmessageerror"
+          ]
         }
       },
       "close": {
@@ -249,7 +264,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-broadcastchannel-close"
+          ]
         }
       },
       "postMessage": {
@@ -291,7 +309,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-broadcastchannel-postmessage"
+          ]
         }
       }
     }

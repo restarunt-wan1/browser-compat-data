@@ -49,7 +49,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-backgrounds-4/#background-position-longhands"
+          ]
         },
         "two_value_syntax": {
           "__compat": {

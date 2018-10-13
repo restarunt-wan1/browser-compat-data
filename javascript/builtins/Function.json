@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-function-objects"
+          ]
         },
         "arguments": {
           "__compat": {
@@ -321,7 +324,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-function-instances-length"
+            ]
           },
           "configurable_true": {
             "__compat": {
@@ -429,7 +435,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-function-instances-name"
+            ]
           },
           "configurable_true": {
             "__compat": {
@@ -591,7 +600,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-function-instances-prototype"
+            ]
           }
         },
         "apply": {
@@ -645,7 +657,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-function.prototype.apply"
+            ]
           },
           "generic_arrays_as_arguments": {
             "__compat": {
@@ -753,7 +768,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-function.prototype.bind"
+            ]
           }
         },
         "call": {
@@ -807,7 +825,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-function.prototype.call"
+            ]
           }
         },
         "isGenerator": {
@@ -971,7 +992,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-function.prototype.tostring"
+            ]
           },
           "toString_revision": {
             "__compat": {

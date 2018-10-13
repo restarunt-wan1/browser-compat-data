@@ -48,7 +48,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute",
+          "https://html.spec.whatwg.org/multipage/#htmlareaelement"
+        ]
       },
       "accessKey": {
         "__compat": {
@@ -455,7 +459,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+          ]
         }
       },
       "rel": {
@@ -506,7 +513,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-area-rel"
+          ]
         }
       },
       "relList": {
@@ -557,7 +567,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-area-rellist"
+          ]
         }
       },
       "shape": {

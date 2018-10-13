@@ -48,7 +48,16 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/pointerevents/#extensions-to-the-element-interface",
+          "https://www.w3.org/TR/pointerevents/#extensions-to-the-element-interface",
+          "https://w3c.github.io/pointerlock/index.html#element-interface",
+          "https://fullscreen.spec.whatwg.org/#api",
+          "https://w3c.github.io/DOM-Parsing/#extensions-to-the-element-interface",
+          "https://drafts.csswg.org/cssom-view/#extensions-to-the-element-interface",
+          "https://dom.spec.whatwg.org/#interface-element"
+        ]
       },
       "accessKey": {
         "__compat": {
@@ -154,7 +163,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#the-animatable-interface"
+          ]
         },
         "id_option": {
           "__compat": {
@@ -335,7 +347,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-attachshadow"
+          ]
         }
       },
       "attributes": {
@@ -386,7 +401,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-attributes"
+          ]
         }
       },
       "classList": {
@@ -444,7 +462,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-classlist"
+          ]
         },
         "toggle_method_second_argument": {
           "__compat": {
@@ -648,7 +669,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-classname"
+          ]
         }
       },
       "clientHeight": {
@@ -699,7 +723,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-clientheight"
+          ]
         }
       },
       "clientLeft": {
@@ -750,7 +777,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-clientleft"
+          ]
         }
       },
       "clientTop": {
@@ -801,7 +831,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-clienttop"
+          ]
         }
       },
       "clientWidth": {
@@ -852,7 +885,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-clientwidth"
+          ]
         }
       },
       "closest": {
@@ -903,7 +939,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-closest"
+          ]
         }
       },
       "computedStyleMap": {
@@ -954,7 +993,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-element-computedstylemap"
+          ]
         }
       },
       "createShadowRoot": {
@@ -1248,7 +1290,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-getattributens"
+          ]
         }
       },
       "getAttributeNames": {
@@ -1299,7 +1344,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-getattributenames"
+          ]
         }
       },
       "getAttributeNode": {
@@ -1453,7 +1501,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-getboundingclientrect"
+          ]
         },
         "width": {
           "__compat": {
@@ -1708,7 +1759,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-getclientrects"
+          ]
         }
       },
       "getElementsByClassName": {
@@ -1761,7 +1815,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-getelementsbyclassname"
+          ]
         }
       },
       "getElementsByTagName": {
@@ -1817,7 +1874,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-getelementsbytagname"
+          ]
         },
         "all_elements_selector": {
           "__compat": {
@@ -1931,7 +1991,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-getelementsbytagnamens"
+          ]
         },
         "all_elements_selector": {
           "__compat": {
@@ -2012,7 +2075,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-hasattribute"
+          ]
         }
       },
       "hasAttributeNS": {
@@ -2115,7 +2181,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-hasattributes"
+          ]
         }
       },
       "id": {
@@ -2166,7 +2235,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-id"
+          ]
         }
       },
       "innerHTML": {
@@ -2217,7 +2289,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml"
+          ]
         }
       },
       "insertAdjacentElement": {
@@ -2268,7 +2343,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-insertadjacentelement"
+          ]
         }
       },
       "insertAdjacentHTML": {
@@ -2320,7 +2398,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/DOM-Parsing/#widl-Element-insertAdjacentHTML-void-DOMString-position-DOMString-text"
+          ]
         }
       },
       "insertAdjacentText": {
@@ -2371,7 +2452,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-insertadjacenttext"
+          ]
         }
       },
       "localName": {
@@ -2425,7 +2509,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-localname"
+          ]
         }
       },
       "matches": {
@@ -2580,7 +2667,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-matches"
+          ]
         }
       },
       "name": {
@@ -2685,7 +2775,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-namespaceuri"
+          ]
         }
       },
       "openOrClosedShadowRoot": {
@@ -2819,7 +2912,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-Element-ongotpointercapture",
+            "https://www.w3.org/TR/pointerevents/#widl-Element-ongotpointercapture"
+          ]
         }
       },
       "onlostpointercapture": {
@@ -2900,7 +2997,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-Element-onlostpointercapture",
+            "https://www.w3.org/TR/pointerevents/#widl-Element-onlostpointercapture"
+          ]
         }
       },
       "outerHTML": {
@@ -2951,7 +3052,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/DOM-Parsing/#outerhtml"
+          ]
         }
       },
       "prefix": {
@@ -3005,7 +3109,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-prefix"
+          ]
         }
       },
       "querySelector": {
@@ -3063,7 +3170,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall"
+          ]
         }
       },
       "querySelectorAll": {
@@ -3121,7 +3231,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall"
+          ]
         }
       },
       "releasePointerCapture": {
@@ -3202,7 +3315,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-Element-releasePointerCapture-void-long-pointerId",
+            "https://www.w3.org/TR/pointerevents/#widl-Element-releasePointerCapture-void-long-pointerId"
+          ]
         }
       },
       "removeAttribute": {
@@ -3465,7 +3582,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fullscreen.spec.whatwg.org/#dom-element-requestfullscreen"
+          ]
         },
         "returns_a_promise": {
           "__compat": {
@@ -3585,7 +3705,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerlock/#element-interface"
+          ]
         }
       },
       "runtimeStyle": {
@@ -3691,7 +3814,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-scrollintoview"
+          ]
         },
         "scrollIntoViewOptions": {
           "__compat": {
@@ -3865,7 +3991,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-scrollheight"
+          ]
         }
       },
       "scrollLeft": {
@@ -3916,7 +4045,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-scrollleft"
+          ]
         }
       },
       "scrollLeftMax": {
@@ -4018,7 +4150,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-scrolltop"
+          ]
         }
       },
       "scrollTopMax": {
@@ -4120,7 +4255,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-element-scrollwidth"
+          ]
         }
       },
       "setAttribute": {
@@ -4458,7 +4596,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-Element-setPointerCapture-void-long-pointerId",
+            "https://www.w3.org/TR/pointerevents/#widl-Element-setPointerCapture-void-long-pointerId"
+          ]
         }
       },
       "shadowRoot": {
@@ -4537,7 +4679,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-shadowroot"
+          ]
         }
       },
       "slot": {
@@ -4588,7 +4733,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-slot"
+          ]
         }
       },
       "tabStop": {
@@ -4690,7 +4838,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-tagname"
+          ]
         }
       },
       "toggleAttribute": {
@@ -4741,7 +4892,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-element-toggleattribute"
+          ]
         }
       }
     }

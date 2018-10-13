@@ -127,7 +127,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-ui-3/#box-sizing"
+          ]
         },
         "padding-box": {
           "__compat": {

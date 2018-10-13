@@ -62,7 +62,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://encoding.spec.whatwg.org/#interface-textdecoder"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -178,7 +181,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://encoding.spec.whatwg.org/#dom-textdecoder"
+          ]
         }
       },
       "decode": {
@@ -243,7 +249,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://encoding.spec.whatwg.org/#dom-textdecoder-decode"
+          ]
         }
       },
       "encoding": {
@@ -308,7 +317,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://encoding.spec.whatwg.org/#dom-textdecoder-encoding"
+          ]
         }
       },
       "fatal": {

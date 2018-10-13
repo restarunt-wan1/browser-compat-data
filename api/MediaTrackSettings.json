@@ -92,7 +92,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-aspectRatio"
+          ]
         }
       },
       "autoGainControl": {
@@ -154,7 +157,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-autoGainControl"
+          ]
         }
       },
       "channelCount": {
@@ -202,7 +208,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-channelCount"
+          ]
         }
       },
       "deviceId": {
@@ -250,7 +259,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-deviceId"
+          ]
         }
       },
       "echoCancellation": {
@@ -298,7 +310,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-echoCancellation"
+          ]
         }
       },
       "facingMode": {
@@ -346,7 +361,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-facingMode"
+          ]
         }
       },
       "frameRate": {
@@ -394,7 +412,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-frameRate"
+          ]
         }
       },
       "groupId": {
@@ -442,7 +463,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-groupId"
+          ]
         }
       },
       "height": {
@@ -490,7 +514,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-height"
+          ]
         }
       },
       "latency": {
@@ -538,7 +565,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-latency"
+          ]
         }
       },
       "noiseSuppression": {
@@ -600,7 +630,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-noiseSuppression"
+          ]
         }
       },
       "resizeMode": {
@@ -696,7 +729,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-sampleRate"
+          ]
         }
       },
       "sampleSize": {
@@ -744,7 +780,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-sampleSize"
+          ]
         }
       },
       "volume": {
@@ -792,7 +831,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-volume"
+          ]
         }
       },
       "width": {
@@ -840,7 +882,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSettings-width"
+          ]
         }
       }
     }

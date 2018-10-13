@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.fxtf.org/geometry/#dom-dommatrix"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -141,7 +144,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.fxtf.org/geometry/#dom-dommatrixreadonly-dommatrixreadonly"
+          ]
         }
       }
     }

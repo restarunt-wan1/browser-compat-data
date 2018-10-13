@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#navigatorconcurrenthardware"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -149,7 +152,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-navigator-hardwareconcurrency"
+          ]
         }
       }
     }

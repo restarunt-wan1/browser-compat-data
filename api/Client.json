@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/ServiceWorker/#client"
+        ]
       },
       "frameType": {
         "__compat": {
@@ -100,7 +103,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#client-frametype"
+          ]
         }
       },
       "id": {
@@ -152,7 +158,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#client-id"
+          ]
         }
       },
       "postMessage": {
@@ -201,7 +210,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#client-postmessage-method"
+          ]
         }
       },
       "type": {
@@ -252,7 +264,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#client-type"
+          ]
         }
       },
       "url": {
@@ -304,7 +319,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#client-url"
+          ]
         }
       }
     }

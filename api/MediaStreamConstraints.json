@@ -104,7 +104,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaStreamConstraints-video"
+          ]
         }
       },
       "audio": {
@@ -158,7 +161,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaStreamConstraints-audio"
+          ]
         }
       }
     }

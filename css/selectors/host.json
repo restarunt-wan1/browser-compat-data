@@ -78,7 +78,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-scoping/#host-selector"
+          ]
         }
       }
     }

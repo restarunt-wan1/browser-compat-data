@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/forms.html#the-constraint-validation-api"
+        ]
       },
       "badInput": {
         "__compat": {
@@ -92,7 +95,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/constraints.html#dom-validitystate-badinput"
+          ]
         }
       },
       "tooLong": {
@@ -140,7 +146,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/constraints.html#dom-validitystate-toolong"
+          ]
         }
       }
     }

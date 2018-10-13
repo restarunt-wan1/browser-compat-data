@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#navigatorlanguage"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -151,7 +154,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-navigator-language"
+          ]
         }
       },
       "languages": {
@@ -205,7 +211,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-navigator-languages"
+          ]
         }
       }
     }

@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://wicg.github.io/feature-policy/#dom-htmliframeelement-allow",
+          "https://w3c.github.io/payment-request/#paymentrequest-and-iframe-elements",
+          "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute",
+          "https://html.spec.whatwg.org/multipage/#htmliframeelement"
+        ]
       },
       "addNextPaintListener": {
         "__compat": {
@@ -315,7 +321,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-request/#paymentrequest-and-iframe-elements",
+            "https://html.spec.whatwg.org/multipage/#dom-iframe-allowpaymentrequest"
+          ]
         }
       },
       "clearMatch": {
@@ -412,7 +422,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-iframe-contentdocument"
+          ]
         }
       },
       "contentWindow": {
@@ -460,7 +473,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-iframe-contentwindow"
+          ]
         }
       },
       "csp": {
@@ -508,7 +524,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec-cspee/#dom-htmliframeelement-csp"
+          ]
         }
       },
       "download": {
@@ -1802,7 +1821,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute",
+            "https://html.spec.whatwg.org/multipage/#dom-iframe-referrerpolicy"
+          ]
         }
       },
       "reload": {

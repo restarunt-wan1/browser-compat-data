@@ -52,7 +52,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tools.ietf.org/html/rfc6454#section-7",
+            "https://fetch.spec.whatwg.org/#origin-header"
+          ]
         }
       }
     }

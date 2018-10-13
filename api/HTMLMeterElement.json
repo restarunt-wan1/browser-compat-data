@@ -36,7 +36,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmlmeterelement"
+        ]
       },
       "high": {
         "__compat": {
@@ -293,7 +296,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/forms.html#dom-lfe-labels"
+          ]
         }
       }
     }

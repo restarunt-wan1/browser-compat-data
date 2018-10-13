@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-regexp-regular-expression-objects"
+          ]
         },
         "compile": {
           "__compat": {
@@ -159,7 +162,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-regexp.prototype.exec"
+            ]
           }
         },
         "flags": {
@@ -213,7 +219,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-regexp.prototype.flags"
+            ]
           }
         },
         "global": {
@@ -267,7 +276,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-regexp.prototype.global"
+            ]
           },
           "prototype_accessor": {
             "__compat": {
@@ -375,7 +387,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-regexp.prototype.ignorecase"
+            ]
           },
           "prototype_accessor": {
             "__compat": {
@@ -538,7 +553,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-properties-of-regexp-instances"
+            ]
           }
         },
         "lastMatch": {
@@ -811,7 +829,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-regexp.prototype.multiline"
+            ]
           },
           "prototype_accessor": {
             "__compat": {
@@ -974,7 +995,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-regexp.prototype"
+            ]
           }
         },
         "rightContext": {
@@ -1083,7 +1107,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-regexp.prototype.source"
+            ]
           },
           "prototype_accessor": {
             "__compat": {
@@ -1299,7 +1326,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-regexp.prototype.sticky"
+            ]
           },
           "prototype_accessor": {
             "__compat": {
@@ -1461,7 +1491,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-regexp.prototype.test"
+            ]
           }
         },
         "toSource": {
@@ -1569,7 +1602,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-regexp.prototype.tostring"
+            ]
           },
           "escaping": {
             "__compat": {
@@ -1732,7 +1768,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-regexp.prototype.unicode"
+            ]
           }
         },
         "@@match": {
@@ -1786,7 +1825,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-regexp.prototype-@@match"
+            ]
           }
         },
         "@@replace": {
@@ -1840,7 +1882,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-regexp.prototype-@@replace"
+            ]
           }
         },
         "@@search": {
@@ -1894,7 +1939,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-regexp.prototype-@@search"
+            ]
           }
         },
         "@@species": {
@@ -1959,7 +2007,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-regexp-@@species"
+            ]
           }
         },
         "@@split": {
@@ -2013,7 +2064,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-regexp.prototype-@@split"
+            ]
           }
         }
       }

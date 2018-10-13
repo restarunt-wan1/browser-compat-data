@@ -70,7 +70,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://storage.spec.whatwg.org/#storagemanager"
+        ]
       },
       "estimate": {
         "__compat": {
@@ -120,7 +123,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://storage.spec.whatwg.org/#dom-storagemanager-estimate"
+          ]
         }
       },
       "persist": {
@@ -192,7 +198,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://storage.spec.whatwg.org/#dom-storagemanager-persist"
+          ]
         }
       },
       "persisted": {
@@ -264,7 +273,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://storage.spec.whatwg.org/#dom-storagemanager-persisted"
+          ]
         }
       }
     }

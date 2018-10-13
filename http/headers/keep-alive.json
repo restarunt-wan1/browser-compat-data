@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tools.ietf.org/id/draft-thomson-hybi-http-timeout-01.html#rfc.section.2",
+            "https://tools.ietf.org/html/rfc7230#appendix-A.1.2"
+          ]
         }
       }
     }

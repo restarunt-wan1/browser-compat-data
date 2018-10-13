@@ -112,7 +112,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/FileAPI/#creating-revoking",
+          "https://url.spec.whatwg.org/#api"
+        ]
       },
       "URL": {
         "__compat": {
@@ -164,7 +168,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://url.spec.whatwg.org/#constructors"
+          ]
         }
       },
       "createObjectURL": {
@@ -217,7 +224,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#dfn-createObjectURL",
+            "https://w3c.github.io/media-source/#dom-url-createobjecturl"
+          ]
         },
         "no_MediaStream_argument": {
           "__compat": {
@@ -325,7 +336,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-hash"
+          ]
         }
       },
       "host": {
@@ -376,7 +390,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-host"
+          ]
         }
       },
       "hostname": {
@@ -427,7 +444,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-hostname"
+          ]
         }
       },
       "href": {
@@ -478,7 +498,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-href"
+          ]
         }
       },
       "origin": {
@@ -559,7 +582,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://url.spec.whatwg.org/#dom-url-origin"
+          ]
         }
       },
       "password": {
@@ -616,7 +642,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-password"
+          ]
         }
       },
       "pathname": {
@@ -681,7 +710,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-pathname"
+          ]
         }
       },
       "port": {
@@ -732,7 +764,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-port"
+          ]
         }
       },
       "protocol": {
@@ -783,7 +818,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-protocol"
+          ]
         }
       },
       "revokeObjectURL": {
@@ -836,7 +874,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#dfn-revokeObjectURL"
+          ]
         }
       },
       "search": {
@@ -901,7 +942,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-search"
+          ]
         }
       },
       "searchParams": {
@@ -952,7 +996,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://url.spec.whatwg.org/#dom-url-searchparams"
+          ]
         }
       },
       "toJSON": {
@@ -1003,7 +1050,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://url.spec.whatwg.org/#dom-url-tojson"
+          ]
         }
       },
       "username": {
@@ -1060,7 +1110,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-hyperlink-username"
+          ]
         }
       }
     }

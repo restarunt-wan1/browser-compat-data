@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webrtc-pc/#idl-def-RTCIdentityEvent"
+        ]
       },
       "assertion": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCIdentityEvent-assertion"
+          ]
         }
       }
     }

@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmllinkelement"
+        ]
       },
       "as": {
         "__compat": {
@@ -92,7 +95,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/preload/#as-attribute"
+          ]
         }
       },
       "crossOrigin": {
@@ -188,7 +194,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+          ]
         }
       },
       "rel": {
@@ -236,7 +245,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/semantics.html#attr-link-rel"
+          ]
         }
       },
       "relList": {
@@ -284,7 +296,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/semantics.html#dom-link-rellist"
+          ]
         }
       },
       "sizes": {

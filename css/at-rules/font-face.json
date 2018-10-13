@@ -50,7 +50,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-fonts-3/#font-face-rule"
+          ]
         },
         "WOFF": {
           "__compat": {
@@ -278,7 +281,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-fonts-4/#font-display-desc"
+            ]
           }
         },
         "font-family": {
@@ -329,7 +335,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-fonts-3/#font-family-desc"
+            ]
           }
         },
         "font-feature-settings": {
@@ -464,7 +473,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-fonts-4/#font-rend-desc"
+            ]
           }
         },
         "font-style": {
@@ -515,7 +527,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-fonts-4/#font-prop-desc",
+              "https://drafts.csswg.org/css-fonts-3/#font-prop-desc"
+            ]
           }
         },
         "font-weight": {
@@ -616,7 +632,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-fonts-3/#src-desc"
+            ]
           }
         },
         "unicode-range": {
@@ -667,7 +686,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-fonts-3/#descdef-font-face-unicode-range"
+            ]
           }
         }
       }

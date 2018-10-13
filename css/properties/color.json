@@ -49,7 +49,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-color/#the-color-property",
+            "https://drafts.csswg.org/css-transitions/#animatable-css",
+            "https://drafts.csswg.org/css-color-3/#color",
+            "https://www.w3.org/TR/CSS2/colors.html#colors"
+          ]
         },
         "keyword_color_values": {
           "__compat": {
@@ -101,7 +107,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-color/#colorunits",
+              "https://drafts.csswg.org/css-color-3/#colorunits",
+              "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+            ]
           }
         },
         "rgb_hexadecimal_notation": {
@@ -153,7 +164,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-color/#colorunits",
+              "https://drafts.csswg.org/css-color-3/#colorunits",
+              "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+            ]
           }
         },
         "rgb_functional_notation": {
@@ -205,7 +221,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-color/#colorunits",
+              "https://drafts.csswg.org/css-color-3/#colorunits",
+              "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+            ]
           }
         },
         "hsl": {
@@ -257,7 +278,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-color/#colorunits",
+              "https://drafts.csswg.org/css-color-3/#colorunits",
+              "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+            ]
           }
         },
         "alpha": {
@@ -309,7 +335,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-color/#colorunits",
+              "https://drafts.csswg.org/css-color-3/#colorunits",
+              "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+            ]
           }
         },
         "currentcolor": {
@@ -361,7 +392,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-color/#colorunits",
+              "https://drafts.csswg.org/css-color-3/#colorunits",
+              "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+            ]
           }
         },
         "transparent": {
@@ -413,7 +449,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-color/#colorunits",
+              "https://drafts.csswg.org/css-color-3/#colorunits",
+              "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+            ]
           }
         },
         "rebeccapurple": {

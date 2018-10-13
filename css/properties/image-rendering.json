@@ -49,7 +49,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-images-3/#the-image-rendering"
+          ]
         },
         "crisp-edges": {
           "__compat": {

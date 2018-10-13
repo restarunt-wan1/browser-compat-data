@@ -63,7 +63,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/mediacapture-main/#idl-def-MediaDeviceInfo"
+        ]
       },
       "deviceId": {
         "__compat": {
@@ -128,7 +131,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediadeviceinfo-deviceid"
+          ]
         }
       },
       "groupId": {
@@ -194,7 +200,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediadeviceinfo-groupid"
+          ]
         }
       },
       "kind": {
@@ -260,7 +269,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediadeviceinfo-kind"
+          ]
         }
       },
       "label": {
@@ -326,7 +338,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediadeviceinfo-label"
+          ]
         }
       },
       "toJSON": {

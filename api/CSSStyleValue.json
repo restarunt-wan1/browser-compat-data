@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.css-houdini.org/css-typed-om-1/#stylevalue-objects"
+        ]
       },
       "parse": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-cssstylevalue-parse"
+          ]
         }
       },
       "parseAll": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-cssstylevalue-parseall"
+          ]
         }
       }
     }

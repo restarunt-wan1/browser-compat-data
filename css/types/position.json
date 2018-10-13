@@ -50,7 +50,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-values-3/#position",
+            "https://drafts.csswg.org/css-backgrounds-3/#position",
+            "https://www.w3.org/TR/CSS2/colors.html#propdef-background-position"
+          ]
         },
         "keyword_value_syntax": {
           "__compat": {

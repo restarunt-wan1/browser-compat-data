@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-text-decor-3/#text-decoration-property",
+            "https://www.w3.org/TR/CSS2/text.html#lining-striking-props"
+          ]
         },
         "blink": {
           "__compat": {

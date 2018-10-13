@@ -57,7 +57,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/ambient-light/#ambient-light-sensor-interface"
+        ]
       },
       "AmbientLightSensor": {
         "__compat": {
@@ -117,7 +120,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ambient-light/#dom-ambientlightsensor-ambientlightsensor"
+          ]
         }
       },
       "illuminance": {
@@ -177,7 +183,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ambient-light/#ambient-light-sensor-reading-attribute"
+          ]
         }
       }
     }

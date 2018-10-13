@@ -45,7 +45,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/SVG11/#InterfaceSVGAnimatedString",
+          "https://svgwg.org/svg2-draft/types.html#InterfaceSVGAnimatedString"
+        ]
       },
       "animVal": {
         "__compat": {
@@ -92,7 +96,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/SVG11/#InterfaceSVGAnimatedString",
+            "https://svgwg.org/svg2-draft/types.html#InterfaceSVGAnimatedString"
+          ]
         }
       },
       "baseVal": {
@@ -140,7 +148,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/SVG11/#InterfaceSVGAnimatedString",
+            "https://svgwg.org/svg2-draft/types.html#InterfaceSVGAnimatedString"
+          ]
         }
       }
     }

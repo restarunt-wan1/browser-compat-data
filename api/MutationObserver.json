@@ -83,7 +83,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#mutationobserver"
+        ]
       },
       "MutationObserver": {
         "__compat": {
@@ -169,7 +172,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserver-mutationobserver"
+          ]
         }
       },
       "observe": {
@@ -220,7 +226,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserver-observe"
+          ]
         }
       },
       "disconnect": {
@@ -271,7 +280,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserver-disconnect"
+          ]
         }
       },
       "takeRecords": {
@@ -322,7 +334,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserver-takerecords"
+          ]
         }
       }
     }

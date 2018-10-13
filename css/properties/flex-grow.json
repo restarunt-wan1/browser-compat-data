@@ -123,7 +123,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-flexbox-1/#flex-grow-property"
+          ]
         },
         "less_than_zero_animate": {
           "__compat": {

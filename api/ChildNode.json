@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-childnode"
+        ]
       },
       "after": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-childnode-after"
+          ]
         }
       },
       "before": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-childnode-before"
+          ]
         }
       },
       "remove": {
@@ -200,7 +209,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-childnode-remove"
+          ]
         }
       },
       "replaceWith": {
@@ -251,7 +263,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-childnode-replacewith"
+          ]
         }
       }
     }

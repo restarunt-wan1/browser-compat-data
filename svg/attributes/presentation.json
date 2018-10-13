@@ -143,7 +143,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.fxtf.org/css-masking-1/#clip-property",
+              "https://www.w3.org/TR/SVG11/masking.html#ClipProperty"
+            ]
           }
         },
         "clip-path": {
@@ -191,7 +195,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.fxtf.org/css-masking-1/#the-clip-path",
+              "https://www.w3.org/TR/SVG11/masking.html#ClipPathProperty"
+            ]
           }
         },
         "clip-rule": {
@@ -335,7 +343,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#ColorInterpolation",
+              "https://www.w3.org/TR/SVG11/painting.html#ColorInterpolationProperty"
+            ]
           }
         },
         "color-interpolation-filters": {
@@ -767,7 +779,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/specs/animations/#FillAttribute",
+              "https://svgwg.org/svg2-draft/painting.html#FillProperty",
+              "https://www.w3.org/TR/SVG11/animate.html#FillAttribute",
+              "https://www.w3.org/TR/SVG11/painting.html#FillProperty"
+            ]
           }
         },
         "fill-opacity": {
@@ -815,7 +833,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#FillOpacityProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#FillOpacityProperty"
+            ]
           }
         },
         "fill-rule": {
@@ -863,7 +885,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#FillRuleProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#FillRuleProperty"
+            ]
           }
         },
         "filter": {
@@ -1823,7 +1849,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.fxtf.org/css-masking-1/#the-mask",
+              "https://www.w3.org/TR/SVG11/masking.html#MaskProperty"
+            ]
           }
         },
         "opacity": {
@@ -2015,7 +2045,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/interact.html#PointerEventsProperty",
+              "https://www.w3.org/TR/SVG11/interact.html#PointerEventsProperty"
+            ]
           }
         },
         "shape-rendering": {
@@ -2303,7 +2337,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeProperty"
+            ]
           }
         },
         "stroke-dasharray": {
@@ -2351,7 +2389,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeDasharrayProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeDasharrayProperty"
+            ]
           }
         },
         "stroke-dashoffset": {
@@ -2399,7 +2441,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeDashoffsetProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeDashoffsetProperty"
+            ]
           }
         },
         "stroke-linecap": {
@@ -2447,7 +2493,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeLinecapProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeLinecapProperty"
+            ]
           }
         },
         "stroke-linejoin": {
@@ -2495,7 +2545,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeLinejoinProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeLinejoinProperty"
+            ]
           }
         },
         "stroke-miterlimit": {
@@ -2543,7 +2597,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeMiterlimitProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeMiterlimitProperty"
+            ]
           }
         },
         "stroke-opacity": {
@@ -2591,7 +2649,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeOpacityProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeOpacityProperty"
+            ]
           }
         },
         "stroke-width": {
@@ -2639,7 +2701,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://svgwg.org/svg2-draft/painting.html#StrokeWidthProperty",
+              "https://www.w3.org/TR/SVG11/painting.html#StrokeWidthProperty"
+            ]
           }
         },
         "text-anchor": {
@@ -2879,7 +2945,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-transforms-2/#svg-transform",
+              "https://drafts.csswg.org/css-transforms/#svg-transform",
+              "https://svgwg.org/svg2-draft/coords.html#TransformProperty",
+              "https://www.w3.org/TR/SVG11/coords.html#TransformAttribute"
+            ]
           }
         },
         "unicode-bidi": {

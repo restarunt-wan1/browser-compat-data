@@ -84,7 +84,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/IndexedDB/#idl-def-IDBFactory",
+          "https://w3c.github.io/IndexedDB/#factory-interface"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -207,7 +211,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBFactory-cmp-short-any-first-any-second",
+            "https://w3c.github.io/IndexedDB/#dom-idbfactory-cmp"
+          ]
         }
       },
       "deleteDatabase": {
@@ -280,7 +288,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IndexedDB/#dom-idbfactory-deletedatabase",
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBFactory-deleteDatabase-IDBOpenDBRequest-DOMString-name"
+          ]
         }
       },
       "open": {
@@ -353,7 +365,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBFactory-open-IDBOpenDBRequest-DOMString-name-unsigned-long-long-version",
+            "https://w3c.github.io/IndexedDB/#dom-idbfactory-open"
+          ]
         }
       }
     }

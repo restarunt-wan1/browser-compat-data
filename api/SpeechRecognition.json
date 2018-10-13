@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/speech-api/#speechreco-section"
+        ]
       },
       "SpeechRecognition": {
         "__compat": {
@@ -101,7 +104,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#speechreco-section"
+          ]
         }
       },
       "abort": {
@@ -155,7 +161,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-abort"
+          ]
         }
       },
       "continuous": {
@@ -209,7 +218,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-continuous"
+          ]
         }
       },
       "grammars": {
@@ -263,7 +275,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-grammars"
+          ]
         }
       },
       "interimResults": {
@@ -317,7 +332,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-interimresults"
+          ]
         }
       },
       "lang": {
@@ -371,7 +389,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-lang"
+          ]
         }
       },
       "maxAlternatives": {
@@ -425,7 +446,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-maxalternatives"
+          ]
         }
       },
       "onaudioend": {
@@ -479,7 +503,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onaudioend"
+          ]
         }
       },
       "onaudiostart": {
@@ -533,7 +560,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onaudiostart"
+          ]
         }
       },
       "onend": {
@@ -587,7 +617,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onend"
+          ]
         }
       },
       "onerror": {
@@ -641,7 +674,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onerror"
+          ]
         }
       },
       "onnomatch": {
@@ -695,7 +731,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onnomatch"
+          ]
         }
       },
       "onresult": {
@@ -749,7 +788,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onresult"
+          ]
         }
       },
       "onsoundend": {
@@ -803,7 +845,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onsoundend"
+          ]
         }
       },
       "onsoundstart": {
@@ -857,7 +902,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onsoundstart"
+          ]
         }
       },
       "onspeechend": {
@@ -911,7 +959,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onspeechend"
+          ]
         }
       },
       "onspeechstart": {
@@ -965,7 +1016,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onspeechstart"
+          ]
         }
       },
       "onstart": {
@@ -1019,7 +1073,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-onstart"
+          ]
         }
       },
       "serviceURI": {
@@ -1073,7 +1130,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-serviceuri"
+          ]
         }
       },
       "start": {
@@ -1127,7 +1187,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-start"
+          ]
         }
       },
       "stop": {
@@ -1181,7 +1244,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-stop"
+          ]
         }
       }
     }

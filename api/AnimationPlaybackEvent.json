@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/web-animations/#the-animationplaybackevent-interface"
+        ]
       },
       "AnimationPlaybackEvent": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animationplaybackevent-animationplaybackevent"
+          ]
         }
       },
       "currentTime": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animationplaybackevent-currenttime"
+          ]
         }
       },
       "timelineTime": {
@@ -200,7 +209,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animationplaybackevent-timelinetime"
+          ]
         }
       }
     }

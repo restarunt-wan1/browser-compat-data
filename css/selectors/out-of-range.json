@@ -50,7 +50,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#selector-out-of-range",
+            "https://drafts.csswg.org/selectors-4/#out-of-range-pseudo"
+          ]
         }
       }
     }

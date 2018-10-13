@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-abortcontroller"
+        ]
       },
       "AbortController": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-abortcontroller-abortcontroller"
+          ]
         }
       },
       "signal": {
@@ -150,7 +156,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-abortcontroller-signal"
+          ]
         }
       },
       "abort": {
@@ -201,7 +210,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-abortcontroller-abort"
+          ]
         }
       }
     }

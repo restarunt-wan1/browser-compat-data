@@ -50,7 +50,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#selector-link",
+            "https://drafts.csswg.org/selectors-4/#link",
+            "https://drafts.csswg.org/selectors-3/#link",
+            "https://www.w3.org/TR/CSS2/selector.html#link-pseudo-classes"
+          ]
         }
       }
     }

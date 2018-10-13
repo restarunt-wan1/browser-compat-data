@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/hr-time/#dom-performance-timeorigin",
+          "https://www.w3.org/TR/hr-time-2/#the-performance-interface",
+          "https://www.w3.org/TR/hr-time-1/#the-performance-interface",
+          "https://w3c.github.io/performance-timeline/#extensions-to-the-performance-interface",
+          "https://www.w3.org/TR/performance-timeline/#sec-window.performance-attribute",
+          "https://www.w3.org/TR/resource-timing-1/#extensions-performance-interface",
+          "https://w3c.github.io/user-timing/#extensions-performance-interface",
+          "https://www.w3.org/TR/user-timing/#extensions-performance-interface"
+        ]
       },
       "clearMarks": {
         "__compat": {
@@ -92,7 +102,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/user-timing/#dom-performance-clearmarks",
+            "https://www.w3.org/TR/user-timing/#dom-performance-clearmarks"
+          ]
         }
       },
       "clearMeasures": {
@@ -140,7 +154,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/user-timing/#dom-performance-clearmeasures",
+            "https://www.w3.org/TR/user-timing/#dom-performance-clearmeasures"
+          ]
         }
       },
       "clearResourceTimings": {
@@ -209,7 +227,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#dom-performance-clearresourcetimings"
+          ]
         }
       },
       "getEntries": {
@@ -257,7 +278,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/performance-timeline/#dom-performance-getentries",
+            "https://www.w3.org/TR/performance-timeline/#dom-performance-getentries"
+          ]
         }
       },
       "getEntriesByName": {
@@ -305,7 +330,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/performance-timeline/#dom-performance-getentriesbyname",
+            "https://www.w3.org/TR/performance-timeline/#dom-performance-getentriesbyname"
+          ]
         }
       },
       "getEntriesByType": {
@@ -353,7 +382,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/performance-timeline/#dom-performance-getentriesbytype",
+            "https://www.w3.org/TR/performance-timeline/#dom-performance-getentriesbytype"
+          ]
         }
       },
       "mark": {
@@ -401,7 +434,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/user-timing/#dom-performance-mark",
+            "https://www.w3.org/TR/user-timing/#dom-performance-mark"
+          ]
         }
       },
       "measure": {
@@ -449,7 +486,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/user-timing/#dom-performance-measure",
+            "https://www.w3.org/TR/user-timing/#dom-performance-measure"
+          ]
         }
       },
       "memory": {
@@ -601,7 +642,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/hr-time-2/#dom-performance-now",
+            "https://www.w3.org/TR/hr-time-1/#dom-performance-now"
+          ]
         }
       },
       "onresourcetimingbufferfull": {
@@ -664,7 +709,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#dom-performance-onresourcetimingbufferfull"
+          ]
         }
       },
       "setResourceTimingBufferSize": {
@@ -733,7 +781,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#dom-performance-setresourcetimingbuffersize"
+          ]
         }
       },
       "timeOrigin": {
@@ -775,7 +826,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/hr-time/#dom-performance-timeorigin"
+          ]
         }
       },
       "timing": {
@@ -871,7 +925,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/hr-time-2/#the-performance-interface"
+          ]
         }
       }
     }

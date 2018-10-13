@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-error-objects"
+          ]
         },
         "prototype": {
           "__compat": {
@@ -105,7 +108,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-error.prototype"
+            ]
           }
         },
         "columnNumber": {
@@ -321,7 +327,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-error.prototype.message"
+            ]
           }
         },
         "name": {
@@ -375,7 +384,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-error.prototype.name"
+            ]
           }
         },
         "stack": {
@@ -537,7 +549,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-error.prototype.tostring"
+            ]
           }
         }
       }

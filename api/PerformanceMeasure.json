@@ -48,7 +48,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/user-timing/#dom-performance-measure",
+          "https://www.w3.org/TR/user-timing/#performancemeasure"
+        ]
       }
     }
   }

@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/resource-timing-1/#performanceresourcetiming"
+        ]
       },
       "connectEnd": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-connectEnd"
+          ]
         }
       },
       "connectStart": {
@@ -149,7 +155,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-connectStart"
+          ]
         }
       },
       "decodedBodySize": {
@@ -200,7 +209,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-decodedBodySize"
+          ]
         }
       },
       "domainLookupEnd": {
@@ -251,7 +263,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-domainLookupEnd"
+          ]
         }
       },
       "domainLookupStart": {
@@ -302,7 +317,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-domainLookupStart"
+          ]
         }
       },
       "encodedBodySize": {
@@ -353,7 +371,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-encodedBodySize"
+          ]
         }
       },
       "fetchStart": {
@@ -404,7 +425,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-fetchStart"
+          ]
         }
       },
       "initiatorType": {
@@ -455,7 +479,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-initiatorType"
+          ]
         }
       },
       "nextHopProtocol": {
@@ -506,7 +533,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-nextHopProtocol"
+          ]
         }
       },
       "redirectEnd": {
@@ -557,7 +587,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-redirectEnd"
+          ]
         }
       },
       "redirectStart": {
@@ -608,7 +641,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-redirectStart"
+          ]
         }
       },
       "requestStart": {
@@ -659,7 +695,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-requestStart"
+          ]
         }
       },
       "responseEnd": {
@@ -710,7 +749,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-responseEnd"
+          ]
         }
       },
       "responseStart": {
@@ -761,7 +803,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-responseStart"
+          ]
         }
       },
       "secureConnectionStart": {
@@ -812,7 +857,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-secureConnectionStart"
+          ]
         }
       },
       "serverTiming": {
@@ -863,7 +911,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/server-timing/#-dfn-servertiming-dfn-attribute"
+          ]
         }
       },
       "transferSize": {
@@ -914,7 +965,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-transferSize"
+          ]
         }
       },
       "workerStart": {
@@ -965,7 +1019,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#widl-PerformanceResourceTiming-workerStart"
+          ]
         }
       },
       "toJSON": {
@@ -1016,7 +1073,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/resource-timing-1/#serializer"
+          ]
         }
       },
       "worker_support": {

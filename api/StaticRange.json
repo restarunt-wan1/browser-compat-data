@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-staticrange"
+        ]
       },
       "StaticRange": {
         "__compat": {
@@ -150,7 +153,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-startcontainer"
+          ]
         }
       },
       "startOffset": {
@@ -201,7 +207,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-startoffset"
+          ]
         }
       },
       "endContainer": {
@@ -252,7 +261,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-endcontainer"
+          ]
         }
       },
       "endOffset": {
@@ -303,7 +315,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-endoffset"
+          ]
         }
       },
       "collapsed": {
@@ -354,7 +369,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-range-collapsed"
+          ]
         }
       },
       "toRange": {

@@ -58,7 +58,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/speech-api/#speechsynthesisvoice"
+        ]
       },
       "default": {
         "__compat": {
@@ -118,7 +121,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-voicedefault"
+          ]
         }
       },
       "lang": {
@@ -179,7 +185,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-voicelang"
+          ]
         }
       },
       "localService": {
@@ -240,7 +249,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-voicelocalservice"
+          ]
         }
       },
       "name": {
@@ -301,7 +313,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-voicename"
+          ]
         }
       },
       "voiceURI": {
@@ -362,7 +377,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-voicevoiceuri"
+          ]
         }
       }
     }

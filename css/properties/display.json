@@ -49,7 +49,14 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-display/#the-display-properties",
+            "https://drafts.csswg.org/css-ruby/#ruby-display",
+            "https://drafts.csswg.org/css-grid/#grid-containers",
+            "https://drafts.csswg.org/css-flexbox-1/#flex-containers",
+            "https://www.w3.org/TR/CSS2/visuren.html#display-prop"
+          ]
         },
         "multi-keyword_values": {
           "__compat": {

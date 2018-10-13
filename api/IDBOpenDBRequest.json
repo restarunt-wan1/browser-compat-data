@@ -84,7 +84,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/IndexedDB/#idl-def-IDBOpenDBRequest",
+          "https://w3c.github.io/IndexedDB/#idbopendbrequest"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -221,7 +225,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBOpenDBRequest-onblocked",
+            "https://w3c.github.io/IndexedDB/#dom-idbopendbrequest-onblocked"
+          ]
         }
       },
       "onupgradeneeded": {
@@ -308,7 +316,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBOpenDBRequest-onupgradeneeded",
+            "https://w3c.github.io/IndexedDB/#dom-idbopendbrequest-onupgradeneeded"
+          ]
         }
       }
     }

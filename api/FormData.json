@@ -50,7 +50,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://xhr.spec.whatwg.org/#interface-formdata"
+        ]
       },
       "FormData": {
         "__compat": {
@@ -101,7 +104,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata"
+          ]
         }
       },
       "append": {
@@ -156,7 +162,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata-append"
+          ]
         },
         "AppendWithFilename": {
           "__compat": {
@@ -207,7 +216,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://xhr.spec.whatwg.org/#dom-formdata-append"
+            ]
           }
         }
       },
@@ -259,7 +271,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata-delete"
+          ]
         }
       },
       "get": {
@@ -310,7 +325,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata-get"
+          ]
         }
       },
       "getAll": {
@@ -361,7 +379,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata-getall"
+          ]
         }
       },
       "has": {
@@ -412,7 +433,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata-has"
+          ]
         }
       },
       "set": {
@@ -463,7 +487,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata-set"
+          ]
         }
       },
       "entries": {
@@ -514,7 +541,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata"
+          ]
         }
       },
       "keys": {
@@ -565,7 +595,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata"
+          ]
         }
       },
       "values": {
@@ -616,7 +649,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-formdata"
+          ]
         }
       },
       "SupportForOf": {
@@ -668,7 +704,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#interface-formdata"
+          ]
         }
       },
       "worker_support": {
@@ -720,7 +759,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#interface-formdata"
+          ]
         }
       }
     }

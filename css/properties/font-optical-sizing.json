@@ -75,7 +75,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-fonts-4/#font-optical-sizing-def"
+          ]
         }
       }
     }

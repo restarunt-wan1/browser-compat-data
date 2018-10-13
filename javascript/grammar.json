@@ -53,7 +53,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "binary_numeric_literals": {
@@ -119,7 +122,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "boolean_literals": {
@@ -174,7 +180,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "decimal_numeric_literals": {
@@ -229,7 +238,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "hexadecimal_escape_sequences": {
@@ -284,7 +296,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "hexadecimal_numeric_literals": {
@@ -339,7 +354,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "null_literal": {
@@ -394,7 +412,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "octal_numeric_literals": {
@@ -449,7 +470,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "regular_expression_literals": {
@@ -504,7 +528,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "string_literals": {
@@ -559,7 +586,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "unicode_escape_sequences": {
@@ -614,7 +644,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "unicode_point_escapes": {
@@ -669,7 +702,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+          ]
         }
       },
       "shorthand_object_literals": {
@@ -778,7 +814,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-template-literals"
+          ]
         },
         "template_literal_revision": {
           "__compat": {

@@ -63,7 +63,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-weakmap-objects"
+          ]
         },
         "weakmap_iterable": {
           "__compat": {
@@ -365,7 +368,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakmap.prototype.delete"
+            ]
           }
         },
         "get": {
@@ -432,7 +438,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakmap.prototype.get"
+            ]
           }
         },
         "has": {
@@ -499,7 +508,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakmap.prototype.has"
+            ]
           }
         },
         "prototype": {
@@ -564,7 +576,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakmap.prototype"
+            ]
           }
         },
         "set": {
@@ -633,7 +648,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakmap.prototype.set"
+            ]
           }
         }
       }

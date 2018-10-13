@@ -46,7 +46,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/svg2-draft/pservers.html#LinearGradientElement",
+            "https://www.w3.org/TR/SVG11/pservers.html#LinearGradients"
+          ]
         },
         "gradientTransform": {
           "__compat": {

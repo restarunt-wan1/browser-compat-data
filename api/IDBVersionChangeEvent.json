@@ -62,7 +62,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/IndexedDB/#idl-def-IDBVersionChangeEvent",
+          "https://w3c.github.io/IndexedDB/#idbversionchangeevent"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -199,7 +203,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBVersionChangeEvent-newVersion",
+            "https://w3c.github.io/IndexedDB/#dom-idbversionchangeevent-newversion"
+          ]
         }
       },
       "oldVersion": {
@@ -286,7 +294,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBVersionChangeEvent-oldVersion",
+            "https://w3c.github.io/IndexedDB/#dom-idbversionchangeevent-oldversion"
+          ]
         }
       },
       "version": {

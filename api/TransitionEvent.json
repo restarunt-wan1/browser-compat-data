@@ -45,7 +45,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/css-transitions/#Events-TransitionEvent"
+        ]
       },
       "TransitionEvent": {
         "__compat": {
@@ -93,7 +96,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-transitions/#Events-TransitionEvent"
+          ]
         }
       },
       "animationName": {
@@ -141,7 +147,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-transitions/#Events-TransitionEvent-propertyName"
+          ]
         }
       },
       "propertyName": {
@@ -237,7 +246,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-transitions/#Events-TransitionEvent-elapsedTime"
+          ]
         }
       },
       "pseudoElement": {
@@ -285,7 +297,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-transitions/#Events-TransitionEvent-pseudoElement"
+          ]
         }
       },
       "initTransitionEvent": {

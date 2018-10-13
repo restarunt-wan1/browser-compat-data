@@ -95,7 +95,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-intersectionobserver"
+          ]
         }
       },
       "root": {
@@ -144,7 +147,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-root"
+          ]
         }
       },
       "rootMargin": {
@@ -193,7 +199,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-rootMargin"
+          ]
         }
       },
       "thresholds": {
@@ -242,7 +251,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-thresholds"
+          ]
         }
       },
       "disconnect": {
@@ -292,7 +304,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-disconnect"
+          ]
         }
       },
       "observe": {
@@ -341,7 +356,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-observe"
+          ]
         }
       },
       "takeRecords": {
@@ -391,7 +409,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-takeRecords"
+          ]
         }
       },
       "unobserve": {
@@ -441,7 +462,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserver-unobserve"
+          ]
         }
       }
     }

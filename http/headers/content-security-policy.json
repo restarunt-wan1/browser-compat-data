@@ -208,7 +208,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-base-uri",
+              "https://w3c.github.io/webappsec-csp/2/#directive-base-uri"
+            ]
           }
         },
         "block-all-mixed-content": {
@@ -259,7 +263,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-mixed-content/#block-all-mixed-content"
+            ]
           }
         },
         "child-src": {
@@ -362,7 +369,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-connect-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-connect-src"
+            ]
           }
         },
         "default-src": {
@@ -413,7 +424,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-default-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-default-src"
+            ]
           }
         },
         "disown-opener": {
@@ -514,7 +529,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-font-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-font-src"
+            ]
           }
         },
         "form-action": {
@@ -565,7 +584,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-form-action",
+              "https://w3c.github.io/webappsec-csp/2/#directive-form-action"
+            ]
           }
         },
         "frame-ancestors": {
@@ -618,7 +641,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-frame-ancestors",
+              "https://w3c.github.io/webappsec-csp/2/#directive-frame-ancestors"
+            ]
           }
         },
         "frame-src": {
@@ -669,7 +696,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-frame-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-frame-src"
+            ]
           }
         },
         "img-src": {
@@ -720,7 +751,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-img-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-img-src"
+            ]
           }
         },
         "manifest-src": {
@@ -771,7 +806,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-manifest-src"
+            ]
           }
         },
         "media-src": {
@@ -822,7 +860,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-media-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-media-src"
+            ]
           }
         },
         "navigate-to": {
@@ -923,7 +965,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-object-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-object-src"
+            ]
           }
         },
         "plugin-types": {
@@ -975,7 +1021,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-plugin-types",
+              "https://w3c.github.io/webappsec-csp/2/#directive-plugin-types"
+            ]
           }
         },
         "referrer": {
@@ -1249,7 +1299,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec/specs/subresourceintegrity/#opt-in-require-sri-for"
+            ]
           }
         },
         "sandbox": {
@@ -1300,7 +1353,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-sandbox",
+              "https://w3c.github.io/webappsec-csp/2/#directive-sandbox"
+            ]
           }
         },
         "script-src": {
@@ -1351,7 +1408,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-script-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-script-src"
+            ]
           },
           "external_scripts": {
             "__compat": {
@@ -1503,7 +1564,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-style-src",
+              "https://w3c.github.io/webappsec-csp/2/#directive-style-src"
+            ]
           }
         },
         "upgrade-insecure-requests": {
@@ -1555,7 +1620,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-upgrade-insecure-requests/#delivery"
+            ]
           }
         },
         "worker-src": {
@@ -1609,7 +1677,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/webappsec-csp/#directive-worker-src"
+            ]
           }
         }
       }

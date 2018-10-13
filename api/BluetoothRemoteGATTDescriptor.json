@@ -81,7 +81,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://webbluetoothcg.github.io/web-bluetooth/#bluetoothremotegattdescriptor"
+        ]
       },
       "characteristic": {
         "__compat": {
@@ -164,7 +167,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothremotegattdescriptor-characteristic"
+          ]
         }
       },
       "uuid": {
@@ -248,7 +254,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothremotegattdescriptor-uuid"
+          ]
         }
       },
       "value": {
@@ -332,7 +341,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothremotegattdescriptor-value"
+          ]
         }
       },
       "readValue": {
@@ -416,7 +428,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothremotegattdescriptor-readvalue"
+          ]
         }
       },
       "writeValue": {
@@ -500,7 +515,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothremotegattdescriptor-writevalue"
+          ]
         }
       }
     }

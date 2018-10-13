@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-nodefilter"
+        ]
       },
       "acceptNode": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#nodeFilter"
+          ]
         }
       }
     }

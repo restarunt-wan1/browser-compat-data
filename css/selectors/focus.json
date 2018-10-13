@@ -50,7 +50,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#selector-focus",
+            "https://drafts.csswg.org/selectors-4/#focus-pseudo",
+            "https://drafts.csswg.org/selectors-3/#the-user-action-pseudo-classes-hover-act",
+            "https://www.w3.org/TR/CSS2/selector.html#dynamic-pseudo-classes"
+          ]
         }
       }
     }

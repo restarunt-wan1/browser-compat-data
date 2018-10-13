@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-nodelist"
+        ]
       },
       "length": {
         "__compat": {
@@ -149,7 +152,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-nodelist"
+          ]
         }
       },
       "forEach": {
@@ -200,7 +206,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-nodelist",
+            "https://heycam.github.io/webidl/#es-forEach"
+          ]
         }
       },
       "item": {
@@ -302,7 +312,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-nodelist"
+          ]
         }
       },
       "values": {
@@ -353,7 +366,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-nodelist"
+          ]
         }
       }
     }

@@ -51,7 +51,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-sizing-3/#width-height-keywords",
+            "https://drafts.csswg.org/css-transitions/#animatable-css",
+            "https://www.w3.org/TR/CSS2/visudet.html#min-max-heights"
+          ]
         },
         "sizing_values": {
           "__compat": {

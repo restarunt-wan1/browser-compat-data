@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-value-properties-of-the-global-object-infinity"
+          ]
         }
       },
       "NaN": {
@@ -106,7 +109,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-value-properties-of-the-global-object-nan"
+          ]
         }
       },
       "decodeURI": {
@@ -160,7 +166,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-decodeuri-encodeduri"
+          ]
         }
       },
       "decodeURIComponent": {
@@ -214,7 +223,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-decodeuricomponent-encodeduricomponent"
+          ]
         }
       },
       "encodeURI": {
@@ -268,7 +280,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-encodeuri-uri"
+          ]
         }
       },
       "encodeURIComponent": {
@@ -322,7 +337,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-encodeuricomponent-uricomponent"
+          ]
         }
       },
       "escape": {
@@ -430,7 +448,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-eval-x"
+          ]
         }
       },
       "isFinite": {
@@ -484,7 +505,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-isfinite-number"
+          ]
         }
       },
       "isNaN": {
@@ -538,7 +562,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-isnan-number"
+          ]
         }
       },
       "null": {
@@ -592,7 +619,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-null-value"
+          ]
         }
       },
       "parseFloat": {
@@ -646,7 +676,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-parsefloat-string"
+          ]
         }
       },
       "parseInt": {
@@ -700,7 +733,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-parseint-string-radix"
+          ]
         },
         "leading_zero_strings_as_decimal": {
           "__compat": {
@@ -808,7 +844,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-undefined"
+          ]
         }
       },
       "unescape": {

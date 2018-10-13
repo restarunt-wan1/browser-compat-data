@@ -104,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-pseudo-4/#first-line-pseudo",
+            "https://drafts.csswg.org/css-text-decor-3/#text-shadow",
+            "https://drafts.csswg.org/selectors-3/#first-line",
+            "https://www.w3.org/TR/CSS2/selector.html#first-line-pseudo"
+          ]
         }
       }
     }

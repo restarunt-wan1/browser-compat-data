@@ -62,7 +62,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/presentation-api/#interface-presentationconnection"
+        ]
       },
       "binaryType": {
         "__compat": {
@@ -581,7 +584,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/presentation-api/#dom-presentationconnection-send"
+          ]
         }
       },
       "state": {
@@ -776,7 +782,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/presentation-api/#dom-presentationconnection-url"
+          ]
         }
       }
     }

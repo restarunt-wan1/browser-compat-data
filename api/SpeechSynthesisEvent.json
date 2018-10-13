@@ -58,7 +58,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/speech-api/#speechsynthesisevent"
+        ]
       },
       "charIndex": {
         "__compat": {
@@ -118,7 +121,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-callbackcharindex"
+          ]
         }
       },
       "elapsedTime": {
@@ -179,7 +185,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-callbackelapsedtime"
+          ]
         }
       },
       "name": {
@@ -240,7 +249,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-callbackname"
+          ]
         }
       },
       "utterance": {
@@ -301,7 +313,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-callbackutterance"
+          ]
         }
       }
     }

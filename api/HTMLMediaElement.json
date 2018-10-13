@@ -45,7 +45,12 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/the-video-element.html#htmlmediaelement",
+          "https://w3c.github.io/encrypted-media/#introduction",
+          "https://w3c.github.io/mediacapture-main/#htmlmediaelement-extensions"
+        ]
       },
       "addTextTrack": {
         "__compat": {
@@ -93,7 +98,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-audiotracks"
+          ]
         }
       },
       "autoplay": {
@@ -141,7 +149,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-autoplay"
+          ]
         }
       },
       "buffered": {
@@ -189,7 +200,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#media-elements"
+          ]
         }
       },
       "canPlayType": {
@@ -237,7 +251,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-navigator-canplaytype"
+          ]
         }
       },
       "captureStream": {
@@ -281,7 +298,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-fromelement/#widl-HTMLMediaElement-captureStream-MediaStream"
+          ]
         }
       },
       "controller": {
@@ -359,7 +379,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-controls"
+          ]
         }
       },
       "controlsList": {
@@ -441,7 +464,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#attr-media-crossorigin"
+          ]
         }
       },
       "currentSrc": {
@@ -489,7 +515,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-currentsrc"
+          ]
         }
       },
       "currentTime": {
@@ -537,7 +566,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-currenttime"
+          ]
         }
       },
       "defaultMuted": {
@@ -582,7 +614,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-defaultmuted"
+          ]
         }
       },
       "defaultPlaybackRate": {
@@ -618,7 +653,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-defaultplaybackrate"
+          ]
         }
       },
       "disableRemotePlayback": {
@@ -714,7 +752,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-duration"
+          ]
         }
       },
       "ended": {
@@ -762,7 +803,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-ended"
+          ]
         }
       },
       "error": {
@@ -810,7 +854,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-error"
+          ]
         }
       },
       "fastSeek": {
@@ -834,7 +881,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-fastseek"
+          ]
         }
       },
       "initialTime": {
@@ -908,7 +958,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/media.html#dom-media-load"
+          ]
         }
       },
       "loop": {
@@ -944,7 +997,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-loop"
+          ]
         }
       },
       "mediaGroup": {
@@ -1308,7 +1364,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-muted"
+          ]
         }
       },
       "networkState": {
@@ -1359,7 +1418,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-networkstate"
+          ]
         }
       },
       "onerror": {
@@ -1407,7 +1469,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onerror"
+          ]
         }
       },
       "onencrypted": {
@@ -1539,7 +1604,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-pause"
+          ]
         }
       },
       "paused": {
@@ -1587,7 +1655,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-paused"
+          ]
         }
       },
       "play": {
@@ -1635,7 +1706,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-play"
+          ]
         }
       },
       "playbackRate": {
@@ -1671,7 +1745,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-playbackrate"
+          ]
         }
       },
       "played": {
@@ -1841,7 +1918,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-readystate"
+          ]
         }
       },
       "seekToNextFrame": {
@@ -1915,7 +1995,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/the-video-element.html#dom-media-seekable",
+            "https://w3c.github.io/media-source/#htmlmediaelement-extensions"
+          ]
         }
       },
       "seeking": {
@@ -1974,7 +2058,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/encrypted-media/#dom-htmlmediaelement-setmediakeys"
+          ]
         }
       },
       "setSinkId": {
@@ -2001,7 +2088,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-output/#dom-htmlmediaelement-setsinkid"
+          ]
         }
       },
       "sinkId": {
@@ -2028,7 +2118,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-output/#dom-htmlmediaelement-sinkid"
+          ]
         }
       },
       "src": {
@@ -2076,7 +2169,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-src"
+          ]
         }
       },
       "srcObject": {
@@ -2147,7 +2243,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-srcobject"
+          ]
         }
       },
       "textTracks": {
@@ -2203,7 +2302,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-videotracks"
+          ]
         }
       },
       "volume": {
@@ -2251,7 +2353,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-media-volume"
+          ]
         }
       }
     }

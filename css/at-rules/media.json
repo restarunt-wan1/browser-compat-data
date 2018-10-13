@@ -50,7 +50,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-conditional-3/#at-media",
+            "https://drafts.csswg.org/mediaqueries-4/#media",
+            "https://drafts.csswg.org/mediaqueries-3/#media0",
+            "https://www.w3.org/TR/CSS2/media.html#at-media-rule"
+          ]
         },
         "speech_type": {
           "__compat": {
@@ -205,7 +211,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#descdef-media-any-hover"
+            ]
           }
         },
         "any-pointer": {
@@ -256,7 +265,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#descdef-media-any-pointer"
+            ]
           }
         },
         "aspect-ratio": {
@@ -308,7 +320,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#aspect-ratio",
+              "https://drafts.csswg.org/mediaqueries-3/#aspect-ratio"
+            ]
           }
         },
         "color": {
@@ -360,7 +376,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#color",
+              "https://drafts.csswg.org/mediaqueries-3/#color"
+            ]
           }
         },
         "color-gamut": {
@@ -412,7 +432,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#color-gamut"
+            ]
           }
         },
         "color-index": {
@@ -464,7 +487,11 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#color-index",
+              "https://drafts.csswg.org/mediaqueries-3/#color-index"
+            ]
           }
         },
         "device-aspect-ratio": {
@@ -620,7 +647,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#device-width",
+              "https://drafts.csswg.org/mediaqueries-3/#device-width"
+            ]
           }
         },
         "display-mode": {
@@ -674,7 +705,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://w3c.github.io/manifest/#the-display-mode-media-feature"
+            ]
           }
         },
         "grid": {
@@ -726,7 +760,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#grid",
+              "https://drafts.csswg.org/mediaqueries-3/#grid"
+            ]
           }
         },
         "height": {
@@ -778,7 +816,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#height",
+              "https://drafts.csswg.org/mediaqueries-3/#height"
+            ]
           }
         },
         "inverted-colors": {
@@ -830,7 +872,10 @@
               "experimental": true,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#inverted"
+            ]
           }
         },
         "hover": {
@@ -880,7 +925,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#hover"
+            ]
           }
         },
         "light-level": {
@@ -984,7 +1032,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#monochrome",
+              "https://drafts.csswg.org/mediaqueries-3/#monochrome"
+            ]
           }
         },
         "orientation": {
@@ -1036,7 +1088,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#orientation",
+              "https://drafts.csswg.org/mediaqueries-3/#orientation"
+            ]
           }
         },
         "overflow-block": {
@@ -1090,7 +1146,10 @@
               "experimental": true,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#mf-overflow-block"
+            ]
           }
         },
         "overflow-inline": {
@@ -1144,7 +1203,10 @@
               "experimental": true,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#mf-overflow-inline"
+            ]
           }
         },
         "pointer": {
@@ -1193,7 +1255,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#pointer"
+            ]
           }
         },
         "prefers-reduced-motion": {
@@ -1301,7 +1366,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-3/#resolution"
+            ]
           }
         },
         "scan": {
@@ -1353,7 +1421,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#scan",
+              "https://drafts.csswg.org/mediaqueries-3/#scan"
+            ]
           }
         },
         "scripting": {
@@ -1420,7 +1492,10 @@
               "experimental": true,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#scripting"
+            ]
           }
         },
         "update": {
@@ -1472,7 +1547,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#update"
+            ]
           }
         },
         "width": {
@@ -1524,7 +1602,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/mediaqueries-4/#width",
+              "https://drafts.csswg.org/mediaqueries-3/#width"
+            ]
           }
         },
         "-moz-device-pixel-ratio": {
@@ -1710,7 +1792,10 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://compat.spec.whatwg.org/#css-media-queries-webkit-device-pixel-ratio"
+            ]
           }
         },
         "-webkit-max-device-pixel-ratio": {
@@ -1792,7 +1877,10 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://compat.spec.whatwg.org/#css-media-queries-webkit-device-pixel-ratio"
+            ]
           }
         },
         "-webkit-min-device-pixel-ratio": {
@@ -1880,7 +1968,10 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://compat.spec.whatwg.org/#css-media-queries-webkit-device-pixel-ratio"
+            ]
           }
         },
         "-webkit-transform-2d": {
@@ -1996,7 +2087,10 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://compat.spec.whatwg.org/#css-media-queries-webkit-transform-3d"
+            ]
           }
         },
         "-webkit-transition": {

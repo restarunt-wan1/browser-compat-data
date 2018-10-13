@@ -81,7 +81,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://webbluetoothcg.github.io/web-bluetooth/#bluetoothremotegattserver"
+        ]
       },
       "connect": {
         "__compat": {
@@ -164,7 +167,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothremotegattserver-connect"
+          ]
         }
       },
       "connected": {
@@ -248,7 +254,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattremoteserver-connected"
+          ]
         }
       },
       "device": {
@@ -332,7 +341,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattremoteserver-device"
+          ]
         }
       },
       "disconnect": {
@@ -416,7 +428,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattremoteserver-disconnect"
+          ]
         }
       },
       "getPrimaryService": {
@@ -500,7 +515,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattremoteserver-getprimaryservice"
+          ]
         }
       },
       "getPrimaryServices": {
@@ -584,7 +602,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattremoteserver-getprimaryservices"
+          ]
         }
       }
     }

@@ -39,7 +39,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/performance-timeline/#dom-performanceobserver"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -123,7 +126,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/performance-timeline/#idl-def-performanceobservercallback"
+          ]
         }
       },
       "disconnect": {
@@ -165,7 +171,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/performance-timeline/#dom-performanceobserver-disconnect"
+          ]
         }
       },
       "observe": {
@@ -207,7 +216,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/performance-timeline/#dom-performanceobserver-observe"
+          ]
         }
       },
       "takeRecords": {
@@ -249,7 +261,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/performance-timeline/#dom-performanceobserver-takerecords"
+          ]
         }
       }
     }

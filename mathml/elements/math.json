@@ -61,7 +61,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/MathML3/chapter2.html#interf.toplevel",
+            "https://www.w3.org/TR/MathML2/chapter7.html#interf.toplevel"
+          ]
         },
         "dir": {
           "__compat": {
@@ -108,7 +112,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://www.w3.org/TR/MathML3/chapter2.html#interf.toplevel",
+              "https://www.w3.org/TR/MathML2/chapter7.html#interf.toplevel"
+            ]
           }
         },
         "display": {
@@ -158,7 +166,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://www.w3.org/TR/MathML3/chapter2.html#interf.toplevel",
+              "https://www.w3.org/TR/MathML2/chapter7.html#interf.toplevel"
+            ]
           }
         },
         "href": {
@@ -208,7 +220,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://www.w3.org/TR/MathML3/chapter2.html#interf.toplevel",
+              "https://www.w3.org/TR/MathML2/chapter7.html#interf.toplevel"
+            ]
           }
         },
         "mathbackground": {
@@ -258,7 +274,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://www.w3.org/TR/MathML3/chapter2.html#interf.toplevel",
+              "https://www.w3.org/TR/MathML2/chapter7.html#interf.toplevel"
+            ]
           }
         },
         "mathcolor": {
@@ -308,7 +328,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://www.w3.org/TR/MathML3/chapter2.html#interf.toplevel",
+              "https://www.w3.org/TR/MathML2/chapter7.html#interf.toplevel"
+            ]
           }
         },
         "mode": {
@@ -406,7 +430,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://www.w3.org/TR/MathML3/chapter2.html#interf.toplevel",
+              "https://www.w3.org/TR/MathML2/chapter7.html#interf.toplevel"
+            ]
           }
         }
       }

@@ -150,7 +150,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-transitions/#transition-timing-function-property"
+          ]
         }
       }
     }

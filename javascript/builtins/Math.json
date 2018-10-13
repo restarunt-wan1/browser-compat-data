@@ -53,7 +53,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.e"
+            ]
           }
         },
         "LN2": {
@@ -107,7 +110,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.ln2"
+            ]
           }
         },
         "LN10": {
@@ -161,7 +167,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.ln10"
+            ]
           }
         },
         "LOG2E": {
@@ -215,7 +224,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.log2e"
+            ]
           }
         },
         "LOG10E": {
@@ -269,7 +281,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.log10e"
+            ]
           }
         },
         "PI": {
@@ -323,7 +338,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.pi"
+            ]
           }
         },
         "SQRT1_2": {
@@ -377,7 +395,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.sqrt1_2"
+            ]
           }
         },
         "SQRT2": {
@@ -431,7 +452,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.sqrt2"
+            ]
           }
         },
         "abs": {
@@ -485,7 +509,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.abs"
+            ]
           }
         },
         "acos": {
@@ -539,7 +566,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.acos"
+            ]
           }
         },
         "acosh": {
@@ -593,7 +623,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.acosh"
+            ]
           }
         },
         "asin": {
@@ -647,7 +680,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.asin"
+            ]
           }
         },
         "asinh": {
@@ -701,7 +737,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.asinh"
+            ]
           }
         },
         "atan": {
@@ -755,7 +794,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.atan"
+            ]
           }
         },
         "atan2": {
@@ -809,7 +851,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.atan2"
+            ]
           }
         },
         "atanh": {
@@ -863,7 +908,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.atanh"
+            ]
           }
         },
         "cbrt": {
@@ -917,7 +965,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.cbrt"
+            ]
           }
         },
         "ceil": {
@@ -971,7 +1022,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.ceil"
+            ]
           }
         },
         "clz32": {
@@ -1025,7 +1079,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.clz32"
+            ]
           }
         },
         "cos": {
@@ -1079,7 +1136,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.cos"
+            ]
           }
         },
         "cosh": {
@@ -1133,7 +1193,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.cosh"
+            ]
           }
         },
         "exp": {
@@ -1187,7 +1250,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.exp"
+            ]
           }
         },
         "expm1": {
@@ -1241,7 +1307,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.expm1"
+            ]
           }
         },
         "floor": {
@@ -1295,7 +1364,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.floor"
+            ]
           }
         },
         "fround": {
@@ -1349,7 +1421,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.fround"
+            ]
           }
         },
         "hypot": {
@@ -1403,7 +1478,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.hypot"
+            ]
           }
         },
         "imul": {
@@ -1457,7 +1535,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.imul"
+            ]
           }
         },
         "log": {
@@ -1511,7 +1592,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.log"
+            ]
           }
         },
         "log1p": {
@@ -1565,7 +1649,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.log1p"
+            ]
           }
         },
         "log2": {
@@ -1619,7 +1706,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.log2"
+            ]
           }
         },
         "log10": {
@@ -1673,7 +1763,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.log10"
+            ]
           }
         },
         "max": {
@@ -1727,7 +1820,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.max"
+            ]
           }
         },
         "min": {
@@ -1781,7 +1877,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.min"
+            ]
           }
         },
         "pow": {
@@ -1835,7 +1934,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.pow"
+            ]
           }
         },
         "random": {
@@ -1889,7 +1991,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.random"
+            ]
           }
         },
         "round": {
@@ -1943,7 +2048,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.round"
+            ]
           }
         },
         "sign": {
@@ -1997,7 +2105,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.sign"
+            ]
           }
         },
         "sin": {
@@ -2051,7 +2162,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.sin"
+            ]
           }
         },
         "sinh": {
@@ -2105,7 +2219,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.sinh"
+            ]
           }
         },
         "sqrt": {
@@ -2159,7 +2276,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.sqrt"
+            ]
           }
         },
         "tan": {
@@ -2213,7 +2333,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.tan"
+            ]
           }
         },
         "tanh": {
@@ -2267,7 +2390,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.tanh"
+            ]
           }
         },
         "trunc": {
@@ -2321,7 +2447,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-math.trunc"
+            ]
           }
         }
       }

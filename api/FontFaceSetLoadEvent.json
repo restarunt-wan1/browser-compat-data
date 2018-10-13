@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/css-font-loading/#dom-fontfacesetloadevent-fontfacesetloadevent"
+        ]
       },
       "FontFaceSetLoadEvent": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-font-loading/#fontfacesetloadevent"
+          ]
         }
       },
       "fontfaces": {
@@ -150,7 +156,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-font-loading/#dom-fontfacesetloadevent-fontfaces"
+          ]
         }
       }
     }

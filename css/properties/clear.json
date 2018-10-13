@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-logical/#float-clear",
+            "https://www.w3.org/TR/CSS2/visuren.html#flow-control"
+          ]
         },
         "flow_relative_values": {
           "__compat": {

@@ -461,7 +461,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webvtt/#dom-texttrack-mode"
+          ]
         }
       },
       "oncuechange": {

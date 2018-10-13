@@ -50,7 +50,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-4/#child-combinators",
+            "https://drafts.csswg.org/selectors-3/#child-combinators",
+            "https://www.w3.org/TR/CSS2/selector.html#child-selectors"
+          ]
         }
       }
     }

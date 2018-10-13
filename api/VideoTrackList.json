@@ -90,7 +90,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#videotracklist"
+        ]
       },
       "getTrackById": {
         "__compat": {
@@ -182,7 +185,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-videotracklist-gettrackbyid"
+          ]
         }
       },
       "length": {
@@ -275,7 +281,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-videotracklist-length"
+          ]
         }
       },
       "onaddtrack": {
@@ -368,7 +377,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#handler-tracklist-onaddtrack"
+          ]
         }
       },
       "onchange": {
@@ -461,7 +473,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#handler-tracklist-onchange"
+          ]
         }
       },
       "onremovetrack": {
@@ -554,7 +569,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#handler-tracklist-onremovetrack"
+          ]
         }
       },
       "selectedIndex": {
@@ -647,7 +665,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-videotracklist-selectedindex"
+          ]
         }
       }
     }

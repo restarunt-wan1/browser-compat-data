@@ -45,7 +45,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://streams.spec.whatwg.org/#byob-reader-class"
+        ]
       },
       "ReadableStreamBYOBReader": {
         "__compat": {
@@ -93,7 +96,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#byob-reader-constructor"
+          ]
         }
       },
       "closed": {
@@ -141,7 +147,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#byob-reader-closed"
+          ]
         }
       },
       "cancel": {
@@ -189,7 +198,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#byob-reader-cancel"
+          ]
         }
       },
       "read": {
@@ -237,7 +249,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#byob-reader-read"
+          ]
         }
       },
       "releaseLock": {
@@ -285,7 +300,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#byob-reader-release-lock"
+          ]
         }
       }
     }

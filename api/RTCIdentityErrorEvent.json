@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webrtc-pc/#idl-def-RTCIdentityErrorEvent"
+        ]
       },
       "idp": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCIdentityErrorEvent-idp"
+          ]
         }
       },
       "loginUrl": {
@@ -150,7 +156,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCIdentityErrorEvent-loginUrl"
+          ]
         }
       },
       "protocol": {
@@ -201,7 +210,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCIdentityErrorEvent-protocol"
+          ]
         }
       }
     }

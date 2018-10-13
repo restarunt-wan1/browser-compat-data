@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-weakset-objects"
+          ]
         },
         "weakset_iterable": {
           "__compat": {
@@ -213,7 +216,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakset.prototype.add"
+            ]
           }
         },
         "clear": {
@@ -328,7 +334,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakset.prototype.delete"
+            ]
           }
         },
         "has": {
@@ -382,7 +391,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakset.prototype.has"
+            ]
           }
         },
         "prototype": {
@@ -436,7 +448,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-weakset.prototype"
+            ]
           }
         }
       }

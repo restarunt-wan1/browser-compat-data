@@ -80,7 +80,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/pointerevents/#pointerevent-interface",
+          "https://www.w3.org/TR/pointerevents/#pointerevent-interface"
+        ]
       },
       "PointerEvent": {
         "__compat": {
@@ -163,7 +167,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#pointerevent-interface",
+            "https://www.w3.org/TR/pointerevents/#pointerevent-interface"
+          ]
         }
       },
       "pointerId": {
@@ -238,7 +246,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-PointerEvent-pointerId",
+            "https://www.w3.org/TR/pointerevents/#widl-PointerEvent-pointerId"
+          ]
         }
       },
       "width": {
@@ -320,7 +332,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-PointerEvent-width",
+            "https://www.w3.org/TR/pointerevents/#widl-PointerEvent-width"
+          ]
         }
       },
       "height": {
@@ -402,7 +418,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-PointerEvent-height",
+            "https://www.w3.org/TR/pointerevents/#widl-PointerEvent-height"
+          ]
         }
       },
       "pressure": {
@@ -484,7 +504,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-PointerEvent-pressure",
+            "https://www.w3.org/TR/pointerevents/#widl-PointerEvent-pressure"
+          ]
         }
       },
       "tangentialPressure": {
@@ -559,7 +583,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#dom-pointerevent-tangentialpressure"
+          ]
         }
       },
       "tiltX": {
@@ -634,7 +661,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-PointerEvent-tiltX",
+            "https://www.w3.org/TR/pointerevents/#widl-PointerEvent-tiltX"
+          ]
         }
       },
       "tiltY": {
@@ -709,7 +740,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-PointerEvent-tiltY",
+            "https://www.w3.org/TR/pointerevents/#widl-PointerEvent-tiltY"
+          ]
         }
       },
       "twist": {
@@ -784,7 +819,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#dom-pointerevent-twist"
+          ]
         }
       },
       "pointerType": {
@@ -866,7 +904,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/pointerevents/#widl-PointerEvent-pointerType",
+            "https://w3c.github.io/pointerevents/#widl-PointerEvent-pointerType",
+            "https://drafts.csswg.org/cssom-view/#extensions-to-the-mouseevent-interface"
+          ]
         }
       },
       "isPrimary": {
@@ -941,7 +984,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/#widl-PointerEvent-isPrimary",
+            "https://www.w3.org/TR/pointerevents/#widl-PointerEvent-isPrimary"
+          ]
         }
       },
       "getCoalescedEvents": {
@@ -992,7 +1039,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerevents/extension.html#dom-pointerevent-getcoalescedevents"
+          ]
         }
       }
     }

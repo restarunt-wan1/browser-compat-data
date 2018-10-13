@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": false,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://wicg.github.io/InputDeviceCapabilities/#dom-uievent-sourcecapabilities"
+        ]
       },
       "InputDeviceCapabilities": {
         "__compat": {
@@ -150,7 +153,10 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/InputDeviceCapabilities/#dom-inputdevicecapabilities-firestouchevents"
+          ]
         }
       }
     }

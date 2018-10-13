@@ -233,7 +233,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/proximity/#device-proximity"
+          ]
         }
       },
       "value": {
@@ -312,7 +315,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/proximity/#device-proximity"
+          ]
         }
       }
     }

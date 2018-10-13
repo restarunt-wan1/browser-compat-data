@@ -62,7 +62,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/mediacapture-fromelement/#the-canvascapturemediastreamtrack"
+        ]
       },
       "canvas": {
         "__compat": {
@@ -126,7 +129,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-fromelement/#dom-canvascapturemediastreamtrack-canvas"
+          ]
         }
       },
       "requestFrame": {
@@ -184,7 +190,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-fromelement/#widl-CanvasCaptureMediaStream-requestFrame-void"
+          ]
         }
       }
     }

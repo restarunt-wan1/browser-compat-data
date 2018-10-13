@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://fetch.spec.whatwg.org/#request-class"
+        ]
       },
       "Request": {
         "__compat": {
@@ -145,7 +148,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request"
+          ]
         },
         "reponse_body_readablestream": {
           "__compat": {
@@ -472,7 +478,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-cache"
+          ]
         },
         "only_if_cached": {
           "__compat": {
@@ -607,7 +616,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-clone"
+          ]
         }
       },
       "context": {
@@ -749,7 +761,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-credentials"
+          ]
         },
         "default_same-origin": {
           "__compat": {
@@ -851,7 +866,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-destination"
+          ]
         }
       },
       "headers": {
@@ -936,7 +954,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-headers"
+          ]
         }
       },
       "integrity": {
@@ -987,7 +1008,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-integrity"
+          ]
         }
       },
       "keepalive": {
@@ -1123,7 +1147,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-method"
+          ]
         }
       },
       "mode": {
@@ -1174,7 +1201,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-mode"
+          ]
         },
         "navigate_mode": {
           "__compat": {
@@ -1276,7 +1306,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-redirect"
+          ]
         }
       },
       "referrer": {
@@ -1349,7 +1382,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-referrer"
+          ]
         }
       },
       "referrerPolicy": {
@@ -1400,7 +1436,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-referrerpolicy"
+          ]
         }
       },
       "signal": {
@@ -1518,7 +1557,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-request-url"
+          ]
         }
       }
     }

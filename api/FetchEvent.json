@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/ServiceWorker/#fetch-event-section"
+        ]
       },
       "FetchEvent": {
         "__compat": {
@@ -101,7 +104,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#fetch-event-section"
+          ]
         }
       },
       "client": {
@@ -204,7 +210,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#fetch-event-clientid-attribute"
+          ]
         }
       },
       "isReload": {
@@ -256,7 +265,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#fetch-event-isreload-attribute"
+          ]
         }
       },
       "navigationPreload": {
@@ -307,7 +319,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-registration-navigationpreload"
+          ]
         }
       },
       "preloadResponse": {
@@ -408,7 +423,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#fetch-event-section"
+          ]
         }
       },
       "respondWith": {
@@ -469,7 +487,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#fetch-event-respondwith-method"
+          ]
         },
         "resource_url": {
           "__compat": {

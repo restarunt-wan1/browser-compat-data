@@ -48,7 +48,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute",
+          "https://html.spec.whatwg.org/multipage/#htmlanchorelement"
+        ]
       },
       "accessKey": {
         "__compat": {
@@ -149,7 +153,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/multipage/text-level-semantics.html#dom-a-download"
+          ]
         }
       },
       "hreflang": {
@@ -302,7 +309,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+          ]
         }
       },
       "rel": {
@@ -353,7 +363,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/semantics.html#dom-a-rel"
+          ]
         }
       },
       "relList": {
@@ -404,7 +417,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-a-rellist"
+          ]
         }
       },
       "tabindex": {

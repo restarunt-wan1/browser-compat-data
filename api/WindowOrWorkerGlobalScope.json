@@ -45,7 +45,14 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/webappapis.html#windoworworkerglobalscope-mixin",
+          "https://fetch.spec.whatwg.org/#fetch-method",
+          "https://w3c.github.io/ServiceWorker/#self-caches",
+          "https://w3c.github.io/IndexedDB/#dom-windoworworkerglobalscope-indexeddb",
+          "https://w3c.github.io/webappsec-secure-contexts/#dom-windoworworkerglobalscope-issecurecontext"
+        ]
       },
       "atob": {
         "__compat": {
@@ -112,7 +119,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-atob"
+          ]
         }
       },
       "btoa": {
@@ -172,7 +182,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-btoa"
+          ]
         }
       },
       "caches": {
@@ -232,7 +245,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#self-caches"
+          ]
         }
       },
       "clearInterval": {
@@ -292,7 +308,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-clearinterval",
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-clearinterval"
+          ]
         }
       },
       "clearTimeout": {
@@ -352,7 +372,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-cleartimeout",
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-cleartimeout"
+          ]
         }
       },
       "createImageBitmap": {
@@ -406,7 +430,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-createimagebitmap"
+          ]
         },
         "options_parameter": {
           "__compat": {
@@ -639,7 +666,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#fetch-method",
+            "https://fetch.spec.whatwg.org/#dom-global-fetch"
+          ]
         },
         "streaming_response_body": {
           "__compat": {
@@ -912,7 +943,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IndexedDB/#dom-windoworworkerglobalscope-indexeddb",
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBEnvironment-indexedDB"
+          ]
         },
         "worker_support": {
           "__compat": {
@@ -1008,7 +1043,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec-secure-contexts/#dom-windoworworkerglobalscope-issecurecontext"
+          ]
         }
       },
       "origin": {
@@ -1056,7 +1094,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-origin"
+          ]
         }
       },
       "setInterval": {
@@ -1116,7 +1157,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-setinterval",
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-setinterval"
+          ]
         },
         "supports_parameters_for_callback": {
           "__compat": {
@@ -1224,7 +1269,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-settimeout",
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-settimeout"
+          ]
         },
         "supports_parameters_for_callback": {
           "__compat": {

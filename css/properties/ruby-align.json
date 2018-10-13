@@ -51,7 +51,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-ruby/#ruby-align-property"
+          ]
         }
       }
     }

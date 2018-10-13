@@ -62,7 +62,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/payment-request/#paymentdetailsbase"
+        ]
       },
       "displayItems": {
         "__compat": {

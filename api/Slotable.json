@@ -106,7 +106,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#slotable"
+        ]
       },
       "assignedSlot": {
         "__compat": {

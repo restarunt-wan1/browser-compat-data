@@ -72,7 +72,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://streams.spec.whatwg.org/#rs-class"
+        ]
       },
       "ReadableStream": {
         "__compat": {
@@ -147,7 +150,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-constructor"
+          ]
         }
       },
       "locked": {
@@ -222,7 +228,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-locked"
+          ]
         }
       },
       "cancel": {
@@ -297,7 +306,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-cancel"
+          ]
         }
       },
       "getReader": {
@@ -372,7 +384,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-get-reader"
+          ]
         }
       },
       "pipeThrough": {
@@ -447,7 +462,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-pipe-through"
+          ]
         }
       },
       "pipeTo": {
@@ -522,7 +540,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-pipe-to"
+          ]
         }
       },
       "tee": {
@@ -597,7 +618,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-tee"
+          ]
         }
       }
     }

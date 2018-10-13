@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://webaudio.github.io/web-audio-api/#AudioContextOptions"
+        ]
       },
       "latencyHint": {
         "__compat": {
@@ -95,7 +98,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#dom-audiocontextoptions-latencyhint"
+          ]
         }
       },
       "sampleRate": {
@@ -147,7 +153,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#dom-audiocontextoptions-samplerate"
+          ]
         }
       }
     }

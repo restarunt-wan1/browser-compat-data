@@ -73,7 +73,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/media-source/#mediasource"
+        ]
       },
       "MediaSource": {
         "__compat": {
@@ -148,7 +151,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#mediasource"
+          ]
         }
       },
       "sourceBuffers": {
@@ -224,7 +230,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-MediaSource-sourceBuffers"
+          ]
         }
       },
       "activeSourceBuffers": {
@@ -300,7 +309,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-MediaSource-activeSourceBuffers"
+          ]
         }
       },
       "readyState": {
@@ -376,7 +388,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-MediaSource-readyState"
+          ]
         }
       },
       "duration": {
@@ -452,7 +467,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-MediaSource-duration"
+          ]
         }
       },
       "onsourceclose": {
@@ -735,7 +753,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-MediaSource-addSourceBuffer-SourceBuffer-DOMString-type"
+          ]
         }
       },
       "removeSourceBuffer": {
@@ -811,7 +832,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-MediaSource-removeSourceBuffer-void-SourceBuffer-sourceBuffer"
+          ]
         }
       },
       "endOfStream": {
@@ -887,7 +911,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-MediaSource-endOfStream-void-EndOfStreamError-error"
+          ]
         }
       },
       "setLiveSeekableRange": {
@@ -929,7 +956,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#dom-mediasource-setliveseekablerange"
+          ]
         }
       },
       "clearLiveSeekableRange": {
@@ -971,7 +1001,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#dom-mediasource-clearliveseekablerange"
+          ]
         }
       },
       "isTypeSupported": {
@@ -1047,7 +1080,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-MediaSource-isTypeSupported-boolean-DOMString-type"
+          ]
         }
       }
     }

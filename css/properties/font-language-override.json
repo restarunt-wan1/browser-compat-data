@@ -83,7 +83,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-fonts-3/#propdef-font-language-override"
+          ]
         }
       }
     }

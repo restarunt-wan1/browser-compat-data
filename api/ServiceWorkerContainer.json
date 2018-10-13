@@ -60,7 +60,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/ServiceWorker/#service-worker-container"
+        ]
       },
       "controller": {
         "__compat": {
@@ -122,7 +125,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#navigator-service-worker-controller"
+          ]
         }
       },
       "ready": {
@@ -185,7 +191,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#navigator-service-worker-ready"
+          ]
         }
       },
       "oncontrollerchange": {
@@ -248,7 +257,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-container-event-handlers"
+          ]
         }
       },
       "onerror": {
@@ -311,7 +323,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-container-event-handlers"
+          ]
         }
       },
       "onmessage": {
@@ -374,7 +389,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-container-event-handlers"
+          ]
         }
       },
       "register": {
@@ -437,7 +455,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-container"
+          ]
         }
       },
       "getRegistration": {
@@ -500,7 +521,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#service-worker-container"
+          ]
         }
       },
       "getRegistrations": {
@@ -563,7 +587,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#navigator-service-worker-getRegistrations"
+          ]
         }
       },
       "onmessageerror": {

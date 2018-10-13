@@ -46,7 +46,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/interaction.html#datatransfer"
+        ]
       },
       "DataTransfer": {
         "__compat": {
@@ -94,7 +97,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-datatransfer"
+          ]
         }
       },
       "addElement": {
@@ -196,7 +202,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-cleardata"
+          ]
         }
       },
       "dropEffect": {
@@ -247,7 +256,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-dropeffect"
+          ]
         }
       },
       "effectAllowed": {
@@ -298,7 +310,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-effectallowed"
+          ]
         }
       },
       "files": {
@@ -349,7 +364,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-files"
+          ]
         }
       },
       "getData": {
@@ -400,7 +418,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-getdata"
+          ]
         }
       },
       "items": {
@@ -448,7 +469,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-items"
+          ]
         }
       },
       "mozClearDataAt": {
@@ -907,7 +931,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-setdata"
+          ]
         }
       },
       "setDragImage": {
@@ -958,7 +985,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-setdragimage"
+          ]
         }
       },
       "types": {
@@ -1009,7 +1039,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-types"
+          ]
         }
       }
     }

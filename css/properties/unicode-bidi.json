@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-writing-modes-3/#unicode-bidi",
+            "https://www.w3.org/TR/CSS2/visuren.html#propdef-unicode-bidi"
+          ]
         },
         "isolate": {
           "__compat": {

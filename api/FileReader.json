@@ -46,7 +46,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/FileAPI/#dfn-filereader"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -141,7 +144,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReader-interface"
+          ]
         }
       },
       "error": {
@@ -201,7 +207,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReader-interface"
+          ]
         }
       },
       "onabort": {
@@ -489,7 +498,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReader-interface"
+          ]
         }
       },
       "readAsArrayBuffer": {
@@ -537,7 +549,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#readAsArrayBuffer"
+          ]
         }
       },
       "readAsBinaryString": {
@@ -585,7 +600,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#readAsBinaryString"
+          ]
         }
       },
       "readAsDataURL": {
@@ -633,7 +651,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReader-interface"
+          ]
         }
       },
       "readAsText": {
@@ -681,7 +702,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReader-interface"
+          ]
         }
       },
       "result": {
@@ -729,7 +753,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReader-interface"
+          ]
         }
       }
     }

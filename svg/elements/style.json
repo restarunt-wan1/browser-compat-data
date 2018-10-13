@@ -46,7 +46,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/svg2-draft/styling.html#StyleElement",
+            "https://www.w3.org/TR/SVG11/styling.html#StyleElement"
+          ]
         },
         "type": {
           "__compat": {

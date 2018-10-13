@@ -63,7 +63,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-set-objects"
+          ]
         },
         "set_iterable": {
           "__compat": {
@@ -345,7 +348,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype.add"
+            ]
           }
         },
         "clear": {
@@ -399,7 +405,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype.clear"
+            ]
           }
         },
         "delete": {
@@ -464,7 +473,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype.delete"
+            ]
           }
         },
         "entries": {
@@ -518,7 +530,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype.entries"
+            ]
           }
         },
         "forEach": {
@@ -572,7 +587,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype.foreach"
+            ]
           }
         },
         "has": {
@@ -626,7 +644,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype.has"
+            ]
           }
         },
         "prototype": {
@@ -680,7 +701,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype"
+            ]
           }
         },
         "size": {
@@ -736,7 +760,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-set.prototype.size"
+            ]
           }
         },
         "values": {
@@ -790,7 +817,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype.values"
+            ]
           }
         },
         "@@iterator": {
@@ -872,7 +902,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-set.prototype-@@iterator"
+            ]
           }
         },
         "@@species": {
@@ -937,7 +970,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-set-@@species"
+            ]
           }
         }
       }

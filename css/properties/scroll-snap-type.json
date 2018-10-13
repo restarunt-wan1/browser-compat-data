@@ -83,7 +83,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-scroll-snap-1/#propdef-scroll-snap-type"
+          ]
         }
       }
     }

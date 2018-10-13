@@ -57,7 +57,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmltimeelement"
+        ]
       },
       "dateTime": {
         "__compat": {
@@ -116,7 +119,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/text-level-semantics.html#dom-time-datetime"
+          ]
         }
       }
     }

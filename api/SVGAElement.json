@@ -48,7 +48,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://svgwg.org/svg2-draft/linking.html#InterfaceSVGAElement",
+          "https://www.w3.org/TR/SVG11/linking.html#InterfaceSVGAElement"
+        ]
       },
       "download": {
         "__compat": {
@@ -398,7 +402,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/SVG11/text.html#InterfaceSVGAElement"
+          ]
         }
       },
       "text": {

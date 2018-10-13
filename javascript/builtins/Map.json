@@ -63,7 +63,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-map-objects"
+          ]
         },
         "map_iterable": {
           "__compat": {
@@ -343,7 +346,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.clear"
+            ]
           }
         },
         "delete": {
@@ -408,7 +414,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.delete"
+            ]
           }
         },
         "entries": {
@@ -462,7 +471,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.entries"
+            ]
           }
         },
         "forEach": {
@@ -516,7 +528,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.foreach"
+            ]
           }
         },
         "get": {
@@ -570,7 +585,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.get"
+            ]
           }
         },
         "has": {
@@ -624,7 +642,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.has"
+            ]
           }
         },
         "keys": {
@@ -678,7 +699,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.keys"
+            ]
           }
         },
         "prototype": {
@@ -732,7 +756,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype"
+            ]
           }
         },
         "set": {
@@ -788,7 +815,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.set"
+            ]
           }
         },
         "size": {
@@ -844,7 +874,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-map.prototype.size"
+            ]
           }
         },
         "values": {
@@ -898,7 +931,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype.values"
+            ]
           }
         },
         "@@iterator": {
@@ -980,7 +1016,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype-@@iterator"
+            ]
           }
         },
         "@@species": {
@@ -1045,7 +1084,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-map-@@species"
+            ]
           }
         },
         "@@toStringTag": {
@@ -1099,7 +1141,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-map.prototype-@@tostringtag"
+            ]
           }
         }
       }

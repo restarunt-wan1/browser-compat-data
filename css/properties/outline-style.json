@@ -56,7 +56,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-ui-3/#outline-style",
+            "https://www.w3.org/TR/CSS2/ui.html#propdef-outline-style"
+          ]
         },
         "auto": {
           "__compat": {

@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/encrypted-media/#mediakeys-interface"
+        ]
       },
       "createSession": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/encrypted-media/#widl-MediaKeys-createSession-MediaKeySession-MediaKeySessionType-sessionType"
+          ]
         }
       },
       "setServerCertificate": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/encrypted-media/#widl-MediaKeys-setServerCertificate-Promise-void--BufferSource-serverCertificate"
+          ]
         }
       }
     }

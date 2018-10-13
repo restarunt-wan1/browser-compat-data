@@ -42,7 +42,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/netinfo/#-dfn-networkinformation-dfn-interface"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -131,7 +134,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/netinfo/#dom-networkinformation-downlink"
+          ]
         }
       },
       "downlinkMax": {
@@ -176,7 +182,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/netinfo/#dom-networkinformation-downlinkmax"
+          ]
         }
       },
       "effectiveType": {
@@ -221,7 +230,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/netinfo/#dom-networkinformation-effectivetype"
+          ]
         }
       },
       "onchange": {
@@ -267,7 +279,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/netinfo/#dom-networkinformation-onchange"
+          ]
         }
       },
       "rtt": {
@@ -312,7 +327,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/netinfo/#dom-networkinformation-rtt"
+          ]
         }
       },
       "type": {
@@ -357,7 +375,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/netinfo/#dom-networkinformation-type"
+          ]
         }
       }
     }

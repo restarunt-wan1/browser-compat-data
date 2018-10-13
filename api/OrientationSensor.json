@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/orientation-sensor/#orientationsensor-interface"
+        ]
       },
       "quaternion": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/orientation-sensor/#orientationsensor-quaternion"
+          ]
         }
       },
       "populateMatrix": {
@@ -149,7 +155,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/orientation-sensor/#orientationsensor-populatematrix"
+          ]
         }
       }
     }

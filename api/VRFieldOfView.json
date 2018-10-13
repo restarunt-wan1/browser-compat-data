@@ -51,7 +51,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://immersive-web.github.io/webvr/spec/1.1/#interface-interface-vrfieldofview"
+        ]
       },
       "VRFieldOfView": {
         "__compat": {
@@ -141,7 +144,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrfieldofview-downdegrees"
+          ]
         }
       },
       "leftDegrees": {
@@ -195,7 +201,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrfieldofview-leftdegrees"
+          ]
         }
       },
       "rightDegrees": {
@@ -249,7 +258,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrfieldofview-rightdegrees"
+          ]
         }
       },
       "upDegrees": {
@@ -303,7 +315,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrfieldofview-updegrees"
+          ]
         }
       }
     }

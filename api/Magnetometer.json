@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/magnetometer/#magnetometer-interface"
+        ]
       },
       "Magnetometer": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/magnetometer/#dom-magnetometer-magnetometer"
+          ]
         }
       },
       "x": {
@@ -150,7 +156,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/magnetometer/#magnetometer-y"
+          ]
         }
       },
       "y": {
@@ -201,7 +210,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/magnetometer/#magnetometer-y"
+          ]
         }
       },
       "z": {
@@ -252,7 +264,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/magnetometer/#magnetometer-z"
+          ]
         }
       }
     }

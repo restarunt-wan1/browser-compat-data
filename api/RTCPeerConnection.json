@@ -97,7 +97,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webrtc-pc/#interface-definition"
+        ]
       },
       "RTCPeerConnection": {
         "__compat": {
@@ -171,7 +174,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-ctor-RTCPeerConnection--RTCConfiguration-configuration"
+          ]
         }
       },
       "canTrickleIceCandidates": {
@@ -222,7 +228,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-canTrickleIceCandidates"
+          ]
         }
       },
       "connectionState": {
@@ -273,7 +282,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-connectionState"
+          ]
         }
       },
       "currentLocalDescription": {
@@ -338,7 +350,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-currentLocalDescription"
+          ]
         }
       },
       "currentRemoteDescription": {
@@ -389,7 +404,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-currentRemoteDescription"
+          ]
         }
       },
       "defaultIceServers": {
@@ -454,7 +472,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-defaultIceServers"
+          ]
         }
       },
       "iceConnectionState": {
@@ -521,7 +542,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-iceConnectionState"
+          ]
         }
       },
       "iceGatheringState": {
@@ -586,7 +610,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-iceGatheringState"
+          ]
         }
       },
       "localDescription": {
@@ -651,7 +678,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-localDescription"
+          ]
         }
       },
       "peerIdentity": {
@@ -716,7 +746,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-peerIdentity"
+          ]
         }
       },
       "pendingLocalDescription": {
@@ -781,7 +814,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-pendingLocalDescription"
+          ]
         }
       },
       "pendingRemoteDescription": {
@@ -846,7 +882,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-pendingRemoteDescription"
+          ]
         }
       },
       "remoteDescription": {
@@ -913,7 +952,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-remoteDescription"
+          ]
         }
       },
       "sctp": {
@@ -978,7 +1020,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-sctp"
+          ]
         }
       },
       "signalingState": {
@@ -1043,7 +1088,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-signalingState"
+          ]
         }
       },
       "onaddstream": {
@@ -1159,7 +1207,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onconnectionstatechange"
+          ]
         }
       },
       "ondatachannel": {
@@ -1224,7 +1275,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-ondatachannel"
+          ]
         }
       },
       "onicecandidate": {
@@ -1289,7 +1343,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onicecandidate"
+          ]
         }
       },
       "oniceconnectionstatechange": {
@@ -1354,7 +1411,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-oniceconnectionstatechange"
+          ]
         }
       },
       "onicegatheringstatechange": {
@@ -1419,7 +1479,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onicegatheringstatechange"
+          ]
         }
       },
       "onidentityresult": {
@@ -1484,7 +1547,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onidentityresult"
+          ]
         }
       },
       "onidpassertionerror": {
@@ -1549,7 +1615,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onidpassertionerror"
+          ]
         }
       },
       "onidpvalidationerror": {
@@ -1614,7 +1683,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onidpvalidationerror"
+          ]
         }
       },
       "onnegotiationneeded": {
@@ -1679,7 +1751,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onnegotiationneeded"
+          ]
         }
       },
       "onpeeridentity": {
@@ -1744,7 +1819,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onpeeridentity"
+          ]
         }
       },
       "onremovestream": {
@@ -1876,7 +1954,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onsignalingstatechange"
+          ]
         }
       },
       "ontrack": {
@@ -1941,7 +2022,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-ontrack"
+          ]
         }
       },
       "addIceCandidate": {
@@ -2038,7 +2122,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-addIceCandidate-Promise-void--RTCIceCandidateInit-RTCIceCandidate-candidate",
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-addIceCandidate-void-RTCIceCandidateInit-RTCIceCandidate-candidate-VoidFunction-successCallback-RTCPeerConnectionErrorCallback-failureCallback"
+          ]
         }
       },
       "addStream": {
@@ -2154,7 +2242,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtrack"
+          ]
         }
       },
       "addTransceiver": {
@@ -2205,7 +2296,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-addtransceiver"
+          ]
         }
       },
       "createAnswer": {
@@ -2302,7 +2396,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-createanswer"
+          ]
         }
       },
       "createDataChannel": {
@@ -2367,7 +2464,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-createDataChannel-RTCDataChannel-DOMString-label-RTCDataChannelInit-dataChannelDict"
+          ]
         }
       },
       "createOffer": {
@@ -2464,7 +2564,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-createoffer"
+          ]
         }
       },
       "generateCertificate": {
@@ -2529,7 +2632,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-generateCertificate-Promise-RTCCertificate--AlgorithmIdentifier-keygenAlgorithm"
+          ]
         }
       },
       "getConfiguration": {
@@ -2594,7 +2700,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-getConfiguration-RTCConfiguration"
+          ]
         }
       },
       "getIdentityAssertion": {
@@ -2659,7 +2768,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-getIdentityAssertion-void"
+          ]
         }
       },
       "getLocalStreams": {
@@ -2724,7 +2836,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-getLocalStreams-sequence-MediaS"
+          ]
         }
       },
       "getReceivers": {
@@ -2775,7 +2890,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-getsenders"
+          ]
         }
       },
       "getRemoteStreams": {
@@ -2840,7 +2958,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-getRemoteStreams-sequence-MediaS"
+          ]
         }
       },
       "getSenders": {
@@ -2891,7 +3012,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-getsenders"
+          ]
         }
       },
       "getStreamById": {
@@ -2956,7 +3080,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-getStreamById-MediaStream-DOMString-streamId"
+          ]
         }
       },
       "removeStream": {
@@ -3021,7 +3148,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-removeStream-void-MediaStream-stream"
+          ]
         }
       },
       "removeTrack": {
@@ -3072,7 +3202,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnection-removetrack"
+          ]
         }
       },
       "setConfiguration": {
@@ -3137,7 +3270,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-setConfiguration-void-RTCConfiguration-configuration"
+          ]
         }
       },
       "setIdentityProvider": {
@@ -3202,7 +3338,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-setIdentityProvider-void-DOMString-provider-DOMString-protocol-DOMString-username"
+          ]
         }
       },
       "setLocalDescription": {
@@ -3299,7 +3438,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-setLocalDescription-void-RTCSessionDescription-description-VoidFunction-successCallback-RTCPeerConnectionErrorCallback-failureCallback",
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-setLocalDescription-Promise-void--RTCSessionDescriptionInit-description"
+          ]
         }
       },
       "setRemoteDescription": {
@@ -3364,7 +3507,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-setRemoteDescription-void-RTCSessionDescription-description-VoidFunction-successCallback-RTCPeerConnectionErrorCallback-failureCallback",
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-setRemoteDescription-Promise-void--RTCSessionDescriptionInit-description"
+          ]
         }
       },
       "createDTMFSender": {
@@ -3480,7 +3627,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-onicecandidateerror"
+          ]
         }
       },
       "close": {
@@ -3531,7 +3681,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnection-close-void"
+          ]
         }
       },
       "getDefaultIceServers": {

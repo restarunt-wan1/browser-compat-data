@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/input-events/#interface-InputEvent"
+        ]
       },
       "InputEvent": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/input-events/#interface-InputEvent"
+          ]
         }
       },
       "data": {
@@ -150,7 +156,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/input-events/#dfn-data"
+          ]
         }
       },
       "dataTransfer": {
@@ -201,7 +210,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/input-events/#dom-inputevent-datatransfer"
+          ]
         }
       },
       "getTargetRanges": {
@@ -252,7 +264,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/input-events/#dom-inputevent-gettargetranges()"
+          ]
         }
       },
       "inputType": {
@@ -303,7 +318,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/input-events/#dom-inputevent-inputtype"
+          ]
         }
       },
       "isComposing": {

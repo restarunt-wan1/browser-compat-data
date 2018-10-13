@@ -53,7 +53,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-date-objects"
+          ]
         },
         "@@toPrimitive": {
           "__compat": {
@@ -106,7 +109,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype-@@toprimitive"
+            ]
           }
         },
         "UTC": {
@@ -160,7 +166,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.utc"
+            ]
           }
         },
         "getDate": {
@@ -214,7 +223,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getdate"
+            ]
           }
         },
         "getDay": {
@@ -268,7 +280,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getday"
+            ]
           }
         },
         "getFullYear": {
@@ -322,7 +337,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getfullyear"
+            ]
           }
         },
         "getHours": {
@@ -376,7 +394,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.gethours"
+            ]
           }
         },
         "getMilliseconds": {
@@ -430,7 +451,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getmilliseconds"
+            ]
           }
         },
         "getMinutes": {
@@ -484,7 +508,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getminutes"
+            ]
           }
         },
         "getMonth": {
@@ -538,7 +565,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getmonth"
+            ]
           }
         },
         "getSeconds": {
@@ -592,7 +622,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getseconds"
+            ]
           }
         },
         "getTime": {
@@ -646,7 +679,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.gettime"
+            ]
           }
         },
         "getTimezoneOffset": {
@@ -700,7 +736,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.gettimezoneoffset"
+            ]
           }
         },
         "getUTCDate": {
@@ -754,7 +793,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getutcdate"
+            ]
           }
         },
         "getUTCDay": {
@@ -808,7 +850,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getutcday"
+            ]
           }
         },
         "getUTCFullYear": {
@@ -862,7 +907,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getutcfullyear"
+            ]
           }
         },
         "getUTCHours": {
@@ -916,7 +964,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getutchours"
+            ]
           }
         },
         "getUTCMilliseconds": {
@@ -970,7 +1021,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getutcmilliseconds"
+            ]
           }
         },
         "getUTCMinutes": {
@@ -1024,7 +1078,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getutcminutes"
+            ]
           }
         },
         "getUTCMonth": {
@@ -1078,7 +1135,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getutcmonth"
+            ]
           }
         },
         "getUTCSeconds": {
@@ -1132,7 +1192,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.getutcseconds"
+            ]
           }
         },
         "getYear": {
@@ -1240,7 +1303,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.now"
+            ]
           }
         },
         "parse": {
@@ -1294,7 +1360,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.parse"
+            ]
           },
           "iso_8601": {
             "__compat": {
@@ -1402,7 +1471,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-properties-of-the-date-prototype-object"
+            ]
           },
           "ordinary_object": {
             "__compat": {
@@ -1510,7 +1582,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setdate"
+            ]
           }
         },
         "setFullYear": {
@@ -1564,7 +1639,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setfullyear"
+            ]
           }
         },
         "setHours": {
@@ -1618,7 +1696,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.sethours"
+            ]
           }
         },
         "setMilliseconds": {
@@ -1672,7 +1753,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setmilliseconds"
+            ]
           }
         },
         "setMinutes": {
@@ -1726,7 +1810,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setminutes"
+            ]
           }
         },
         "setMonth": {
@@ -1780,7 +1867,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setmonth"
+            ]
           }
         },
         "setSeconds": {
@@ -1834,7 +1924,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setseconds"
+            ]
           }
         },
         "setTime": {
@@ -1888,7 +1981,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.settime"
+            ]
           }
         },
         "setUTCDate": {
@@ -1942,7 +2038,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setutcdate"
+            ]
           }
         },
         "setUTCFullYear": {
@@ -1996,7 +2095,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setutcfullyear"
+            ]
           }
         },
         "setUTCHours": {
@@ -2050,7 +2152,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setutchours"
+            ]
           }
         },
         "setUTCMilliseconds": {
@@ -2104,7 +2209,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setutcmilliseconds"
+            ]
           }
         },
         "setUTCMinutes": {
@@ -2158,7 +2266,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setutcminutes"
+            ]
           }
         },
         "setUTCMonth": {
@@ -2212,7 +2323,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setutcmonth"
+            ]
           }
         },
         "setUTCSeconds": {
@@ -2266,7 +2380,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.setutcseconds"
+            ]
           }
         },
         "setYear": {
@@ -2374,7 +2491,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.todatestring"
+            ]
           }
         },
         "toGMTString": {
@@ -2482,7 +2602,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.toisostring"
+            ]
           }
         },
         "toJSON": {
@@ -2536,7 +2659,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.tojson"
+            ]
           }
         },
         "toLocaleDateString": {
@@ -2590,7 +2716,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.tolocaledatestring",
+              "https://tc39.github.io/ecma402/#sec-Date.prototype.toLocaleDateString"
+            ]
           },
           "locales": {
             "__compat": {
@@ -2860,7 +2990,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.tolocalestring",
+              "https://tc39.github.io/ecma402/#sec-Date.prototype.toLocaleString"
+            ]
           },
           "locales": {
             "__compat": {
@@ -3074,7 +3208,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.tolocalestring",
+              "https://tc39.github.io/ecma402/#sec-Date.prototype.toLocaleTimeString"
+            ]
           },
           "locales": {
             "__compat": {
@@ -3342,7 +3480,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.tostring"
+            ]
           }
         },
         "toTimeString": {
@@ -3396,7 +3537,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.totimestring"
+            ]
           }
         },
         "toUTCString": {
@@ -3450,7 +3594,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.toutcstring"
+            ]
           }
         },
         "valueOf": {
@@ -3504,7 +3651,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-date.prototype.valueof"
+            ]
           }
         }
       }

@@ -54,7 +54,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#selector-read-write",
+            "https://drafts.csswg.org/selectors-4/#rw-pseudos"
+          ]
         },
         "matches_editable_elements": {
           "__compat": {

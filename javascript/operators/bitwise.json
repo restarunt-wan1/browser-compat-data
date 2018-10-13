@@ -54,7 +54,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-bitwise-shift-operators"
+            ]
           }
         },
         "left_shift": {
@@ -109,7 +112,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-bitwise-shift-operators"
+            ]
           }
         },
         "not": {
@@ -164,7 +170,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-bitwise-shift-operators"
+            ]
           }
         },
         "or": {
@@ -219,7 +228,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-bitwise-shift-operators"
+            ]
           }
         },
         "right_shift": {
@@ -274,7 +286,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-bitwise-shift-operators"
+            ]
           }
         },
         "unsigned_right_shift": {
@@ -329,7 +344,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-bitwise-shift-operators"
+            ]
           }
         },
         "xor": {
@@ -384,7 +402,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-bitwise-shift-operators"
+            ]
           }
         }
       }

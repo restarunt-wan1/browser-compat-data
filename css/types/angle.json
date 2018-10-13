@@ -50,7 +50,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-values-3/#angles"
+          ]
         },
         "deg": {
           "__compat": {
@@ -100,7 +103,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-values-3/#angles"
+            ]
           }
         },
         "grad": {
@@ -151,7 +157,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-values-3/#angles"
+            ]
           }
         },
         "rad": {
@@ -202,7 +211,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-values-3/#angles"
+            ]
           }
         },
         "turn": {
@@ -253,7 +265,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-values-3/#angles"
+            ]
           }
         }
       }

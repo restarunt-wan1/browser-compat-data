@@ -130,7 +130,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://storage.spec.whatwg.org/#navigatorstorage"
+          ]
         }
       }
     }

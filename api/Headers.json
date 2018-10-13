@@ -114,7 +114,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://fetch.spec.whatwg.org/#headers-class"
+        ]
       },
       "lexicographical_sorting": {
         "__compat": {
@@ -282,7 +285,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-headers"
+          ]
         }
       },
       "append": {
@@ -399,7 +405,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-headers-append"
+          ]
         }
       },
       "delete": {
@@ -516,7 +525,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-headers-delete"
+          ]
         }
       },
       "entries": {
@@ -567,7 +579,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#headers-class"
+          ]
         }
       },
       "get": {
@@ -688,7 +703,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-headers-get"
+          ]
         }
       },
       "getAll": {
@@ -873,7 +891,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-headers-get"
+          ]
         }
       },
       "keys": {
@@ -924,7 +945,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#headers-class"
+          ]
         }
       },
       "set": {
@@ -1041,7 +1065,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-headers-set"
+          ]
         }
       },
       "values": {
@@ -1092,7 +1119,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#headers-class"
+          ]
         }
       }
     }

@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-fonts-3/#font-prop",
+            "https://www.w3.org/TR/CSS2/fonts.html#font-shorthand"
+          ]
         },
         "system_fonts": {
           "__compat": {

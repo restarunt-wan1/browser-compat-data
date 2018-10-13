@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://wicg.github.io/web-locks/#api-lock"
+        ]
       },
       "mode": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/web-locks/#dom-lock-mode"
+          ]
         }
       },
       "name": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/web-locks/#dom-lock-name"
+          ]
         }
       }
     }

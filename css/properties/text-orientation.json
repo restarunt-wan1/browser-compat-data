@@ -100,7 +100,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-writing-modes-3/#text-orientation"
+          ]
         },
         "sideways": {
           "__compat": {

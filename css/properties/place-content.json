@@ -51,7 +51,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-place-content"
+            ]
           }
         },
         "grid_context": {
@@ -103,7 +106,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-place-content"
+            ]
           }
         },
         "prevent-duplicated-values": {

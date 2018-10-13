@@ -62,7 +62,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/payment-method-basic-card/#basiccardresponse-dictionary"
+        ]
       },
       "cardNumber": {
         "__compat": {
@@ -126,7 +129,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-method-basic-card/#dom-basiccardresponse-cardnumber"
+          ]
         }
       },
       "cardholderName": {
@@ -191,7 +197,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-method-basic-card/#dom-basiccardresponse-cardholdername"
+          ]
         }
       },
       "cardSecurityCode": {
@@ -256,7 +265,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-method-basic-card/#dom-basiccardresponse-cardsecuritycode"
+          ]
         }
       },
       "expiryMonth": {
@@ -321,7 +333,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-method-basic-card/#dom-basiccardresponse-expirymonth"
+          ]
         }
       },
       "expiryYear": {
@@ -386,7 +401,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-method-basic-card/#dom-basiccardresponse-expiryyear"
+          ]
         }
       },
       "billingAddress": {
@@ -451,7 +469,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/payment-method-basic-card/#dom-basiccardresponse-billingaddress"
+          ]
         }
       }
     }

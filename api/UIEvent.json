@@ -625,7 +625,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/InputDeviceCapabilities/#dom-uievent-sourcecapabilities"
+          ]
         }
       },
       "view": {

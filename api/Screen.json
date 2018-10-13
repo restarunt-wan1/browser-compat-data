@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom-view/#the-screen-interface"
+        ]
       },
       "availHeight": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-screen-availheight"
+          ]
         }
       },
       "availLeft": {
@@ -253,7 +259,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-screen-availwidth"
+          ]
         }
       },
       "colorDepth": {
@@ -307,7 +316,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-screen-colordepth"
+          ]
         }
       },
       "height": {
@@ -358,7 +370,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-screen-height"
+          ]
         }
       },
       "left": {
@@ -764,7 +779,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-screen-pixeldepth"
+          ]
         }
       },
       "top": {
@@ -920,7 +938,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-screen-width"
+          ]
         }
       }
     }

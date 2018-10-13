@@ -155,7 +155,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-flexbox-1/#order-property"
+          ]
         },
         "absolutely_positioned_flex_children": {
           "__compat": {

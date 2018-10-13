@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://wicg.github.io/webusb/#device-usage"
+        ]
       },
       "usbVersionMajor": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-usbversionmajor"
+          ]
         }
       },
       "usbVersionMinor": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-usbversionminor"
+          ]
         }
       },
       "usbVersionSubminor": {
@@ -200,7 +209,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-usbversionsubminor"
+          ]
         }
       },
       "deviceClass": {
@@ -251,7 +263,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-deviceclass"
+          ]
         }
       },
       "deviceSubclass": {
@@ -302,7 +317,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-devicesubclass"
+          ]
         }
       },
       "deviceProtocol": {
@@ -353,7 +371,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-deviceprotocol"
+          ]
         }
       },
       "vendorId": {
@@ -404,7 +425,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-vendorid"
+          ]
         }
       },
       "productId": {
@@ -455,7 +479,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-productid"
+          ]
         }
       },
       "deviceVersionMajor": {
@@ -506,7 +533,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-deviceversionmajor"
+          ]
         }
       },
       "deviceVersionMinor": {
@@ -557,7 +587,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-deviceversionminor"
+          ]
         }
       },
       "deviceVersionSubminor": {
@@ -608,7 +641,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-deviceversionsubminor"
+          ]
         }
       },
       "manufacturerName": {
@@ -659,7 +695,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-manufacturername"
+          ]
         }
       },
       "productName": {
@@ -710,7 +749,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-productname"
+          ]
         }
       },
       "serialNumber": {
@@ -761,7 +803,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-serialnumber"
+          ]
         }
       },
       "configuration": {
@@ -812,7 +857,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-configuration"
+          ]
         }
       },
       "configurations": {
@@ -863,7 +911,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-configurations"
+          ]
         }
       },
       "opened": {
@@ -914,7 +965,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-opened"
+          ]
         }
       },
       "open": {
@@ -965,7 +1019,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-open"
+          ]
         }
       },
       "close": {
@@ -1016,7 +1073,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-close"
+          ]
         }
       },
       "selectConfiguration": {
@@ -1067,7 +1127,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-selectconfiguration"
+          ]
         }
       },
       "claimInterface": {
@@ -1118,7 +1181,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-claiminterface"
+          ]
         }
       },
       "releaseInterface": {
@@ -1169,7 +1235,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-releaseinterface"
+          ]
         }
       },
       "selectAlternateInterface": {
@@ -1220,7 +1289,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-selectalternateinterface"
+          ]
         }
       },
       "controlTransferIn": {
@@ -1271,7 +1343,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-controltransferin"
+          ]
         }
       },
       "controlTransferOut": {
@@ -1322,7 +1397,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-controltransferout"
+          ]
         }
       },
       "clearHalt": {
@@ -1373,7 +1451,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-clearhalt"
+          ]
         }
       },
       "transferIn": {
@@ -1424,7 +1505,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-transferin"
+          ]
         }
       },
       "transferOut": {
@@ -1475,7 +1559,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-transferout"
+          ]
         }
       },
       "isochronousTransferIn": {
@@ -1526,7 +1613,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-isochronoustransferin"
+          ]
         }
       },
       "isochronousTransferOut": {
@@ -1577,7 +1667,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-isochronoustransferout"
+          ]
         }
       },
       "reset": {
@@ -1628,7 +1721,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usbdevice-reset"
+          ]
         }
       }
     }

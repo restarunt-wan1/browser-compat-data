@@ -63,7 +63,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/push-api/#pushmanager-interface"
+        ]
       },
       "supportedContentEncodings": {
         "__compat": {
@@ -128,7 +131,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/push-api/#dom-pushmanager-supportedcontentencodings"
+          ]
         }
       },
       "getSubscription": {
@@ -194,7 +200,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/push-api/#widl-PushManager-getSubscription-Promise-PushSubscription"
+          ]
         }
       },
       "permissionState": {
@@ -260,7 +269,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/push-api/#widl-PushManager-permissionState-Promise-PushPermissionState--PushSubscriptionOptions-options"
+          ]
         }
       },
       "subscribe": {
@@ -329,7 +341,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/push-api/#widl-PushManager-subscribe-Promise-PushSubscription--PushSubscriptionOptions-options"
+          ]
         }
       },
       "hasPermission": {

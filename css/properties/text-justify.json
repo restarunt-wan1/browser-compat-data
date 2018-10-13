@@ -84,7 +84,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-text-3/#text-justify-property"
+          ]
         }
       }
     }

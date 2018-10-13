@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/accelerometer/#accelerometer-interface"
+        ]
       },
       "Accelerometer": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/accelerometer/#accelerometer"
+          ]
         }
       },
       "x": {
@@ -150,7 +156,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/accelerometer/#accelerometer-x"
+          ]
         }
       },
       "y": {
@@ -201,7 +210,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/accelerometer/#accelerometer-y"
+          ]
         }
       },
       "z": {
@@ -252,7 +264,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/accelerometer/#accelerometer-z"
+          ]
         }
       }
     }

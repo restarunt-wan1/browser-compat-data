@@ -45,7 +45,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom-view/#the-mediaquerylist-interface"
+        ]
       },
       "addListener": {
         "__compat": {
@@ -92,7 +95,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mediaquerylist-addlistener"
+          ]
         }
       },
       "matches": {
@@ -140,7 +146,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mediaquerylist-matches"
+          ]
         }
       },
       "media": {
@@ -188,7 +197,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mediaquerylist-media"
+          ]
         }
       },
       "onchange": {
@@ -236,7 +248,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mediaquerylist-onchange"
+          ]
         }
       },
       "removeListener": {
@@ -284,7 +299,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mediaquerylist-removelistener"
+          ]
         }
       },
       "EventListener_objects": {

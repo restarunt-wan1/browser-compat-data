@@ -57,7 +57,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/grouping-content.html#the-menu-element"
+          ]
         },
         "button_menus": {
           "__compat": {

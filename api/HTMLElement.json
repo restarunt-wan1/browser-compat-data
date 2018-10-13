@@ -45,7 +45,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom-view/#extensions-to-the-htmlelement-interface",
+          "https://html.spec.whatwg.org/multipage/elements.html#htmlelement"
+        ]
       },
       "accessKey": {
         "__compat": {
@@ -140,7 +144,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-accesskeylabel"
+          ]
         }
       },
       "blur": {
@@ -188,7 +195,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/editing.html#dom-blur"
+          ]
         }
       },
       "click": {
@@ -289,7 +299,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#contenteditable"
+          ]
         }
       },
       "contextMenu": {
@@ -385,7 +398,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/dom.html#dom-dataset"
+          ]
         }
       },
       "dir": {
@@ -433,7 +449,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-dir"
+          ]
         }
       },
       "draggable": {
@@ -577,7 +596,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/editing.html#dom-focus"
+          ]
         }
       },
       "forceSpellCheck": {
@@ -673,7 +695,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-hidden"
+          ]
         }
       },
       "inert": {
@@ -769,7 +794,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/editing.html#dom-iscontenteditable"
+          ]
         }
       },
       "itemId": {
@@ -1207,7 +1235,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#attr-nonce"
+          ]
         }
       },
       "offsetHeight": {
@@ -1255,7 +1286,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetHeight"
+          ]
         }
       },
       "offsetLeft": {
@@ -1303,7 +1337,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetleft"
+          ]
         }
       },
       "offsetParent": {
@@ -1351,7 +1388,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetparent"
+          ]
         }
       },
       "offsetTop": {
@@ -1399,7 +1439,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetwidth"
+          ]
         }
       },
       "offsetWidth": {
@@ -1447,7 +1490,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-htmlelement-offsetwidth"
+          ]
         }
       },
       "onModule": {
@@ -1832,7 +1878,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-tabindex"
+          ]
         }
       },
       "title": {
@@ -1880,7 +1929,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-title"
+          ]
         }
       },
       "translate": {

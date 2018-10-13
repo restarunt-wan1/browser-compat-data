@@ -98,7 +98,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/IndexedDB/#idl-def-IDBCursor",
+          "https://w3c.github.io/IndexedDB/#idl-def-IDBCursor"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -256,7 +260,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-direction",
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-direction"
+          ]
         }
       },
       "key": {
@@ -322,7 +330,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-key",
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-key"
+          ]
         },
         "binary_keys": {
           "__compat": {
@@ -439,7 +451,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-primaryKey",
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-primarykey"
+          ]
         }
       },
       "source": {
@@ -505,7 +521,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-source",
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-source"
+          ]
         }
       },
       "advance": {
@@ -571,7 +591,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-advance-void-unsigned-long-count",
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-advance"
+          ]
         }
       },
       "continue": {
@@ -637,7 +661,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-continue-void-any-key",
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-continue"
+          ]
         }
       },
       "continuePrimaryKey": {
@@ -695,7 +723,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-continueprimarykey"
+          ]
         }
       },
       "delete": {
@@ -761,7 +792,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-delete-IDBRequest",
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-delete"
+          ]
         }
       },
       "update": {
@@ -827,7 +862,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-update-IDBRequest-any-value",
+            "https://w3c.github.io/IndexedDB/#dom-idbcursor-update"
+          ]
         }
       }
     }

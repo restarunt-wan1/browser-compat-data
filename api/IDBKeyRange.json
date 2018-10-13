@@ -63,7 +63,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/IndexedDB/#idl-def-IDBKeyRange",
+          "https://w3c.github.io/IndexedDB/#keyrange"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -179,7 +183,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBKeyRange-lower",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-lower"
+          ]
         }
       },
       "lowerOpen": {
@@ -245,7 +253,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBKeyRange-lowerOpen",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-loweropen"
+          ]
         }
       },
       "upper": {
@@ -311,7 +323,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBKeyRange-upper",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-upper"
+          ]
         }
       },
       "upperOpen": {
@@ -377,7 +393,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBKeyRange-upperOpen",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-upperopen"
+          ]
         }
       },
       "bound": {
@@ -443,7 +463,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBKeyRange-bound-IDBKeyRange-any-lower-any-upper-boolean-lowerOpen-boolean-upperOpen",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-bound"
+          ]
         }
       },
       "includes": {
@@ -494,7 +518,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-includes",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-includes"
+          ]
         }
       },
       "lowerBound": {
@@ -560,7 +588,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBKeyRange-lowerBound-IDBKeyRange-any-lower-boolean-open",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-lowerbound-lower-open-lower"
+          ]
         }
       },
       "only": {
@@ -626,7 +658,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBKeyRange-only-IDBKeyRange-any-value",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-only"
+          ]
         }
       },
       "upperBound": {
@@ -692,7 +728,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBKeyRange-upperBound-IDBKeyRange-any-upper-boolean-open",
+            "https://w3c.github.io/IndexedDB/#dom-idbkeyrange-upperbound-upper-open-upper"
+          ]
         }
       }
     }

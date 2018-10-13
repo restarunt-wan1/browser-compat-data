@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#worker"
+        ]
       },
       "Worker": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-worker"
+          ]
         },
         "name": {
           "__compat": {
@@ -203,7 +209,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#handler-worker-onmessage"
+          ]
         }
       },
       "onmessageerror": {
@@ -254,7 +263,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#handler-worker-onmessageerror"
+          ]
         }
       },
       "postMessage": {
@@ -306,7 +318,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-worker-postmessage"
+          ]
         }
       },
       "terminate": {
@@ -357,7 +372,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-worker-terminate"
+          ]
         }
       }
     }

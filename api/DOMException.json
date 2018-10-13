@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://heycam.github.io/webidl/#es-DOMException-call"
+        ]
       },
       "DOMException": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://heycam.github.io/webidl/#es-DOMException-call"
+          ]
         }
       },
       "code": {
@@ -150,7 +156,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://heycam.github.io/webidl/#dom-domexception-code"
+          ]
         }
       },
       "message": {
@@ -201,7 +210,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://heycam.github.io/webidl/#dom-domexception-message"
+          ]
         }
       },
       "name": {
@@ -252,7 +264,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://heycam.github.io/webidl/#dom-domexception-name"
+          ]
         }
       }
     }

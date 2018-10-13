@@ -164,7 +164,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#file-attrs"
+          ]
         }
       },
       "lastModifiedDate": {
@@ -267,7 +270,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#file-attrs"
+          ]
         }
       },
       "type": {
@@ -318,7 +324,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#dfn-type"
+          ]
         }
       },
       "webkitRelativePath": {
@@ -368,7 +377,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/entries-api/#dom-file-webkitrelativepath"
+          ]
         }
       }
     }

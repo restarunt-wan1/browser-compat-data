@@ -84,7 +84,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.fxtf.org/css-masking-1/#the-mask",
+            "https://www.w3.org/TR/SVG11/masking.html#MaskProperty"
+          ]
         },
         "applies_to_html_elements": {
           "__compat": {

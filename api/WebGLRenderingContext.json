@@ -57,7 +57,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -165,7 +168,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "attachShader": {
@@ -216,7 +222,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "bindAttribLocation": {
@@ -267,7 +276,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "bindBuffer": {
@@ -318,7 +330,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.5",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.1"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -419,7 +435,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.6",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.1"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -520,7 +540,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.7"
+          ]
         }
       },
       "bindTexture": {
@@ -571,7 +594,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.1"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -672,7 +699,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "blendEquation": {
@@ -723,7 +753,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -824,7 +857,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -925,7 +961,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "blendFuncSeparate": {
@@ -976,7 +1015,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -1078,7 +1120,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.5"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -1179,7 +1224,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.5"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -1280,7 +1328,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLRenderingContext-canvas"
+          ]
         },
         "OffscreenCanvas": {
           "__compat": {
@@ -1388,7 +1439,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.6",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.4"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -1489,7 +1544,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.11"
+          ]
         }
       },
       "clearColor": {
@@ -1540,7 +1598,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "clearDepth": {
@@ -1591,7 +1652,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "clearStencil": {
@@ -1642,7 +1706,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "colorMask": {
@@ -1693,7 +1760,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "commit": {
@@ -1802,7 +1872,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "compressedTexImage2D": {
@@ -1853,7 +1926,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#COMPRESSEDTEXIMAGE2D"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -2005,7 +2081,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#COMPRESSEDTEXSUBIMAGE2D"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -2157,7 +2236,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8"
+          ]
         }
       },
       "copyTexSubImage2D": {
@@ -2208,7 +2290,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8"
+          ]
         }
       },
       "createBuffer": {
@@ -2259,7 +2344,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.5"
+          ]
         }
       },
       "createFramebuffer": {
@@ -2310,7 +2398,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.6"
+          ]
         }
       },
       "createProgram": {
@@ -2361,7 +2452,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "createRenderbuffer": {
@@ -2412,7 +2506,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.7"
+          ]
         }
       },
       "createShader": {
@@ -2463,7 +2560,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "createTexture": {
@@ -2514,7 +2614,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8"
+          ]
         }
       },
       "cullFace": {
@@ -2565,7 +2668,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "deleteBuffer": {
@@ -2616,7 +2722,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.5"
+          ]
         }
       },
       "deleteFramebuffer": {
@@ -2667,7 +2776,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.6"
+          ]
         }
       },
       "deleteProgram": {
@@ -2718,7 +2830,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "deleteRenderbuffer": {
@@ -2769,7 +2884,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.7"
+          ]
         }
       },
       "deleteShader": {
@@ -2820,7 +2938,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "deleteTexture": {
@@ -2871,7 +2992,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8"
+          ]
         }
       },
       "depthFunc": {
@@ -2922,7 +3046,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "depthMask": {
@@ -2973,7 +3100,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "depthRange": {
@@ -3024,7 +3154,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "detachShader": {
@@ -3075,7 +3208,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "disable": {
@@ -3126,7 +3262,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "disableVertexAttribArray": {
@@ -3177,7 +3316,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "drawArrays": {
@@ -3228,7 +3370,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.11"
+          ]
         }
       },
       "drawElements": {
@@ -3279,7 +3424,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.11"
+          ]
         }
       },
       "drawingBufferHeight": {
@@ -3330,7 +3478,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLRenderingContext-drawingBufferHeight"
+          ]
         }
       },
       "drawingBufferWidth": {
@@ -3381,7 +3532,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLRenderingContext-drawingBufferWidth"
+          ]
         }
       },
       "enable": {
@@ -3432,7 +3586,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "enableVertexAttribArray": {
@@ -3483,7 +3640,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "finish": {
@@ -3534,7 +3694,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.11"
+          ]
         }
       },
       "flush": {
@@ -3585,7 +3748,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.11"
+          ]
         }
       },
       "framebufferRenderbuffer": {
@@ -3636,7 +3802,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.6"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -3737,7 +3906,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.6"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -3838,7 +4010,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "generateMipmap": {
@@ -3889,7 +4064,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -3990,7 +4168,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "getActiveUniform": {
@@ -4041,7 +4222,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "getAttachedShaders": {
@@ -4092,7 +4276,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "getAttribLocation": {
@@ -4143,7 +4330,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "getBufferParameter": {
@@ -4194,7 +4384,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.5",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.3"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -4295,7 +4489,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.2"
+          ]
         }
       },
       "getError": {
@@ -4346,7 +4543,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "getExtension": {
@@ -4397,7 +4597,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.14"
+          ]
         }
       },
       "getFramebufferAttachmentParameter": {
@@ -4448,7 +4651,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.6",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.4"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -4549,7 +4756,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.2"
+          ]
         }
       },
       "getProgramInfoLog": {
@@ -4600,7 +4811,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "getProgramParameter": {
@@ -4651,7 +4865,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.7"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -4752,7 +4970,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.7",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.5"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -4853,7 +5075,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "getShaderParameter": {
@@ -4904,7 +5129,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "getShaderPrecisionFormat": {
@@ -4955,7 +5183,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "getShaderSource": {
@@ -5006,7 +5237,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "getSupportedExtensions": {
@@ -5057,7 +5291,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.14"
+          ]
         }
       },
       "getTexParameter": {
@@ -5108,7 +5345,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -5209,7 +5450,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -5310,7 +5555,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "getVertexAttrib": {
@@ -5361,7 +5609,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -5462,7 +5714,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "hint": {
@@ -5513,7 +5768,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "isBuffer": {
@@ -5564,7 +5822,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.5"
+          ]
         }
       },
       "isContextLost": {
@@ -5615,7 +5876,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.13"
+          ]
         }
       },
       "isEnabled": {
@@ -5666,7 +5930,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.2"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -5767,7 +6035,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.6"
+          ]
         }
       },
       "isProgram": {
@@ -5818,7 +6089,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "isRenderbuffer": {
@@ -5869,7 +6143,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.7"
+          ]
         }
       },
       "isShader": {
@@ -5920,7 +6197,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "isTexture": {
@@ -5971,7 +6251,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8"
+          ]
         }
       },
       "lineWidth": {
@@ -6022,7 +6305,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "linkProgram": {
@@ -6073,7 +6359,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "pixelStorei": {
@@ -6124,7 +6413,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3",
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#PIXEL_STORAGE_PARAMETERS",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.2"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -6225,7 +6519,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "readPixels": {
@@ -6276,7 +6573,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.12"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -6428,7 +6728,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.7",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.5"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -6529,7 +6833,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "scissor": {
@@ -6580,7 +6887,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.4"
+          ]
         }
       },
       "shaderSource": {
@@ -6631,7 +6941,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "stencilFunc": {
@@ -6682,7 +6995,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "stencilFuncSeparate": {
@@ -6733,7 +7049,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "stencilMask": {
@@ -6784,7 +7103,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "stencilMaskSeparate": {
@@ -6835,7 +7157,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "stencilOp": {
@@ -6886,7 +7211,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "stencilOpSeparate": {
@@ -6937,7 +7265,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.3"
+          ]
         }
       },
       "texImage2D": {
@@ -6988,7 +7319,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -7140,7 +7475,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -7241,7 +7580,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.8",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -7342,7 +7685,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#TEXSUBIMAGE2D",
+            "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -7494,7 +7841,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform1fv": {
@@ -7545,7 +7895,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform1i": {
@@ -7596,7 +7949,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform1iv": {
@@ -7647,7 +8003,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform2f": {
@@ -7698,7 +8057,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform2fv": {
@@ -7749,7 +8111,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform2i": {
@@ -7800,7 +8165,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform2iv": {
@@ -7851,7 +8219,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform3f": {
@@ -7902,7 +8273,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform3fv": {
@@ -7953,7 +8327,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform3i": {
@@ -8004,7 +8381,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform3iv": {
@@ -8055,7 +8435,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform4f": {
@@ -8106,7 +8489,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform4fv": {
@@ -8157,7 +8543,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform4i": {
@@ -8208,7 +8597,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniform4iv": {
@@ -8259,7 +8651,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "uniformMatrix2fv": {
@@ -8310,7 +8705,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -8462,7 +8860,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -8614,7 +9015,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         },
         "WebGL2": {
           "__compat": {
@@ -8766,7 +9170,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "validateProgram": {
@@ -8817,7 +9224,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.9"
+          ]
         }
       },
       "vertexAttrib1f": {
@@ -8868,7 +9278,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "vertexAttrib1fv": {
@@ -8919,7 +9332,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -9021,7 +9437,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "vertexAttrib2fv": {
@@ -9072,7 +9491,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -9174,7 +9596,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "vertexAttrib3fv": {
@@ -9225,7 +9650,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -9327,7 +9755,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "vertexAttrib4fv": {
@@ -9378,7 +9809,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -9480,7 +9914,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.10"
+          ]
         }
       },
       "viewport": {
@@ -9531,7 +9968,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.14.4"
+          ]
         }
       }
     }

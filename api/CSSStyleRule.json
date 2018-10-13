@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom/#the-cssstylerule-interface"
+        ]
       },
       "selectorText": {
         "__compat": {
@@ -106,7 +109,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom/#dom-cssstylerule-selectortext"
+          ]
         }
       },
       "style": {

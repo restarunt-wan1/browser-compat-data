@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-backgrounds-3/#the-background-attachment",
+            "https://www.w3.org/TR/CSS2/colors.html#propdef-background-attachment"
+          ]
         },
         "multiple_backgrounds": {
           "__compat": {

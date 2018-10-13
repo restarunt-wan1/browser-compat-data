@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-number-objects"
+          ]
         },
         "EPSILON": {
           "__compat": {
@@ -105,7 +108,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.epsilon"
+            ]
           }
         },
         "MAX_SAFE_INTEGER": {
@@ -159,7 +165,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.max_safe_integer"
+            ]
           }
         },
         "MAX_VALUE": {
@@ -213,7 +222,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.max_value"
+            ]
           }
         },
         "MIN_SAFE_INTEGER": {
@@ -267,7 +279,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.min_safe_integer"
+            ]
           }
         },
         "MIN_VALUE": {
@@ -321,7 +336,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.min_value"
+            ]
           }
         },
         "NEGATIVE_INFINITY": {
@@ -375,7 +393,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.negative_infinity"
+            ]
           }
         },
         "NaN": {
@@ -429,7 +450,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.nan"
+            ]
           }
         },
         "POSITIVE_INFINITY": {
@@ -483,7 +507,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.positive_infinity"
+            ]
           }
         },
         "isFinite": {
@@ -537,7 +564,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.isfinite"
+            ]
           }
         },
         "isInteger": {
@@ -591,7 +621,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.isinteger"
+            ]
           }
         },
         "isNaN": {
@@ -645,7 +678,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.isnan"
+            ]
           }
         },
         "isSafeInteger": {
@@ -699,7 +735,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.issafeinteger"
+            ]
           }
         },
         "parseFloat": {
@@ -753,7 +792,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.parsefloat"
+            ]
           }
         },
         "parseInt": {
@@ -807,7 +849,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.parseint"
+            ]
           }
         },
         "prototype": {
@@ -861,7 +906,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-properties-of-the-number-prototype-object"
+            ]
           }
         },
         "toExponential": {
@@ -915,7 +963,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.prototype.toexponential"
+            ]
           }
         },
         "toFixed": {
@@ -969,7 +1020,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.prototype.tofixed"
+            ]
           }
         },
         "toInteger": {
@@ -1079,7 +1133,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.prototype.tolocalestring",
+              "https://tc39.github.io/ecma402/#sec-Number.prototype.toLocaleString"
+            ]
           },
           "locales": {
             "__compat": {
@@ -1239,7 +1297,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.prototype.toprecision"
+            ]
           }
         },
         "toSource": {
@@ -1347,7 +1408,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.prototype.tostring"
+            ]
           }
         },
         "valueOf": {
@@ -1401,7 +1465,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-number.prototype.valueof"
+            ]
           }
         }
       }

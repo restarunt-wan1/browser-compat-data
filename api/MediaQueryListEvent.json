@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom-view/#mediaquerylistevent"
+        ]
       },
       "MediaQueryListEvent": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mediaquerylistevent-mediaquerylistevent"
+          ]
         }
       },
       "matches": {
@@ -150,7 +156,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mediaquerylistevent-matches"
+          ]
         }
       },
       "media": {
@@ -201,7 +210,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mediaquerylistevent-media"
+          ]
         }
       }
     }

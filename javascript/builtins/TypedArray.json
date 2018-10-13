@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-typedarray-objects"
+          ]
         },
         "constructor_without_arguments": {
           "__compat": {
@@ -380,7 +383,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-typedarray.bytes_per_element"
+            ]
           }
         },
         "buffer": {
@@ -434,7 +440,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-%typedarray%.prototype.buffer"
+            ]
           }
         },
         "byteLength": {
@@ -488,7 +497,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-%typedarray%.prototype.bytelength"
+            ]
           }
         },
         "byteOffset": {
@@ -542,7 +554,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-%typedarray%.prototype.byteoffset"
+            ]
           }
         },
         "copyWithin": {
@@ -596,7 +611,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.copywithin"
+            ]
           }
         },
         "entries": {
@@ -650,7 +668,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.entries"
+            ]
           }
         },
         "every": {
@@ -704,7 +725,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.every"
+            ]
           }
         },
         "fill": {
@@ -758,7 +782,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.fill"
+            ]
           }
         },
         "filter": {
@@ -812,7 +839,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.filter"
+            ]
           }
         },
         "find": {
@@ -866,7 +896,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.find"
+            ]
           }
         },
         "findIndex": {
@@ -920,7 +953,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.findindex"
+            ]
           }
         },
         "forEach": {
@@ -974,7 +1010,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.foreach"
+            ]
           }
         },
         "from": {
@@ -1028,7 +1067,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.from"
+            ]
           }
         },
         "includes": {
@@ -1093,7 +1135,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.includes"
+            ]
           }
         },
         "indexOf": {
@@ -1149,7 +1194,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.indexof"
+            ]
           }
         },
         "join": {
@@ -1203,7 +1251,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.join"
+            ]
           }
         },
         "keys": {
@@ -1257,7 +1308,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.keys"
+            ]
           }
         },
         "lastIndexOf": {
@@ -1313,7 +1367,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.lastindexof"
+            ]
           }
         },
         "length": {
@@ -1367,7 +1424,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-%typedarray%.prototype.length"
+            ]
           }
         },
         "map": {
@@ -1421,7 +1481,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.map"
+            ]
           }
         },
         "move": {
@@ -1533,7 +1596,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-properties-of-the-typedarray-constructors"
+            ]
           }
         },
         "of": {
@@ -1587,7 +1653,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.of"
+            ]
           }
         },
         "prototype": {
@@ -1641,7 +1710,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-properties-of-the-%typedarrayprototype%-object"
+            ]
           }
         },
         "reduce": {
@@ -1695,7 +1767,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.reduce"
+            ]
           }
         },
         "reduceRight": {
@@ -1749,7 +1824,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.reduceRight"
+            ]
           }
         },
         "reverse": {
@@ -1803,7 +1881,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.reverse"
+            ]
           }
         },
         "set": {
@@ -1857,7 +1938,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.set-array-offset"
+            ]
           }
         },
         "slice": {
@@ -1911,7 +1995,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.slice"
+            ]
           }
         },
         "some": {
@@ -1965,7 +2052,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.some"
+            ]
           }
         },
         "sort": {
@@ -2019,7 +2109,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.sort"
+            ]
           }
         },
         "subarray": {
@@ -2073,7 +2166,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.subarray"
+            ]
           }
         },
         "toLocaleString": {
@@ -2127,7 +2223,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.tolocalestring"
+            ]
           }
         },
         "toString": {
@@ -2181,7 +2280,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.tostring"
+            ]
           }
         },
         "values": {
@@ -2235,7 +2337,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype.values"
+            ]
           }
         },
         "@@iterator": {
@@ -2317,7 +2422,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-%typedarray%.prototype-@@iterator"
+            ]
           }
         },
         "@@species": {
@@ -2382,7 +2490,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-%typedarray%-@@species"
+            ]
           }
         }
       }

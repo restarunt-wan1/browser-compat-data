@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://webaudio.github.io/web-audio-api/#the-mediastreamaudiosourcenode-interface"
+        ]
       },
       "MediaStreamAudioSourceNode": {
         "__compat": {
@@ -102,7 +105,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#idl-def-MediaStreamAudioSourceNode"
+          ]
         }
       },
       "mediaStream": {

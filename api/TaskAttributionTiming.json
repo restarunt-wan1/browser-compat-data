@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/longtasks/#sec-TaskAttributionTiming"
+        ]
       },
       "containerId": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/longtasks/#dom-taskattributiontiming-containerid"
+          ]
         }
       },
       "containerName": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/longtasks/#dom-taskattributiontiming-containername"
+          ]
         }
       },
       "containerSrc": {
@@ -200,7 +209,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/longtasks/#dom-taskattributiontiming-containersrc"
+          ]
         }
       },
       "containerType": {
@@ -251,7 +263,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/longtasks/#dom-taskattributiontiming-containertype"
+          ]
         }
       }
     }

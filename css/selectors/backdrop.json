@@ -59,7 +59,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fullscreen.spec.whatwg.org/#::backdrop-pseudo-element"
+          ]
         },
         "dialog": {
           "__compat": {

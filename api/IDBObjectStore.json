@@ -84,7 +84,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/IndexedDB/#idl-def-IDBObjectStore",
+          "https://w3c.github.io/IndexedDB/#object-store-interface"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -221,7 +225,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-autoIncrement",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-autoincrement"
+          ]
         }
       },
       "indexNames": {
@@ -308,7 +316,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-indexNames",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-indexnames"
+          ]
         }
       },
       "keyPath": {
@@ -395,7 +407,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-keyPath",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-keypath"
+          ]
         }
       },
       "name": {
@@ -482,7 +498,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-name",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-name"
+          ]
         },
         "renaming_through_name_setter": {
           "__compat": {
@@ -620,7 +640,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-transaction",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-transaction"
+          ]
         }
       },
       "add": {
@@ -707,7 +731,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-add-IDBRequest-any-value-any-key",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-add"
+          ]
         }
       },
       "clear": {
@@ -794,7 +822,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-clear-IDBRequest",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-clear"
+          ]
         }
       },
       "count": {
@@ -881,7 +913,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-count-IDBRequest-any-key",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-count"
+          ]
         }
       },
       "createIndex": {
@@ -968,7 +1004,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-createIndex-IDBIndex-DOMString-name-DOMString-sequence-DOMString--keyPath-IDBIndexParameters-optionalParameters",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-createindex"
+          ]
         }
       },
       "delete": {
@@ -1055,7 +1095,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-delete-IDBRequest-any-key",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-delete"
+          ]
         }
       },
       "deleteIndex": {
@@ -1142,7 +1186,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-deleteIndex-void-DOMString-indexName",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-deleteindex"
+          ]
         }
       },
       "get": {
@@ -1229,7 +1277,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-get-IDBRequest-any-key",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-get"
+          ]
         }
       },
       "getAll": {
@@ -1286,7 +1338,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-getall"
+          ]
         }
       },
       "getAllKeys": {
@@ -1337,7 +1392,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-getallkeys"
+          ]
         }
       },
       "getKey": {
@@ -1388,7 +1446,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-getkey"
+          ]
         }
       },
       "index": {
@@ -1475,7 +1536,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-index-IDBIndex-DOMString-name",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-index"
+          ]
         }
       },
       "openCursor": {
@@ -1562,7 +1627,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBIndex-openCursor-IDBRequest-any-range-IDBCursorDirection-direction",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-opencursor"
+          ]
         }
       },
       "openKeyCursor": {
@@ -1648,7 +1717,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-openkeycursor"
+          ]
         }
       },
       "put": {
@@ -1735,7 +1807,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBObjectStore-put-IDBRequest-any-value-any-key",
+            "https://w3c.github.io/IndexedDB/#dom-idbobjectstore-put"
+          ]
         }
       }
     }

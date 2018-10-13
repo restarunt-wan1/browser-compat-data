@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-reflect-object"
+          ]
         },
         "apply": {
           "__compat": {
@@ -105,7 +108,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.apply"
+            ]
           }
         },
         "construct": {
@@ -159,7 +165,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.construct"
+            ]
           }
         },
         "defineProperty": {
@@ -213,7 +222,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.defineproperty"
+            ]
           }
         },
         "deleteProperty": {
@@ -267,7 +279,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.deleteproperty"
+            ]
           }
         },
         "enumerate": {
@@ -376,7 +391,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.get"
+            ]
           }
         },
         "getOwnPropertyDescriptor": {
@@ -430,7 +448,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.getownpropertydescriptor"
+            ]
           }
         },
         "getPrototypeOf": {
@@ -484,7 +505,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.getprototypeof"
+            ]
           }
         },
         "has": {
@@ -538,7 +562,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.has"
+            ]
           }
         },
         "isExtensible": {
@@ -592,7 +619,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.isextensible"
+            ]
           }
         },
         "ownKeys": {
@@ -646,7 +676,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.ownkeys"
+            ]
           }
         },
         "preventExtensions": {
@@ -700,7 +733,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.preventextensions"
+            ]
           }
         },
         "set": {
@@ -754,7 +790,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.set"
+            ]
           }
         },
         "setPrototypeOf": {
@@ -808,7 +847,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-reflect.setprototypeof"
+            ]
           }
         }
       }

@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-treewalker"
+        ]
       },
       "currentNode": {
         "__compat": {
@@ -92,7 +95,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-currentnode"
+          ]
         }
       },
       "expandEntityReferences": {
@@ -190,7 +196,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-filter"
+          ]
         }
       },
       "root": {
@@ -238,7 +247,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-root"
+          ]
         }
       },
       "whatToShow": {
@@ -286,7 +298,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-whattoshow"
+          ]
         }
       },
       "firstChild": {
@@ -334,7 +349,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-firstchild"
+          ]
         }
       },
       "lastChild": {
@@ -382,7 +400,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-lastchild"
+          ]
         }
       },
       "nextNode": {
@@ -430,7 +451,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-nextnode"
+          ]
         }
       },
       "nextSibling": {
@@ -478,7 +502,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-nextsibling"
+          ]
         }
       },
       "parentNode": {
@@ -526,7 +553,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-parentnode"
+          ]
         }
       },
       "previousNode": {
@@ -574,7 +604,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-previousnode"
+          ]
         }
       },
       "previousSibling": {
@@ -622,7 +655,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-treewalker-previoussibling"
+          ]
         }
       }
     }

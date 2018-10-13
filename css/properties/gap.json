@@ -60,7 +60,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-gap"
+            ]
           }
         },
         "grid_context": {
@@ -224,7 +227,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-gap"
+            ]
           },
           "percentage_values": {
             "__compat": {
@@ -405,7 +411,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-gap"
+            ]
           }
         }
       }

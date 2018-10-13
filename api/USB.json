@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://wicg.github.io/webusb/#enumeration"
+        ]
       },
       "onconnect": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usb-onconnect"
+          ]
         }
       },
       "ondisconnect": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usb-ondisconnect"
+          ]
         }
       },
       "getDevices": {
@@ -200,7 +209,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usb-getdevices"
+          ]
         }
       },
       "requestDevice": {
@@ -251,7 +263,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/webusb/#dom-usb-requestdevice-options-options"
+          ]
         }
       }
     }

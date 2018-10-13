@@ -50,7 +50,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-4/#id-selectors",
+            "https://drafts.csswg.org/selectors-3/#id-selectors",
+            "https://www.w3.org/TR/CSS2/selector.html#id-selectors"
+          ]
         }
       }
     }

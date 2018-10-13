@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmlinputelement"
+        ]
       },
       "autocomplete": {
         "__compat": {
@@ -1156,7 +1159,10 @@
             "deprecated": false,
             "experimental": false,
             "standard_track": true
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/forms.html#dom-textarea/input-setselectionrange"
+          ]
         }
       },
       "stepDown": {

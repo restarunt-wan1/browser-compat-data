@@ -45,7 +45,12 @@
           "deprecated": false,
           "experimental": false,
           "standard_track": true
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute",
+          "https://drafts.csswg.org/cssom-view/#excensions-to-the-htmlimageelement-interface",
+          "https://html.spec.whatwg.org/multipage/#htmlimageelement"
+        ]
       },
       "Image": {
         "__compat": {
@@ -90,7 +95,10 @@
             "deprecated": false,
             "standard_track": true,
             "experimental": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-image"
+          ]
         }
       },
       "complete": {
@@ -300,7 +308,10 @@
             "deprecated": false,
             "experimental": false,
             "standard_track": true
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-img-decoding"
+          ]
         }
       },
       "lowSrc": {
@@ -532,7 +543,10 @@
             "deprecated": false,
             "experimental": false,
             "standard_track": true
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+          ]
         }
       },
       "sizes": {

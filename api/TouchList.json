@@ -51,7 +51,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/touch-events/#touchlist-interface",
+          "https://www.w3.org/TR/touch-events/#touchlist-interface"
+        ]
       },
       "length": {
         "__compat": {
@@ -104,7 +108,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/touch-events/#widl-TouchList-length",
+            "https://www.w3.org/TR/touch-events/#widl-TouchList-length"
+          ]
         }
       },
       "identifiedTouch": {
@@ -206,7 +214,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/touch-events/#widl-TouchList-item-getter-Touch-unsigned-long-index",
+            "https://www.w3.org/TR/touch-events/#widl-TouchList-item-getter-Touch-unsigned-long-index"
+          ]
         }
       }
     }

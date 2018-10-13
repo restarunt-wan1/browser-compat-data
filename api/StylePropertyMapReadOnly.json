@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.css-houdini.org/css-typed-om-1/#stylepropertymapreadonly"
+        ]
       },
       "@@iterator": {
         "__compat": {
@@ -149,7 +152,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#the-stylepropertymap"
+          ]
         }
       },
       "forEach": {
@@ -200,7 +206,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#the-stylepropertymap"
+          ]
         }
       },
       "get": {
@@ -251,7 +260,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymapreadonly-get"
+          ]
         }
       },
       "getAll": {
@@ -302,7 +314,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymapreadonly-getall"
+          ]
         }
       },
       "has": {
@@ -353,7 +368,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymapreadonly-has"
+          ]
         }
       },
       "keys": {
@@ -404,7 +422,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#the-stylepropertymap"
+          ]
         }
       },
       "size": {
@@ -455,7 +476,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymapreadonly-size"
+          ]
         }
       },
       "values": {
@@ -506,7 +530,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#the-stylepropertymap"
+          ]
         }
       }
     }

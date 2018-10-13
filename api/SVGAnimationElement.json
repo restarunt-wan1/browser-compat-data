@@ -45,7 +45,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://svgwg.org/specs/animations/#InterfaceSVGAnimationElement",
+          "https://www.w3.org/TR/SVG11/animate.html#InterfaceSVGAnimationElement"
+        ]
       },
       "onbegin": {
         "__compat": {
@@ -92,7 +96,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/specs/animations/#__svg__SVGAnimationElement__onbegin"
+          ]
         }
       },
       "onend": {
@@ -140,7 +147,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/specs/animations/#__svg__SVGAnimationElement__onend"
+          ]
         }
       },
       "onrepeat": {
@@ -188,7 +198,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/specs/animations/#__svg__SVGAnimationElement__onrepeat"
+          ]
         }
       },
       "targetElement": {
@@ -236,7 +249,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/specs/animations/#__svg__SVGAnimationElement__targetElement",
+            "https://www.w3.org/TR/SVG11/animate.html#__svg__SVGAnimationElement__targetElement"
+          ]
         }
       }
     }

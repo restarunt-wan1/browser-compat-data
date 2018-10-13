@@ -50,7 +50,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-counter-styles-3/#the-counter-style-rule"
+          ]
         },
         "additive-symbols": {
           "__compat": {
@@ -101,7 +104,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#counter-style-symbols"
+            ]
           }
         },
         "fallback": {
@@ -153,7 +159,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#counter-style-fallback"
+            ]
           }
         },
         "negative": {
@@ -205,7 +214,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#counter-style-system"
+            ]
           }
         },
         "pad": {
@@ -257,7 +269,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#descdef-counter-style-pad"
+            ]
           }
         },
         "prefix": {
@@ -309,7 +324,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#descdef-counter-style-prefix"
+            ]
           }
         },
         "range": {
@@ -361,7 +379,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#counter-style-range"
+            ]
           }
         },
         "speak-as": {
@@ -413,7 +434,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#counter-style-speak-as"
+            ]
           }
         },
         "suffix": {
@@ -465,7 +489,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#descdef-counter-style-suffix"
+            ]
           }
         },
         "symbols": {
@@ -517,7 +544,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#counter-style-symbols"
+            ]
           }
         },
         "system": {
@@ -569,7 +599,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-counter-styles-3/#counter-style-system"
+            ]
           }
         }
       }

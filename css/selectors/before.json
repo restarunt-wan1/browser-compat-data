@@ -114,7 +114,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-pseudo-4/#selectordef-before",
+            "https://drafts.csswg.org/css-transitions/#animatable-properties",
+            "https://drafts.csswg.org/selectors-3/#gen-content",
+            "https://www.w3.org/TR/CSS2/generate.html#before-after-content"
+          ]
         },
         "animation_and_transition_support": {
           "__compat": {

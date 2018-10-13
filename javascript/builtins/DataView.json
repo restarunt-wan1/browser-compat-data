@@ -52,7 +52,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-dataview-constructor"
+          ]
         },
         "new_required": {
           "__compat": {
@@ -213,7 +216,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-dataview.prototype.buffer"
+            ]
           },
           "sharedarraybuffer_support": {
             "__compat": {
@@ -321,7 +327,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-dataview.prototype.bytelength"
+            ]
           }
         },
         "byteOffset": {
@@ -375,7 +384,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-dataview.prototype.byteoffset"
+            ]
           }
         },
         "getFloat32": {
@@ -429,7 +441,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.getfloat32"
+            ]
           }
         },
         "getFloat64": {
@@ -483,7 +498,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.getfloat64"
+            ]
           }
         },
         "getInt16": {
@@ -537,7 +555,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.getint16"
+            ]
           }
         },
         "getInt32": {
@@ -591,7 +612,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.getint32"
+            ]
           }
         },
         "getInt8": {
@@ -645,7 +669,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.getint8"
+            ]
           }
         },
         "getUint16": {
@@ -699,7 +726,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.getuint16"
+            ]
           }
         },
         "getUint32": {
@@ -753,7 +783,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.getuint32"
+            ]
           }
         },
         "getUint8": {
@@ -807,7 +840,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.getuint8"
+            ]
           }
         },
         "setFloat32": {
@@ -861,7 +897,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.setfloat32"
+            ]
           }
         },
         "setFloat64": {
@@ -915,7 +954,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.setfloat64"
+            ]
           }
         },
         "setInt16": {
@@ -969,7 +1011,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.setint16"
+            ]
           }
         },
         "setInt32": {
@@ -1023,7 +1068,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.setint32"
+            ]
           }
         },
         "setInt8": {
@@ -1077,7 +1125,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.setint8"
+            ]
           }
         },
         "setUint16": {
@@ -1131,7 +1182,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.setuint16"
+            ]
           }
         },
         "setUint32": {
@@ -1185,7 +1239,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.setuint32"
+            ]
           }
         },
         "setUint8": {
@@ -1239,7 +1296,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype.setuint8"
+            ]
           }
         },
         "prototype": {
@@ -1293,7 +1353,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-dataview.prototype"
+            ]
           }
         }
       }

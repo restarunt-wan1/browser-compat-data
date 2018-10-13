@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/embedded-content.html#time-ranges"
+        ]
       },
       "end": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-timeranges-end"
+          ]
         }
       },
       "length": {
@@ -149,7 +155,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-timeranges-length"
+          ]
         }
       },
       "start": {
@@ -200,7 +209,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-timeranges-start"
+          ]
         }
       }
     }

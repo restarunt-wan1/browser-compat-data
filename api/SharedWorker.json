@@ -50,7 +50,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#sharedworker"
+        ]
       },
       "SharedWorker": {
         "__compat": {
@@ -103,7 +106,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-sharedworker"
+          ]
         },
         "name_option": {
           "__compat": {
@@ -207,7 +213,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-sharedworker-port"
+          ]
         }
       }
     }

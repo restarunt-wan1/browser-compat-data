@@ -69,7 +69,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/web-animations/#the-animation-interface"
+        ]
       },
       "Animation": {
         "__compat": {
@@ -146,7 +149,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-animation"
+          ]
         }
       },
       "cancel": {
@@ -223,7 +229,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-cancel"
+          ]
         }
       },
       "currentTime": {
@@ -300,7 +309,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-currenttime"
+          ]
         }
       },
       "effect": {
@@ -454,7 +466,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-finish"
+          ]
         }
       },
       "finished": {
@@ -529,7 +544,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-finished"
+          ]
         }
       },
       "id": {
@@ -606,7 +624,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-id"
+          ]
         }
       },
       "oncancel": {
@@ -683,7 +704,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-oncancel"
+          ]
         }
       },
       "onfinish": {
@@ -760,7 +784,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-onfinish"
+          ]
         }
       },
       "pause": {
@@ -837,7 +864,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-pause"
+          ]
         }
       },
       "pending": {
@@ -890,7 +920,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-currenttime"
+          ]
         }
       },
       "play": {
@@ -967,7 +1000,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-play"
+          ]
         }
       },
       "playbackRate": {
@@ -1044,7 +1080,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-playbackrate"
+          ]
         }
       },
       "playState": {
@@ -1128,7 +1167,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#play-state"
+          ]
         }
       },
       "ready": {
@@ -1203,7 +1245,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-ready"
+          ]
         }
       },
       "reverse": {
@@ -1280,7 +1325,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-reverse"
+          ]
         }
       },
       "startTime": {
@@ -1357,7 +1405,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-starttime"
+          ]
         }
       },
       "timeline": {
@@ -1450,7 +1501,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-timeline"
+          ]
         }
       },
       "updatePlaybackRate": {
@@ -1501,7 +1555,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-animation-updatePlaybackRate"
+          ]
         }
       }
     }

@@ -74,7 +74,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmlpictureelement"
+        ]
       }
     }
   }

@@ -54,7 +54,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/geolocation-API/#coordinates"
+        ]
       },
       "secure_context_required": {
         "__compat": {
@@ -161,7 +164,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#accuracy"
+          ]
         }
       },
       "altitude": {
@@ -218,7 +224,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#altitude"
+          ]
         }
       },
       "altitudeAccuracy": {
@@ -275,7 +284,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#altitudeaccuracy"
+          ]
         }
       },
       "heading": {
@@ -332,7 +344,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#heading"
+          ]
         }
       },
       "latitude": {
@@ -389,7 +404,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#lat"
+          ]
         }
       },
       "longitude": {
@@ -446,7 +464,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#lon"
+          ]
         }
       },
       "speed": {
@@ -503,7 +524,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#speed"
+          ]
         }
       }
     }

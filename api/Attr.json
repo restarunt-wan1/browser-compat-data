@@ -50,7 +50,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-attr"
+        ]
       },
       "localName": {
         "__compat": {
@@ -91,7 +94,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-attr-localname"
+          ]
         }
       },
       "namespaceURI": {
@@ -133,7 +139,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-attr-namespaceuri"
+          ]
         }
       },
       "prefix": {
@@ -178,7 +187,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-attr-prefixr"
+          ]
         }
       }
     }

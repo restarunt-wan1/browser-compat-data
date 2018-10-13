@@ -46,7 +46,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.fxtf.org/filter-effects/#feFloodElement",
+            "https://www.w3.org/TR/SVG11/filters.html#feFloodElement"
+          ]
         },
         "flood-color": {
           "__compat": {

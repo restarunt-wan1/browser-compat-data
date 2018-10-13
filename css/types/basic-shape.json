@@ -64,7 +64,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+          ]
         },
         "inset": {
           "__compat": {
@@ -129,7 +132,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+            ]
           }
         },
         "circle": {
@@ -195,7 +201,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+            ]
           }
         },
         "polygon": {
@@ -261,7 +270,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+            ]
           }
         },
         "path": {
@@ -343,7 +355,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+            ]
           }
         },
         "animation": {
@@ -409,7 +424,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+            ]
           }
         }
       }

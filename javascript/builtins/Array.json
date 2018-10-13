@@ -105,7 +105,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.concat"
+            ]
           }
         },
         "copyWithin": {
@@ -159,7 +162,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.copywithin"
+            ]
           }
         },
         "entries": {
@@ -213,7 +219,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.entries"
+            ]
           }
         },
         "every": {
@@ -267,7 +276,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.every"
+            ]
           }
         },
         "fill": {
@@ -332,7 +344,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.fill"
+            ]
           }
         },
         "filter": {
@@ -386,7 +401,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.filter"
+            ]
           }
         },
         "find": {
@@ -451,7 +469,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.find"
+            ]
           }
         },
         "findIndex": {
@@ -516,7 +537,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.findIndex"
+            ]
           }
         },
         "flat": {
@@ -570,7 +594,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/proposal-flatMap/#sec-Array.prototype.flat"
+            ]
           }
         },
         "flatMap": {
@@ -624,7 +651,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/proposal-flatMap/#sec-Array.prototype.flatMap"
+            ]
           }
         },
         "forEach": {
@@ -678,7 +708,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.foreach"
+            ]
           }
         },
         "from": {
@@ -732,7 +765,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.from"
+            ]
           }
         },
         "includes": {
@@ -797,7 +833,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.includes"
+            ]
           }
         },
         "indexOf": {
@@ -851,7 +890,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.indexof"
+            ]
           }
         },
         "isArray": {
@@ -905,7 +947,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.isarray"
+            ]
           }
         },
         "join": {
@@ -959,7 +1004,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.join"
+            ]
           }
         },
         "keys": {
@@ -1013,7 +1061,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.keys"
+            ]
           }
         },
         "lastIndexOf": {
@@ -1067,7 +1118,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.lastindexof"
+            ]
           }
         },
         "length": {
@@ -1121,7 +1175,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-properties-of-array-instances-length"
+            ]
           }
         },
         "map": {
@@ -1175,7 +1232,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.map"
+            ]
           }
         },
         "observe": {
@@ -1284,7 +1344,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.of"
+            ]
           }
         },
         "pop": {
@@ -1338,7 +1401,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.pop"
+            ]
           }
         },
         "prototype": {
@@ -1446,7 +1512,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.push"
+            ]
           }
         },
         "reduce": {
@@ -1500,7 +1569,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.reduce"
+            ]
           }
         },
         "reduceRight": {
@@ -1554,7 +1626,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.reduceright"
+            ]
           }
         },
         "reverse": {
@@ -1608,7 +1683,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.reverse"
+            ]
           }
         },
         "shift": {
@@ -1662,7 +1740,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.shift"
+            ]
           }
         },
         "slice": {
@@ -1716,7 +1797,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.slice"
+            ]
           }
         },
         "some": {
@@ -1770,7 +1854,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.some"
+            ]
           }
         },
         "sort": {
@@ -1824,7 +1911,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.sort"
+            ]
           }
         },
         "splice": {
@@ -1878,7 +1968,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.splice"
+            ]
           }
         },
         "toLocaleString": {
@@ -1932,7 +2025,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.tolocalestring",
+              "https://tc39.github.io/ecma402/#sup-array.prototype.tolocalestring"
+            ]
           },
           "locales": {
             "__compat": {
@@ -2148,7 +2245,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.tostring"
+            ]
           }
         },
         "unobserve": {
@@ -2257,7 +2357,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.unshift"
+            ]
           }
         },
         "values": {
@@ -2327,7 +2430,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype.values"
+            ]
           }
         },
         "@@iterator": {
@@ -2409,7 +2515,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype-@@iterator"
+            ]
           }
         },
         "@@species": {
@@ -2474,7 +2583,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-get-array-@@species"
+            ]
           }
         },
         "@@unscopables": {
@@ -2528,7 +2640,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-array.prototype-@@unscopables"
+            ]
           }
         }
       }

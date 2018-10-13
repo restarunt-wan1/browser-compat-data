@@ -50,7 +50,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-pseudo-4/#marker-pseudo",
+            "https://drafts.csswg.org/css-lists-3/#marker-pseudo"
+          ]
         }
       }
     }

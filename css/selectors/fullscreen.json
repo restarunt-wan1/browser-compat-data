@@ -85,7 +85,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fullscreen.spec.whatwg.org/#:fullscreen-pseudo-class"
+          ]
         },
         "all_elements": {
           "__compat": {

@@ -52,7 +52,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-4/#nth-child-pseudo",
+            "https://drafts.csswg.org/selectors-3/#nth-child-pseudo"
+          ]
         },
         "of_syntax": {
           "__compat": {

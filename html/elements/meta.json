@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-meta",
+            "https://html.spec.whatwg.org/multipage/semantics.html#the-meta-element"
+          ]
         },
         "charset": {
           "__compat": {

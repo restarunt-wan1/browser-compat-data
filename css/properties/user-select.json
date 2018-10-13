@@ -122,7 +122,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-ui-4/#propdef-user-select"
+          ]
         },
         "auto": {
           "__compat": {

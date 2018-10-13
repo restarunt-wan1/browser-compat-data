@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/server-timing/#the-dfn-performanceservertiming-dfn-interface"
+        ]
       },
       "description": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/server-timing/#dom-performanceservertiming-description"
+          ]
         }
       },
       "duration": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/server-timing/#dom-performanceservertiming-duration"
+          ]
         }
       },
       "name": {
@@ -200,7 +209,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/server-timing/#dom-performanceservertiming-name"
+          ]
         }
       },
       "toJSON": {

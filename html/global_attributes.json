@@ -49,7 +49,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#the-accesskey-attribute"
+          ]
         }
       },
       "autocapitalize": {
@@ -109,7 +112,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#autocapitalization"
+          ]
         }
       },
       "class": {
@@ -160,7 +166,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/elements.html#classes"
+          ]
         }
       },
       "contenteditable": {
@@ -208,7 +217,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/editing/contentEditable.html#contenteditable",
+            "https://html.spec.whatwg.org/multipage/editing.html#attr-contenteditable"
+          ]
         },
         "events": {
           "__compat": {
@@ -559,7 +572,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes"
+          ]
         }
       },
       "dir": {
@@ -610,7 +626,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/dom.html#the-dir-attribute"
+          ]
         }
       },
       "draggable": {
@@ -658,7 +677,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#the-draggable-attribute"
+          ]
         }
       },
       "dropzone": {
@@ -766,7 +788,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#the-hidden-attribute",
+            "https://html.spec.whatwg.org/multipage/rendering.html#hiddenCSS"
+          ]
         }
       },
       "id": {
@@ -833,7 +859,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/dom.html#the-id-attribute"
+          ]
         }
       },
       "is": {
@@ -940,7 +969,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/custom-elements.html#attr-is"
+          ]
         }
       },
       "itemid": {
@@ -991,7 +1023,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/microdata.html#attr-itemid"
+          ]
         }
       },
       "itemprop": {
@@ -1042,7 +1077,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/microdata.html#names:-the-itemprop-attribute"
+          ]
         }
       },
       "itemref": {
@@ -1093,7 +1131,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/microdata.html#attr-itemref"
+          ]
         }
       },
       "itemscope": {
@@ -1144,7 +1185,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/microdata.html#attr-itemscope"
+          ]
         }
       },
       "itemtype": {
@@ -1195,7 +1239,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/microdata.html#attr-itemtype"
+          ]
         }
       },
       "lang": {
@@ -1246,7 +1293,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/dom.html#the-lang-and-xml:lang-attributes"
+          ]
         }
       },
       "slot": {
@@ -1354,7 +1404,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/dom.html#attr-slot",
+            "https://dom.spec.whatwg.org/#dom-element-slot"
+          ]
         }
       },
       "spellcheck": {
@@ -1405,7 +1459,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#spelling-and-grammar-checking"
+          ]
         }
       },
       "style": {
@@ -1456,7 +1513,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/dom.html#the-style-attribute"
+          ]
         }
       },
       "tabindex": {
@@ -1507,7 +1567,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#attr-tabindex"
+          ]
         }
       },
       "title": {
@@ -1558,7 +1621,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/elements.html#the-title-attribute"
+          ]
         },
         "multi-line-support": {
           "__compat": {
@@ -1660,7 +1726,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/dom.html#attr-translate"
+          ]
         }
       }
     }

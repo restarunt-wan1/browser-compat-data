@@ -50,7 +50,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-4/#negation",
+            "https://drafts.csswg.org/selectors-3/#negation"
+          ]
         },
         "selector_list": {
           "__compat": {

@@ -50,7 +50,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-animations/#animation-timing-function",
+            "https://drafts.csswg.org/css-transitions/#transition-timing-function"
+          ]
         },
         "cubic-bezier": {
           "__compat": {

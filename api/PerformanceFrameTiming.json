@@ -43,7 +43,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://wicg.github.io/frame-timing/#performancereframetiming"
+        ]
       }
     }
   }

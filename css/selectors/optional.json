@@ -50,7 +50,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#selector-optional",
+            "https://drafts.csswg.org/selectors-4/#opt-pseudos",
+            "https://drafts.csswg.org/css-ui-3/#pseudo-required-value"
+          ]
         }
       }
     }

@@ -49,7 +49,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/feature-policy/#feature-policy-http-header-field"
+          ]
         },
         "accelerometer": {
           "__compat": {
@@ -424,7 +427,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://fullscreen.spec.whatwg.org/#feature-policy-integration"
+            ]
           }
         },
         "geolocation": {

@@ -54,7 +54,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-4/#first-child-pseudo",
+            "https://drafts.csswg.org/selectors-3/#first-child-pseudo",
+            "https://www.w3.org/TR/CSS2/selector.html#first-child"
+          ]
         },
         "no_parent_required": {
           "__compat": {

@@ -70,7 +70,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#dictdef-mutationobserverinit"
+        ]
       },
       "attributeFilter": {
         "__compat": {
@@ -142,7 +145,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dictdef-mutationobserverinit"
+          ]
         }
       },
       "attributeOldValue": {
@@ -217,7 +223,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserverinit-attributeoldvalue"
+          ]
         }
       },
       "attributes": {
@@ -292,7 +301,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserverinit-attributes"
+          ]
         }
       },
       "characterData": {
@@ -367,7 +379,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserverinit-characterdata"
+          ]
         }
       },
       "characterDataOldValue": {
@@ -442,7 +457,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserverinit-characterdataoldvalue"
+          ]
         }
       },
       "childList": {
@@ -515,7 +533,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserverinit-childlist"
+          ]
         }
       },
       "subtree": {
@@ -588,7 +609,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-mutationobserverinit-subtree"
+          ]
         }
       }
     }

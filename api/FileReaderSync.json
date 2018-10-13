@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/FileAPI/#FileReaderSync"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -140,7 +143,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReaderSync"
+          ]
         }
       },
       "readAsBinaryString": {
@@ -188,7 +194,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReaderSync"
+          ]
         }
       },
       "readAsDataURL": {
@@ -236,7 +245,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReaderSync"
+          ]
         }
       },
       "readAsText": {
@@ -284,7 +296,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/FileAPI/#FileReaderSync"
+          ]
         }
       },
       "service_workers_support": {

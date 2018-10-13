@@ -94,7 +94,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/css-animations/#interface-animationevent"
+        ]
       },
       "AnimationEvent": {
         "__compat": {
@@ -159,7 +162,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-animations/#AnimationEvent-interface"
+          ]
         }
       },
       "animationName": {
@@ -225,7 +231,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-animations/#AnimationEvent-animationName"
+          ]
         }
       },
       "elapsedTime": {
@@ -276,7 +285,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-animations/#AnimationEvent-elapsedTime"
+          ]
         }
       },
       "initAnimationEvent": {
@@ -381,7 +393,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-animations/#AnimationEvent-pseudoElement"
+          ]
         }
       }
     }

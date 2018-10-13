@@ -103,7 +103,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#dom-alert"
+          ]
         }
       },
       "blur": {
@@ -154,7 +157,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-window-blur"
+          ]
         }
       },
       "confirm": {
@@ -210,7 +216,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#dom-confirm"
+          ]
         }
       },
       "cancelAnimationFrame": {
@@ -465,7 +474,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-window-close"
+          ]
         }
       },
       "focus": {
@@ -516,7 +528,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-window-focus"
+          ]
         }
       },
       "ondevicelight": {
@@ -568,7 +583,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ambient-light/#event-handlers"
+          ]
         }
       },
       "convertPointFromNodeToPage": {
@@ -813,7 +831,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/proximity/#device-proximity"
+          ]
         }
       },
       "ongamepadconnected": {
@@ -1046,7 +1067,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/proximity/#user-proximity"
+          ]
         }
       },
       "onvrdisplayactivate": {
@@ -1097,7 +1121,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-window-onvrdisplayactivate"
+          ]
         }
       },
       "onvrdisplayblur": {
@@ -1148,7 +1175,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-window-onvrdisplayblur"
+          ]
         }
       },
       "onvrdisplayconnect": {
@@ -1218,7 +1248,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-window-onvrdisplayconnect"
+          ]
         }
       },
       "onvrdisplaydeactivate": {
@@ -1269,7 +1302,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-window-onvrdisplaydeactivate"
+          ]
         }
       },
       "onvrdisplaydisconnect": {
@@ -1339,7 +1375,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-window-onvrdisplaydisconnect"
+          ]
         }
       },
       "onvrdisplayfocus": {
@@ -1390,7 +1429,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-window-onvrdisplayfocus"
+          ]
         }
       },
       "onvrdisplaypresentchange": {
@@ -1460,7 +1502,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-window-onvrdisplaypresentchange"
+          ]
         }
       },
       "crypto": {
@@ -1512,7 +1557,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-GlobalCrypto"
+          ]
         }
       },
       "customElements": {
@@ -1621,7 +1669,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/custom-elements.html#dom-window-customelements"
+          ]
         }
       },
       "devicePixelRatio": {
@@ -1672,7 +1723,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-devicepixelratio"
+          ]
         }
       },
       "dialogArguments": {
@@ -1774,7 +1828,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-document-2"
+          ]
         }
       },
       "event": {
@@ -1825,7 +1882,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#ref-for-dom-window-event"
+          ]
         }
       },
       "frameElement": {
@@ -1876,7 +1936,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-frameelement"
+          ]
         }
       },
       "frames": {
@@ -1927,7 +1990,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-frames"
+          ]
         }
       },
       "fullScreen": {
@@ -2133,7 +2199,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom/#dom-window-getcomputedstyle"
+          ]
         },
         "pseudo-element_support": {
           "__compat": {
@@ -2339,7 +2408,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/selection-api/#extensions-to-window-interface",
+            "https://w3c.github.io/editing/#dom-window-getselection"
+          ]
         }
       },
       "globalStorage": {
@@ -2442,7 +2515,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#the-history-interface"
+          ]
         }
       },
       "home": {
@@ -2559,7 +2635,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-innerheight"
+          ]
         }
       },
       "innerWidth": {
@@ -2624,7 +2703,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-innerwidth"
+          ]
         }
       },
       "isSecureContext": {
@@ -2777,7 +2859,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-length"
+          ]
         }
       },
       "localStorage": {
@@ -2828,7 +2913,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webstorage.html#dom-localstorage"
+          ]
         }
       },
       "location": {
@@ -2881,7 +2969,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/history.html#the-location-interface"
+          ]
         },
         "window_location_origin": {
           "__compat": {
@@ -2983,7 +3074,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-window-locationbar"
+          ]
         }
       },
       "matchMedia": {
@@ -3034,7 +3128,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-matchmedia"
+          ]
         }
       },
       "maximize": {
@@ -3136,7 +3233,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-window-menubar"
+          ]
         }
       },
       "minimize": {
@@ -3238,7 +3338,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-moveby"
+          ]
         }
       },
       "moveTo": {
@@ -3289,7 +3392,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-moveto"
+          ]
         }
       },
       "mozAnimationStartTime": {
@@ -3544,7 +3650,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-name"
+          ]
         }
       },
       "navigator": {
@@ -3595,7 +3704,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-navigator"
+          ]
         }
       },
       "onappinstalled": {
@@ -3660,7 +3772,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/manifest/#onappinstalled-attribute"
+          ]
         }
       },
       "onbeforeinstallprompt": {
@@ -3711,7 +3826,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/manifest/#onbeforeinstallprompt-attribute"
+          ]
         }
       },
       "ondevicemotion": {
@@ -3864,7 +3982,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/window-object.html#dom-open",
+            "https://drafts.csswg.org/cssom-view/#the-features-argument-to-the-open()-method"
+          ]
         }
       },
       "openDialog": {
@@ -4068,7 +4190,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-outerheight"
+          ]
         }
       },
       "outerWidth": {
@@ -4119,7 +4244,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-outerwidth"
+          ]
         }
       },
       "pageXOffset": {
@@ -4170,7 +4298,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-pagexoffset"
+          ]
         }
       },
       "pageYOffset": {
@@ -4221,7 +4352,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-pageyoffset"
+          ]
         }
       },
       "parent": {
@@ -4323,7 +4457,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/hr-time-1/#the-performance-interface"
+          ]
         }
       },
       "personalbar": {
@@ -4374,7 +4511,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-window-personalbar"
+          ]
         }
       },
       "pkcs11": {
@@ -4511,7 +4651,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/web-messaging.html#dom-window-postmessage"
+          ]
         },
         "transfer_argument_support": {
           "__compat": {
@@ -4614,7 +4757,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#printing"
+          ]
         }
       },
       "prompt": {
@@ -4667,7 +4813,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#dom-prompt"
+          ]
         }
       },
       "releaseEvents": {
@@ -4821,7 +4970,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#animation-frames",
+            "https://www.w3.org/TR/animation-timing/#dom-windowanimationtiming-requestanimationframe"
+          ]
         },
         "return_value": {
           "__compat": {
@@ -5044,7 +5197,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-resizeby"
+          ]
         }
       },
       "resizeTo": {
@@ -5096,7 +5252,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-resizeto"
+          ]
         }
       },
       "restore": {
@@ -5300,7 +5459,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-screen"
+          ]
         }
       },
       "screenX": {
@@ -5353,7 +5515,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-screenx"
+          ]
         }
       },
       "screenY": {
@@ -5406,7 +5571,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-screeny"
+          ]
         }
       },
       "scroll": {
@@ -5457,7 +5625,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-scroll"
+          ]
         }
       },
       "scrollbars": {
@@ -5508,7 +5679,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-window-scrollbars"
+          ]
         }
       },
       "scrollBy": {
@@ -5563,7 +5737,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-scrollby"
+          ]
         }
       },
       "scrollByLines": {
@@ -5818,7 +5995,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-scroll"
+          ]
         }
       },
       "scrollX": {
@@ -5947,7 +6127,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-scrollx"
+          ]
         },
         "subpixel_precision": {
           "__compat": {
@@ -6127,7 +6310,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-window-scrolly"
+          ]
         },
         "subpixel_precision": {
           "__compat": {
@@ -6229,7 +6415,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-self"
+          ]
         }
       },
       "sessionStorage": {
@@ -6280,7 +6469,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webstorage.html#dom-sessionstorage"
+          ]
         }
       },
       "setCursor": {
@@ -6647,7 +6839,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#tts-section"
+          ]
         }
       },
       "status": {
@@ -6749,7 +6944,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-window-statusbar"
+          ]
         }
       },
       "stop": {
@@ -6800,7 +6998,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-window-stop"
+          ]
         }
       },
       "toolbar": {
@@ -6851,7 +7052,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-window-toolbar"
+          ]
         }
       },
       "top": {
@@ -6903,7 +7107,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#dom-top"
+          ]
         }
       },
       "updateCommands": {
@@ -7019,7 +7226,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/visual-viewport/#dom-window-visualviewport"
+          ]
         }
       },
       "window": {
@@ -7070,7 +7280,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-window"
+          ]
         }
       }
     }

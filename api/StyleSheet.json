@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom/#stylesheet"
+        ]
       },
       "disabled": {
         "__compat": {
@@ -92,7 +95,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom/#dom-stylesheet-disabled"
+          ]
         }
       },
       "href": {

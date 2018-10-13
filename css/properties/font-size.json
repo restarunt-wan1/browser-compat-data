@@ -49,7 +49,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-fonts-3/#font-size-prop",
+            "https://drafts.csswg.org/css-transitions/#animatable-css",
+            "https://www.w3.org/TR/CSS2/fonts.html#propdef-font-size"
+          ]
         },
         "rem_values": {
           "__compat": {

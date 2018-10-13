@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/ServiceWorker/#window-client-interface"
+        ]
       },
       "focus": {
         "__compat": {
@@ -100,7 +103,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#client-focus-method"
+          ]
         }
       },
       "navigate": {
@@ -152,7 +158,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#client-navigate-method"
+          ]
         }
       },
       "focused": {
@@ -204,7 +213,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#window-client-interface"
+          ]
         }
       },
       "visibilityState": {
@@ -256,7 +268,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#window-client-interface"
+          ]
         }
       },
       "ancestorOrigins": {

@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": false,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://wicg.github.io/BackgroundSync/spec/#sync-manager-interface"
+        ]
       },
       "worker_support": {
         "__compat": {

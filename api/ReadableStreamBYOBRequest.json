@@ -39,7 +39,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://streams.spec.whatwg.org/#rs-byob-request-class"
+        ]
       },
       "ReadableStreamBYOBRequest": {
         "__compat": {
@@ -81,7 +84,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-byob-request-constructor"
+          ]
         }
       },
       "respond": {
@@ -123,7 +129,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-byob-request-respond"
+          ]
         }
       },
       "respondWithNewView": {
@@ -165,7 +174,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-byob-request-respond-with-new-view"
+          ]
         }
       },
       "view": {
@@ -207,7 +219,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://streams.spec.whatwg.org/#rs-byob-request-view"
+          ]
         }
       }
     }

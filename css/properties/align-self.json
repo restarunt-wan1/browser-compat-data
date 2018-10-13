@@ -119,7 +119,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-align-self",
+              "https://drafts.csswg.org/css-flexbox-1/#propdef-align-self"
+            ]
           },
           "start_end": {
             "__compat": {
@@ -480,7 +484,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-align-self",
+              "https://drafts.csswg.org/css-flexbox-1/#propdef-align-self"
+            ]
           }
         }
       }

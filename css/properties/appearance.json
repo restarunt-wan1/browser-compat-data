@@ -101,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-ui-4/#appearance-switching"
+          ]
         },
         "none": {
           "__compat": {

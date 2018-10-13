@@ -75,7 +75,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.fxtf.org/css-masking-1/#the-mask-type"
+          ]
         },
         "applies_to_html": {
           "__compat": {

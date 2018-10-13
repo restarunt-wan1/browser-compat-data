@@ -63,7 +63,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-transitions/#animatable-css",
+            "https://drafts.csswg.org/css-text-decor-3/#text-shadow"
+          ]
         }
       }
     }

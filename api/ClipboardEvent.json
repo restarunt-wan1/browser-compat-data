@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/clipboard-apis/#clipboard-event-interfaces"
+        ]
       },
       "ClipboardEvent": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/clipboard-apis/#idl-def-ClipboardEventInit"
+          ]
         }
       },
       "clipboardData": {
@@ -150,7 +156,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/clipboard-apis/#widl-ClipboardEvent-clipboardData"
+          ]
         }
       }
     }

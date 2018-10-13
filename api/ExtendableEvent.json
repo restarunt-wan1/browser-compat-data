@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/ServiceWorker/#extendable-event"
+        ]
       },
       "ExtendableEvent": {
         "__compat": {
@@ -101,7 +104,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#extendable-event"
+          ]
         }
       },
       "waitUntil": {
@@ -152,7 +158,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#extendable-event-waituntil-method"
+          ]
         },
         "async_waitUntil": {
           "__compat": {

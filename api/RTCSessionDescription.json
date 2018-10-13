@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webrtc-pc/#rtcsessiondescription-class"
+        ]
       },
       "type": {
         "__compat": {
@@ -100,7 +103,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCSessionDescription-type"
+          ]
         }
       },
       "sdp": {
@@ -152,7 +158,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#widl-RTCSessionDescription-sdp"
+          ]
         }
       },
       "RTCSessionDescription": {
@@ -257,7 +266,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcsessiondescription-tojson"
+          ]
         }
       }
     }

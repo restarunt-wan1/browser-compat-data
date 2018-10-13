@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/webstorage.html#the-storage-interface"
+        ]
       },
       "clear": {
         "__compat": {
@@ -92,7 +95,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webstorage.html#dom-storage-clear"
+          ]
         }
       },
       "getItem": {
@@ -140,7 +146,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webstorage.html#dom-storage-getitem"
+          ]
         }
       },
       "key": {
@@ -188,7 +197,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webstorage.html#dom-storage-key"
+          ]
         }
       },
       "length": {
@@ -236,7 +248,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webstorage.html#dom-storage-length"
+          ]
         }
       },
       "removeItem": {
@@ -284,7 +299,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webstorage.html#dom-storage-removeitem"
+          ]
         }
       },
       "setItem": {
@@ -332,7 +350,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webstorage.html#dom-storage-setitem"
+          ]
         }
       }
     }

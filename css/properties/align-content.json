@@ -127,7 +127,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-align-content",
+              "https://drafts.csswg.org/css-flexbox-1/#align-content"
+            ]
           },
           "space-evenly": {
             "__compat": {
@@ -571,7 +575,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-align-content",
+              "https://drafts.csswg.org/css-flexbox-1/#align-content"
+            ]
           }
         }
       }

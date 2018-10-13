@@ -63,7 +63,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-ui-4/#text-overflow",
+            "https://drafts.csswg.org/css-ui-3/#text-overflow"
+          ]
         },
         "two_value_syntax": {
           "__compat": {

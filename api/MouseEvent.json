@@ -48,7 +48,12 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom-view/#extensions-to-the-mouseevent-interface",
+          "https://w3c.github.io/pointerlock/#extensions-to-the-mouseevent-interface",
+          "https://drafts.csswg.org/cssom-view/#extensions-to-the-mouseevent-interface"
+        ]
       },
       "MouseEvent": {
         "__compat": {
@@ -99,7 +104,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#extensions-to-the-mouseevent-interface"
+          ]
         },
         "region_support": {
           "__compat": {
@@ -420,7 +428,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-clientx"
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -522,7 +533,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-clienty"
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -907,7 +921,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerlock/#widl-MouseEvent-movementX"
+          ]
         }
       },
       "movementY": {
@@ -986,7 +1003,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerlock/#widl-MouseEvent-movementY"
+          ]
         }
       },
       "offsetX": {
@@ -1037,7 +1057,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-offsetx"
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1139,7 +1162,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-offsety"
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1241,7 +1267,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-pagex",
+            "https://www.w3.org/TR/touch-events/#widl-Touch-pageX"
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1343,7 +1373,11 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-pagey",
+            "https://www.w3.org/TR/touch-events/#widl-Touch-pagey"
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1568,7 +1602,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-screenx"
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1670,7 +1707,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-screeny"
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1876,7 +1916,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-x"
+          ]
         }
       },
       "y": {
@@ -1927,7 +1970,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-mouseevent-y"
+          ]
         }
       }
     }

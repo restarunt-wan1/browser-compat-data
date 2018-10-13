@@ -50,7 +50,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://webaudio.github.io/web-audio-api/#ConstantSourceNode"
+        ]
       },
       "ConstantSourceNode": {
         "__compat": {
@@ -101,7 +104,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#ConstantSourceNode"
+          ]
         }
       },
       "offset": {
@@ -156,7 +162,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-ConstantSourceNode-offset"
+          ]
         }
       },
       "onended": {
@@ -211,7 +220,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#idl-def-AudioScheduledSourceNode"
+          ]
         }
       },
       "start": {

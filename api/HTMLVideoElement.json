@@ -48,7 +48,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/media-source/#idl-def-HTMLVideoElement",
+          "https://html.spec.whatwg.org/multipage/#htmlvideoelement"
+        ]
       },
       "height": {
         "__compat": {
@@ -722,7 +726,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-HTMLVideoElement-getVideoPlaybackQuality-VideoPlaybackQualitye"
+          ]
         }
       }
     }

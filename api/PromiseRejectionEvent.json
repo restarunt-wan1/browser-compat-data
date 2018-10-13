@@ -64,7 +64,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/webappapis.html#promiserejectionevent"
+        ]
       },
       "PromiseRejectionEvent": {
         "__compat": {
@@ -130,7 +133,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#the-promiserejectionevent-interface"
+          ]
         }
       },
       "promise": {
@@ -197,7 +203,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-promise"
+          ]
         }
       },
       "reason": {
@@ -264,7 +273,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#dom-promiserejectionevent-reason"
+          ]
         }
       }
     }

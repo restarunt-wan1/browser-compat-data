@@ -45,7 +45,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.fxtf.org/filter-effects/#InterfaceSVGFECompositeElement",
+          "https://www.w3.org/TR/SVG11/filters.html#InterfaceSVGFECompositeElement"
+        ]
       }
     }
   }

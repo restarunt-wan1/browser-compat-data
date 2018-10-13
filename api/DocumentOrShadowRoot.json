@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#mixin-documentorshadowroot"
+        ]
       },
       "activeElement": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-document-activeelement"
+          ]
         }
       },
       "adoptedStyleSheets": {
@@ -200,7 +206,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-document-caretpositionfrompoint"
+          ]
         }
       },
       "elementFromPoint": {
@@ -302,7 +311,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom-view/#dom-document-elementsfrompoint"
+          ]
         }
       },
       "fullscreenElement": {
@@ -396,7 +408,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fullscreen.spec.whatwg.org/#dom-document-fullscreenelement"
+          ]
         }
       },
       "getSelection": {
@@ -498,7 +513,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/pointerlock/#extensions-to-the-documentorshadowroot-mixin"
+          ]
         }
       },
       "styleSheets": {

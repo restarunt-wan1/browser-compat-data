@@ -45,7 +45,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/css-font-loading/#FontFaceSet-interface"
+        ]
       },
       "status": {
         "__compat": {
@@ -332,7 +335,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-font-loading/#font-face-set-check"
+          ]
         }
       },
       "clear": {
@@ -476,7 +482,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-font-loading/#font-face-set-load"
+          ]
         }
       },
       "ready": {
@@ -524,7 +533,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-font-loading/#dom-fontfaceset-ready"
+          ]
         }
       }
     }

@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://webaudio.github.io/web-audio-api/#the-pannernode-interface"
+        ]
       },
       "PannerNode": {
         "__compat": {
@@ -102,7 +105,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#the-pannernode-interface"
+          ]
         }
       },
       "coneInnerAngle": {
@@ -153,7 +159,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-coneInnerAngle"
+          ]
         }
       },
       "coneOuterAngle": {
@@ -204,7 +213,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-coneOuterAngle"
+          ]
         }
       },
       "coneOuterGain": {
@@ -255,7 +267,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-coneOuterGain"
+          ]
         }
       },
       "distanceModel": {
@@ -306,7 +321,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-distanceModel"
+          ]
         }
       },
       "maxDistance": {
@@ -357,7 +375,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-maxDistance"
+          ]
         }
       },
       "orientationX": {
@@ -408,7 +429,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-orientationX"
+          ]
         }
       },
       "orientationY": {
@@ -459,7 +483,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-orientationY"
+          ]
         }
       },
       "orientationZ": {
@@ -510,7 +537,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-orientationZ"
+          ]
         }
       },
       "panningModel": {
@@ -561,7 +591,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-panningModel"
+          ]
         }
       },
       "positionX": {
@@ -612,7 +645,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-positionX"
+          ]
         }
       },
       "positionY": {
@@ -663,7 +699,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-positionY"
+          ]
         }
       },
       "positionZ": {
@@ -714,7 +753,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-positionZ"
+          ]
         }
       },
       "refDistance": {
@@ -765,7 +807,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-refDistance"
+          ]
         }
       },
       "rolloffFactor": {
@@ -816,7 +861,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-rolloffFactor"
+          ]
         }
       },
       "setOrientation": {
@@ -867,7 +915,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-setOrientation-void-double-x-double-y-double-z"
+          ]
         }
       },
       "setPosition": {
@@ -918,7 +969,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-PannerNode-setPosition-void-double-x-double-y-double-z"
+          ]
         }
       },
       "setVelocity": {

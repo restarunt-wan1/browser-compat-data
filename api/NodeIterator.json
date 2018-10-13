@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#nodeiterator"
+        ]
       },
       "expandEntityReferences": {
         "__compat": {
@@ -151,7 +154,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-nodeiterator-filter"
+          ]
         }
       },
       "pointerBeforeReferenceNode": {
@@ -202,7 +208,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-nodeiterator-pointerbeforereferencenode"
+          ]
         }
       },
       "referenceNode": {
@@ -253,7 +262,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-nodeiterator-referencenode"
+          ]
         }
       },
       "root": {
@@ -304,7 +316,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-nodeiterator-root"
+          ]
         }
       },
       "whatToShow": {
@@ -355,7 +370,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-nodeiterator-whattoshow"
+          ]
         }
       },
       "detach": {
@@ -459,7 +477,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-nodeiterator-nextnode"
+          ]
         }
       },
       "previousNode": {
@@ -510,7 +531,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-nodeiterator-previousnode"
+          ]
         }
       }
     }

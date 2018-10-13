@@ -105,7 +105,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-text-decor-3/#text-emphasis-position-property"
+          ]
         },
         "left_and_right": {
           "__compat": {

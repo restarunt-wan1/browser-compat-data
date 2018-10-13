@@ -46,7 +46,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/specs/paths/#PathElement",
+            "https://svgwg.org/svg2-draft/paths.html#PathElement",
+            "https://www.w3.org/TR/SVG11/paths.html#PathElement"
+          ]
         },
         "d": {
           "__compat": {

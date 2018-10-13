@@ -84,7 +84,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/IndexedDB/#idl-def-IDBCursorWithValue",
+          "https://w3c.github.io/IndexedDB/#idbcursorwithvalue"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -200,7 +204,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/IndexedDB/#widl-IDBCursor-source",
+            "https://w3c.github.io/IndexedDB/#database-interface"
+          ]
         }
       }
     }

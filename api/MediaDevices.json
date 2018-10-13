@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/mediacapture-main/#mediadevices"
+        ]
       },
       "ondevicechange": {
         "__compat": {
@@ -114,7 +117,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediadevices-ondevicechange"
+          ]
         }
       },
       "enumerateDevices": {
@@ -171,7 +177,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#mediadevices"
+          ]
         }
       },
       "getSupportedConstraints": {
@@ -222,7 +231,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaDevices-getSupportedConstraints-MediaTrackSupportedConstraints"
+          ]
         }
       },
       "getUserMedia": {
@@ -344,7 +356,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediadevices-getusermedia"
+          ]
         },
         "secure_context_required": {
           "__compat": {

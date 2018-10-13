@@ -117,7 +117,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-transforms/#transform-origin-property"
+          ]
         },
         "three_value_syntax": {
           "__compat": {

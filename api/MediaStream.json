@@ -51,7 +51,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/mediacapture-main/#mediastream"
+        ]
       },
       "MediaStream": {
         "__compat": {
@@ -101,7 +104,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#mediastream"
+          ]
         }
       },
       "active": {
@@ -155,7 +161,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaStream-active"
+          ]
         }
       },
       "ended": {
@@ -276,7 +285,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaStream-id"
+          ]
         }
       },
       "onaddtrack": {
@@ -330,7 +342,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#event-mediastream-addtrack"
+          ]
         }
       },
       "onremovetrack": {
@@ -384,7 +399,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaStream-onremovetrack"
+          ]
         }
       },
       "addTrack": {
@@ -438,7 +456,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaStream-addTrack-void-MediaStreamTrack-track"
+          ]
         }
       },
       "clone": {
@@ -492,7 +513,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaStream-clone-MediaStream"
+          ]
         }
       },
       "getAudioTracks": {
@@ -546,7 +570,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediastream-getaudiotracks"
+          ]
         }
       },
       "getTrackById": {
@@ -600,7 +627,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#widl-MediaStream-getTrackById-MediaStreamTrack-DOMString-trackId"
+          ]
         }
       },
       "getTracks": {
@@ -654,7 +684,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediastream-gettracks"
+          ]
         }
       },
       "getVideoTracks": {
@@ -708,7 +741,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-main/#dom-mediastream-getvideotracks"
+          ]
         }
       },
       "removeTrack": {

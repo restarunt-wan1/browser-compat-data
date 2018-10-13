@@ -63,7 +63,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-scrollbars-1/#scrollbar-width"
+          ]
         }
       }
     }

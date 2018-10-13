@@ -47,7 +47,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/css-conditional-3/#the-cssmediarule-interface",
+          "https://drafts.csswg.org/cssom/#the-cssmediarule-interface"
+        ]
       },
       "media": {
         "__compat": {

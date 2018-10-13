@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/web-animations/#the-keyframeeffect-interfaces"
+        ]
       },
       "KeyframeEffect": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-keyframeeffect-keyframeeffect"
+          ]
         }
       },
       "composite": {
@@ -164,7 +170,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-keyframeeffect-composite"
+          ]
         }
       },
       "getKeyframes": {
@@ -215,7 +224,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-keyframeeffect-getkeyframes"
+          ]
         }
       },
       "iterationComposite": {
@@ -280,7 +292,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-keyframeeffect-iterationcomposite"
+          ]
         }
       },
       "setKeyframes": {
@@ -331,7 +346,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-keyframeeffect-setkeyframes"
+          ]
         }
       },
       "target": {
@@ -382,7 +400,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/web-animations/#dom-keyframeeffect-target"
+          ]
         }
       }
     }

@@ -60,7 +60,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/geolocation-API/#positionoptions"
+        ]
       },
       "secure_context_required": {
         "__compat": {
@@ -174,7 +177,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#enablehighaccuracy"
+          ]
         }
       },
       "timeout": {
@@ -237,7 +243,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#timeout"
+          ]
         }
       },
       "maximumAge": {
@@ -300,7 +309,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#maximumage"
+          ]
         }
       }
     }

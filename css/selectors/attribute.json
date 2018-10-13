@@ -50,7 +50,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-4/#attribute-selectors",
+            "https://drafts.csswg.org/selectors-3/#attribute-selectors",
+            "https://www.w3.org/TR/CSS2/selector.html#attribute-selectors"
+          ]
         },
         "case_sensitive_modifier": {
           "__compat": {

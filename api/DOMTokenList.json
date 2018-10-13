@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-domtokenlist"
+        ]
       },
       "replace": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-domtokenlist-replace"
+          ]
         },
         "boolean_value": {
           "__compat": {
@@ -253,7 +259,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-domtokenlist"
+          ]
         }
       },
       "length": {
@@ -301,7 +310,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-domtokenlist-length"
+          ]
         }
       },
       "value": {
@@ -346,7 +358,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-domtokenlist-value"
+          ]
         }
       },
       "item": {
@@ -394,7 +409,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-domtokenlist-item"
+          ]
         }
       },
       "contains": {
@@ -442,7 +460,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-domtokenlist-contains"
+          ]
         }
       },
       "add": {
@@ -490,7 +511,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-domtokenlist-add"
+          ]
         }
       },
       "remove": {
@@ -538,7 +562,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-domtokenlist-remove"
+          ]
         }
       },
       "toggle": {
@@ -586,7 +613,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-domtokenlist-toggle"
+          ]
         },
         "force_argument": {
           "__compat": {
@@ -679,7 +709,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-domtokenlist"
+          ]
         }
       },
       "forEach": {
@@ -727,7 +760,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-domtokenlist"
+          ]
         }
       },
       "keys": {
@@ -772,7 +808,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-domtokenList"
+          ]
         }
       },
       "values": {
@@ -817,7 +856,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#interface-domtokenList"
+          ]
         }
       }
     }

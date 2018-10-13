@@ -54,7 +54,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "decrement": {
@@ -109,7 +112,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "division": {
@@ -164,7 +170,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "exponentiation": {
@@ -230,7 +239,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "increment": {
@@ -285,7 +297,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "multiplication": {
@@ -340,7 +355,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "remainder": {
@@ -395,7 +413,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "subtraction": {
@@ -450,7 +471,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "unary_negation": {
@@ -505,7 +529,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         },
         "unary_plus": {
@@ -560,7 +587,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-additive-operators"
+            ]
           }
         }
       }

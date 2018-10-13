@@ -63,7 +63,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-generator-objects"
+          ]
         },
         "next": {
           "__compat": {
@@ -116,7 +119,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-generator.prototype.next"
+            ]
           }
         },
         "return": {
@@ -170,7 +176,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-generator.prototype.return"
+            ]
           }
         },
         "throw": {
@@ -235,7 +244,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-generator.prototype.throw"
+            ]
           }
         }
       }

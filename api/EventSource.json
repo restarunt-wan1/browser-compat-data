@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/comms.html#the-eventsource-interface"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -141,7 +144,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-eventsource"
+          ]
         },
         "cors_support": {
           "__compat": {
@@ -237,7 +243,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-eventsource-close"
+          ]
         }
       },
       "onerror": {
@@ -285,7 +294,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#handler-eventsource-onerror"
+          ]
         }
       },
       "onmessage": {
@@ -333,7 +345,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#handler-eventsource-onmessage"
+          ]
         }
       },
       "onopen": {
@@ -381,7 +396,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#handler-eventsource-onopen"
+          ]
         }
       },
       "readyState": {
@@ -429,7 +447,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-eventsource-readystate"
+          ]
         }
       },
       "url": {
@@ -477,7 +498,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-eventsource-url"
+          ]
         }
       },
       "withCredentials": {
@@ -525,7 +549,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/comms.html#dom-eventsource-withcredentials"
+          ]
         }
       }
     }

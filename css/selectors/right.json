@@ -50,7 +50,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-page-3/#left-right-first",
+            "https://www.w3.org/TR/CSS2/page.html#page-selectors"
+          ]
         }
       }
     }

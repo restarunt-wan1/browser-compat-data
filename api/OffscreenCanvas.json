@@ -66,7 +66,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/scripting.html#the-offscreencanvas-interface"
+        ]
       },
       "OffscreenCanvas": {
         "__compat": {
@@ -129,7 +132,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-offscreencanvas"
+          ]
         }
       },
       "height": {
@@ -192,7 +198,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-offscreencanvas-height"
+          ]
         }
       },
       "width": {
@@ -255,7 +264,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-offscreencanvas-width"
+          ]
         }
       },
       "getContext": {
@@ -318,7 +330,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-offscreencanvas-getcontext"
+          ]
         },
         "webgl_context": {
           "__compat": {
@@ -684,7 +699,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-offscreencanvas-transfertoimagebitmap"
+          ]
         }
       }
     }

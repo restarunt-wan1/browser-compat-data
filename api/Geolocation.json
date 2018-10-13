@@ -277,7 +277,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/geolocation-API/#watch-position"
+          ]
         }
       }
     }

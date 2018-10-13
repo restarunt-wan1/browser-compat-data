@@ -50,7 +50,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/mediacapture-fromelement/#html-media-element-media-capture-extensions",
+          "https://html.spec.whatwg.org/multipage/#htmlcanvaselement"
+        ]
       },
       "height": {
         "__compat": {
@@ -100,7 +104,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#attr-canvas-height"
+          ]
         }
       },
       "mozOpaque": {
@@ -202,7 +209,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#attr-canvas-width"
+          ]
         }
       },
       "captureStream": {
@@ -253,7 +263,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/mediacapture-fromelement/#widl-HTMLCanvasElement-captureStream-CanvasCaptureMediaStream-double-frameRate"
+          ]
         }
       },
       "getContext": {
@@ -304,7 +317,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-canvas-getcontext"
+          ]
         },
         "webgl_context": {
           "__compat": {
@@ -795,7 +811,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-canvas-toblob"
+          ]
         },
         "Image_quality": {
           "__compat": {
@@ -897,7 +916,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-canvas-todataurl"
+          ]
         }
       },
       "transferControlToOffscreen": {

@@ -56,7 +56,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/gamepad/extensions.html#gamepadpose-interface"
+        ]
       },
       "angularAcceleration": {
         "__compat": {
@@ -114,7 +117,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#dom-gamepadpose-angularacceleration"
+          ]
         }
       },
       "angularVelocity": {
@@ -173,7 +179,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#dom-gamepadpose-angularvelocity"
+          ]
         }
       },
       "hasOrientation": {
@@ -232,7 +241,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#dom-gamepadpose-hasorientation"
+          ]
         }
       },
       "hasPosition": {
@@ -291,7 +303,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#dom-gamepadpose-hasposition"
+          ]
         }
       },
       "linearAcceleration": {
@@ -350,7 +365,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#dom-gamepadpose-linearacceleration"
+          ]
         }
       },
       "linearVelocity": {
@@ -409,7 +427,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#dom-gamepadpose-linearvelocity"
+          ]
         }
       },
       "orientation": {
@@ -468,7 +489,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#dom-gamepadpose-orientation"
+          ]
         }
       },
       "position": {
@@ -527,7 +551,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/gamepad/extensions.html#dom-gamepadpose-position"
+          ]
         }
       }
     }

@@ -100,7 +100,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/entries-api/#dom-metadata-modificationtime"
+          ]
         }
       },
       "size": {
@@ -151,7 +154,10 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/entries-api/#dom-metadata-size"
+          ]
         }
       }
     }

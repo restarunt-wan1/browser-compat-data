@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://xhr.spec.whatwg.org/#interface-progressevent"
+        ]
       },
       "ProgressEvent": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#interface-progresseventt"
+          ]
         }
       },
       "lengthComputable": {
@@ -150,7 +156,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-progressevent-lengthcomputable"
+          ]
         }
       },
       "loaded": {
@@ -201,7 +210,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-progressevent-loaded"
+          ]
         }
       },
       "total": {
@@ -252,7 +264,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://xhr.spec.whatwg.org/#dom-progressevent-total"
+          ]
         }
       },
       "initProgressEvent": {

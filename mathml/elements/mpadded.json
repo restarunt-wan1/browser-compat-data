@@ -47,7 +47,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/MathML3/chapter3.html#presm.mpadded",
+            "https://www.w3.org/TR/MathML2/chapter3.html#presm.mpadded"
+          ]
         },
         "href": {
           "__compat": {

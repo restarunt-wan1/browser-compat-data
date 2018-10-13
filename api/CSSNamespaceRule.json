@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom/#the-cssnamespacerule-interface"
+        ]
       },
       "namespaceURI": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom/#dom-cssnamespacerule-namespaceuri"
+          ]
         }
       },
       "prefix": {
@@ -149,7 +155,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/cssom/#dom-cssnamespacerule-namespaceuri"
+          ]
         }
       }
     }

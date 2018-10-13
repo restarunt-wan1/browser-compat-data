@@ -39,7 +39,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/orientation-sensor/#absoluteorientationsensor-interface"
+        ]
       },
       "AbsoluteOrientationSensor": {
         "__compat": {
@@ -81,7 +84,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/orientation-sensor/#dom-absoluteorientationsensor-absoluteorientationsensor"
+          ]
         }
       }
     }

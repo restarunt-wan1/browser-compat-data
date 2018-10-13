@@ -72,7 +72,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-text-3/#tab-size-property"
+          ]
         },
         "length": {
           "__compat": {
@@ -123,7 +126,12 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-values-4/#lengths",
+              "https://drafts.csswg.org/css-values-3/#lengths",
+              "https://www.w3.org/TR/CSS2/syndata.html#length-units"
+            ]
           }
         }
       }

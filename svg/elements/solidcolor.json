@@ -46,7 +46,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/svg2-draft/pservers.html#SolidcolorElement"
+          ]
         }
       }
     }

@@ -121,7 +121,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-async-function-definitions"
+          ]
         }
       },
       "block": {
@@ -175,7 +178,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-block"
+          ]
         }
       },
       "break": {
@@ -229,7 +235,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-break-statement"
+          ]
         }
       },
       "class": {
@@ -283,7 +292,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-class-definitions"
+          ]
         },
         "array_subclassing": {
           "__compat": {
@@ -453,7 +465,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-let-and-const-declarations"
+          ]
         }
       },
       "continue": {
@@ -507,7 +522,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-continue-statement"
+          ]
         }
       },
       "debugger": {
@@ -561,7 +579,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-debugger-statement"
+          ]
         }
       },
       "default": {
@@ -617,7 +638,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-switch-statement",
+              "https://tc39.github.io/ecma262/#sec-exports"
+            ]
           }
         },
         "export": {
@@ -707,7 +732,11 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-switch-statement",
+              "https://tc39.github.io/ecma262/#sec-exports"
+            ]
           }
         }
       },
@@ -763,7 +792,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-do-while-statement"
+          ]
         }
       },
       "empty": {
@@ -818,7 +850,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-empty-statement"
+          ]
         }
       },
       "export": {
@@ -907,7 +942,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-exports"
+          ]
         }
       },
       "for": {
@@ -961,7 +999,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-for-statement"
+          ]
         }
       },
       "for_each_in": {
@@ -1073,7 +1114,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-for-in-and-for-of-statements"
+          ]
         }
       },
       "for_of": {
@@ -1130,7 +1174,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-for-in-and-for-of-statements"
+          ]
         },
         "async_iterators": {
           "__compat": {
@@ -1292,7 +1339,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-function-definitions"
+          ]
         },
         "allow_in_sloppy_mode": {
           "__compat": {
@@ -1466,7 +1516,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-generator-function-definitions"
+          ]
         },
         "IteratorResult_object": {
           "__compat": {
@@ -1683,7 +1736,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-if-statement"
+          ]
         }
       },
       "import": {
@@ -1779,7 +1835,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-imports"
+          ]
         },
         "dynamic_import": {
           "__compat": {
@@ -1876,7 +1935,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/webappapis.html#hostgetimportmetaproperties"
+          ]
         }
       },
       "label": {
@@ -1930,7 +1992,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-labelled-statements"
+          ]
         }
       },
       "let": {
@@ -2040,7 +2105,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-let-and-const-declarations"
+          ]
         }
       },
       "return": {
@@ -2094,7 +2162,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-return-statement"
+          ]
         }
       },
       "switch": {
@@ -2148,7 +2219,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-switch-statement"
+          ]
         }
       },
       "throw": {
@@ -2202,7 +2276,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-throw-statement"
+          ]
         }
       },
       "try_catch": {
@@ -2257,7 +2334,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-try-statement"
+          ]
         },
         "conditional_clauses": {
           "__compat": {
@@ -2421,7 +2501,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-variable-statement"
+          ]
         }
       },
       "while": {
@@ -2475,7 +2558,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://tc39.github.io/ecma262/#sec-while-statement"
+          ]
         }
       },
       "with": {

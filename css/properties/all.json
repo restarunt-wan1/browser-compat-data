@@ -49,7 +49,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-cascade/#all-shorthand",
+            "https://drafts.csswg.org/css-cascade-3/#all-shorthand"
+          ]
         },
         "revert": {
           "__compat": {

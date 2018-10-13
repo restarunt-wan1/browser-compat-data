@@ -50,7 +50,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/navigation-timing/#sec-PerformanceNavigationTiming"
+        ]
       },
       "domComplete": {
         "__compat": {
@@ -100,7 +103,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-domComplete"
+          ]
         }
       },
       "domContentLoadedEventEnd": {
@@ -151,7 +157,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-domContentLoadedEventEnd"
+          ]
         }
       },
       "domContentLoadedEventStart": {
@@ -202,7 +211,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-domContentLoadedEventStart"
+          ]
         }
       },
       "domInteractive": {
@@ -253,7 +265,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-domInteractive"
+          ]
         }
       },
       "loadEventEnd": {
@@ -304,7 +319,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-loadEventEnd"
+          ]
         }
       },
       "loadEventStart": {
@@ -355,7 +373,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-loadEventStart"
+          ]
         }
       },
       "redirectCount": {
@@ -406,7 +427,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-redirectCount"
+          ]
         }
       },
       "type": {
@@ -457,7 +481,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-type"
+          ]
         }
       },
       "unloadEventEnd": {
@@ -508,7 +535,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-unloadEventEnd"
+          ]
         }
       },
       "unloadEventStart": {
@@ -559,7 +589,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#widl-PerformanceNavigationTiming-unloadEventStart"
+          ]
         }
       },
       "toJSON": {
@@ -610,7 +643,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/navigation-timing/#serializer"
+          ]
         }
       }
     }

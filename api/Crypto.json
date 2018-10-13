@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/WebCryptoAPI/#crypto-interface"
+        ]
       },
       "subtle": {
         "__compat": {
@@ -137,7 +140,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-Crypto"
+          ]
         }
       },
       "getRandomValues": {
@@ -188,7 +194,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#Crypto-method-getRandomValues"
+          ]
         }
       }
     }

@@ -48,7 +48,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/user-timing/#performancemark",
+          "https://www.w3.org/TR/user-timing/#performancemark"
+        ]
       }
     }
   }

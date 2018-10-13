@@ -60,7 +60,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-row-gap"
+            ]
           }
         },
         "grid_context": {
@@ -223,7 +226,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#propdef-row-gap"
+            ]
           }
         }
       }

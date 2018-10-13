@@ -64,7 +64,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmldialogelement"
+        ]
       },
       "open": {
         "__compat": {
@@ -130,7 +133,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-open"
+          ]
         }
       },
       "returnValue": {
@@ -197,7 +203,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-returnvalue"
+          ]
         }
       },
       "close": {
@@ -264,7 +273,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-close"
+          ]
         }
       },
       "show": {
@@ -331,7 +343,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-show"
+          ]
         }
       },
       "showModal": {
@@ -398,7 +413,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-showmodal"
+          ]
         }
       }
     }

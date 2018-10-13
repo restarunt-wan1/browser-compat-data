@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/permissions/#status-of-a-permission"
+        ]
       },
       "onchange": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/permissions/#widl-PermissionStatus-onchange"
+          ]
         }
       },
       "state": {
@@ -170,7 +176,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/permissions/#widl-PermissionStatus-state"
+          ]
         }
       }
     }

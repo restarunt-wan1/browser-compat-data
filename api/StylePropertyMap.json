@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.css-houdini.org/css-typed-om-1/#stylepropertymap"
+        ]
       },
       "append": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-append"
+          ]
         }
       },
       "clear": {
@@ -149,7 +155,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-clear"
+          ]
         }
       },
       "delete": {
@@ -200,7 +209,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-delete"
+          ]
         }
       },
       "set": {
@@ -251,7 +263,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-stylepropertymap-set"
+          ]
         }
       }
     }

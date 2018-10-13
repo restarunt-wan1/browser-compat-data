@@ -99,7 +99,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-text-3/#propdef-overflow-wrap"
+          ]
         }
       }
     }

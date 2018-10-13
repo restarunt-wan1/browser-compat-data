@@ -45,7 +45,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.csswg.org/cssom/#the-linkstyle-interface"
+        ]
       },
       "sheet": {
         "__compat": {

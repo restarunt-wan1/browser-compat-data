@@ -49,7 +49,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-logical/#text-align",
+            "https://drafts.csswg.org/css-text-4/#alignment",
+            "https://drafts.csswg.org/css-text-3/#text-align-property",
+            "https://www.w3.org/TR/CSS2/text.html#alignment-prop"
+          ]
         },
         "block_alignment_values": {
           "__compat": {

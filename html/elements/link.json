@@ -49,7 +49,12 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webappsec/specs/subresourceintegrity/#htmlscriptelement",
+            "https://html.spec.whatwg.org/multipage/semantics.html#the-link-element",
+            "https://www.w3.org/TR/resource-hints/#prefetch"
+          ]
         },
         "charset": {
           "__compat": {

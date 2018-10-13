@@ -45,7 +45,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/browsers.html#the-history-interface",
+          "https://majido.github.io/scroll-restoration-proposal/history-based-api.html#web-idl"
+        ]
       },
       "back": {
         "__compat": {
@@ -236,7 +240,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/history.html#dom-history-length"
+          ]
         }
       },
       "pushState": {
@@ -285,7 +292,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/browsers.html#history"
+          ]
         }
       },
       "replaceState": {

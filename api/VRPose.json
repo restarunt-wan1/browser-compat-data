@@ -51,7 +51,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://immersive-web.github.io/webvr/spec/1.1/#interface-vrpose"
+        ]
       },
       "angularAcceleration": {
         "__compat": {
@@ -104,7 +107,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrpose-angularacceleration"
+          ]
         }
       },
       "angularVelocity": {
@@ -158,7 +164,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrpose-angularvelocity"
+          ]
         }
       },
       "hasOrientation": {
@@ -284,7 +293,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrpose-linearacceleration"
+          ]
         }
       },
       "linearVelocity": {
@@ -338,7 +350,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrpose-linearvelocity"
+          ]
         }
       },
       "position": {
@@ -392,7 +407,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrpose-position"
+          ]
         }
       },
       "orientation": {
@@ -446,7 +464,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrpose-orientation"
+          ]
         }
       },
       "timestamp": {

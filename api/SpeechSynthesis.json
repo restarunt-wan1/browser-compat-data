@@ -58,7 +58,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/speech-api/#tts-section"
+        ]
       },
       "cancel": {
         "__compat": {
@@ -118,7 +121,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttscancel"
+          ]
         }
       },
       "getVoices": {
@@ -179,7 +185,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttsgetvoices"
+          ]
         }
       },
       "onvoiceschanged": {
@@ -240,7 +249,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttsonvoiceschanged"
+          ]
         }
       },
       "pause": {
@@ -301,7 +313,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttspause"
+          ]
         }
       },
       "paused": {
@@ -362,7 +377,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttspaused"
+          ]
         }
       },
       "pending": {
@@ -423,7 +441,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttspending"
+          ]
         }
       },
       "resume": {
@@ -484,7 +505,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttsresume"
+          ]
         }
       },
       "speak": {
@@ -545,7 +569,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttsspeak"
+          ]
         }
       },
       "speaking": {
@@ -606,7 +633,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-ttsspeaking"
+          ]
         }
       }
     }

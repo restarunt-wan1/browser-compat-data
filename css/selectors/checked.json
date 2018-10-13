@@ -50,7 +50,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#selector-checked",
+            "https://drafts.csswg.org/selectors-4/#checked",
+            "https://drafts.csswg.org/css-ui-3/#pseudo-checked",
+            "https://drafts.csswg.org/selectors-3/#checked"
+          ]
         }
       }
     }

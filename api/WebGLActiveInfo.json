@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.11"
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -156,7 +159,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLActiveInfo-name"
+          ]
         }
       },
       "size": {
@@ -207,7 +213,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLActiveInfo-size"
+          ]
         }
       },
       "type": {
@@ -258,7 +267,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLActiveInfo-type"
+          ]
         }
       }
     }

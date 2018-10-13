@@ -46,7 +46,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#htmlselectelement"
+        ]
       },
       "autofocus": {
         "__compat": {
@@ -93,7 +96,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-fe-autofocus"
+          ]
         }
       },
       "disabled": {
@@ -141,7 +147,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-fe-disabled"
+          ]
         }
       },
       "form": {
@@ -189,7 +198,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-fae-form"
+          ]
         }
       },
       "labels": {
@@ -237,7 +249,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/forms.html#dom-lfe-labels"
+          ]
         }
       },
       "length": {
@@ -525,7 +540,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-select-selectedindex"
+          ]
         }
       },
       "selectedOptions": {
@@ -573,7 +591,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/form-elements.html#dom-select-selectedoptions"
+          ]
         }
       },
       "size": {
@@ -669,7 +690,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-select-type"
+          ]
         }
       },
       "validationMessage": {
@@ -909,7 +933,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-select-add"
+          ]
         },
         "index_before_parameter": {
           "__compat": {
@@ -1053,7 +1080,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-cva-checkvalidity"
+          ]
         }
       },
       "focus": {
@@ -1149,7 +1179,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-select-item"
+          ]
         }
       },
       "namedItem": {
@@ -1199,7 +1232,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-select-nameditem"
+          ]
         }
       },
       "remove": {
@@ -1247,7 +1283,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-select-remove"
+          ]
         }
       },
       "setCustomValidity": {
@@ -1295,7 +1334,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-cva-setcustomvalidity"
+          ]
         }
       }
     }

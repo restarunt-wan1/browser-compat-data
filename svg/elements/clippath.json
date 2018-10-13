@@ -46,7 +46,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.fxtf.org/css-masking-1/#ClipPathElement",
+            "https://www.w3.org/TR/SVG11/masking.html#EstablishingANewClippingPath"
+          ]
         },
         "clipPathUnits": {
           "__compat": {

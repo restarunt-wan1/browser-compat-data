@@ -88,7 +88,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/WebCryptoAPI/#subtlecrypto-interface"
+        ]
       },
       "encrypt": {
         "__compat": {
@@ -170,7 +173,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#SubtleCrypto-method-encrypt"
+          ]
         }
       },
       "decrypt": {
@@ -253,7 +259,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#SubtleCrypto-method-decrypt"
+          ]
         }
       },
       "sign": {
@@ -336,7 +345,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-sign"
+          ]
         }
       },
       "verify": {
@@ -419,7 +431,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-verify"
+          ]
         }
       },
       "digest": {
@@ -502,7 +517,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-digest"
+          ]
         }
       },
       "generateKey": {
@@ -586,7 +604,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-generateKey"
+          ]
         }
       },
       "deriveKey": {
@@ -668,7 +689,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-deriveKey"
+          ]
         }
       },
       "deriveBits": {
@@ -834,7 +858,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-importKey"
+          ]
         }
       },
       "exportKey": {
@@ -918,7 +945,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-exportKey"
+          ]
         }
       },
       "wrapKey": {
@@ -1001,7 +1031,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-wrapKey"
+          ]
         }
       },
       "unwrapKey": {
@@ -1081,7 +1114,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/WebCryptoAPI/#dfn-SubtleCrypto-method-unwrapKey"
+          ]
         }
       },
       "worker_support": {

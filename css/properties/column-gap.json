@@ -60,7 +60,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#column-row-gap",
+              "https://drafts.csswg.org/css-grid/#gutters",
+              "https://drafts.csswg.org/css-multicol-1/#column-gap"
+            ]
           }
         },
         "grid_context": {
@@ -234,7 +239,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#column-row-gap",
+              "https://drafts.csswg.org/css-grid/#gutters",
+              "https://drafts.csswg.org/css-multicol-1/#column-gap"
+            ]
           }
         },
         "multicol_context": {
@@ -370,7 +380,12 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-align-3/#column-row-gap",
+              "https://drafts.csswg.org/css-grid/#gutters",
+              "https://drafts.csswg.org/css-multicol-1/#column-gap"
+            ]
           },
           "percentage_values": {
             "__compat": {

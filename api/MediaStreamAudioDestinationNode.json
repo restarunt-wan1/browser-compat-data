@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://webaudio.github.io/web-audio-api/#the-mediastreamaudiodestinationnode-interface"
+        ]
       },
       "MediaStreamAudioDestinationNode": {
         "__compat": {
@@ -102,7 +105,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#idl-def-MediaStreamAudioDestinationNode"
+          ]
         }
       },
       "stream": {
@@ -153,7 +159,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://webaudio.github.io/web-audio-api/#widl-MediaStreamAudioDestinationNode-stream"
+          ]
         }
       }
     }

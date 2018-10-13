@@ -66,7 +66,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/selectors-3/#descendant-combinators",
+            "https://www.w3.org/TR/CSS2/selector.html#descendant-selectors"
+          ]
         },
         "two_greater_than_syntax": {
           "__compat": {

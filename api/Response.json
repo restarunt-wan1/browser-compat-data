@@ -81,7 +81,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://fetch.spec.whatwg.org/#response-class"
+        ]
       },
       "Response": {
         "__compat": {
@@ -198,7 +201,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response"
+          ]
         },
         "accept_readablestream": {
           "__compat": {
@@ -384,7 +390,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-headers"
+          ]
         }
       },
       "ok": {
@@ -468,7 +477,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-ok"
+          ]
         }
       },
       "redirected": {
@@ -519,7 +531,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-redirected"
+          ]
         }
       },
       "status": {
@@ -603,7 +618,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-status"
+          ]
         }
       },
       "statusText": {
@@ -687,7 +705,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-statustext"
+          ]
         }
       },
       "type": {
@@ -771,7 +792,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-type"
+          ]
         }
       },
       "url": {
@@ -855,7 +879,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-url"
+          ]
         }
       },
       "useFinalURL": {
@@ -1034,7 +1061,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-clone"
+          ]
         }
       },
       "error": {
@@ -1085,7 +1115,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-error"
+          ]
         }
       },
       "redirect": {
@@ -1136,7 +1169,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://fetch.spec.whatwg.org/#dom-response-redirect"
+          ]
         }
       },
       "trailer": {

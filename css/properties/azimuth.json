@@ -46,7 +46,10 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/CSS2/aural.html#spatial-props"
+          ]
         }
       }
     }

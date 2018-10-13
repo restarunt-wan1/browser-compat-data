@@ -48,7 +48,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://drafts.css-houdini.org/css-typed-om-1/#positionvalue-objects"
+        ]
       },
       "CSSPositionValue": {
         "__compat": {
@@ -99,7 +102,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-csspositionvalue-csspositionvalue"
+          ]
         }
       },
       "x": {
@@ -150,7 +156,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-csspositionvalue-x"
+          ]
         }
       },
       "y": {
@@ -201,7 +210,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.css-houdini.org/css-typed-om-1/#dom-csspositionvalue-x"
+          ]
         }
       }
     }

@@ -85,7 +85,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-logical/#propdef-inset-block-end"
+          ]
         }
       }
     }

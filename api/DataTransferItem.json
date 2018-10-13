@@ -45,7 +45,11 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/interaction.html#datatransferitem",
+          "https://wicg.github.io/entries-api/#dom-datatransferitem-webkitgetasentry"
+        ]
       },
       "getAsFile": {
         "__compat": {
@@ -92,7 +96,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitem-getasfile"
+          ]
         }
       },
       "getAsString": {
@@ -140,7 +147,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitem-getasstring"
+          ]
         }
       },
       "kind": {
@@ -188,7 +198,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitem-kind"
+          ]
         }
       },
       "type": {
@@ -236,7 +249,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitem-type"
+          ]
         }
       },
       "webkitGetAsEntry": {
@@ -284,7 +300,10 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://wicg.github.io/entries-api/#dom-datatransferitem-webkitgetasentry"
+          ]
         }
       }
     }

@@ -49,7 +49,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/speech-api/#speechreco-speechgrammarlist"
+        ]
       },
       "SpeechGrammarList": {
         "__compat": {
@@ -102,7 +105,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#speechreco-speechgrammarlist"
+          ]
         }
       },
       "addFromString": {
@@ -156,7 +162,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-addGrammarstring"
+          ]
         }
       },
       "addFromURI": {
@@ -210,7 +219,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-addGrammar"
+          ]
         }
       },
       "item": {
@@ -262,7 +274,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-speechgrammarlistitem"
+          ]
         }
       },
       "length": {
@@ -316,7 +331,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/speech-api/#dfn-speechgrammarlistlength"
+          ]
         }
       }
     }

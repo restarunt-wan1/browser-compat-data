@@ -39,7 +39,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://www.w3.org/TR/accelerometer/#linearaccelerationsensor-interface"
+        ]
       },
       "LinearAccelerationSensor": {
         "__compat": {
@@ -81,7 +84,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/accelerometer/#dom-linearaccelerationsensor-linearaccelerationsensor"
+          ]
         }
       },
       "x": {
@@ -132,7 +138,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/accelerometer/#linearaccelerationsensor-x"
+          ]
         }
       },
       "y": {
@@ -183,7 +192,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/accelerometer/#accelerometer-y"
+          ]
         }
       },
       "z": {
@@ -234,7 +246,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://www.w3.org/TR/accelerometer/#accelerometer-z"
+          ]
         }
       }
     }

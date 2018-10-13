@@ -60,7 +60,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/media-source/#videoplaybackquality"
+        ]
       },
       "creationTime": {
         "__compat": {
@@ -122,7 +125,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-VideoPlaybackQuality-creationTime"
+          ]
         }
       },
       "droppedVideoFrames": {
@@ -185,7 +191,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-VideoPlaybackQuality-droppedVideoFrames"
+          ]
         }
       },
       "corruptedVideoFrames": {
@@ -248,7 +257,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-VideoPlaybackQuality-corruptedVideoFrames"
+          ]
         }
       },
       "totalVideoFrames": {
@@ -311,7 +323,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/media-source/#widl-VideoPlaybackQuality-totalVideoFrames"
+          ]
         }
       },
       "totalFrameDelay": {

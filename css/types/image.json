@@ -50,7 +50,11 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-images-4/#typedef-image",
+            "https://drafts.csswg.org/css-images-3/#typedef-image"
+          ]
         },
         "gradient": {
           "__compat": {
@@ -1344,7 +1348,10 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://drafts.csswg.org/css-images-4/#element-notation"
+            ]
           }
         }
       }

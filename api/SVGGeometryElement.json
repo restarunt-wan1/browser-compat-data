@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://svgwg.org/svg2-draft/types.html#InterfaceSVGGeometryElement"
+        ]
       },
       "supportOtherThanPath": {
         "__compat": {
@@ -140,7 +143,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/svg2-draft/types.html#__svg__SVGGeometryElement__pathLength"
+          ]
         }
       },
       "isPointInFill": {
@@ -188,7 +194,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/svg2-draft/types.html#__svg__SVGGeometryElement__isPointInFill"
+          ]
         }
       },
       "isPointInStroke": {
@@ -236,7 +245,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/svg2-draft/types.html#__svg__SVGGeometryElement__isPointInStroke"
+          ]
         }
       },
       "getTotalLength": {
@@ -286,7 +298,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/svg2-draft/types.html#__svg__SVGGeometryElement__getTotalLength"
+          ]
         }
       },
       "getPointAtLength": {
@@ -336,7 +351,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://svgwg.org/svg2-draft/types.html#__svg__SVGGeometryElement__getPointAtLength"
+          ]
         }
       }
     }

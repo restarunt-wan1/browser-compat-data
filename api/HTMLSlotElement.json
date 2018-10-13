@@ -106,7 +106,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/scripting.html#htmlslotelement"
+        ]
       },
       "name": {
         "__compat": {
@@ -214,7 +217,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/#dom-slot-name"
+          ]
         }
       },
       "assignedNodes": {
@@ -323,7 +329,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/scripting.html#dom-slot-assignednodes"
+          ]
         }
       }
     }

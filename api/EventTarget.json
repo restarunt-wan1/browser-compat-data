@@ -62,7 +62,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-eventtarget"
+        ]
       },
       "EventTarget": {
         "__compat": {
@@ -113,7 +116,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-eventtarget-eventtarget"
+          ]
         }
       },
       "addEventListener": {
@@ -175,7 +181,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-eventtarget-addeventlistener"
+          ]
         },
         "optional_usecapture": {
           "__compat": {
@@ -540,7 +549,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-eventtarget-dispatchevent"
+          ]
         }
       },
       "removeEventListener": {
@@ -599,7 +611,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-eventtarget-removeeventlistener"
+          ]
         },
         "optional_usecapture": {
           "__compat": {

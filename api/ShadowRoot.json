@@ -76,7 +76,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://dom.spec.whatwg.org/#interface-shadowroot"
+        ]
       },
       "delegatesFocus": {
         "__compat": {
@@ -268,7 +271,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-shadowroot-host"
+          ]
         }
       },
       "innerHTML": {
@@ -426,7 +432,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://dom.spec.whatwg.org/#dom-shadowroot-mode"
+          ]
         }
       }
     }

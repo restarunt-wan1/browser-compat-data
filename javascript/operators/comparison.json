@@ -54,7 +54,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-relational-operators"
+            ]
           }
         },
         "inequality": {
@@ -109,7 +112,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-relational-operators"
+            ]
           }
         },
         "identity": {
@@ -164,7 +170,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-relational-operators"
+            ]
           }
         },
         "non_identity": {
@@ -219,7 +228,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-relational-operators"
+            ]
           }
         },
         "greater_than": {
@@ -274,7 +286,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-relational-operators"
+            ]
           }
         },
         "greater_than_or_equal": {
@@ -329,7 +344,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-relational-operators"
+            ]
           }
         },
         "less_than": {
@@ -384,7 +402,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-relational-operators"
+            ]
           }
         },
         "less_than_or_equal": {
@@ -439,7 +460,10 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "spec_urls": [
+              "https://tc39.github.io/ecma262/#sec-relational-operators"
+            ]
           }
         }
       }

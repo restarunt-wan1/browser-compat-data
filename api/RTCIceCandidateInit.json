@@ -48,7 +48,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidateinit"
+        ]
       },
       "candidate": {
         "__compat": {
@@ -98,7 +101,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidateinit-candidate"
+          ]
         }
       },
       "sdpMid": {
@@ -149,7 +155,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidateinit-sdpmid"
+          ]
         }
       },
       "sdpMLineIndex": {
@@ -200,7 +209,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidateinit-sdpmlineindex"
+          ]
         }
       },
       "usernameFragment": {
@@ -251,7 +263,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidateinit-usernamefragment"
+          ]
         }
       }
     }

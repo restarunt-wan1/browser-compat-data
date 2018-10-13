@@ -120,7 +120,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://drafts.csswg.org/css-backgrounds-3/#the-background-origin"
+          ]
         },
         "content-box": {
           "__compat": {

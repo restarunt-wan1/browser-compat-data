@@ -45,7 +45,10 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://html.spec.whatwg.org/multipage/#dragevent"
+        ]
       },
       "DragEvent": {
         "__compat": {
@@ -93,7 +96,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#the-dragevent-interface"
+          ]
         }
       },
       "dataTransfer": {
@@ -141,7 +147,10 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://html.spec.whatwg.org/multipage/interaction.html#dom-dragevent-datatransfer"
+          ]
         }
       }
     }

@@ -60,7 +60,10 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "spec_urls": [
+          "https://w3c.github.io/ServiceWorker/#cache-storage"
+        ]
       },
       "delete": {
         "__compat": {
@@ -110,7 +113,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#cache-storage"
+          ]
         }
       },
       "has": {
@@ -161,7 +167,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#cache-storage"
+          ]
         }
       },
       "keys": {
@@ -212,7 +221,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#cache-storage"
+          ]
         }
       },
       "match": {
@@ -298,7 +310,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#cache-storage"
+          ]
         }
       },
       "open": {
@@ -349,7 +364,10 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "spec_urls": [
+            "https://w3c.github.io/ServiceWorker/#cache-storage"
+          ]
         }
       }
     }

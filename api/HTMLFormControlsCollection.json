@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/infrastructure.html#htmlformcontrolscollection"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/infrastructure.html#htmlformcontrolscollection"
+          }
+        ]
       },
       "namedItem": {
         "__compat": {
@@ -108,7 +118,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-htmlformcontrolscollection-nameditem"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/infrastructure.html#htmlformcontrolscollection"
+            }
+          ]
         }
       }
     }

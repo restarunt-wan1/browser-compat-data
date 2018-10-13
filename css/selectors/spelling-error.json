@@ -50,7 +50,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Pseudo-Elements",
+              "url": "https://drafts.csswg.org/css-pseudo-4/#selectordef-spelling-error"
+            }
+          ]
         }
       }
     }

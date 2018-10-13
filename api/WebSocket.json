@@ -68,7 +68,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/web-sockets.html#the-websocket-interface"
+          }
+        ]
       },
       "WebSocket": {
         "__compat": {
@@ -123,7 +129,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-websocket"
+            }
+          ]
         }
       },
       "binaryType": {
@@ -171,7 +183,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-websocket-binarytype"
+            }
+          ]
         }
       },
       "bufferedAmount": {
@@ -219,7 +237,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-websocket-bufferedamount"
+            }
+          ]
         }
       },
       "close": {
@@ -274,7 +298,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-sockets.html#dom-websocket-close"
+            }
+          ]
         }
       },
       "extensions": {
@@ -322,7 +352,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-websocket-extensions"
+            }
+          ]
         }
       },
       "onclose": {
@@ -370,7 +406,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-websocket-onclose"
+            }
+          ]
         }
       },
       "onerror": {
@@ -418,7 +460,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-websocket-onerror"
+            }
+          ]
         }
       },
       "onmessage": {
@@ -466,7 +514,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-websocket-onmessage"
+            }
+          ]
         }
       },
       "onopen": {
@@ -514,7 +568,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-websocket-onopen"
+            }
+          ]
         }
       },
       "protocol": {
@@ -562,7 +622,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-websocket-protocol"
+            }
+          ]
         }
       },
       "readyState": {
@@ -610,7 +676,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-websocket-readystate"
+            }
+          ]
         }
       },
       "send": {
@@ -676,7 +748,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-websocket-send"
+            }
+          ]
         }
       },
       "url": {
@@ -724,7 +802,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-websocket-url"
+            }
+          ]
         }
       }
     }

@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebRTC 1.0",
+            "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport"
+          }
+        ]
       },
       "component": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-component"
+            }
+          ]
         }
       },
       "gatheringState": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-gatheringstate"
+            }
+          ]
         }
       },
       "ongatheringstatechange": {
@@ -200,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-ongatheringstatechange"
+            }
+          ]
         }
       },
       "onselectedcandidatepairchange": {
@@ -251,7 +275,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-onselectedcandidatepairchange"
+            }
+          ]
         }
       },
       "onstatechange": {
@@ -302,7 +332,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-onstatechange"
+            }
+          ]
         }
       },
       "role": {
@@ -353,7 +389,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-role"
+            }
+          ]
         }
       },
       "state": {
@@ -404,7 +446,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#rtcicetransportstate"
+            }
+          ]
         }
       },
       "getLocalCandidates": {
@@ -455,7 +503,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-getlocalcandidates"
+            }
+          ]
         }
       },
       "getLocalParameters": {
@@ -506,7 +560,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-getlocalparameters"
+            }
+          ]
         }
       },
       "getRemoteCandidates": {
@@ -557,7 +617,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-getremotecandidates"
+            }
+          ]
         }
       },
       "getRemoteParameters": {
@@ -608,7 +674,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-getremoteparameters"
+            }
+          ]
         }
       },
       "getSelectedCandidatePair": {
@@ -660,7 +732,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicetransport-getselectedcandidatepair"
+            }
+          ]
         }
       }
     }

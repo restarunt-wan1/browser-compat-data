@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#OfflineAudioContext"
+          }
+        ]
       },
       "OfflineAudioContext": {
         "__compat": {
@@ -102,7 +108,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#OfflineAudioContext"
+            }
+          ]
         },
         "Parameters_accepted_in_an_object": {
           "__compat": {
@@ -204,7 +216,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OfflineAudioContext-length"
+            }
+          ]
         }
       },
       "oncomplete": {
@@ -255,7 +273,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OfflineAudioContext-oncomplete"
+            }
+          ]
         }
       },
       "resume": {
@@ -306,7 +330,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OfflineAudioContext-resume-Promise-void"
+            }
+          ]
         }
       },
       "suspend": {
@@ -357,7 +387,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OfflineAudioContext-suspend-Promise-void--double-suspendTime"
+            }
+          ]
         }
       },
       "startRendering": {
@@ -408,7 +444,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OfflineAudioContext-startRendering-Promise-AudioBuffer"
+            }
+          ]
         },
         "Promise_based_startRendering": {
           "__compat": {

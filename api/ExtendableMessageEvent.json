@@ -49,7 +49,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Service Workers",
+            "url": "https://w3c.github.io/ServiceWorker/#extendablemessage-event-interface"
+          }
+        ]
       },
       "ExtendableMessageEvent": {
         "__compat": {
@@ -100,7 +106,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#extendablemessage-event-interface"
+            }
+          ]
         }
       },
       "data": {
@@ -152,7 +164,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#extendablemessage-event-data-attribute"
+            }
+          ]
         }
       },
       "lastEventId": {
@@ -204,7 +222,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#extendablemessage-event-lasteventid-attribute"
+            }
+          ]
         }
       },
       "origin": {
@@ -256,7 +280,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#extendablemessage-event-origin-attribute"
+            }
+          ]
         }
       },
       "ports": {
@@ -308,7 +338,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#extendablemessage-event-ports-attribute"
+            }
+          ]
         }
       },
       "source": {
@@ -360,7 +396,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#extendablemessage-event-source-attribute"
+            }
+          ]
         }
       }
     }

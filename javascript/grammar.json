@@ -53,7 +53,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "binary_numeric_literals": {
@@ -119,7 +133,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "boolean_literals": {
@@ -174,7 +202,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "decimal_numeric_literals": {
@@ -229,7 +271,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "hexadecimal_escape_sequences": {
@@ -284,7 +340,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "hexadecimal_numeric_literals": {
@@ -339,7 +409,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "null_literal": {
@@ -394,7 +478,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "octal_numeric_literals": {
@@ -449,7 +547,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "regular_expression_literals": {
@@ -504,7 +616,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "string_literals": {
@@ -559,7 +685,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "unicode_escape_sequences": {
@@ -614,7 +754,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "unicode_point_escapes": {
@@ -669,7 +823,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-7"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-ecmascript-language-lexical-grammar"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-ecmascript-language-lexical-grammar"
+            }
+          ]
         }
       },
       "shorthand_object_literals": {
@@ -778,7 +946,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-template-literals"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-template-literals"
+            }
+          ]
         },
         "template_literal_revision": {
           "__compat": {

@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Streams",
+            "url": "https://streams.spec.whatwg.org/#ws-default-controller-class"
+          }
+        ]
       },
       "WritableStreamDefaultController": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#ws-default-controller-constructor"
+            }
+          ]
         }
       },
       "error": {
@@ -150,7 +162,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#ws-default-controller-error"
+            }
+          ]
         }
       }
     }

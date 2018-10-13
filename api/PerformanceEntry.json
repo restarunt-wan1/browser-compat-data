@@ -65,7 +65,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Performance Timeline Level 2",
+            "url": "https://w3c.github.io/performance-timeline/#dom-performanceentry"
+          },
+          {
+            "name": "Performance Timeline",
+            "url": "https://www.w3.org/TR/performance-timeline/#dom-performanceentry"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -166,7 +176,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Performance Timeline Level 2",
+              "url": "https://w3c.github.io/performance-timeline/#dom-performanceentry-duration"
+            },
+            {
+              "name": "Performance Timeline",
+              "url": "https://www.w3.org/TR/performance-timeline/#dom-performanceentry-duration"
+            }
+          ]
         }
       },
       "entryType": {
@@ -217,7 +237,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Performance Timeline Level 2",
+              "url": "https://w3c.github.io/performance-timeline/#dom-performanceentry-entrytype"
+            },
+            {
+              "name": "Performance Timeline",
+              "url": "https://www.w3.org/TR/performance-timeline/#dom-performanceentry-entrytype"
+            }
+          ]
         }
       },
       "name": {
@@ -268,7 +298,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Performance Timeline Level 2",
+              "url": "https://w3c.github.io/performance-timeline/#dom-performanceentry-name"
+            },
+            {
+              "name": "Performance Timeline",
+              "url": "https://www.w3.org/TR/performance-timeline/#dom-performanceentry-name"
+            }
+          ]
         }
       },
       "startTime": {
@@ -319,7 +359,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Performance Timeline Level 2",
+              "url": "https://w3c.github.io/performance-timeline/#dom-performanceentry-starttime"
+            },
+            {
+              "name": "Performance Timeline",
+              "url": "https://www.w3.org/TR/performance-timeline/#dom-performanceentry-starttime"
+            }
+          ]
         }
       },
       "toJSON": {
@@ -370,7 +420,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Performance Timeline Level 2",
+              "url": "https://w3c.github.io/performance-timeline/#dom-performanceentry"
+            }
+          ]
         }
       }
     }

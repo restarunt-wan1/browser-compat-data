@@ -66,7 +66,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Selectors",
+              "url": "https://drafts.csswg.org/selectors-3/#descendant-combinators"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/selector.html#descendant-selectors"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#contextual-selectors"
+            }
+          ]
         },
         "two_greater_than_syntax": {
           "__compat": {

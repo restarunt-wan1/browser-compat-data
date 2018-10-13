@@ -63,7 +63,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geometry Interfaces",
+            "url": "https://drafts.fxtf.org/geometry/#DOMRect"
+          }
+        ]
       },
       "DOMRectReadOnly": {
         "__compat": {
@@ -111,7 +117,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#DOMRect"
+            }
+          ]
         }
       },
       "fromRect": {
@@ -162,7 +174,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrect-fromrect"
+            }
+          ]
         }
       },
       "bottom": {
@@ -213,7 +231,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrectreadonly-bottom"
+            }
+          ]
         }
       },
       "height": {
@@ -264,7 +288,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrectreadonly-height"
+            }
+          ]
         }
       },
       "left": {
@@ -315,7 +345,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrectreadonly-left"
+            }
+          ]
         }
       },
       "right": {
@@ -366,7 +402,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrectreadonly-right"
+            }
+          ]
         }
       },
       "top": {
@@ -417,7 +459,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrectreadonly-top"
+            }
+          ]
         }
       },
       "width": {
@@ -468,7 +516,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrectreadonly-width"
+            }
+          ]
         }
       },
       "x": {
@@ -516,7 +570,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrectreadonly-x"
+            }
+          ]
         }
       },
       "y": {
@@ -564,7 +624,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-domrectreadonly-y"
+            }
+          ]
         }
       }
     }

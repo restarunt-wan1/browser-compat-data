@@ -45,7 +45,21 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "EME",
+            "url": "https://w3c.github.io/encrypted-media/#dom-sourcekeysystem"
+          },
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmlsourceelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/embedded-content-0.html#the-source-element"
+          }
+        ]
       },
       "keySystem": {
         "__compat": {

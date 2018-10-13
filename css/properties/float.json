@@ -49,7 +49,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Logical Properties",
+              "url": "https://drafts.csswg.org/css-logical-props/#float-clear"
+            },
+            {
+              "name": "CSS3 Box",
+              "url": "https://drafts.csswg.org/css-box-3/#float"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/visuren.html#float-position"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#float"
+            }
+          ]
         },
         "flow_relative_values": {
           "__compat": {

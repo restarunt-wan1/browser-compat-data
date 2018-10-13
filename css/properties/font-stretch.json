@@ -49,7 +49,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Fonts",
+              "url": "https://drafts.csswg.org/css-fonts-4/#propdef-font-stretch"
+            },
+            {
+              "name": "CSS3 Fonts",
+              "url": "https://drafts.csswg.org/css-fonts-3/#propdef-font-stretch"
+            }
+          ]
         },
         "percentage": {
           "__compat": {

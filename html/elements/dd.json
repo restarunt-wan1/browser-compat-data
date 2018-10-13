@@ -50,7 +50,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/semantics.html#the-dd-element"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/grouping-content.html#the-dd-element"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/struct/lists.html#h-10.3"
+            }
+          ]
         },
         "nowrap": {
           "__compat": {

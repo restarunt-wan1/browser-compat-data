@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "UI Events",
+            "url": "https://w3c.github.io/uievents/#interface-keyboardevent"
+          }
+        ]
       },
       "KeyboardEvent": {
         "__compat": {
@@ -98,7 +104,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "UI Events",
+              "url": "https://w3c.github.io/uievents/#interface-keyboardevent"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#interface-KeyboardEvent"
+            }
+          ]
         },
         "code_and_key_in_init": {
           "__compat": {
@@ -200,7 +216,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-altKey"
+            }
+          ]
         }
       },
       "charCode": {
@@ -302,7 +324,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "UI Events",
+              "url": "https://w3c.github.io/uievents/#dom-keyboardevent-code"
+            }
+          ]
         }
       },
       "ctrlKey": {
@@ -353,7 +381,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-ctrlKey"
+            }
+          ]
         }
       },
       "isComposing": {
@@ -404,7 +438,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-isComposing"
+            }
+          ]
         }
       },
       "key": {
@@ -456,7 +496,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-key"
+            }
+          ]
         },
         "non_printable_keys": {
           "__compat": {
@@ -769,7 +815,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-location"
+            }
+          ]
         }
       },
       "metaKey": {
@@ -820,7 +872,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-metaKey"
+            }
+          ]
         }
       },
       "repeat": {
@@ -871,7 +929,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-repeat"
+            }
+          ]
         }
       },
       "shiftKey": {
@@ -922,7 +986,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-shiftKey"
+            }
+          ]
         }
       },
       "which": {
@@ -1026,7 +1096,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-KeyboardEvent-getModifierState"
+            }
+          ]
         },
         "accel_support": {
           "__compat": {

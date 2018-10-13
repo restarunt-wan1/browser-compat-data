@@ -51,7 +51,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/scripting.html#selector-hover"
+            },
+            {
+              "name": "CSS4 Selectors",
+              "url": "https://drafts.csswg.org/selectors-4/#the-hover-pseudo"
+            },
+            {
+              "name": "CSS3 Selectors",
+              "url": "https://drafts.csswg.org/selectors-3/#the-user-action-pseudo-classes-hover-act"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/selector.html#dynamic-pseudo-classes"
+            }
+          ]
         },
         "a_elements": {
           "__compat": {

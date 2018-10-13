@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#DynamicsCompressorNode-section"
+          }
+        ]
       },
       "DynamicsCompressorNode": {
         "__compat": {
@@ -102,7 +108,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#the-dynamicscompressornode-interface"
+            }
+          ]
         }
       },
       "attack": {
@@ -153,7 +165,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-DynamicsCompressorNode-attack"
+            }
+          ]
         }
       },
       "knee": {
@@ -204,7 +222,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-DynamicsCompressorNode-knee"
+            }
+          ]
         }
       },
       "ratio": {
@@ -255,7 +279,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-DynamicsCompressorNode-ratio"
+            }
+          ]
         }
       },
       "reduction": {
@@ -309,7 +339,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-DynamicsCompressorNode-reduction"
+            }
+          ]
         }
       },
       "release": {
@@ -360,7 +396,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-DynamicsCompressorNode-release"
+            }
+          ]
         }
       },
       "threshold": {
@@ -411,7 +453,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-DynamicsCompressorNode-threshold"
+            }
+          ]
         }
       }
     }

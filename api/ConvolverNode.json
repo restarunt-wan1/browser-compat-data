@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#ConvolverNode"
+          }
+        ]
       },
       "ConvolverNode": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#ConvolverNode"
+            }
+          ]
         }
       },
       "buffer": {
@@ -150,7 +162,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-ConvolverNode-buffer"
+            }
+          ]
         }
       },
       "normalize": {
@@ -201,7 +219,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-ConvolverNode-normalize"
+            }
+          ]
         }
       }
     }

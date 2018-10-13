@@ -55,7 +55,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#BaseAudioContext"
+          }
+        ]
       },
       "audioWorklet": {
         "__compat": {
@@ -164,7 +170,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createanalyser"
+            }
+          ]
         }
       },
       "createBiquadFilter": {
@@ -223,7 +235,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createbiquadfilter"
+            }
+          ]
         }
       },
       "createBuffer": {
@@ -282,7 +300,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createbuffer"
+            }
+          ]
         }
       },
       "createBufferSource": {
@@ -341,7 +365,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createbuffersource"
+            }
+          ]
         }
       },
       "createChannelMerger": {
@@ -400,7 +430,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createchannelmerger"
+            }
+          ]
         }
       },
       "createChannelSplitter": {
@@ -459,7 +495,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createchannelsplitter"
+            }
+          ]
         }
       },
       "createConstantSource": {
@@ -510,7 +552,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createconstantsource"
+            }
+          ]
         },
         "implemented_on_audio_context": {
           "__compat": {
@@ -628,7 +676,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createconvolver"
+            }
+          ]
         }
       },
       "createDelay": {
@@ -687,7 +741,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createdelay"
+            }
+          ]
         }
       },
       "createDynamicsCompressor": {
@@ -746,7 +806,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createdynamicscompressor"
+            }
+          ]
         }
       },
       "createGain": {
@@ -805,7 +871,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-creategain"
+            }
+          ]
         }
       },
       "createIIRFilter": {
@@ -915,7 +987,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createoscillator"
+            }
+          ]
         }
       },
       "createPanner": {
@@ -974,7 +1052,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createpanner"
+            }
+          ]
         }
       },
       "createPeriodicWave": {
@@ -1062,7 +1146,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createperiodicwave"
+            }
+          ]
         },
         "disableNormalisation_supported": {
           "__compat": {
@@ -1172,7 +1262,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createscriptprocessor"
+            }
+          ]
         }
       },
       "createStereoPanner": {
@@ -1223,7 +1319,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createstereopanner"
+            }
+          ]
         }
       },
       "createWaveShaper": {
@@ -1282,7 +1384,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-createwaveshaper"
+            }
+          ]
         }
       },
       "currentTime": {
@@ -1341,7 +1449,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-currenttime"
+            }
+          ]
         }
       },
       "decodeAudioData": {
@@ -1400,7 +1514,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-decodeaudiodata"
+            }
+          ]
         },
         "promise_syntax": {
           "__compat": {
@@ -1510,7 +1630,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-destination"
+            }
+          ]
         }
       },
       "listener": {
@@ -1569,7 +1695,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-listener"
+            }
+          ]
         }
       },
       "onstatechange": {
@@ -1620,7 +1752,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-onstatechange"
+            }
+          ]
         }
       },
       "resume": {
@@ -1671,7 +1809,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-resume"
+            }
+          ]
         }
       },
       "sampleRate": {
@@ -1730,7 +1874,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-samplerate"
+            }
+          ]
         }
       },
       "state": {
@@ -1781,7 +1931,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-baseaudiocontext-state"
+            }
+          ]
         }
       }
     }

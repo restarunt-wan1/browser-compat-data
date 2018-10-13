@@ -52,7 +52,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Sizing",
+              "url": "https://drafts.csswg.org/css-sizing-3/#width-height-keywords"
+            },
+            {
+              "name": "CSS Flexbox",
+              "url": "https://drafts.csswg.org/css-flexbox-1/#min-auto"
+            },
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#animatable-css"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/visudet.html#min-max-heights"
+            }
+          ]
         },
         "sizing_values": {
           "__compat": {

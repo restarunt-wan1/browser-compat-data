@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebGL",
+            "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.6"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {

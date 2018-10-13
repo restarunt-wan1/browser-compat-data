@@ -60,7 +60,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geolocation",
+            "url": "https://dev.w3.org/geo/api/spec-source.html#positionoptions"
+          }
+        ]
       },
       "secure_context_required": {
         "__compat": {
@@ -174,7 +180,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#enablehighaccuracy"
+            }
+          ]
         }
       },
       "timeout": {
@@ -237,7 +249,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#timeout"
+            }
+          ]
         }
       },
       "maximumAge": {
@@ -300,7 +318,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#maximumage"
+            }
+          ]
         }
       }
     }

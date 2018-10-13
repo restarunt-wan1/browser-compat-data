@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebRTC 1.0",
+            "url": "https://w3c.github.io/webrtc-pc/#rtcrtpreceiver-interface"
+          }
+        ]
       },
       "track": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpreceiver-track"
+            }
+          ]
         }
       },
       "transport": {
@@ -360,7 +372,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpreceiver-getcontributingsources"
+            }
+          ]
         }
       },
       "getSynchronizationSources": {
@@ -418,7 +436,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpreceiver-getsynchronizationsources"
+            }
+          ]
         }
       },
       "getStats": {
@@ -469,7 +493,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpreceiver-getstats()"
+            }
+          ]
         }
       }
     }

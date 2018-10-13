@@ -52,7 +52,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect-object"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-reflect-object"
+            }
+          ]
         },
         "apply": {
           "__compat": {
@@ -105,7 +115,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.apply"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.apply"
+              }
+            ]
           }
         },
         "construct": {
@@ -159,7 +179,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.construct"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.construct"
+              }
+            ]
           }
         },
         "defineProperty": {
@@ -213,7 +243,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.defineproperty"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.defineproperty"
+              }
+            ]
           }
         },
         "deleteProperty": {
@@ -267,7 +307,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.deleteproperty"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.deleteproperty"
+              }
+            ]
           }
         },
         "enumerate": {
@@ -376,7 +426,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.get"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.get"
+              }
+            ]
           }
         },
         "getOwnPropertyDescriptor": {
@@ -430,7 +490,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.getownpropertydescriptor"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.getownpropertydescriptor"
+              }
+            ]
           }
         },
         "getPrototypeOf": {
@@ -484,7 +554,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.getprototypeof"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.getprototypeof"
+              }
+            ]
           }
         },
         "has": {
@@ -538,7 +618,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.has"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.has"
+              }
+            ]
           }
         },
         "isExtensible": {
@@ -592,7 +682,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.isextensible"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.isextensible"
+              }
+            ]
           }
         },
         "ownKeys": {
@@ -646,7 +746,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.ownkeys"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.ownkeys"
+              }
+            ]
           }
         },
         "preventExtensions": {
@@ -700,7 +810,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.preventextensions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.preventextensions"
+              }
+            ]
           }
         },
         "set": {
@@ -754,7 +874,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.set"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.set"
+              }
+            ]
           }
         },
         "setPrototypeOf": {
@@ -808,7 +938,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-reflect.setprototypeof"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-reflect.setprototypeof"
+              }
+            ]
           }
         }
       }

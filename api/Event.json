@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-event"
+          }
+        ]
       },
       "Event": {
         "__compat": {
@@ -93,7 +99,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#interface-event"
+            }
+          ]
         }
       },
       "bubbles": {
@@ -141,7 +153,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-bubbles"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-canBubble"
+            }
+          ]
         }
       },
       "cancelBubble": {
@@ -196,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-cancelbubble"
+            }
+          ]
         }
       },
       "cancelable": {
@@ -244,7 +272,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-cancelable"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-canCancel"
+            }
+          ]
         }
       },
       "composed": {
@@ -292,7 +330,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-composed"
+            }
+          ]
         }
       },
       "composedPath": {
@@ -375,7 +419,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-composedpath"
+            }
+          ]
         }
       },
       "createEvent": {
@@ -479,7 +529,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-currenttarget"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-event-currenttarget"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#dfn-current-event-target"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-currentTarget"
+            }
+          ]
         }
       },
       "defaultPrevented": {
@@ -527,7 +595,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-defaultprevented"
+            }
+          ]
         }
       },
       "eventPhase": {
@@ -575,7 +649,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-eventphase"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-event-eventphase"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-eventPhase"
+            }
+          ]
         }
       },
       "explicitOriginalTarget": {
@@ -793,7 +881,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-istrusted"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#trusted-events"
+            }
+          ]
         }
       },
       "originalTarget": {
@@ -989,7 +1087,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-preventdefault"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-preventDefault"
+            }
+          ]
         }
       },
       "returnValue": {
@@ -1085,7 +1193,13 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-srcelement"
+            }
+          ]
         }
       },
       "stopImmediatePropagation": {
@@ -1133,7 +1247,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-stopimmediatepropagation"
+            }
+          ]
         }
       },
       "stopPropagation": {
@@ -1181,7 +1301,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-stoppropagation"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-event-stoppropagation"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-stopPropagation"
+            }
+          ]
         }
       },
       "target": {
@@ -1229,7 +1363,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-target"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-event-target"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-target"
+            }
+          ]
         }
       },
       "timeStamp": {
@@ -1285,7 +1433,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-timestamp"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-event-timestamp"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-timeStamp"
+            }
+          ]
         }
       },
       "type": {
@@ -1333,7 +1495,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-event-type"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-Event-type"
+            }
+          ]
         }
       }
     }

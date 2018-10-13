@@ -151,7 +151,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Proximity Events",
+              "url": "https://w3c.github.io/proximity/#user-proximity"
+            }
+          ]
         }
       }
     }

@@ -47,7 +47,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-range"
+          },
+          {
+            "name": "DOM Parsing",
+            "url": "https://w3c.github.io/DOM-Parsing/#extensions-to-the-range-interface"
+          },
+          {
+            "name": "CSSOM View",
+            "url": "https://drafts.csswg.org/cssom-view/#extensions-to-the-range-interface"
+          },
+          {
+            "name": "DOM2 Traversal_Range",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level-2-Range-Interface"
+          }
+        ]
       },
       "Range": {
         "__compat": {
@@ -95,7 +113,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range"
+            }
+          ]
         }
       },
       "cloneContents": {
@@ -143,7 +167,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-clonecontents"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-cloneContents"
+            }
+          ]
         }
       },
       "cloneRange": {
@@ -191,7 +225,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-clonerange"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-clone"
+            }
+          ]
         }
       },
       "collapse": {
@@ -239,7 +283,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-collapse"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-collapse"
+            }
+          ]
         },
         "toStart_parameter_optional": {
           "__compat": {
@@ -336,7 +390,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-collapsed"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level-2-Range-attr-collapsed"
+            }
+          ]
         }
       },
       "commonAncestorContainer": {
@@ -384,7 +448,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-commonancestorcontainer"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level-2-Range-attr-commonParent"
+            }
+          ]
         }
       },
       "compareBoundaryPoints": {
@@ -432,7 +506,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-compareboundarypoints"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-compareBoundaryPoints"
+            }
+          ]
         }
       },
       "compareNode": {
@@ -529,7 +613,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-comparepoint"
+            }
+          ]
         }
       },
       "createContextualFragment": {
@@ -577,7 +667,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM Parsing",
+              "url": "https://w3c.github.io/DOM-Parsing/#idl-def-range-createcontextualfragment(domstring)"
+            }
+          ]
         }
       },
       "deleteContents": {
@@ -625,7 +721,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-deletecontents"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-deleteContents"
+            }
+          ]
         }
       },
       "detach": {
@@ -680,7 +786,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-detach"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-detach"
+            }
+          ]
         }
       },
       "endContainer": {
@@ -728,7 +844,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-endcontainer"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level-2-Range-attr-endParent"
+            }
+          ]
         }
       },
       "endOffset": {
@@ -776,7 +902,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-endoffset"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level-2-Range-attr-endOffset"
+            }
+          ]
         }
       },
       "extractContents": {
@@ -824,7 +960,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-extractcontents"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-extractContents"
+            }
+          ]
         }
       },
       "getBoundingClientRect": {
@@ -872,7 +1018,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-range-getboundingclientrect"
+            }
+          ]
         }
       },
       "getClientRects": {
@@ -920,7 +1072,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-range-getclientrects"
+            }
+          ]
         }
       },
       "insertNode": {
@@ -968,7 +1126,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-insertnode"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-insertNode"
+            }
+          ]
         },
         "collapsed_ranges": {
           "__compat": {
@@ -1064,7 +1232,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-intersectsnode"
+            }
+          ]
         }
       },
       "isPointInRange": {
@@ -1112,7 +1286,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-ispointinrange"
+            }
+          ]
         }
       },
       "selectNode": {
@@ -1160,7 +1340,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-selectnode"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-selectNode"
+            }
+          ]
         }
       },
       "selectNodeContents": {
@@ -1208,7 +1398,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-selectnodecontents"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-selectNodeContents"
+            }
+          ]
         }
       },
       "setEnd": {
@@ -1256,7 +1456,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-setend"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-setEnd"
+            }
+          ]
         }
       },
       "setEndAfter": {
@@ -1304,7 +1514,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-setendafter"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-setEndAfter"
+            }
+          ]
         }
       },
       "setEndBefore": {
@@ -1352,7 +1572,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-setendbefore"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-setEndBefore"
+            }
+          ]
         }
       },
       "setStart": {
@@ -1400,7 +1630,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-setstart"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-setStart"
+            }
+          ]
         }
       },
       "setStartAfter": {
@@ -1448,7 +1688,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-setstartafter"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-setStartAfter"
+            }
+          ]
         }
       },
       "setStartBefore": {
@@ -1496,7 +1746,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-setstartbefore"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-setStartBefore"
+            }
+          ]
         }
       },
       "startContainer": {
@@ -1544,7 +1804,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-startcontainer"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level-2-Range-attr-startParent"
+            }
+          ]
         }
       },
       "startOffset": {
@@ -1592,7 +1862,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-startoffset"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level-2-Range-attr-startOffset"
+            }
+          ]
         }
       },
       "surroundContents": {
@@ -1640,7 +1920,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-surroundcontents"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-surroundContents"
+            }
+          ]
         }
       },
       "toString": {
@@ -1688,7 +1978,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-range-stringifier"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/ranges.html#Level2-Range-method-toString"
+            }
+          ]
         }
       }
     }

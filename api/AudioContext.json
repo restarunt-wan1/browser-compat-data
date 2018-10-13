@@ -84,7 +84,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#AudioContext"
+          }
+        ]
       },
       "AudioContext": {
         "__compat": {
@@ -147,7 +153,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audiocontext-audiocontext"
+            }
+          ]
         },
         "latencyHint": {
           "__compat": {
@@ -307,7 +319,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audiocontext-baselatency"
+            }
+          ]
         }
       },
       "outputLatency": {
@@ -358,7 +376,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audiocontext-outputlatency"
+            }
+          ]
         }
       },
       "close": {
@@ -409,7 +433,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioContext-close-Promise-void"
+            }
+          ]
         }
       },
       "createMediaElementSource": {
@@ -460,7 +490,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioContext-createMediaElementSource-MediaElementAudioSourceNode-HTMLMediaElement-mediaElement"
+            }
+          ]
         }
       },
       "createMediaStreamSource": {
@@ -511,7 +547,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioContext-createMediaStreamSource-MediaStreamAudioSourceNode-MediaStream-mediaStream"
+            }
+          ]
         }
       },
       "createMediaStreamDestination": {
@@ -562,7 +604,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioContext-createMediaStreamDestination-MediaStreamAudioDestinationNode"
+            }
+          ]
         }
       },
       "createMediaStreamTrackSource": {
@@ -613,7 +661,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audiocontext-createmediastreamtracksource"
+            }
+          ]
         }
       },
       "getOutputTimestamp": {
@@ -664,7 +718,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioContext-getOutputTimestamp-AudioTimestamp"
+            }
+          ]
         }
       },
       "suspend": {
@@ -715,7 +775,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioContext-suspend-Promise-void"
+            }
+          ]
         }
       }
     }

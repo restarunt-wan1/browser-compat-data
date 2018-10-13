@@ -50,7 +50,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmlhyperlinkelementutils"
+          }
+        ]
       },
       "hash": {
         "__compat": {
@@ -102,7 +108,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-hash"
+            }
+          ]
         }
       },
       "host": {
@@ -156,7 +168,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-host"
+            }
+          ]
         }
       },
       "hostname": {
@@ -209,7 +227,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-hostname"
+            }
+          ]
         }
       },
       "href": {
@@ -262,7 +286,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-href"
+            }
+          ]
         }
       },
       "origin": {
@@ -321,7 +351,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-origin"
+            }
+          ]
         }
       },
       "password": {
@@ -368,7 +404,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-password"
+            }
+          ]
         }
       },
       "pathname": {
@@ -431,7 +473,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-pathname"
+            }
+          ]
         }
       },
       "port": {
@@ -484,7 +532,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-port"
+            }
+          ]
         }
       },
       "protocol": {
@@ -537,7 +591,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-protocol"
+            }
+          ]
         }
       },
       "search": {
@@ -596,7 +656,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-search"
+            }
+          ]
         }
       },
       "toString": {
@@ -646,7 +712,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#htmlhyperlinkelementutils"
+            }
+          ]
         }
       },
       "username": {
@@ -693,7 +765,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hyperlink-username"
+            }
+          ]
         }
       }
     }

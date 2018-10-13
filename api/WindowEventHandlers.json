@@ -45,7 +45,21 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#windoweventhandlers"
+          },
+          {
+            "name": "HTML5.1",
+            "url": "https://www.w3.org/TR/html51/#windoweventhandlers"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/#windoweventhandlers"
+          }
+        ]
       },
       "onafterprint": {
         "__compat": {
@@ -92,7 +106,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-window-onafterprint"
+            }
+          ]
         }
       },
       "onbeforeprint": {
@@ -140,7 +160,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-window-onbeforeprint"
+            }
+          ]
         }
       },
       "onbeforeunload": {
@@ -189,7 +215,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-window-onbeforeunload"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/#windoweventhandlers"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/#windoweventhandlers"
+            }
+          ]
         },
         "custom_text_support": {
           "__compat": {
@@ -293,7 +333,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-window-onhashchange"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/#windoweventhandlers"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/#windoweventhandlers"
+            }
+          ]
         }
       },
       "onlanguagechange": {
@@ -341,7 +395,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-workerglobalscope-onlanguagechange"
+            }
+          ]
         }
       },
       "onmessage": {
@@ -389,7 +449,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-window-onmessage"
+            }
+          ]
         }
       },
       "onmessageerror": {
@@ -437,7 +503,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-window-onmessageerror"
+            }
+          ]
         },
         "worker_support": {
           "__compat": {
@@ -583,7 +655,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-window-onrejectionhandled"
+            }
+          ]
         }
       },
       "onstorage": {
@@ -631,7 +709,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-window-onstorage"
+            }
+          ]
         }
       },
       "onunhandledrejection": {
@@ -681,7 +765,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-window-onunhandledrejection"
+            }
+          ]
         }
       },
       "onunload": {
@@ -729,7 +819,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-window-onunload"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/#windoweventhandlers"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/#windoweventhandlers"
+            }
+          ]
         }
       }
     }

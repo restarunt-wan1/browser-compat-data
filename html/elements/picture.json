@@ -75,7 +75,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#the-picture-element"
+            }
+          ]
         }
       }
     }

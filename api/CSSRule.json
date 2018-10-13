@@ -45,7 +45,33 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#css-rules"
+          },
+          {
+            "name": "CSS3 Animations",
+            "url": "https://drafts.csswg.org/css-animations/#interface-cssrule"
+          },
+          {
+            "name": "CSS3 Fonts",
+            "url": "https://drafts.csswg.org/css-fonts-3/#om-fontfeaturevalues"
+          },
+          {
+            "name": "CSS3 Counter Styles",
+            "url": "https://drafts.csswg.org/css-counter-styles-3/#extentions-to-cssrule-interface"
+          },
+          {
+            "name": "CSS3 Conditional",
+            "url": "https://drafts.csswg.org/css-conditional-3/#extentions-to-cssrule-interface"
+          },
+          {
+            "name": "DOM2 Style",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSRule"
+          }
+        ]
       },
       "type": {
         "__compat": {

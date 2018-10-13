@@ -51,7 +51,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Box Alignment",
+                "url": "https://drafts.csswg.org/css-align-3/#place-items-property"
+              }
+            ]
           }
         },
         "grid_context": {
@@ -103,7 +109,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Box Alignment",
+                "url": "https://drafts.csswg.org/css-align-3/#place-items-property"
+              }
+            ]
           }
         }
       }

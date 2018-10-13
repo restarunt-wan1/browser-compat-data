@@ -50,7 +50,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Pseudo-Elements",
+              "url": "https://drafts.csswg.org/css-pseudo-4/#marker-pseudo"
+            },
+            {
+              "name": "CSS3 Lists",
+              "url": "https://drafts.csswg.org/css-lists-3/#marker-pseudo"
+            }
+          ]
         }
       }
     }

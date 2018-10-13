@@ -52,7 +52,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Backgrounds",
+              "url": "https://drafts.csswg.org/css-backgrounds-3/#background-image"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/colors.html#propdef-background-image"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#background-image"
+            }
+          ]
         },
         "multiple_backgrounds": {
           "__compat": {

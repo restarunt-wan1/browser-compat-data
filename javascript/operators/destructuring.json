@@ -55,7 +55,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-destructuring-assignment"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-destructuring-assignment"
+            }
+          ]
         },
         "computed_property_names": {
           "__compat": {

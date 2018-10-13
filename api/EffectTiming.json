@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Animations",
+            "url": "https://drafts.csswg.org/web-animations/#the-effecttiming-dictionary"
+          }
+        ]
       },
       "delay": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#start-delay"
+            }
+          ]
         }
       },
       "direction": {
@@ -149,7 +161,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#enumdef-playbackdirection"
+            }
+          ]
         }
       },
       "duration": {
@@ -200,7 +218,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#iteration-duration"
+            }
+          ]
         }
       },
       "easing": {
@@ -251,7 +275,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#time-transformations"
+            }
+          ]
         }
       },
       "endDelay": {
@@ -302,7 +332,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#end-delay"
+            }
+          ]
         }
       },
       "fill": {
@@ -353,7 +389,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#enumdef-fillmode"
+            }
+          ]
         }
       },
       "iterations": {
@@ -404,7 +446,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#iteration-count"
+            }
+          ]
         }
       },
       "iterationStart": {
@@ -455,7 +503,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#iteration-start"
+            }
+          ]
         }
       }
     }

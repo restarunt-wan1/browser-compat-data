@@ -171,7 +171,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#transition-shorthand-property"
+            }
+          ]
         },
         "gradients": {
           "__compat": {

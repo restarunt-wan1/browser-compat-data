@@ -106,7 +106,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Grid",
+              "url": "https://drafts.csswg.org/css-grid/#propdef-grid-auto-flow"
+            }
+          ]
         }
       }
     }

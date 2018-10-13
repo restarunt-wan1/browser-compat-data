@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#message-channels"
+          }
+        ]
       },
       "MessageChannel": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#dom-messagechannel"
+            }
+          ]
         }
       },
       "port1": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#dom-messagechannel-port1"
+            }
+          ]
         }
       },
       "port2": {
@@ -200,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#dom-messagechannel-port2"
+            }
+          ]
         }
       }
     }

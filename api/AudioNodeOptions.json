@@ -39,9 +39,14 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#audionodeoptions"
+          }
+        ]
       }
     }
   }
 }
-

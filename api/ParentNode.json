@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#parentnode"
+          },
+          {
+            "name": "Element Traversal",
+            "url": "https://www.w3.org/TR/ElementTraversal/#interface-elementTraversal"
+          }
+        ]
       },
       "document_documentfragment": {
         "__compat": {
@@ -149,7 +159,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-childElementCount"
+            },
+            {
+              "name": "Element Traversal",
+              "url": "https://www.w3.org/TR/ElementTraversal/#attribute-childElementCount"
+            }
+          ]
         },
         "document_documentfragment": {
           "__compat": {
@@ -252,7 +272,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-children"
+            }
+          ]
         },
         "document_documentfragment": {
           "__compat": {
@@ -405,7 +431,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-firstelementchild"
+            },
+            {
+              "name": "Element Traversal",
+              "url": "https://www.w3.org/TR/ElementTraversal/#attribute-firstElementChild"
+            }
+          ]
         },
         "document_documentfragment": {
           "__compat": {
@@ -507,7 +543,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-lastelementchild"
+            },
+            {
+              "name": "Element Traversal",
+              "url": "https://www.w3.org/TR/ElementTraversal/#attribute-lastElementChild"
+            }
+          ]
         },
         "document_documentfragment": {
           "__compat": {
@@ -609,7 +655,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-append"
+            }
+          ]
         }
       },
       "prepend": {
@@ -660,7 +712,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-prepend"
+            }
+          ]
         }
       },
       "querySelectorAll": {
@@ -712,7 +770,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "Selectors API Level 2",
+              "url": "https://dev.w3.org/2006/webapi/selectors-api2/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "Selectors API Level 1",
+              "url": "https://www.w3.org/TR/selectors-api/#interface-definitions"
+            }
+          ]
         }
       }
     }

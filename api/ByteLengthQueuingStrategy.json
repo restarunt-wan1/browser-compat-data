@@ -72,7 +72,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Streams",
+            "url": "https://streams.spec.whatwg.org/#blqs-class"
+          }
+        ]
       },
       "ByteLengthQueuingStrategy": {
         "__compat": {
@@ -147,7 +153,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#blqs-constructor"
+            }
+          ]
         }
       },
       "size": {
@@ -222,7 +234,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#blqs-size"
+            }
+          ]
         }
       }
     }

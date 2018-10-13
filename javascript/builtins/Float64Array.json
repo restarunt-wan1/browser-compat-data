@@ -52,7 +52,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#table-49"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#table-49"
+            }
+          ]
         },
         "new_required": {
           "__compat": {

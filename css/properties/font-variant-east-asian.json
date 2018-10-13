@@ -75,7 +75,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Fonts",
+              "url": "https://drafts.csswg.org/css-fonts-3/#propdef-font-variant-east-asian"
+            }
+          ]
         }
       }
     }

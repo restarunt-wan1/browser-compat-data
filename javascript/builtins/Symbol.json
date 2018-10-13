@@ -53,7 +53,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol-objects"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-symbol-objects"
+            }
+          ]
         },
         "asyncIterator": {
           "__compat": {
@@ -214,7 +224,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.for"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.for"
+              }
+            ]
           }
         },
         "hasInstance": {
@@ -279,7 +299,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.hasinstance"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.hasinstance"
+              }
+            ]
           }
         },
         "isConcatSpreadable": {
@@ -333,7 +363,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.isconcatspreadable"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.isconcatspreadable"
+              }
+            ]
           }
         },
         "iterator": {
@@ -387,7 +427,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.iterator"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.iterator"
+              }
+            ]
           }
         },
         "keyFor": {
@@ -441,7 +491,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.keyfor"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.keyfor"
+              }
+            ]
           }
         },
         "match": {
@@ -495,7 +555,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.match"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.match"
+              }
+            ]
           }
         },
         "prototype": {
@@ -549,7 +619,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.prototype"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.prototype"
+              }
+            ]
           }
         },
         "replace": {
@@ -603,7 +683,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.replace"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.replace"
+              }
+            ]
           }
         },
         "search": {
@@ -657,7 +747,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.search"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.search"
+              }
+            ]
           }
         },
         "species": {
@@ -722,7 +822,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.species"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.species"
+              }
+            ]
           }
         },
         "split": {
@@ -776,7 +886,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.split"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.split"
+              }
+            ]
           }
         },
         "toPrimitive": {
@@ -830,7 +950,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.toprimitive"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.toprimitive"
+              }
+            ]
           }
         },
         "toSource": {
@@ -938,7 +1068,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.prototype.tostring"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.prototype.tostring"
+              }
+            ]
           }
         },
         "toStringTag": {
@@ -1003,7 +1143,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.tostringtag"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.tostringtag"
+              }
+            ]
           }
         },
         "unscopables": {
@@ -1057,7 +1207,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.unscopables"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.unscopables"
+              }
+            ]
           }
         },
         "valueOf": {
@@ -1111,7 +1271,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.prototype.valueof"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.prototype.valueof"
+              }
+            ]
           }
         },
         "@@toPrimitive": {
@@ -1165,7 +1335,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-symbol.prototype-@@toprimitive"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-symbol.prototype-@@toprimitive"
+              }
+            ]
           }
         }
       }

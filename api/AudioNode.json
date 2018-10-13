@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#the-audionode-interface"
+          }
+        ]
       },
       "channelCount": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-channelCount"
+            }
+          ]
         }
       },
       "channelCountMode": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-channelCount"
+            }
+          ]
         }
       },
       "channelInterpretation": {
@@ -200,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-channelInterpretation"
+            }
+          ]
         }
       },
       "context": {
@@ -251,7 +275,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-context"
+            }
+          ]
         }
       },
       "numberOfInputs": {
@@ -302,7 +332,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-numberOfInputs"
+            }
+          ]
         }
       },
       "numberOfOutputs": {
@@ -353,7 +389,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-numberOfOutputs"
+            }
+          ]
         }
       },
       "connect": {
@@ -404,7 +446,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-connect-AudioNode-AudioNode-destination-unsigned-long-output-unsigned-long-input"
+            },
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-connect-void-AudioParam-destination-unsigned-long-output"
+            }
+          ]
         }
       },
       "disconnect": {
@@ -455,7 +507,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioNode-disconnect-void"
+            }
+          ]
         },
         "destination": {
           "__compat": {

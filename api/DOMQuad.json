@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geometry Interfaces",
+            "url": "https://drafts.fxtf.org/geometry/#DOMQuad"
+          }
+        ]
       },
       "DOMQuad": {
         "__compat": {

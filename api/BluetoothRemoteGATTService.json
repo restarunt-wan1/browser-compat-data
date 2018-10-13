@@ -84,7 +84,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Bluetooth",
+            "url": "https://webbluetoothcg.github.io/web-bluetooth/#bluetoothremotegattservice"
+          }
+        ]
       },
       "device": {
         "__compat": {
@@ -152,7 +158,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattservice-device"
+            }
+          ]
         }
       },
       "getCharacteristic": {
@@ -239,7 +251,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattservice-getcharacteristic"
+            }
+          ]
         }
       },
       "getCharacteristics": {
@@ -290,7 +308,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattservice-getcharacteristics"
+            }
+          ]
         }
       },
       "getIncludedService": {
@@ -341,7 +365,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattservice-getincludedservice"
+            }
+          ]
         }
       },
       "getIncludedServices": {
@@ -428,7 +458,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattservice-getincludedservices"
+            }
+          ]
         }
       },
       "isPrimary": {
@@ -479,7 +515,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattservice-isprimary"
+            }
+          ]
         }
       },
       "uuid": {
@@ -566,7 +608,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattservice-uuid"
+            }
+          ]
         }
       }
     }

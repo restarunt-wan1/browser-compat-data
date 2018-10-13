@@ -50,7 +50,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#selector-indeterminate"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/#selector-indeterminate"
+            },
+            {
+              "name": "CSS4 Selectors",
+              "url": "https://drafts.csswg.org/selectors-4/#indeterminate"
+            },
+            {
+              "name": "CSS3 Basic UI",
+              "url": "https://drafts.csswg.org/css-ui-3/#indeterminate"
+            }
+          ]
         },
         "checkbox": {
           "__compat": {

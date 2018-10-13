@@ -63,7 +63,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "IndexedDB",
+            "url": "https://www.w3.org/TR/IndexedDB/#idl-def-IDBEnvironment"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {

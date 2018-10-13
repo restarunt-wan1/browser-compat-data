@@ -84,7 +84,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "IndexedDB",
+            "url": "https://www.w3.org/TR/IndexedDB/#idl-def-IDBRequest"
+          },
+          {
+            "name": "IndexedDB 2",
+            "url": "https://w3c.github.io/IndexedDB/#request-api"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -221,7 +231,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBRequest-error"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbrequest-error"
+            }
+          ]
         },
         "DOMException": {
           "__compat": {
@@ -337,7 +357,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBRequest-onerror"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbrequest-onerror"
+            }
+          ]
         }
       },
       "onsuccess": {
@@ -402,7 +432,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBRequest-onsuccess"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbrequest-onsuccess"
+            }
+          ]
         }
       },
       "readyState": {
@@ -467,7 +507,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBRequest-readyState"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbrequest-readystate"
+            }
+          ]
         }
       },
       "result": {
@@ -532,7 +582,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBRequest-result"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbrequest-result"
+            }
+          ]
         }
       },
       "source": {
@@ -597,7 +657,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBRequest-source"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbrequest-source"
+            }
+          ]
         }
       },
       "transaction": {
@@ -662,7 +732,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBRequest-transaction"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbrequest-transaction"
+            }
+          ]
         }
       }
     }

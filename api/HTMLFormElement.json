@@ -48,7 +48,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmlformelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/forms.html#the-form-element"
+          },
+          {
+            "name": "DOM2 HTML",
+            "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-40002357"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-40002357"
+          }
+        ]
       },
       "acceptCharset": {
         "__compat": {
@@ -302,7 +320,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-form-elements"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-76728479"
+            }
+          ]
         }
       },
       "encoding": {
@@ -659,7 +687,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/forms.html#dom-cva-reportvalidity"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/semantics.html#the-constraint-validation-api"
+            }
+          ]
         }
       },
       "requestAutocomplete": {

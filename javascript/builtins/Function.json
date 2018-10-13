@@ -52,7 +52,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-15.3"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function-objects"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-function-objects"
+            }
+          ]
         },
         "arguments": {
           "__compat": {
@@ -321,7 +335,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-15.3.5.1"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function-instances-length"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-function-instances-length"
+              }
+            ]
           },
           "configurable_true": {
             "__compat": {
@@ -429,7 +457,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-name"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-function-instances-name"
+              }
+            ]
           },
           "configurable_true": {
             "__compat": {
@@ -591,7 +629,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-15.3.5.2"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function-instances-prototype"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-function-instances-prototype"
+              }
+            ]
           }
         },
         "apply": {
@@ -645,7 +697,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-15.3.4.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function.prototype.apply"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-function.prototype.apply"
+              }
+            ]
           },
           "generic_arrays_as_arguments": {
             "__compat": {
@@ -753,7 +819,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-15.3.4.5"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function.prototype.bind"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-function.prototype.bind"
+              }
+            ]
           }
         },
         "call": {
@@ -807,7 +887,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-15.3.4.4"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function.prototype.call"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-function.prototype.call"
+              }
+            ]
           }
         },
         "isGenerator": {
@@ -971,7 +1065,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function.prototype.tostring"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-function.prototype.tostring"
+              }
+            ]
           },
           "toString_revision": {
             "__compat": {

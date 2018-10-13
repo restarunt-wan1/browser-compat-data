@@ -52,7 +52,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-weakset-objects"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-weakset-objects"
+            }
+          ]
         },
         "weakset_iterable": {
           "__compat": {
@@ -213,7 +223,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-weakset.prototype.add"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-weakset.prototype.add"
+              }
+            ]
           }
         },
         "clear": {
@@ -328,7 +348,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-weakset.prototype.delete"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-weakset.prototype.delete"
+              }
+            ]
           }
         },
         "has": {
@@ -382,7 +412,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-weakset.prototype.has"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-weakset.prototype.has"
+              }
+            ]
           }
         },
         "prototype": {
@@ -436,7 +476,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-weakset.prototype"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-weakset.prototype"
+              }
+            ]
           }
         }
       }

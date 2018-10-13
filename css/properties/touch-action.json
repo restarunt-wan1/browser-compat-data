@@ -84,7 +84,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Compat",
+              "url": "https://compat.spec.whatwg.org#touch-action"
+            },
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#the-touch-action-css-property"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#the-touch-action-css-property"
+            }
+          ]
         },
         "manipulation": {
           "__compat": {

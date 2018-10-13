@@ -49,7 +49,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Colors",
+              "url": "https://drafts.csswg.org/css-color/#the-color-property"
+            },
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#animatable-css"
+            },
+            {
+              "name": "CSS3 Colors",
+              "url": "https://drafts.csswg.org/css-color-3/#color"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/colors.html#colors"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#color"
+            }
+          ]
         },
         "keyword_color_values": {
           "__compat": {
@@ -101,7 +123,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Colors",
+                "url": "https://drafts.csswg.org/css-color/#colorunits"
+              },
+              {
+                "name": "CSS3 Colors",
+                "url": "https://drafts.csswg.org/css-color-3/#colorunits"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#color-units"
+              }
+            ]
           }
         },
         "rgb_hexadecimal_notation": {
@@ -153,7 +193,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Colors",
+                "url": "https://drafts.csswg.org/css-color/#colorunits"
+              },
+              {
+                "name": "CSS3 Colors",
+                "url": "https://drafts.csswg.org/css-color-3/#colorunits"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#color-units"
+              }
+            ]
           }
         },
         "rgb_functional_notation": {
@@ -205,7 +263,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Colors",
+                "url": "https://drafts.csswg.org/css-color/#colorunits"
+              },
+              {
+                "name": "CSS3 Colors",
+                "url": "https://drafts.csswg.org/css-color-3/#colorunits"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#color-units"
+              }
+            ]
           }
         },
         "hsl": {
@@ -257,7 +333,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Colors",
+                "url": "https://drafts.csswg.org/css-color/#colorunits"
+              },
+              {
+                "name": "CSS3 Colors",
+                "url": "https://drafts.csswg.org/css-color-3/#colorunits"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#color-units"
+              }
+            ]
           }
         },
         "alpha": {
@@ -309,7 +403,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Colors",
+                "url": "https://drafts.csswg.org/css-color/#colorunits"
+              },
+              {
+                "name": "CSS3 Colors",
+                "url": "https://drafts.csswg.org/css-color-3/#colorunits"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#color-units"
+              }
+            ]
           }
         },
         "currentcolor": {
@@ -361,7 +473,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Colors",
+                "url": "https://drafts.csswg.org/css-color/#colorunits"
+              },
+              {
+                "name": "CSS3 Colors",
+                "url": "https://drafts.csswg.org/css-color-3/#colorunits"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#color-units"
+              }
+            ]
           }
         },
         "transparent": {
@@ -413,7 +543,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Colors",
+                "url": "https://drafts.csswg.org/css-color/#colorunits"
+              },
+              {
+                "name": "CSS3 Colors",
+                "url": "https://drafts.csswg.org/css-color-3/#colorunits"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#value-def-color"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#color-units"
+              }
+            ]
           }
         },
         "rebeccapurple": {

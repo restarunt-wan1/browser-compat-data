@@ -46,7 +46,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-childnode"
+          },
+          {
+            "name": "Element Traversal",
+            "url": "https://www.w3.org/TR/ElementTraversal/#interface-elementTraversal"
+          }
+        ]
       },
       "CharacterData_support": {
         "__compat": {
@@ -141,7 +151,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nondocumenttypechildnode-nextelementsibling"
+            },
+            {
+              "name": "Element Traversal",
+              "url": "https://www.w3.org/TR/ElementTraversal/#attribute-nextElementSibling"
+            }
+          ]
         }
       },
       "previousElementSibling": {
@@ -189,7 +209,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nondocumenttypechildnode-previouselementsibling"
+            },
+            {
+              "name": "Element Traversal",
+              "url": "https://www.w3.org/TR/ElementTraversal/#attribute-previousElementSibling"
+            }
+          ]
         }
       }
     }

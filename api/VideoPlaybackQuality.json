@@ -60,7 +60,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Media Source Extensions",
+            "url": "https://w3c.github.io/media-source/#videoplaybackquality"
+          }
+        ]
       },
       "creationTime": {
         "__compat": {
@@ -122,7 +128,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-VideoPlaybackQuality-creationTime"
+            }
+          ]
         }
       },
       "droppedVideoFrames": {
@@ -185,7 +197,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-VideoPlaybackQuality-droppedVideoFrames"
+            }
+          ]
         }
       },
       "corruptedVideoFrames": {
@@ -248,7 +266,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-VideoPlaybackQuality-corruptedVideoFrames"
+            }
+          ]
         }
       },
       "totalVideoFrames": {
@@ -311,7 +335,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-VideoPlaybackQuality-totalVideoFrames"
+            }
+          ]
         }
       },
       "totalFrameDelay": {

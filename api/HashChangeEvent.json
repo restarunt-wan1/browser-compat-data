@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#hashchangeevent"
+          }
+        ]
       },
       "oldURL": {
         "__compat": {
@@ -95,7 +101,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hashchangeevent-oldurl"
+            }
+          ]
         }
       },
       "newURL": {
@@ -146,7 +158,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-hashchangeevent-newurl"
+            }
+          ]
         }
       }
     }

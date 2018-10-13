@@ -47,7 +47,17 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Selection API",
+            "url": "https://w3c.github.io/selection-api/#definition"
+          },
+          {
+            "name": "HTML Editing",
+            "url": "https://w3c.github.io/editing/#selection"
+          }
+        ]
       },
       "addRange": {
         "__compat": {
@@ -94,7 +104,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-addrange"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-addRange-void-Range-range"
+            }
+          ]
         }
       },
       "anchorNode": {
@@ -142,7 +162,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-anchornode"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-anchorNode"
+            }
+          ]
         }
       },
       "anchorOffset": {
@@ -190,7 +220,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-anchoroffset"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-anchorOffset"
+            }
+          ]
         }
       },
       "collapse": {
@@ -238,7 +278,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-collapse-void-Node-node-unsigned-long-offset"
+            },
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-collapse"
+            }
+          ]
         }
       },
       "collapseToStart": {
@@ -286,7 +336,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-collapsetostart"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-collapseToStart-void"
+            }
+          ]
         }
       },
       "collapseToEnd": {
@@ -334,7 +394,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-collapsetoend"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-collapseToEnd-void"
+            }
+          ]
         }
       },
       "containsNode": {
@@ -384,7 +454,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-containsNode"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-containsNode-boolean-Node-node-boolean-allowPartialContainment"
+            }
+          ]
         },
         "partialContainment": {
           "__compat": {
@@ -480,7 +560,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-deletefromdocument"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-deleteFromDocument-void"
+            }
+          ]
         }
       },
       "empty": {
@@ -529,7 +619,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-removeallranges"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-removeAllRanges-void"
+            }
+          ]
         }
       },
       "extend": {
@@ -577,7 +677,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-extend"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-extend-void-Node-node-unsigned-long-offset"
+            }
+          ]
         },
         "offset": {
           "__compat": {
@@ -673,7 +783,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-focusnode"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-focusNode"
+            }
+          ]
         }
       },
       "focusOffset": {
@@ -721,7 +841,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-focusOffset"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-focusOffset"
+            }
+          ]
         }
       },
       "getRangeAt": {
@@ -769,7 +899,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-getrangeat"
+            }
+          ]
         }
       },
       "isCollapsed": {
@@ -817,7 +953,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-iscollapsed"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-isCollapsed"
+            }
+          ]
         }
       },
       "modify": {
@@ -1009,7 +1155,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-rangecount"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-rangeCount"
+            }
+          ]
         }
       },
       "removeRange": {
@@ -1057,7 +1213,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-removerange"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-removeRange-void-Range-range"
+            }
+          ]
         }
       },
       "removeAllRanges": {
@@ -1105,7 +1271,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-removeallranges"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-removeAllRanges-void"
+            }
+          ]
         }
       },
       "selectAllChildren": {
@@ -1153,7 +1329,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-selectallchildren"
+            },
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-selectAllChildren-void-Node-node"
+            }
+          ]
         }
       },
       "setBaseAndExtent": {
@@ -1201,7 +1387,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#dom-selection-setbaseandextent"
+            }
+          ]
         }
       },
       "setPosition": {
@@ -1250,7 +1442,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#widl-Selection-collapse-void-Node-node-unsigned-long-offset"
+            },
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-collapse"
+            }
+          ]
         }
       },
       "toString": {
@@ -1298,7 +1500,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#dom-selection-stringifier"
+            }
+          ]
         }
       },
       "type": {
@@ -1346,7 +1554,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#dom-selection-type"
+            }
+          ]
         }
       }
     }

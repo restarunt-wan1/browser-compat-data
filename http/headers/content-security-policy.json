@@ -208,7 +208,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-base-uri"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-base-uri"
+              }
+            ]
           }
         },
         "block-all-mixed-content": {
@@ -259,7 +269,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "Mixed Content",
+                "url": "https://w3c.github.io/webappsec-mixed-content/#block-all-mixed-content"
+              }
+            ]
           }
         },
         "child-src": {
@@ -362,7 +378,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-connect-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-connect-src"
+              }
+            ]
           }
         },
         "default-src": {
@@ -413,7 +439,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-default-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-default-src"
+              }
+            ]
           }
         },
         "disown-opener": {
@@ -514,7 +550,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-font-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-font-src"
+              }
+            ]
           }
         },
         "form-action": {
@@ -565,7 +611,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-form-action"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-form-action"
+              }
+            ]
           }
         },
         "frame-ancestors": {
@@ -618,7 +674,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-frame-ancestors"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-frame-ancestors"
+              }
+            ]
           }
         },
         "frame-src": {
@@ -669,7 +735,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-frame-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-frame-src"
+              }
+            ]
           }
         },
         "img-src": {
@@ -720,7 +796,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-img-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-img-src"
+              }
+            ]
           }
         },
         "manifest-src": {
@@ -771,7 +857,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-manifest-src"
+              }
+            ]
           }
         },
         "media-src": {
@@ -822,7 +914,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-media-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-media-src"
+              }
+            ]
           }
         },
         "navigate-to": {
@@ -923,7 +1025,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-object-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-object-src"
+              }
+            ]
           }
         },
         "plugin-types": {
@@ -975,7 +1087,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-plugin-types"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-plugin-types"
+              }
+            ]
           }
         },
         "referrer": {
@@ -1249,7 +1371,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "Subresource Integrity",
+                "url": "https://w3c.github.io/webappsec/specs/subresourceintegrity/#opt-in-require-sri-for"
+              }
+            ]
           }
         },
         "sandbox": {
@@ -1300,7 +1428,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-sandbox"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-sandbox"
+              }
+            ]
           }
         },
         "script-src": {
@@ -1351,7 +1489,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-script-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-script-src"
+              }
+            ]
           },
           "external_scripts": {
             "__compat": {
@@ -1503,7 +1651,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-style-src"
+              },
+              {
+                "name": "CSP 1.1",
+                "url": "https://w3c.github.io/webappsec-csp/2/#directive-style-src"
+              }
+            ]
           }
         },
         "upgrade-insecure-requests": {
@@ -1555,7 +1713,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "Upgrade Insecure Requests",
+                "url": "https://w3c.github.io/webappsec-upgrade-insecure-requests/#delivery"
+              }
+            ]
           }
         },
         "worker-src": {
@@ -1609,7 +1773,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSP 3.0",
+                "url": "https://w3c.github.io/webappsec-csp/#directive-worker-src"
+              }
+            ]
           }
         }
       }

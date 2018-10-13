@@ -92,7 +92,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-width"
+            }
+          ]
         }
       },
       "height": {
@@ -140,7 +146,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-height"
+            }
+          ]
         }
       },
       "aspectRatio": {
@@ -188,7 +200,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-aspectRatio"
+            }
+          ]
         }
       },
       "frameRate": {
@@ -236,7 +254,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-frameRate"
+            }
+          ]
         }
       },
       "facingMode": {
@@ -284,7 +308,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-facingMode"
+            }
+          ]
         }
       },
       "resizeMode": {
@@ -380,7 +410,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-volume"
+            }
+          ]
         }
       },
       "sampleRate": {
@@ -428,7 +464,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-sampleRate"
+            }
+          ]
         }
       },
       "sampleSize": {
@@ -476,7 +518,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-sampleSize"
+            }
+          ]
         }
       },
       "echoCancellation": {
@@ -524,7 +572,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-echoCancellation"
+            }
+          ]
         }
       },
       "autoGainControl": {
@@ -586,7 +640,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-autoGainControl"
+            }
+          ]
         }
       },
       "noiseSuppression": {
@@ -648,7 +708,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-noiseSuppression"
+            }
+          ]
         }
       },
       "latency": {
@@ -696,7 +762,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-latency"
+            }
+          ]
         }
       },
       "channelCount": {
@@ -744,7 +816,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-channelCount"
+            }
+          ]
         }
       },
       "deviceId": {
@@ -792,7 +870,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-deviceId"
+            }
+          ]
         }
       },
       "groupId": {
@@ -840,7 +924,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-MediaTrackSupportedConstraints-groupId"
+            }
+          ]
         }
       }
     }

@@ -49,7 +49,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Logical Properties",
+              "url": "https://drafts.csswg.org/css-logical-props/#text-align"
+            },
+            {
+              "name": "CSS4 Text",
+              "url": "https://drafts.csswg.org/css-text-4/#alignment"
+            },
+            {
+              "name": "CSS3 Text",
+              "url": "https://drafts.csswg.org/css-text-3/#text-align-property"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/text.html#alignment-prop"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#text-align"
+            }
+          ]
         },
         "block_alignment_values": {
           "__compat": {

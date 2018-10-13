@@ -63,7 +63,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#animatable-css"
+            },
+            {
+              "name": "CSS3 Text Decoration",
+              "url": "https://drafts.csswg.org/css-text-decor-3/#text-shadow"
+            }
+          ]
         }
       }
     }

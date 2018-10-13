@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geometry Interfaces",
+            "url": "https://drafts.fxtf.org/geometry/#DOMPoint"
+          }
+        ]
       },
       "DOMPointReadOnly": {
         "__compat": {
@@ -93,7 +99,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dompointreadonly"
+            }
+          ]
         }
       },
       "x": {
@@ -141,7 +153,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointreadonly-x"
+            }
+          ]
         }
       },
       "y": {
@@ -189,7 +207,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointreadonly-y"
+            }
+          ]
         }
       },
       "z": {
@@ -237,7 +261,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointreadonly-z"
+            }
+          ]
         }
       },
       "w": {
@@ -285,7 +315,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointreadonly-w"
+            }
+          ]
         }
       },
       "fromPoint": {
@@ -333,7 +369,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointreadonly-frompoint"
+            }
+          ]
         }
       },
       "matrixTransform": {
@@ -429,7 +471,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointreadonly-tojson"
+            }
+          ]
         }
       }
     }

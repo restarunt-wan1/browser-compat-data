@@ -62,7 +62,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Payment",
+            "url": "https://w3c.github.io/payment-request/#paymentdetailsupdate"
+          }
+        ]
       },
       "error": {
         "__compat": {
@@ -191,7 +197,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentdetailsupdate-shippingaddresserrors"
+            }
+          ]
         }
       },
       "total": {

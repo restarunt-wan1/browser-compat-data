@@ -84,7 +84,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "IndexedDB",
+            "url": "https://www.w3.org/TR/IndexedDB/#transaction"
+          },
+          {
+            "name": "IndexedDB 2",
+            "url": "https://w3c.github.io/IndexedDB/#transaction"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -221,7 +231,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBTransaction-db"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-db"
+            }
+          ]
         }
       },
       "error": {
@@ -308,7 +328,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBTransaction-error"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-error"
+            }
+          ]
         },
         "DOMException": {
           "__compat": {
@@ -424,7 +454,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBTransaction-mode"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-mode"
+            }
+          ]
         }
       },
       "objectStoreNames": {
@@ -475,7 +515,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBDatabase-objectStoreNames"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-objectstorenames"
+            }
+          ]
         }
       },
       "onabort": {
@@ -540,7 +590,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBTransaction-onabort"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-onabort"
+            }
+          ]
         }
       },
       "oncomplete": {
@@ -605,7 +665,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBTransaction-oncomplete"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-oncomplete"
+            }
+          ]
         }
       },
       "onerror": {
@@ -670,7 +740,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBTransaction-ononerror"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-onerror"
+            }
+          ]
         }
       },
       "abort": {
@@ -735,7 +815,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBTransaction-abort-void"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-abort"
+            }
+          ]
         }
       },
       "objectStore": {
@@ -800,7 +890,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBTransaction-objectStore-IDBObjectStore-DOMString-name"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbtransaction-objectstore"
+            }
+          ]
         }
       }
     }

@@ -50,7 +50,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Compositing",
+              "url": "https://drafts.fxtf.org/compositing-1/#ltblendmodegt"
+            }
+          ]
         }
       }
     }

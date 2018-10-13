@@ -51,7 +51,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Media Capture",
+            "url": "https://w3c.github.io/mediacapture-main/#idl-def-MediaStreamTrackEvent"
+          }
+        ]
       },
       "MediaStreamTrackEvent": {
         "__compat": {
@@ -105,7 +111,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-ctor-MediaStreamTrackEvent--DOMString-type-MediaStreamTrackEventInit-eventInitDict"
+            }
+          ]
         }
       },
       "track": {

@@ -50,7 +50,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/scripting.html#selector-active"
+            },
+            {
+              "name": "CSS4 Selectors",
+              "url": "https://drafts.csswg.org/selectors-4/#active-pseudo"
+            },
+            {
+              "name": "CSS3 Selectors",
+              "url": "https://drafts.csswg.org/selectors-3/#useraction-pseudos"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/selector.html#dynamic-pseudo-classes"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#anchor-pseudo-classes"
+            }
+          ]
         },
         "non_a_elements": {
           "__compat": {

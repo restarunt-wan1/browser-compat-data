@@ -45,7 +45,21 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#htmlcollection"
+          },
+          {
+            "name": "DOM2 HTML",
+            "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-75708506"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-75708506"
+          }
+        ]
       },
       "length": {
         "__compat": {

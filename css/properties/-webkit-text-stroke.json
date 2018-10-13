@@ -70,7 +70,17 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Compat",
+              "url": "https://compat.spec.whatwg.org#the-webkit-text-stroke"
+            },
+            {
+              "name": "",
+              "url": "https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/StandardCSSProperties.html#//apple_ref/doc/uid/TP30001266-_webkit_text_stroke"
+            }
+          ]
         }
       }
     }

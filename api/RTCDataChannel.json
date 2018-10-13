@@ -62,7 +62,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebRTC 1.0",
+            "url": "https://w3c.github.io/webrtc-pc/#idl-def-RTCDataChannel"
+          }
+        ]
       },
       "binaryType": {
         "__compat": {
@@ -112,7 +118,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-datachannel-binarytype"
+            }
+          ]
         }
       },
       "bufferedAmount": {
@@ -163,7 +175,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-datachannel-bufferedamount"
+            }
+          ]
         }
       },
       "bufferedAmountLowThreshold": {
@@ -214,7 +232,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-datachannel-bufferedamountlowthreshold"
+            }
+          ]
         }
       },
       "close": {
@@ -265,7 +289,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-close"
+            }
+          ]
         }
       },
       "id": {
@@ -316,7 +346,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-datachannel-id"
+            }
+          ]
         }
       },
       "label": {
@@ -367,7 +403,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-label"
+            }
+          ]
         }
       },
       "maxPacketLifeTime": {
@@ -418,7 +460,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-maxpacketlifetime"
+            }
+          ]
         }
       },
       "maxRetransmits": {
@@ -469,7 +517,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-maxretransmits"
+            }
+          ]
         }
       },
       "negotiated": {
@@ -520,7 +574,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-negotiated"
+            }
+          ]
         }
       },
       "ordered": {
@@ -571,7 +631,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-ordered"
+            }
+          ]
         }
       },
       "protocol": {
@@ -622,7 +688,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-datachannel-protocol"
+            }
+          ]
         }
       },
       "onbufferedamountlow": {
@@ -688,7 +760,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-onbufferedamountlow"
+            }
+          ]
         }
       },
       "onclose": {
@@ -739,7 +817,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-onclose"
+            }
+          ]
         }
       },
       "onerror": {
@@ -790,7 +874,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-onerror"
+            }
+          ]
         }
       },
       "onmessage": {
@@ -841,7 +931,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-onmessage"
+            }
+          ]
         }
       },
       "onopen": {
@@ -892,7 +988,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-onopen"
+            }
+          ]
         }
       },
       "priority": {
@@ -994,7 +1096,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-datachannel-readystate"
+            }
+          ]
         }
       },
       "reliable": {
@@ -1147,7 +1255,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcdatachannel-send"
+            }
+          ]
         }
       },
       "stream": {

@@ -53,7 +53,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#the-channelsplitternode-interface"
+          }
+        ]
       },
       "ChannelSplitterNode": {
         "__compat": {
@@ -104,7 +110,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#idl-def-ChannelSplitterNode"
+            }
+          ]
         }
       }
     }

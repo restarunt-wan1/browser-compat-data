@@ -72,7 +72,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSP 3.0",
+            "url": "https://w3c.github.io/webappsec-csp/#report-violation"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -222,7 +228,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-securitypolicyviolationevent"
+            }
+          ]
         }
       },
       "blockedURI": {
@@ -297,7 +309,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-blockeduri"
+            }
+          ]
         }
       },
       "columnNumber": {
@@ -372,7 +390,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-columnnumber"
+            }
+          ]
         }
       },
       "disposition": {
@@ -447,7 +471,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-disposition"
+            }
+          ]
         }
       },
       "documentURI": {
@@ -522,7 +552,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-documenturi"
+            }
+          ]
         }
       },
       "effectiveDirective": {
@@ -597,7 +633,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-effectivedirective"
+            }
+          ]
         }
       },
       "lineNumber": {
@@ -672,7 +714,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-linenumber"
+            }
+          ]
         }
       },
       "originalPolicy": {
@@ -747,7 +795,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-originalPolicy"
+            }
+          ]
         }
       },
       "referrer": {
@@ -822,7 +876,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-referrer"
+            }
+          ]
         }
       },
       "sample": {
@@ -897,7 +957,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-sample"
+            }
+          ]
         }
       },
       "sourceFile": {
@@ -972,7 +1038,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-sourceFile"
+            }
+          ]
         }
       },
       "statusCode": {
@@ -1047,7 +1119,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-statusCode"
+            }
+          ]
         }
       },
       "violatedDirective": {
@@ -1122,7 +1200,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSP 3.0",
+              "url": "https://w3c.github.io/webappsec-csp/#dom-securitypolicyviolationevent-violateddirective"
+            }
+          ]
         }
       }
     }

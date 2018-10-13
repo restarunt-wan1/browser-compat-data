@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#nodeiterator"
+          },
+          {
+            "name": "DOM2 Traversal_Range",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Iterator-overview"
+          }
+        ]
       },
       "expandEntityReferences": {
         "__compat": {
@@ -151,7 +161,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nodeiterator-filter"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-NodeIterator-filter"
+            }
+          ]
         }
       },
       "pointerBeforeReferenceNode": {
@@ -202,7 +222,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nodeiterator-pointerbeforereferencenode"
+            }
+          ]
         }
       },
       "referenceNode": {
@@ -253,7 +279,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nodeiterator-referencenode"
+            }
+          ]
         }
       },
       "root": {
@@ -304,7 +336,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nodeiterator-root"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-NodeIterator-root"
+            }
+          ]
         }
       },
       "whatToShow": {
@@ -355,7 +397,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nodeiterator-whattoshow"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-NodeIterator-whatToShow"
+            }
+          ]
         }
       },
       "detach": {
@@ -459,7 +511,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nodeiterator-nextnode"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-NodeIterator-nextNode"
+            }
+          ]
         }
       },
       "previousNode": {
@@ -510,7 +572,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-nodeiterator-previousnode"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-NodeIterator-previousNode"
+            }
+          ]
         }
       }
     }

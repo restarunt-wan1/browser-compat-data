@@ -57,7 +57,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/scripting.html#selector-in-range"
+            },
+            {
+              "name": "CSS4 Selectors",
+              "url": "https://drafts.csswg.org/selectors-4/#in-range-pseudo"
+            }
+          ]
         }
       }
     }

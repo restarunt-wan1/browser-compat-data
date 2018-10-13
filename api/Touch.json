@@ -56,7 +56,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Touch Events 2",
+            "url": "https://w3c.github.io/touch-events/#touch-interface"
+          },
+          {
+            "name": "Touch Events",
+            "url": "https://www.w3.org/TR/touch-events/#touch-interface"
+          }
+        ]
       },
       "Touch": {
         "__compat": {
@@ -107,7 +117,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#touchevent-interface"
+            }
+          ]
         }
       },
       "clientX": {
@@ -166,7 +182,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-clientX"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-clientX"
+            }
+          ]
         }
       },
       "clientY": {
@@ -225,7 +251,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-clientY"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-clientY"
+            }
+          ]
         }
       },
       "force": {
@@ -276,7 +312,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-force"
+            }
+          ]
         }
       },
       "identifier": {
@@ -335,7 +377,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-identifier"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-identifier"
+            }
+          ]
         }
       },
       "pageX": {
@@ -394,7 +446,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-pageX"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-pageX"
+            }
+          ]
         }
       },
       "pageY": {
@@ -453,7 +515,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-pageY"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-pageY"
+            }
+          ]
         }
       },
       "radiusX": {
@@ -504,7 +576,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-radiusX"
+            }
+          ]
         }
       },
       "radiusY": {
@@ -555,7 +633,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-radiusY"
+            }
+          ]
         }
       },
       "rotationAngle": {
@@ -606,7 +690,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-rotationAngle"
+            }
+          ]
         }
       },
       "screenX": {
@@ -665,7 +755,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-screenX"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-screenX"
+            }
+          ]
         }
       },
       "screenY": {
@@ -724,7 +824,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-screenY"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-screenY"
+            }
+          ]
         }
       },
       "target": {
@@ -783,7 +893,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-Touch-target"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-target"
+            }
+          ]
         }
       }
     }

@@ -50,7 +50,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Values",
+              "url": "https://drafts.csswg.org/css-values-3/#percentages"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/syndata.html#percentage-units"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#percentage-units"
+            }
+          ]
         }
       }
     }

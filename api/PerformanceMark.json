@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "User Timing Level 2",
+            "url": "https://w3c.github.io/user-timing/#performancemark"
+          },
+          {
+            "name": "User Timing",
+            "url": "https://www.w3.org/TR/user-timing/#performancemark"
+          }
+        ]
       }
     }
   }

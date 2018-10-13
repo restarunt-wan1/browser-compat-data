@@ -84,7 +84,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "IndexedDB",
+            "url": "https://www.w3.org/TR/IndexedDB/#idl-def-IDBOpenDBRequest"
+          },
+          {
+            "name": "IndexedDB 2",
+            "url": "https://w3c.github.io/IndexedDB/#idbopendbrequest"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -221,7 +231,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBOpenDBRequest-onblocked"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbopendbrequest-onblocked"
+            }
+          ]
         }
       },
       "onupgradeneeded": {
@@ -308,7 +328,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBOpenDBRequest-onupgradeneeded"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbopendbrequest-onupgradeneeded"
+            }
+          ]
         }
       }
     }

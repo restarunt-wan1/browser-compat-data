@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#the-cssstylerule-interface"
+          },
+          {
+            "name": "DOM2 Style",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleRule"
+          }
+        ]
       },
       "selectorText": {
         "__compat": {
@@ -106,7 +116,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstylerule-selectortext"
+            }
+          ]
         }
       },
       "style": {

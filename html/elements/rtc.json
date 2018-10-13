@@ -49,7 +49,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML5.2",
+              "url": "https://www.w3.org/TR/html52/textlevel-semantics.html#the-rtc-element"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/textlevel-semantics.html#the-rtc-element"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/text-level-semantics.html#the-rtc-element"
+            }
+          ]
         }
       }
     }

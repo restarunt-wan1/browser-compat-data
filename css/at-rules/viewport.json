@@ -97,7 +97,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Round Display",
+              "url": "https://drafts.csswg.org/css-round-display/#extending-viewport-rule"
+            },
+            {
+              "name": "CSS3 Device",
+              "url": "https://drafts.csswg.org/css-device-adapt/#the-atviewport-rule"
+            }
+          ]
         },
         "height": {
           "__compat": {
@@ -161,7 +171,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#descdef-viewport-height"
+              }
+            ]
           }
         },
         "max-height": {
@@ -226,7 +242,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#descdef-viewport-max-height"
+              }
+            ]
           }
         },
         "max-width": {
@@ -291,7 +313,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#descdef-viewport-max-width"
+              }
+            ]
           }
         },
         "max-zoom": {
@@ -346,7 +374,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#max-zoom-desc"
+              }
+            ]
           }
         },
         "min-height": {
@@ -411,7 +445,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#descdef-viewport-min-height"
+              }
+            ]
           }
         },
         "min-width": {
@@ -470,7 +510,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#descdef-viewport-min-width"
+              }
+            ]
           }
         },
         "min-zoom": {
@@ -525,7 +571,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#min-zoom-desc"
+              }
+            ]
           }
         },
         "orientation": {
@@ -579,7 +631,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#the-lsquoorientationrsquo-descriptor"
+              }
+            ]
           }
         },
         "user-zoom": {
@@ -634,7 +692,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#the-lsquouser-zoomrsquo-descriptor"
+              }
+            ]
           }
         },
         "viewport-fit": {
@@ -653,7 +717,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS Round Display",
+                "url": "https://drafts.csswg.org/css-round-display/#viewport-fit-descriptor"
+              }
+            ]
           }
         },
         "width": {
@@ -718,7 +788,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#descdef-viewport-min-width"
+              }
+            ]
           }
         },
         "zoom": {
@@ -771,7 +847,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Device",
+                "url": "https://drafts.csswg.org/css-device-adapt/#zoom-desc"
+              }
+            ]
           }
         }
       }

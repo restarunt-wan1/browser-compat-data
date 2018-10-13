@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geometry Interfaces",
+            "url": "https://drafts.fxtf.org/geometry/#dom-dompointreadonly-frompoint"
+          }
+        ]
       },
       "x": {
         "__compat": {
@@ -92,7 +98,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointinit-x"
+            }
+          ]
         }
       },
       "y": {
@@ -140,7 +152,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointinit-y"
+            }
+          ]
         }
       },
       "z": {
@@ -188,7 +206,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointinit-z"
+            }
+          ]
         }
       },
       "w": {
@@ -236,7 +260,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompointinit-w"
+            }
+          ]
         }
       }
     }

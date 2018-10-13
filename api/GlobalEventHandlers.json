@@ -48,7 +48,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Pointer Lock",
+            "url": "https://w3c.github.io/pointerlock/#extensions-to-the-document-interface"
+          },
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#globaleventhandlers"
+          },
+          {
+            "name": "HTML5.1",
+            "url": "https://www.w3.org/TR/html51/#globaleventhandlers"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/#globaleventhandlers"
+          }
+        ]
       },
       "onabort": {
         "__compat": {
@@ -98,7 +116,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onabort"
+            }
+          ]
         }
       },
       "onanimationcancel": {
@@ -149,7 +173,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Animations",
+              "url": "https://drafts.csswg.org/css-animations/#eventdef-animationevent-animationcancel"
+            }
+          ]
         }
       },
       "onanimationend": {
@@ -218,7 +248,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Animations",
+              "url": "https://drafts.csswg.org/css-animations/#eventdef-animationevent-animationend"
+            }
+          ]
         }
       },
       "onanimationiteration": {
@@ -287,7 +323,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Animations",
+              "url": "https://drafts.csswg.org/css-animations/#eventdef-animationevent-animationiteration"
+            }
+          ]
         }
       },
       "onanimationstart": {
@@ -356,7 +398,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Animations",
+              "url": "https://drafts.csswg.org/css-animations/#eventdef-animationevent-animationstart"
+            }
+          ]
         }
       },
       "onauxclick": {
@@ -407,7 +455,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "UI Events",
+              "url": "https://w3c.github.io/uievents/#event-type-auxclick"
+            }
+          ]
         }
       },
       "onblur": {
@@ -458,7 +512,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onblur"
+            }
+          ]
         }
       },
       "oncancel": {
@@ -509,7 +569,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-oncancel"
+            }
+          ]
         }
       },
       "oncanplay": {
@@ -560,7 +626,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-oncanplay"
+            }
+          ]
         }
       },
       "oncanplaythrough": {
@@ -611,7 +683,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-oncanplaythrough"
+            }
+          ]
         }
       },
       "onchange": {
@@ -662,7 +740,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onchange"
+            }
+          ]
         }
       },
       "onclick": {
@@ -713,7 +797,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onclick"
+            }
+          ]
         }
       },
       "onclose": {
@@ -764,7 +854,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onclose"
+            }
+          ]
         }
       },
       "oncontextmenu": {
@@ -815,7 +911,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-oncontextmenu"
+            }
+          ]
         }
       },
       "oncuechange": {
@@ -866,7 +968,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-oncuechange"
+            }
+          ]
         }
       },
       "ondblclick": {
@@ -917,7 +1025,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-ondblclick"
+            }
+          ]
         }
       },
       "ondrag": {
@@ -968,7 +1082,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/indices.html#ix-handler-ondrag"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/index.html#ix-handler-ondrag"
+            }
+          ]
         }
       },
       "ondragend": {
@@ -1019,7 +1143,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/indices.html#ix-handler-ondragend"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/index.html#ix-handler-ondragend"
+            }
+          ]
         }
       },
       "ondragenter": {
@@ -1070,7 +1204,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/indices.html#ix-handler-ondragenter"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/index.html#ix-handler-ondragenter"
+            }
+          ]
         }
       },
       "ondragexit": {
@@ -1121,7 +1265,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/indices.html#ix-handler-ondragexit"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/index.html#ix-handler-ondragexit"
+            }
+          ]
         }
       },
       "ondragleave": {
@@ -1172,7 +1326,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/indices.html#ix-handler-ondragleave"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/index.html#ix-handler-ondragleave"
+            }
+          ]
         }
       },
       "ondragover": {
@@ -1223,7 +1387,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/indices.html#ix-handler-ondragover"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/index.html#ix-handler-ondragover"
+            }
+          ]
         }
       },
       "ondragstart": {
@@ -1274,7 +1448,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/indices.html#ix-handler-ondragstart"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/index.html#ix-handler-ondragstart"
+            }
+          ]
         }
       },
       "ondrop": {
@@ -1325,7 +1509,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/indices.html#ix-handler-ondrop"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/index.html#ix-handler-ondrop"
+            }
+          ]
         }
       },
       "ondurationchange": {
@@ -1376,7 +1570,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-ondurationchange"
+            }
+          ]
         }
       },
       "onemptied": {
@@ -1427,7 +1627,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-onemptied"
+            }
+          ]
         }
       },
       "onended": {
@@ -1478,7 +1684,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-onended"
+            }
+          ]
         }
       },
       "onerror": {
@@ -1529,7 +1741,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onerror"
+            }
+          ]
         }
       },
       "onfocus": {
@@ -1580,7 +1798,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onfocus"
+            }
+          ]
         }
       },
       "ongotpointercapture": {
@@ -1631,7 +1855,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#the-gotpointercapture-event"
+            }
+          ]
         }
       },
       "oninput": {
@@ -1682,7 +1912,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#ix-handler-oninput"
+            }
+          ]
         }
       },
       "oninvalid": {
@@ -1733,7 +1969,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-oninvalid"
+            }
+          ]
         }
       },
       "onkeydown": {
@@ -1784,7 +2026,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onkeydown"
+            }
+          ]
         }
       },
       "onkeypress": {
@@ -1835,7 +2083,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onkeypress"
+            }
+          ]
         }
       },
       "onkeyup": {
@@ -1886,7 +2140,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onkeyup"
+            }
+          ]
         }
       },
       "onload": {
@@ -1937,7 +2197,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onload"
+            }
+          ]
         }
       },
       "onloadeddata": {
@@ -1988,7 +2254,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-onloadeddata"
+            }
+          ]
         }
       },
       "onloadedmetadata": {
@@ -2039,7 +2311,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-onloadedmetadata"
+            }
+          ]
         }
       },
       "onloadend": {
@@ -2090,7 +2368,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onloadend"
+            }
+          ]
         }
       },
       "onloadstart": {
@@ -2149,7 +2433,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onloadstart"
+            }
+          ]
         }
       },
       "onlostpointercapture": {
@@ -2200,7 +2490,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#the-lostpointercapture-event"
+            }
+          ]
         }
       },
       "onmousedown": {
@@ -2251,7 +2547,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onmousedown"
+            }
+          ]
         }
       },
       "onmouseenter": {
@@ -2302,7 +2604,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-onmouseenter"
+            }
+          ]
         }
       },
       "onmouseleave": {
@@ -2353,7 +2661,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-onmouseleave"
+            }
+          ]
         }
       },
       "onmousemove": {
@@ -2404,7 +2718,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onmousemove"
+            }
+          ]
         }
       },
       "onmouseout": {
@@ -2455,7 +2775,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onmouseout"
+            }
+          ]
         }
       },
       "onmouseover": {
@@ -2506,7 +2832,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onmouseover"
+            }
+          ]
         }
       },
       "onmouseup": {
@@ -2557,7 +2889,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onmouseup"
+            }
+          ]
         }
       },
       "onmousewheel": {
@@ -2659,7 +2997,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-onpause"
+            }
+          ]
         }
       },
       "onplay": {
@@ -2710,7 +3054,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onplay"
+            }
+          ]
         }
       },
       "onplaying": {
@@ -2837,7 +3187,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-GlobalEventHandlers-onpointercancel"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-GlobalEventHandlers-onpointercancel"
+            }
+          ]
         }
       },
       "onpointerdown": {
@@ -2913,7 +3273,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-GlobalEventHandlers-onpointerdown"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-GlobalEventHandlers-onpointerdown"
+            }
+          ]
         }
       },
       "onpointerenter": {
@@ -2989,7 +3359,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-GlobalEventHandlers-onpointerenter"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-GlobalEventHandlers-onpointerenter"
+            }
+          ]
         }
       },
       "onpointerleave": {
@@ -3065,7 +3445,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-GlobalEventHandlers-onpointerleave"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-GlobalEventHandlers-onpointerleave"
+            }
+          ]
         }
       },
       "onpointerlockchange": {
@@ -3243,7 +3633,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-GlobalEventHandlers-onpointermove"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-GlobalEventHandlers-onpointermove"
+            }
+          ]
         }
       },
       "onpointerout": {
@@ -3319,7 +3719,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-GlobalEventHandlers-onpointerout"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-GlobalEventHandlers-onpointerout"
+            }
+          ]
         }
       },
       "onpointerover": {
@@ -3395,7 +3805,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-GlobalEventHandlers-onpointerover"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-GlobalEventHandlers-onpointerover"
+            }
+          ]
         }
       },
       "onpointerup": {
@@ -3471,7 +3891,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-GlobalEventHandlers-onpointerup"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-GlobalEventHandlers-onpointerup"
+            }
+          ]
         }
       },
       "onprogress": {
@@ -3624,7 +4054,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onreset"
+            }
+          ]
         }
       },
       "onresize": {
@@ -3675,7 +4111,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onresize"
+            }
+          ]
         }
       },
       "onscroll": {
@@ -3726,7 +4168,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-onscroll"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#event-type-scroll"
+            }
+          ]
         }
       },
       "onseeked": {
@@ -3879,7 +4331,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onselect"
+            }
+          ]
         }
       },
       "onselectionchange": {
@@ -3954,7 +4412,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#dom-globaleventhandlers-onselectionchange"
+            }
+          ]
         }
       },
       "onselectstart": {
@@ -4029,7 +4493,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Selection API",
+              "url": "https://w3c.github.io/selection-api/#dom-globaleventhandlers-onselectstart"
+            }
+          ]
         }
       },
       "onshow": {
@@ -4233,7 +4703,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onsubmit"
+            }
+          ]
         }
       },
       "onsuspend": {
@@ -4386,7 +4862,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-GlobalEventHandlers-ontouchcancel"
+            }
+          ]
         }
       },
       "ontouchend": {
@@ -4437,7 +4919,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-GlobalEventHandlers-ontouchend"
+            }
+          ]
         }
       },
       "ontouchmove": {
@@ -4488,7 +4976,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-GlobalEventHandlers-ontouchmove"
+            }
+          ]
         }
       },
       "ontouchstart": {
@@ -4539,7 +5033,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-GlobalEventHandlers-ontouchstart"
+            }
+          ]
         }
       },
       "ontransitioncancel": {
@@ -4590,7 +5090,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#ontransitioncancel"
+            }
+          ]
         }
       },
       "ontransitionend": {
@@ -4644,7 +5150,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#ontransitionend"
+            }
+          ]
         }
       },
       "ontransitionrun": {
@@ -4899,7 +5411,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onwheel"
+            }
+          ]
         }
       }
     }

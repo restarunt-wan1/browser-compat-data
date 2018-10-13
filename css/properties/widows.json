@@ -49,7 +49,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Fragmentation",
+              "url": "https://drafts.csswg.org/css-break-3/#widows-orphans"
+            },
+            {
+              "name": "CSS3 Multicol",
+              "url": "https://drafts.csswg.org/css-multicol-1/#filling-columns"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/page.html#break-inside"
+            }
+          ]
         }
       }
     }

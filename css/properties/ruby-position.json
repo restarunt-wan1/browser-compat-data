@@ -52,7 +52,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Ruby",
+              "url": "https://drafts.csswg.org/css-ruby/#rubypos"
+            }
+          ]
         },
         "inter-character": {
           "__compat": {

@@ -70,7 +70,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Media Source Extensions",
+            "url": "https://w3c.github.io/media-source/#sourcebufferlist"
+          }
+        ]
       },
       "SourceBuffer": {
         "__compat": {
@@ -132,7 +138,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBufferList-SourceBuffer-getter-unsigned-long-index"
+            }
+          ]
         }
       },
       "length": {
@@ -205,7 +217,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBufferList-length"
+            }
+          ]
         }
       },
       "onaddsourcebuffer": {

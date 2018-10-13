@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Filters 1.0",
+            "url": "https://drafts.fxtf.org/filter-effects/#InterfaceSVGFEGaussianBlurElement"
+          },
+          {
+            "name": "SVG1.1",
+            "url": "https://www.w3.org/TR/SVG11/filters.html#InterfaceSVGFEGaussianBlurElement"
+          }
+        ]
       }
     }
   }

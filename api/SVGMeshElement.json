@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "SVG2",
+            "url": "https://svgwg.org/svg2-draft/shapes.html#InterfaceSVGMeshElement"
+          }
+        ]
       }
     }
   }

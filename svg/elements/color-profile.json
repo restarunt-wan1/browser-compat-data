@@ -46,7 +46,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "SVG1.1",
+              "url": "https://www.w3.org/TR/SVG11/color.html#ColorProfileElement"
+            }
+          ]
         },
         "local": {
           "__compat": {

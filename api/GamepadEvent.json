@@ -75,7 +75,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Gamepad",
+            "url": "https://w3c.github.io/gamepad/#gamepadevent-interface"
+          }
+        ]
       },
       "gamepad": {
         "__compat": {
@@ -152,7 +158,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Gamepad",
+              "url": "https://w3c.github.io/gamepad/#widl-GamepadEvent-gamepad"
+            }
+          ]
         }
       }
     }

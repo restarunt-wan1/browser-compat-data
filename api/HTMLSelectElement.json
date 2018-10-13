@@ -46,7 +46,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmlselectelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/forms.html#htmlselectelement"
+          },
+          {
+            "name": "DOM2 HTML",
+            "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-94282980"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-94282980"
+          }
+        ]
       },
       "autofocus": {
         "__compat": {
@@ -93,7 +111,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-fe-autofocus"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/#dom-htmlinputelement-autofocus"
+            }
+          ]
         }
       },
       "disabled": {
@@ -141,7 +169,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-fe-disabled"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-disabled"
+            }
+          ]
         }
       },
       "form": {
@@ -189,7 +227,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-fae-form"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-form"
+            }
+          ]
         }
       },
       "labels": {
@@ -237,7 +285,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/forms.html#dom-lfe-labels"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-lfe-labels"
+            }
+          ]
         }
       },
       "length": {
@@ -525,7 +583,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-select-selectedindex"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-selectedindex"
+            }
+          ]
         }
       },
       "selectedOptions": {
@@ -573,7 +641,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/form-elements.html#dom-select-selectedoptions"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-selectedoptions"
+            }
+          ]
         }
       },
       "size": {
@@ -669,7 +747,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-select-type"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-type"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-58783172"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-58783172"
+            }
+          ]
         }
       },
       "validationMessage": {
@@ -909,7 +1005,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-select-add"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-add"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-14493106"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-14493106"
+            }
+          ]
         },
         "index_before_parameter": {
           "__compat": {
@@ -1053,7 +1167,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-cva-checkvalidity"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-cva-checkvalidity"
+            }
+          ]
         }
       },
       "focus": {
@@ -1149,7 +1273,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-select-item"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-item"
+            }
+          ]
         }
       },
       "namedItem": {
@@ -1199,7 +1333,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-select-nameditem"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-nameditem"
+            }
+          ]
         }
       },
       "remove": {
@@ -1247,7 +1391,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-select-remove"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-select-remove"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-33404570"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-33404570"
+            }
+          ]
         }
       },
       "setCustomValidity": {
@@ -1295,7 +1457,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-cva-setcustomvalidity"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/forms.html#dom-cva-setcustomvalidity"
+            }
+          ]
         }
       }
     }

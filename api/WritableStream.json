@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Streams",
+            "url": "https://streams.spec.whatwg.org/#ws-class"
+          }
+        ]
       },
       "WritableStream": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#ws-constructor"
+            }
+          ]
         }
       },
       "abort": {
@@ -150,7 +162,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#ws-abort"
+            }
+          ]
         }
       },
       "getWriter": {
@@ -201,7 +219,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#ws-get-writer"
+            }
+          ]
         }
       },
       "locked": {
@@ -252,7 +276,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#ws-locked"
+            }
+          ]
         }
       }
     }

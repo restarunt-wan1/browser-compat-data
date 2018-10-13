@@ -73,7 +73,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmltrackelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/embedded-content-0.html#the-track-element"
+          }
+        ]
       },
       "default": {
         "__compat": {
@@ -444,7 +454,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-track-src"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#dom-track-src"
+            }
+          ]
         }
       },
       "srclang": {

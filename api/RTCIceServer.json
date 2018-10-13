@@ -98,7 +98,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#widl-RTCIceServer-credential"
+            }
+          ]
         }
       },
       "credentialType": {
@@ -149,7 +155,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#widl-RTCIceServer-credential"
+            }
+          ]
         }
       },
       "url": {
@@ -251,7 +263,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#http://w3c.github.io/webrtc-pc/#widl-RTCIceServer-urls"
+            }
+          ]
         }
       },
       "username": {
@@ -302,7 +320,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#widl-RTCIceServer-username"
+            }
+          ]
         }
       }
     }

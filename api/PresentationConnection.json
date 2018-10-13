@@ -62,7 +62,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Presentation",
+            "url": "https://w3c.github.io/presentation-api/#interface-presentationconnection"
+          }
+        ]
       },
       "binaryType": {
         "__compat": {
@@ -581,7 +587,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Presentation",
+              "url": "https://w3c.github.io/presentation-api/#dom-presentationconnection-send"
+            }
+          ]
         }
       },
       "state": {
@@ -776,7 +788,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Presentation",
+              "url": "https://w3c.github.io/presentation-api/#dom-presentationconnection-url"
+            }
+          ]
         }
       }
     }

@@ -127,7 +127,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Box Alignment",
+                "url": "https://drafts.csswg.org/css-align-3/#propdef-align-content"
+              },
+              {
+                "name": "CSS Flexbox",
+                "url": "https://drafts.csswg.org/css-flexbox-1/#align-content"
+              }
+            ]
           },
           "space-evenly": {
             "__compat": {
@@ -571,7 +581,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Box Alignment",
+                "url": "https://drafts.csswg.org/css-align-3/#propdef-align-content"
+              },
+              {
+                "name": "CSS Flexbox",
+                "url": "https://drafts.csswg.org/css-flexbox-1/#align-content"
+              }
+            ]
           }
         }
       }

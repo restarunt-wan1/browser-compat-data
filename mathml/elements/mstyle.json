@@ -46,7 +46,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MathML3",
+              "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mstyle"
+            },
+            {
+              "name": "MathML2",
+              "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mstyle"
+            }
+          ]
         },
         "decimalpoint": {
           "__compat": {
@@ -93,7 +103,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "MathML3",
+                "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mstyle"
+              },
+              {
+                "name": "MathML2",
+                "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mstyle"
+              }
+            ]
           }
         },
         "dir": {
@@ -141,7 +161,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "MathML3",
+                "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mstyle"
+              },
+              {
+                "name": "MathML2",
+                "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mstyle"
+              }
+            ]
           }
         },
         "displaystyle": {
@@ -189,7 +219,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "MathML3",
+                "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mstyle"
+              },
+              {
+                "name": "MathML2",
+                "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mstyle"
+              }
+            ]
           }
         },
         "infixbreakstyle": {
@@ -237,7 +277,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "MathML3",
+                "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mstyle"
+              },
+              {
+                "name": "MathML2",
+                "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mstyle"
+              }
+            ]
           }
         },
         "scriptlevel": {
@@ -285,7 +335,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "MathML3",
+                "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mstyle"
+              },
+              {
+                "name": "MathML2",
+                "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mstyle"
+              }
+            ]
           }
         },
         "scriptminsize": {
@@ -333,7 +393,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "MathML3",
+                "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mstyle"
+              },
+              {
+                "name": "MathML2",
+                "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mstyle"
+              }
+            ]
           }
         },
         "scriptsizemultiplier": {
@@ -381,7 +451,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "MathML3",
+                "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mstyle"
+              },
+              {
+                "name": "MathML2",
+                "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mstyle"
+              }
+            ]
           }
         }
       }

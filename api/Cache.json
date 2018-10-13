@@ -56,7 +56,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Service Workers",
+            "url": "https://w3c.github.io/ServiceWorker/#cache"
+          }
+        ]
       },
       "add": {
         "__compat": {
@@ -118,7 +124,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#cache"
+            }
+          ]
         }
       },
       "addAll": {
@@ -175,7 +187,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#cache"
+            }
+          ]
         }
       },
       "delete": {
@@ -227,7 +245,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#cache"
+            }
+          ]
         }
       },
       "keys": {
@@ -279,7 +303,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#cache"
+            }
+          ]
         }
       },
       "match": {
@@ -331,7 +361,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#cache"
+            }
+          ]
         }
       },
       "matchAll": {
@@ -384,7 +420,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#cache"
+            }
+          ]
         }
       },
       "put": {
@@ -441,7 +483,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#cache"
+            }
+          ]
         }
       }
     }

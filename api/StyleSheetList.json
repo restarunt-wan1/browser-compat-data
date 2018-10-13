@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#the-stylesheetlist-interface"
+          }
+        ]
       },
       "item": {
         "__compat": {

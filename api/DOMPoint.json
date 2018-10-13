@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geometry Interfaces",
+            "url": "https://drafts.fxtf.org/geometry/#DOMPoint"
+          }
+        ]
       },
       "DOMPoint": {
         "__compat": {
@@ -93,7 +99,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dompoint-dompoint"
+            }
+          ]
         }
       }
     }

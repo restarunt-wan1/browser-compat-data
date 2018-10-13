@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/media.html#audiotrack"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/embedded-content-0.html#audiotrack"
+          }
+        ]
       },
       "enabled": {
         "__compat": {
@@ -98,7 +108,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/media.html#dom-audiotrack-enabled"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/semantics-embedded-content.html#dom-audiotrack-enabled"
+            }
+          ]
         }
       },
       "id": {
@@ -149,7 +169,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/media.html#dom-audiotrack-id"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/semantics-embedded-content.html#dom-audiotrack-id"
+            }
+          ]
         }
       },
       "kind": {
@@ -200,7 +230,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/media.html#dom-audiotrack-kind"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/semantics-embedded-content.html#dom-audiotrack-kind"
+            }
+          ]
         }
       },
       "label": {
@@ -251,7 +291,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/media.html#dom-audiotrack-label"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/semantics-embedded-content.html#dom-audiotrack-label"
+            }
+          ]
         }
       },
       "language": {
@@ -302,7 +352,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/media.html#dom-audiotrack-language"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/semantics-embedded-content.html#dom-audiotrack-language"
+            }
+          ]
         }
       },
       "sourceBuffer": {
@@ -353,7 +413,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#dom-audiotrack-sourcebuffer"
+            }
+          ]
         }
       }
     }

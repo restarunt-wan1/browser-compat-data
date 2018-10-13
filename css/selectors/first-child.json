@@ -54,7 +54,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Selectors",
+              "url": "https://drafts.csswg.org/selectors-4/#first-child-pseudo"
+            },
+            {
+              "name": "CSS3 Selectors",
+              "url": "https://drafts.csswg.org/selectors-3/#first-child-pseudo"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/selector.html#first-child"
+            }
+          ]
         },
         "no_parent_required": {
           "__compat": {

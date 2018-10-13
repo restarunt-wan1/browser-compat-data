@@ -52,7 +52,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Colors",
+              "url": "https://drafts.csswg.org/css-color/#color-adjust"
+            }
+          ]
         }
       }
     }

@@ -72,7 +72,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Text",
+              "url": "https://drafts.csswg.org/css-text-3/#tab-size-property"
+            }
+          ]
         },
         "length": {
           "__compat": {
@@ -123,7 +129,25 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Values",
+                "url": "https://drafts.csswg.org/css-values-4/#lengths"
+              },
+              {
+                "name": "CSS3 Values",
+                "url": "https://drafts.csswg.org/css-values-3/#lengths"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#length-units"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#length-units"
+              }
+            ]
           }
         }
       }

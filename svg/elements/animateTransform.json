@@ -46,7 +46,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "SVG Animations 2",
+              "url": "https://svgwg.org/specs/animations/#AnimateTransformElement"
+            },
+            {
+              "name": "SVG1.1",
+              "url": "https://www.w3.org/TR/SVG11/animate.html#AnimateTransformElement"
+            }
+          ]
         },
         "by": {
           "__compat": {

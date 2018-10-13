@@ -60,7 +60,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Service Workers",
+            "url": "https://w3c.github.io/ServiceWorker/#service-worker-obj"
+          }
+        ]
       },
       "scriptURL": {
         "__compat": {
@@ -122,7 +128,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-url-attribute"
+            }
+          ]
         }
       },
       "state": {
@@ -185,7 +197,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-state-attribute"
+            }
+          ]
         }
       },
       "onstatechange": {
@@ -248,7 +266,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-onstatechange-attribute"
+            }
+          ]
         }
       }
     }

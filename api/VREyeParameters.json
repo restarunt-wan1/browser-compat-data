@@ -51,7 +51,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebVR 1.1",
+            "url": "https://immersive-web.github.io/webvr/spec/1.1/#vreyeparameters"
+          }
+        ]
       },
       "fieldOfView": {
         "__compat": {
@@ -104,7 +110,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vreyeparameters-fieldofview"
+            }
+          ]
         }
       },
       "maximumFieldOfView": {
@@ -244,7 +256,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vreyeparameters-offset"
+            }
+          ]
         }
       },
       "recommendedFieldOfView": {
@@ -334,7 +352,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vreyeparameters-renderheight"
+            }
+          ]
         }
       },
       "renderRect": {
@@ -424,7 +448,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vreyeparameters-renderwidth"
+            }
+          ]
         }
       }
     }

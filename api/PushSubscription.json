@@ -49,7 +49,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Push API",
+            "url": "https://w3c.github.io/push-api/#pushsubscription-interface"
+          }
+        ]
       },
       "endpoint": {
         "__compat": {
@@ -100,7 +106,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#widl-PushSubscription-endpoint"
+            }
+          ]
         }
       },
       "expirationTime": {
@@ -151,7 +163,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#dom-pushsubscription-expirationtime"
+            }
+          ]
         }
       },
       "options": {
@@ -203,7 +221,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#widl-PushSubscription-options"
+            }
+          ]
         }
       },
       "subscriptionId": {
@@ -358,7 +382,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#pushsubscription-interface"
+            }
+          ]
         }
       },
       "unsubscribe": {
@@ -409,7 +439,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#widl-PushSubscription-unsubscribe-Promise-boolean"
+            }
+          ]
         }
       }
     }

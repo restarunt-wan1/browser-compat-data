@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/interaction.html#datatransferitemlist"
+          },
+          {
+            "name": "HTML5.1",
+            "url": "https://www.w3.org/TR/html51/editing.html#datatransferitemlist"
+          }
+        ]
       },
       "DataTransferItem": {
         "__compat": {
@@ -93,7 +103,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#the-datatransferitemlist-interface"
+            }
+          ]
         }
       },
       "add": {
@@ -141,7 +157,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitemlist-add"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransferitemlist-add"
+            }
+          ]
         }
       },
       "clear": {
@@ -189,7 +215,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitemlist-clear"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransferitemlist-clear"
+            }
+          ]
         }
       },
       "length": {
@@ -237,7 +273,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitemlist-length"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransferitemlist-length"
+            }
+          ]
         }
       },
       "remove": {
@@ -285,7 +331,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitemlist-remove"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransferitemlist-remove"
+            }
+          ]
         }
       }
     }

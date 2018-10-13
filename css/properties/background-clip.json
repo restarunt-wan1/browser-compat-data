@@ -107,7 +107,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Backgrounds",
+              "url": "https://drafts.csswg.org/css-backgrounds-3/#the-background-clip"
+            },
+            {
+              "name": "CSS4 Backgrounds",
+              "url": "https://drafts.csswg.org/css-backgrounds-4/#background-clip"
+            }
+          ]
         },
         "content-box": {
           "__compat": {

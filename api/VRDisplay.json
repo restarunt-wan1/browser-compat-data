@@ -51,7 +51,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebVR 1.1",
+            "url": "https://immersive-web.github.io/webvr/spec/1.1/#interface-vrdisplay"
+          }
+        ]
       },
       "cancelAnimationFrame": {
         "__compat": {
@@ -104,7 +110,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-cancelanimationframe"
+            }
+          ]
         }
       },
       "capabilities": {
@@ -158,7 +170,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-capabilities"
+            }
+          ]
         }
       },
       "depthFar": {
@@ -212,7 +230,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-depthfar"
+            }
+          ]
         }
       },
       "depthNear": {
@@ -266,7 +290,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-depthnear"
+            }
+          ]
         }
       },
       "displayId": {
@@ -320,7 +350,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-displayid"
+            }
+          ]
         }
       },
       "displayName": {
@@ -374,7 +410,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-displayname"
+            }
+          ]
         }
       },
       "exitPresent": {
@@ -428,7 +470,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-exitpresent"
+            }
+          ]
         }
       },
       "getEyeParameters": {
@@ -482,7 +530,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-geteyeparameters"
+            }
+          ]
         }
       },
       "getFrameData": {
@@ -536,7 +590,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-geteyeparameters"
+            }
+          ]
         }
       },
       "getLayers": {
@@ -590,7 +650,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-getlayers"
+            }
+          ]
         }
       },
       "getImmediatePose": {
@@ -831,7 +897,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-ispresenting"
+            }
+          ]
         }
       },
       "requestAnimationFrame": {
@@ -885,7 +957,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-requestanimationframe"
+            }
+          ]
         }
       },
       "resetPose": {
@@ -993,7 +1071,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-requestpresent"
+            }
+          ]
         }
       },
       "stageParameters": {
@@ -1047,7 +1131,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-stageparameters"
+            }
+          ]
         }
       },
       "submitFrame": {
@@ -1101,7 +1191,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebVR 1.1",
+              "url": "https://immersive-web.github.io/webvr/spec/1.1/#dom-vrdisplay-submitframe"
+            }
+          ]
         }
       }
     }

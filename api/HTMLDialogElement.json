@@ -64,7 +64,17 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmldialogelement"
+          },
+          {
+            "name": "HTML5.1",
+            "url": "https://www.w3.org/TR/html51/interactive-elements.html#the-dialog-element"
+          }
+        ]
       },
       "open": {
         "__compat": {
@@ -130,7 +140,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-open"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/interactive-elements.html#dom-htmldialogelement-open"
+            }
+          ]
         }
       },
       "returnValue": {
@@ -197,7 +217,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-returnvalue"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/interactive-elements.html#dom-htmldialogelement-returnvalue"
+            }
+          ]
         }
       },
       "close": {
@@ -264,7 +294,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-close"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/interactive-elements.html#dom-htmldialogelement-close"
+            }
+          ]
         }
       },
       "show": {
@@ -331,7 +371,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-show"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/interactive-elements.html#dom-htmldialogelement-show"
+            }
+          ]
         }
       },
       "showModal": {
@@ -398,7 +448,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/forms.html#dom-dialog-showmodal"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/interactive-elements.html#dom-htmldialogelement-showmodal"
+            }
+          ]
         }
       }
     }

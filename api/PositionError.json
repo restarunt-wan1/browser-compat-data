@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geolocation",
+            "url": "https://dev.w3.org/geo/api/spec-source.html#position_error_interface"
+          }
+        ]
       },
       "secure_context_required": {
         "__compat": {
@@ -140,7 +146,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#code"
+            }
+          ]
         }
       },
       "message": {
@@ -188,7 +200,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#message"
+            }
+          ]
         }
       }
     }

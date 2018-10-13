@@ -49,7 +49,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Counter Styles",
+              "url": "https://drafts.csswg.org/css-counter-styles-3/#extending-css2"
+            },
+            {
+              "name": "CSS3 Lists",
+              "url": "https://drafts.csswg.org/css-lists-3/#propdef-list-style-type"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/generate.html#propdef-list-style-type"
+            }
+          ]
         },
         "arabic-indic": {
           "__compat": {
@@ -2530,7 +2544,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Counter Styles",
+                "url": "https://drafts.csswg.org/css-counter-styles-3/#symbols-function"
+              }
+            ]
           }
         }
       }

@@ -42,7 +42,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmltableelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/tabular-data.html#the-table-element"
+          },
+          {
+            "name": "DOM2 HTML",
+            "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-64060425"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-64060425"
+          }
+        ]
       },
       "align": {
         "__compat": {
@@ -221,7 +239,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/tabular-data.html#dom-table-caption"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/tabular-data.html#dom-table-caption"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-14594520"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-14594520"
+            }
+          ]
         }
       },
       "cellPadding": {
@@ -763,7 +799,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/tables.html#dom-table-insertrow"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-93995626"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-39872903"
+            }
+          ]
         }
       },
       "rows": {
@@ -1033,7 +1083,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-63206416"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-75708506"
+            }
+          ]
         }
       },
       "tFoot": {
@@ -1078,7 +1138,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/tabular-data.html#dom-table-tfoot"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/tabular-data.html#dom-table-tfoot"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-64197097"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-64197097"
+            }
+          ]
         }
       },
       "tHead": {
@@ -1123,7 +1201,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/tabular-data.html#dom-table-thead"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/tabular-data.html#dom-table-thead"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-9530944"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-9530944"
+            }
+          ]
         }
       },
       "width": {

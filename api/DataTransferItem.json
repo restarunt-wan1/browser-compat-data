@@ -45,7 +45,21 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/interaction.html#datatransferitem"
+          },
+          {
+            "name": "HTML5.1",
+            "url": "https://www.w3.org/TR/html51/editing.html#datatransferitem"
+          },
+          {
+            "name": "File System API",
+            "url": "https://wicg.github.io/entries-api/#dom-datatransferitem-webkitgetasentry"
+          }
+        ]
       },
       "getAsFile": {
         "__compat": {
@@ -92,7 +106,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitem-getasfile"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransferitem-getasfile"
+            }
+          ]
         }
       },
       "getAsString": {
@@ -140,7 +164,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitem-getasstring"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransferitem-getasstring"
+            }
+          ]
         }
       },
       "kind": {
@@ -188,7 +222,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitem-kind"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransferitem-kind"
+            }
+          ]
         }
       },
       "type": {
@@ -236,7 +280,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransferitem-type"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransferitem-type"
+            }
+          ]
         }
       },
       "webkitGetAsEntry": {
@@ -284,7 +338,13 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-datatransferitem-webkitgetasentry"
+            }
+          ]
         }
       }
     }

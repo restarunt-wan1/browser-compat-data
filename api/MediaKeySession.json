@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "EME",
+            "url": "https://w3c.github.io/encrypted-media/#mediakeysession-interface"
+          }
+        ]
       },
       "closed": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#dom-mediakeysession-closed"
+            }
+          ]
         }
       },
       "expiration": {
@@ -149,7 +161,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#widl-MediaKeySession-expiration"
+            }
+          ]
         }
       },
       "keyStatuses": {
@@ -200,7 +218,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#widl-MediaKeySession-keyStatuses"
+            }
+          ]
         }
       },
       "sessionId": {
@@ -251,7 +275,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#widl-MediaKeySession-sessionId"
+            }
+          ]
         }
       },
       "onkeystatuseschange": {
@@ -404,7 +434,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#widl-MediaKeySession-close-Promise-void"
+            }
+          ]
         }
       },
       "generateRequest": {
@@ -455,7 +491,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#widl-MediaKeySession-generateRequest-Promise-void--DOMString-initDataType-BufferSource-initData"
+            }
+          ]
         }
       },
       "load": {
@@ -506,7 +548,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#widl-MediaKeySession-load-Promise-boolean--DOMString-sessionId"
+            }
+          ]
         }
       },
       "remove": {
@@ -557,7 +605,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#widl-MediaKeySession-sessionId"
+            }
+          ]
         }
       },
       "update": {
@@ -608,7 +662,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#widl-MediaKeySession-update-Promise-void--BufferSource-response"
+            }
+          ]
         }
       }
     }

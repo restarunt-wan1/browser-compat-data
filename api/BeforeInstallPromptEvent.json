@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": false,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Manifest",
+            "url": "https://w3c.github.io/manifest/#beforeinstallpromptevent-interface"
+          }
+        ]
       },
       "BeforeInstallPromptEvent": {
         "__compat": {

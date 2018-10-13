@@ -62,7 +62,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Visual Viewport",
+            "url": "https://wicg.github.io/visual-viewport/#the-visualviewport-interface"
+          }
+        ]
       },
       "height": {
         "__compat": {
@@ -126,7 +132,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Visual Viewport",
+              "url": "https://wicg.github.io/visual-viewport/#dom-visualviewport-height"
+            }
+          ]
         }
       },
       "offsetLeft": {
@@ -256,7 +268,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Visual Viewport",
+              "url": "https://wicg.github.io/visual-viewport/#dom-visualviewport-offsettop"
+            }
+          ]
         }
       },
       "onresize": {
@@ -337,7 +355,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Visual Viewport",
+              "url": "https://wicg.github.io/visual-viewport/#dom-visualviewport-onresize"
+            }
+          ]
         }
       },
       "onscroll": {
@@ -418,7 +442,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Visual Viewport",
+              "url": "https://wicg.github.io/visual-viewport/#dom-visualviewport-onscroll"
+            }
+          ]
         }
       },
       "pageLeft": {
@@ -483,7 +513,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Visual Viewport",
+              "url": "https://wicg.github.io/visual-viewport/#dom-visualviewport-pageleft"
+            }
+          ]
         }
       },
       "pageTop": {
@@ -548,7 +584,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Visual Viewport",
+              "url": "https://wicg.github.io/visual-viewport/#dom-visualviewport-pagetop"
+            }
+          ]
         }
       },
       "scale": {
@@ -613,7 +655,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Visual Viewport",
+              "url": "https://wicg.github.io/visual-viewport/#dom-visualviewport-scale"
+            }
+          ]
         }
       },
       "width": {
@@ -678,7 +726,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Visual Viewport",
+              "url": "https://wicg.github.io/visual-viewport/#dom-visualviewport-width"
+            }
+          ]
         }
       }
     }

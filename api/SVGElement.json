@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "SVG2",
+            "url": "https://svgwg.org/svg2-draft/types.html#InterfaceSVGElement"
+          },
+          {
+            "name": "SVG1.1",
+            "url": "https://www.w3.org/TR/SVG11/types.html#InterfaceSVGElement"
+          }
+        ]
       },
       "dataset": {
         "__compat": {
@@ -92,7 +102,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "SVG2",
+              "url": "https://svgwg.org/svg2-draft/types.html#__svg__SVGElement__dataset"
+            }
+          ]
         }
       },
       "offsetHeight": {

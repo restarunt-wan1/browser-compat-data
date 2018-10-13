@@ -106,7 +106,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/custom-elements.html#customelementregistry"
+          }
+        ]
       },
       "builtin": {
         "__compat": {
@@ -359,7 +365,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/custom-elements.html#dom-customelementregistry-define"
+            }
+          ]
         }
       },
       "get": {
@@ -506,7 +518,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/custom-elements.html#dom-customelementregistry-get"
+            }
+          ]
         }
       },
       "upgrade": {
@@ -704,7 +722,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-customelementregistry-whendefined"
+            }
+          ]
         }
       }
     }

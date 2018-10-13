@@ -45,7 +45,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#characterdata"
+          },
+          {
+            "name": "DOM3 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-FF21A306"
+          },
+          {
+            "name": "DOM2 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-FF21A306"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-FF21A306"
+          }
+        ]
       },
       "ChildNode": {
         "__compat": {

@@ -78,7 +78,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Scope",
+              "url": "http://drafts.csswg.org/css-scoping/#host-selector"
+            }
+          ]
         }
       }
     }

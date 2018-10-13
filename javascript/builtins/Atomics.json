@@ -115,7 +115,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-atomics-object"
+            },
+            {
+              "name": "ES2017",
+              "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-atomics-object"
+            }
+          ]
         },
         "add": {
           "__compat": {
@@ -231,7 +241,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.add"
+              }
+            ]
           }
         },
         "and": {
@@ -348,7 +364,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.and"
+              }
+            ]
           }
         },
         "compareExchange": {
@@ -465,7 +487,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.compareexchange"
+              }
+            ]
           }
         },
         "exchange": {
@@ -582,7 +610,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.exchange"
+              }
+            ]
           }
         },
         "isLockFree": {
@@ -699,7 +733,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.islockfree"
+              }
+            ]
           }
         },
         "load": {
@@ -816,7 +856,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.load"
+              }
+            ]
           }
         },
         "notify": {
@@ -989,7 +1035,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.notify"
+              }
+            ]
           }
         },
         "or": {
@@ -1106,7 +1158,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.or"
+              }
+            ]
           }
         },
         "store": {
@@ -1223,7 +1281,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.store"
+              }
+            ]
           }
         },
         "sub": {
@@ -1340,7 +1404,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.sub"
+              }
+            ]
           }
         },
         "wait": {
@@ -1483,7 +1553,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.wait"
+              }
+            ]
           }
         },
         "xor": {
@@ -1600,7 +1676,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-atomics.xor"
+              }
+            ]
           }
         }
       }

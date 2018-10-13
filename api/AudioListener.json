@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#audiolistener"
+          }
+        ]
       },
       "dopplerFactor": {
         "__compat": {
@@ -158,7 +164,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-forwardX"
+            }
+          ]
         }
       },
       "forwardY": {
@@ -211,7 +223,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-forwardY"
+            }
+          ]
         }
       },
       "forwardZ": {
@@ -264,7 +282,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-forwardZ"
+            }
+          ]
         }
       },
       "positionX": {
@@ -317,7 +341,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-positionX"
+            }
+          ]
         }
       },
       "positionY": {
@@ -370,7 +400,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-positionY"
+            }
+          ]
         }
       },
       "positionZ": {
@@ -423,7 +459,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-positionZ"
+            }
+          ]
         }
       },
       "speedOfSound": {
@@ -534,7 +576,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-upX"
+            }
+          ]
         }
       },
       "upY": {
@@ -587,7 +635,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-upY"
+            }
+          ]
         }
       },
       "upZ": {
@@ -640,7 +694,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioListener-upZ"
+            }
+          ]
         }
       },
       "setOrientation": {

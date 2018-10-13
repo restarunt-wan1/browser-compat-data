@@ -47,7 +47,21 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSS3 Conditional",
+            "url": "https://drafts.csswg.org/css-conditional-3/#the-cssmediarule-interface"
+          },
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#the-cssmediarule-interface"
+          },
+          {
+            "name": "DOM2 Style",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSMediaRule"
+          }
+        ]
       },
       "media": {
         "__compat": {

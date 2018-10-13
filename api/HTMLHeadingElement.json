@@ -45,7 +45,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmlheadingelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements"
+          },
+          {
+            "name": "DOM2 HTML",
+            "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-43345119"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-43345119"
+          }
+        ]
       },
       "align": {
         "__compat": {

@@ -60,7 +60,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebAssembly JS",
+              "url": "https://webassembly.github.io/spec/js-api/#the-webassembly-object"
+            }
+          ]
         },
         "CompileError": {
           "__compat": {
@@ -121,7 +127,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#constructor-properties-of-the-webassembly-object"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-native-error-types-used-in-this-standard"
+              }
+            ]
           }
         },
         "Global": {
@@ -175,7 +191,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#globals"
+              }
+            ]
           },
           "value": {
             "__compat": {
@@ -345,7 +367,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#webassemblyinstance-objects"
+              }
+            ]
           },
           "exports": {
             "__compat": {
@@ -531,7 +559,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#constructor-properties-of-the-webassembly-object"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-native-error-types-used-in-this-standard"
+              }
+            ]
           }
         },
         "Memory": {
@@ -593,7 +631,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#webassemblymemory-objects"
+              }
+            ]
           },
           "buffer": {
             "__compat": {
@@ -841,7 +885,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#webassemblymodule-objects"
+              }
+            ]
           },
           "customSections": {
             "__compat": {
@@ -1151,7 +1201,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#constructor-properties-of-the-webassembly-object"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-native-error-types-used-in-this-standard"
+              }
+            ]
           }
         },
         "Table": {
@@ -1213,7 +1273,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#webassemblytable-objects"
+              }
+            ]
           },
           "get": {
             "__compat": {
@@ -1585,7 +1651,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#webassemblycompile"
+              }
+            ]
           }
         },
         "compileStreaming": {
@@ -1639,7 +1711,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly Embedding",
+                "url": "https://github.com/WebAssembly/design/blob/master/Web.md#webassemblycompilestreaming"
+              }
+            ]
           }
         },
         "instantiate": {
@@ -1701,7 +1779,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#webassemblyinstantiate"
+              }
+            ]
           }
         },
         "instantiateStreaming": {
@@ -1755,7 +1839,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly Embedding",
+                "url": "https://github.com/WebAssembly/design/blob/master/Web.md#webassemblyinstantiatestreaming"
+              }
+            ]
           }
         },
         "validate": {
@@ -1817,7 +1907,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "WebAssembly JS",
+                "url": "https://webassembly.github.io/spec/js-api/#webassemblyvalidate"
+              }
+            ]
           }
         }
       }

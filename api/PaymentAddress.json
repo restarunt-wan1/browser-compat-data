@@ -62,7 +62,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Payment",
+            "url": "https://w3c.github.io/payment-request/#paymentaddress-interface"
+          }
+        ]
       },
       "country": {
         "__compat": {
@@ -126,7 +132,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#paymentaddress"
+            }
+          ]
         }
       },
       "addressLine": {
@@ -191,7 +203,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-addressline"
+            }
+          ]
         }
       },
       "region": {
@@ -256,7 +274,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-region"
+            }
+          ]
         }
       },
       "city": {
@@ -321,7 +345,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-city"
+            }
+          ]
         }
       },
       "dependentLocality": {
@@ -386,7 +416,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-dependentlocality"
+            }
+          ]
         }
       },
       "postalCode": {
@@ -451,7 +487,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-postalcode"
+            }
+          ]
         }
       },
       "sortingCode": {
@@ -516,7 +558,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-sortingcode"
+            }
+          ]
         }
       },
       "languageCode": {
@@ -581,7 +629,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-languagecode"
+            }
+          ]
         }
       },
       "organization": {
@@ -646,7 +700,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-organization"
+            }
+          ]
         }
       },
       "recipient": {
@@ -711,7 +771,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-recipient"
+            }
+          ]
         }
       },
       "phone": {
@@ -776,7 +842,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentaddress-phone"
+            }
+          ]
         }
       },
       "toJSON": {
@@ -841,7 +913,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#tojson-method"
+            }
+          ]
         }
       }
     }

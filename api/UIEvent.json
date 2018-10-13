@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM3 Events",
+            "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#interface-UIEvent"
+          },
+          {
+            "name": "DOM2 Events",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-UIEvent"
+          }
+        ]
       },
       "UIEvent": {
         "__compat": {
@@ -99,7 +109,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#interface-UIEvent"
+            }
+          ]
         }
       },
       "cancelBubble": {
@@ -252,7 +268,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-UIEvent-detail"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-UIEvent-detail"
+            }
+          ]
         }
       },
       "initUIEvent": {
@@ -625,7 +651,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "InputDeviceCapabilities",
+              "url": "https://wicg.github.io/InputDeviceCapabilities/#dom-uievent-sourcecapabilities"
+            }
+          ]
         }
       },
       "view": {
@@ -676,7 +708,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#interface-UIEvent"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-UIEvent"
+            }
+          ]
         }
       },
       "which": {

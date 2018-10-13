@@ -48,7 +48,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-nodelist"
+          },
+          {
+            "name": "DOM3 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-536297177"
+          },
+          {
+            "name": "DOM2 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-536297177"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-536297177"
+          }
+        ]
       },
       "length": {
         "__compat": {
@@ -149,7 +167,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#interface-nodelist"
+            }
+          ]
         }
       },
       "forEach": {
@@ -200,7 +224,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#interface-nodelist"
+            },
+            {
+              "name": "WebIDL",
+              "url": "https://heycam.github.io/webidl/#es-forEach"
+            }
+          ]
         }
       },
       "item": {
@@ -302,7 +336,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#interface-nodelist"
+            }
+          ]
         }
       },
       "values": {
@@ -353,7 +393,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#interface-nodelist"
+            }
+          ]
         }
       }
     }

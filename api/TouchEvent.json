@@ -62,7 +62,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Touch Events 2",
+            "url": "https://w3c.github.io/touch-events/#touchevent-interface"
+          },
+          {
+            "name": "Touch Events",
+            "url": "https://www.w3.org/TR/touch-events/#touchevent-interface"
+          }
+        ]
       },
       "TouchEvent": {
         "__compat": {
@@ -116,7 +126,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#touchevent-interface"
+            }
+          ]
         }
       },
       "altKey": {
@@ -173,7 +189,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-TouchEvent-altKey"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-TouchEvent-altKey"
+            }
+          ]
         }
       },
       "changedTouches": {
@@ -230,7 +256,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-TouchEvent-changedTouches"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-TouchEvent-changedTouches"
+            }
+          ]
         }
       },
       "ctrlKey": {
@@ -287,7 +323,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-TouchEvent-ctrlKey"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-TouchEvent-ctrlKey"
+            }
+          ]
         }
       },
       "metaKey": {
@@ -344,7 +390,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-TouchEvent-metaKey"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-TouchEvent-metaKey"
+            }
+          ]
         }
       },
       "shiftKey": {
@@ -401,7 +457,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-TouchEvent-shiftKey"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-TouchEvent-shiftKey"
+            }
+          ]
         }
       },
       "targetTouches": {
@@ -458,7 +524,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-TouchEvent-targetTouches"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-TouchEvent-targetTouches"
+            }
+          ]
         }
       },
       "touches": {
@@ -515,7 +591,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Touch Events 2",
+              "url": "https://w3c.github.io/touch-events/#widl-TouchEvent-touches"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-TouchEvent-touches"
+            }
+          ]
         }
       }
     }

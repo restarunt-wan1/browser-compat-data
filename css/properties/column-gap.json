@@ -60,7 +60,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Box Alignment",
+                "url": "https://drafts.csswg.org/css-align-3/#column-row-gap"
+              },
+              {
+                "name": "CSS Grid",
+                "url": "https://drafts.csswg.org/css-grid/#gutters"
+              },
+              {
+                "name": "CSS3 Multicol",
+                "url": "https://drafts.csswg.org/css-multicol-1/#column-gap"
+              }
+            ]
           }
         },
         "grid_context": {
@@ -234,7 +248,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Box Alignment",
+                "url": "https://drafts.csswg.org/css-align-3/#column-row-gap"
+              },
+              {
+                "name": "CSS Grid",
+                "url": "https://drafts.csswg.org/css-grid/#gutters"
+              },
+              {
+                "name": "CSS3 Multicol",
+                "url": "https://drafts.csswg.org/css-multicol-1/#column-gap"
+              }
+            ]
           }
         },
         "multicol_context": {
@@ -370,7 +398,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Box Alignment",
+                "url": "https://drafts.csswg.org/css-align-3/#column-row-gap"
+              },
+              {
+                "name": "CSS Grid",
+                "url": "https://drafts.csswg.org/css-grid/#gutters"
+              },
+              {
+                "name": "CSS3 Multicol",
+                "url": "https://drafts.csswg.org/css-multicol-1/#column-gap"
+              }
+            ]
           },
           "percentage_values": {
             "__compat": {

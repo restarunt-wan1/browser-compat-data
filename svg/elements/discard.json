@@ -46,7 +46,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "SVG Animations 2",
+              "url": "https://svgwg.org/specs/animations/#DiscardElement"
+            }
+          ]
         },
         "begin": {
           "__compat": {

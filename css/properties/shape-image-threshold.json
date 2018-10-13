@@ -75,7 +75,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Shapes",
+              "url": "https://drafts.csswg.org/css-shapes/#shape-image-threshold-property"
+            }
+          ]
         }
       }
     }

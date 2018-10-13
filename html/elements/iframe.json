@@ -53,7 +53,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Referrer Policy",
+              "url": "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#the-iframe-element"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/present/frames.html#h-16.5"
+            },
+            {
+              "name": "Presentation",
+              "url": "https://w3c.github.io/presentation-api/#sandboxing-and-the-allow-presentation-keyword"
+            }
+          ]
         },
         "align": {
           "__compat": {

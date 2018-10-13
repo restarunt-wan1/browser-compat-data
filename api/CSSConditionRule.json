@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSS3 Conditional",
+            "url": "https://drafts.csswg.org/css-conditional-3/#the-cssconditionrule-interface"
+          }
+        ]
       }
     }
   }

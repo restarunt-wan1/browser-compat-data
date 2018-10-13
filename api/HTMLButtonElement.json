@@ -48,7 +48,33 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/sec-forms.html#htmlbuttonelement-htmlbuttonelement"
+          },
+          {
+            "name": "HTML5.2",
+            "url": "https://www.w3.org/TR/html52/sec-forms.html#htmlbuttonelement"
+          },
+          {
+            "name": "HTML5.1",
+            "url": "https://www.w3.org/TR/html51/sec-forms.html#htmlbuttonelement-htmlbuttonelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/forms.html#the-button-element"
+          },
+          {
+            "name": "DOM2 HTML",
+            "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-34812697"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-34812697"
+          }
+        ]
       },
       "accessKey": {
         "__compat": {
@@ -559,7 +585,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/forms.html#dom-lfe-labels"
+            }
+          ]
         }
       },
       "menu": {

@@ -49,7 +49,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Box",
+              "url": "https://drafts.csswg.org/css-box-3/#the-margin"
+            },
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#animatable-css"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/box.html#margin-properties"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#margin-top"
+            }
+          ]
         },
         "auto": {
           "__compat": {

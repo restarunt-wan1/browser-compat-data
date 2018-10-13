@@ -49,7 +49,29 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Service Workers",
+            "url": "https://w3c.github.io/ServiceWorker/#serviceworkerglobalscope-interface"
+          },
+          {
+            "name": "Fetch",
+            "url": "https://fetch.spec.whatwg.org/#concept-fetch"
+          },
+          {
+            "name": "Push API",
+            "url": "https://w3c.github.io/push-api/#widl-ServiceWorkerGlobalScope-onpush"
+          },
+          {
+            "name": "Web Notifications",
+            "url": "https://notifications.spec.whatwg.org/#dom-serviceworkerglobalscope-onnotificationclick"
+          },
+          {
+            "name": "Web Background Sync",
+            "url": "https://wicg.github.io/BackgroundSync/spec/#sync-event"
+          }
+        ]
       },
       "clients": {
         "__compat": {
@@ -100,7 +122,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-clients"
+            }
+          ]
         }
       },
       "caches": {
@@ -152,7 +180,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#global-caches"
+            }
+          ]
         }
       },
       "onabortpayment": {
@@ -269,7 +303,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-event-handlers"
+            }
+          ]
         }
       },
       "oncanmakepayment": {
@@ -386,7 +426,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-event-handlers"
+            }
+          ]
         }
       },
       "oninstall": {
@@ -438,7 +484,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-event-handlers"
+            }
+          ]
         }
       },
       "onmessage": {
@@ -490,7 +542,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-event-handlers"
+            }
+          ]
         }
       },
       "onmessageerror": {
@@ -593,7 +651,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-serviceworkerglobalscope-onnotificationclick"
+            }
+          ]
         }
       },
       "onnotificationclose": {
@@ -645,7 +709,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-serviceworkerglobalscope-onnotificationclose"
+            }
+          ]
         }
       },
       "onpaymentrequest": {
@@ -762,7 +832,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#widl-ServiceWorkerGlobalScope-onpush"
+            }
+          ]
         }
       },
       "onpushsubscriptionchange": {
@@ -814,7 +890,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#widl-ServiceWorkerGlobalScope-onpushsubscriptionchange"
+            }
+          ]
         }
       },
       "onsync": {
@@ -866,7 +948,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Background Sync",
+              "url": "https://wicg.github.io/BackgroundSync/spec/#sync-event"
+            }
+          ]
         }
       },
       "registration": {
@@ -918,7 +1006,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-global-scope-registration"
+            }
+          ]
         }
       },
       "skipWaiting": {
@@ -970,7 +1064,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#service-worker-obj"
+            }
+          ]
         }
       }
     }

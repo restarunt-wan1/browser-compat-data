@@ -45,7 +45,17 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#the-linkstyle-interface"
+          },
+          {
+            "name": "DOM2 Style",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Style/stylesheets.html#StyleSheets-LinkStyle"
+          }
+        ]
       },
       "sheet": {
         "__compat": {

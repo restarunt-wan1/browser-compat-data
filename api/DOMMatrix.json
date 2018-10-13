@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geometry Interfaces",
+            "url": "https://drafts.fxtf.org/geometry/#dom-dommatrix"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -141,7 +147,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geometry Interfaces",
+              "url": "https://drafts.fxtf.org/geometry/#dom-dommatrixreadonly-dommatrixreadonly"
+            }
+          ]
         }
       }
     }

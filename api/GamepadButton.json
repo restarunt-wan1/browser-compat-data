@@ -75,7 +75,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Gamepad",
+            "url": "https://w3c.github.io/gamepad/#gamepadbutton-interface"
+          }
+        ]
       },
       "pressed": {
         "__compat": {
@@ -152,7 +158,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Gamepad",
+              "url": "https://w3c.github.io/gamepad/#widl-GamepadButton-pressed"
+            }
+          ]
         }
       },
       "value": {
@@ -230,7 +242,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Gamepad",
+              "url": "https://w3c.github.io/gamepad/#widl-GamepadButton-value"
+            }
+          ]
         }
       },
       "touched": {

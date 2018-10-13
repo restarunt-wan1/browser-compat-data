@@ -49,7 +49,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "HTML WHATWG",
+                "url": "https://html.spec.whatwg.org/multipage/forms.html#date-state-(type=date)"
+              },
+              {
+                "name": "HTML5 W3C",
+                "url": "https://www.w3.org/TR/html50/forms.html#date-state-(type=date)"
+              }
+            ]
           }
         }
       }

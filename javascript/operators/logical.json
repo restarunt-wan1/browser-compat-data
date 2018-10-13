@@ -54,7 +54,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.11"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-binary-logical-operators"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-binary-logical-operators"
+              }
+            ]
           }
         },
         "or": {
@@ -109,7 +123,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.11"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-binary-logical-operators"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-binary-logical-operators"
+              }
+            ]
           }
         },
         "not": {
@@ -164,7 +192,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.11"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-binary-logical-operators"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-binary-logical-operators"
+              }
+            ]
           }
         }
       }

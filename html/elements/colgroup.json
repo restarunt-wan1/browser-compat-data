@@ -49,7 +49,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/tables.html#the-colgroup-element"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/tabular-data.html#the-colgroup-element"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/tables.html#edef-COLGROUP"
+            }
+          ]
         },
         "align": {
           "__compat": {

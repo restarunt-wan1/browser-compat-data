@@ -50,7 +50,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Selectors",
+              "url": "https://drafts.csswg.org/selectors-4/#general-sibling-combinators"
+            },
+            {
+              "name": "CSS3 Selectors",
+              "url": "https://drafts.csswg.org/selectors-3/#general-sibling-combinators"
+            }
+          ]
         }
       }
     }

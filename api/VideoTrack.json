@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#videotrack"
+          }
+        ]
       },
       "id": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-videotrack-id"
+            }
+          ]
         }
       },
       "kind": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-videotrack-kind"
+            }
+          ]
         }
       },
       "label": {
@@ -200,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-videotrack-label"
+            }
+          ]
         }
       },
       "language": {
@@ -251,7 +275,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-videotrack-language"
+            }
+          ]
         }
       },
       "selected": {
@@ -302,7 +332,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-videotrack-selected"
+            }
+          ]
         }
       },
       "sourceBuffer": {
@@ -353,7 +389,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#dom-videotrack-sourcebuffer"
+            }
+          ]
         }
       }
     }

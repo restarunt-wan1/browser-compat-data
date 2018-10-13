@@ -58,7 +58,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Speech API",
+            "url": "https://w3c.github.io/speech-api/#speechreco-speechgrammar"
+          }
+        ]
       },
       "SpeechGrammar": {
         "__compat": {
@@ -119,7 +125,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#speechreco-speechgrammar"
+            }
+          ]
         }
       },
       "src": {
@@ -178,7 +190,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-grammarSrc"
+            }
+          ]
         }
       },
       "weight": {
@@ -237,7 +255,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-grammarWeight"
+            }
+          ]
         }
       }
     }

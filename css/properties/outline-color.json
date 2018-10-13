@@ -56,7 +56,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Basic UI",
+              "url": "https://drafts.csswg.org/css-ui-3/#outline-color"
+            },
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#animatable-css"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/ui.html#propdef-outline-color"
+            }
+          ]
         },
         "invert": {
           "__compat": {

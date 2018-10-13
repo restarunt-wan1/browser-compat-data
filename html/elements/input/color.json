@@ -49,7 +49,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "HTML WHATWG",
+                "url": "https://html.spec.whatwg.org/multipage/#color-state-(type=color)"
+              },
+              {
+                "name": "HTML5 W3C",
+                "url": "https://www.w3.org/TR/html50/forms.html#the-input-element"
+              },
+              {
+                "name": "HTML4.01",
+                "url": "https://www.w3.org/TR/html401/interact/forms.html#h-17.4"
+              }
+            ]
           },
           "list": {
             "__compat": {

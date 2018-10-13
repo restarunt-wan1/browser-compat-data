@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#the-audiobuffersourcenode-interface"
+          }
+        ]
       },
       "AudioBufferSourceNode": {
         "__compat": {
@@ -102,7 +108,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#AudioBufferSourceNode"
+            }
+          ]
         }
       },
       "buffer": {
@@ -155,7 +167,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioBufferSourceNode-buffer"
+            }
+          ]
         }
       },
       "detune": {
@@ -206,7 +224,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audiobuffersourcenode-detune"
+            }
+          ]
         }
       },
       "loop": {
@@ -257,7 +281,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioBufferSourceNode-loop"
+            }
+          ]
         }
       },
       "loopStart": {
@@ -308,7 +338,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioBufferSourceNode-loopStart"
+            }
+          ]
         }
       },
       "loopEnd": {
@@ -359,7 +395,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioBufferSourceNode-loopEnd"
+            }
+          ]
         }
       },
       "onended": {
@@ -412,7 +454,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#idl-def-AudioScheduledSourceNode"
+            }
+          ]
         }
       },
       "playbackRate": {
@@ -463,7 +511,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioBufferSourceNode-playbackRate"
+            }
+          ]
         }
       },
       "start": {
@@ -515,7 +569,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioBufferSourceNode-start-void-double-when-double-offset-double-duration"
+            }
+          ]
         }
       },
       "stop": {

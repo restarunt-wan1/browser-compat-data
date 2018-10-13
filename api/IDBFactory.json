@@ -84,7 +84,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "IndexedDB",
+            "url": "https://www.w3.org/TR/IndexedDB/#idl-def-IDBFactory"
+          },
+          {
+            "name": "IndexedDB 2",
+            "url": "https://w3c.github.io/IndexedDB/#factory-interface"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -207,7 +217,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBFactory-cmp-short-any-first-any-second"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbfactory-cmp"
+            }
+          ]
         }
       },
       "deleteDatabase": {
@@ -280,7 +300,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBFactory-deleteDatabase-IDBOpenDBRequest-DOMString-name"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbfactory-deletedatabase"
+            }
+          ]
         }
       },
       "open": {
@@ -353,7 +383,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IndexedDB",
+              "url": "https://www.w3.org/TR/IndexedDB/#widl-IDBFactory-open-IDBOpenDBRequest-DOMString-name-unsigned-long-long-version"
+            },
+            {
+              "name": "IndexedDB 2",
+              "url": "https://w3c.github.io/IndexedDB/#dom-idbfactory-open"
+            }
+          ]
         }
       }
     }

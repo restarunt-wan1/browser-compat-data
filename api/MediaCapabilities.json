@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": false,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Media Capabilities",
+            "url": "https://wicg.github.io/media-capabilities#mediacapabilities"
+          }
+        ]
       },
       "encodingInfo": {
         "__compat": {
@@ -113,7 +119,13 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capabilities",
+              "url": "https://wicg.github.io/media-capabilities#dom-mediacapabilities-encodinginfo-configuration-configuration"
+            }
+          ]
         }
       },
       "decodingInfo": {
@@ -161,7 +173,13 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capabilities",
+              "url": "https://wicg.github.io/media-capabilities#dom-mediacapabilities-decodinginfo-configuration-configuration"
+            }
+          ]
         }
       }
     }

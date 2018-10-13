@@ -143,7 +143,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS Masks",
+                "url": "https://drafts.fxtf.org/css-masking-1/#clip-property"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/masking.html#ClipProperty"
+              }
+            ]
           }
         },
         "clip-path": {
@@ -191,7 +201,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS Masks",
+                "url": "https://drafts.fxtf.org/css-masking-1/#the-clip-path"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/masking.html#ClipPathProperty"
+              }
+            ]
           }
         },
         "clip-rule": {
@@ -335,7 +355,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#ColorInterpolation"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#ColorInterpolationProperty"
+              }
+            ]
           }
         },
         "color-interpolation-filters": {
@@ -767,7 +797,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG Animations 2",
+                "url": "https://svgwg.org/specs/animations/#FillAttribute"
+              },
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#FillProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/animate.html#FillAttribute"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#FillProperty"
+              }
+            ]
           }
         },
         "fill-opacity": {
@@ -815,7 +863,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#FillOpacityProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#FillOpacityProperty"
+              }
+            ]
           }
         },
         "fill-rule": {
@@ -863,7 +921,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#FillRuleProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#FillRuleProperty"
+              }
+            ]
           }
         },
         "filter": {
@@ -1823,7 +1891,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS Masks",
+                "url": "https://drafts.fxtf.org/css-masking-1/#the-mask"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/masking.html#MaskProperty"
+              }
+            ]
           }
         },
         "opacity": {
@@ -2015,7 +2093,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/interact.html#PointerEventsProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/interact.html#PointerEventsProperty"
+              }
+            ]
           }
         },
         "shape-rendering": {
@@ -2303,7 +2391,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#StrokeProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#StrokeProperty"
+              }
+            ]
           }
         },
         "stroke-dasharray": {
@@ -2351,7 +2449,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#StrokeDasharrayProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#StrokeDasharrayProperty"
+              }
+            ]
           }
         },
         "stroke-dashoffset": {
@@ -2399,7 +2507,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#StrokeDashoffsetProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#StrokeDashoffsetProperty"
+              }
+            ]
           }
         },
         "stroke-linecap": {
@@ -2447,7 +2565,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#StrokeLinecapProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#StrokeLinecapProperty"
+              }
+            ]
           }
         },
         "stroke-linejoin": {
@@ -2495,7 +2623,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#StrokeLinejoinProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#StrokeLinejoinProperty"
+              }
+            ]
           }
         },
         "stroke-miterlimit": {
@@ -2543,7 +2681,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#StrokeMiterlimitProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#StrokeMiterlimitProperty"
+              }
+            ]
           }
         },
         "stroke-opacity": {
@@ -2591,7 +2739,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#StrokeOpacityProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#StrokeOpacityProperty"
+              }
+            ]
           }
         },
         "stroke-width": {
@@ -2639,7 +2797,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/painting.html#StrokeWidthProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/painting.html#StrokeWidthProperty"
+              }
+            ]
           }
         },
         "text-anchor": {
@@ -2879,7 +3047,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS Transforms 2",
+                "url": "https://drafts.csswg.org/css-transforms-2/#svg-transform"
+              },
+              {
+                "name": "CSS3 Transforms",
+                "url": "https://drafts.csswg.org/css-transforms/#svg-transform"
+              },
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/coords.html#TransformProperty"
+              },
+              {
+                "name": "SVG1.1",
+                "url": "https://www.w3.org/TR/SVG11/coords.html#TransformAttribute"
+              }
+            ]
           }
         },
         "unicode-bidi": {

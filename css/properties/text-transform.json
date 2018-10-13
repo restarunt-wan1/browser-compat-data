@@ -54,7 +54,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Text",
+              "url": "https://drafts.csswg.org/css-text-3/#text-transform"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/text.html#caps-prop"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#text-transform"
+            }
+          ]
         },
         "capitalize": {
           "__compat": {

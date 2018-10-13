@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebRTC 1.0",
+            "url": "https://w3c.github.io/webrtc-pc/#rtcrtpsender-interface"
+          }
+        ]
       },
       "dtmf": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-dtmf"
+            }
+          ]
         }
       },
       "getStats": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-getstats()"
+            }
+          ]
         }
       },
       "rtcpTransport": {
@@ -251,7 +269,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-track"
+            }
+          ]
         }
       },
       "transport": {
@@ -404,7 +428,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-getparameters"
+            }
+          ]
         }
       },
       "replaceTrack": {
@@ -455,7 +485,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-replacetrack"
+            }
+          ]
         }
       },
       "setParameters": {
@@ -506,7 +542,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setparameters"
+            }
+          ]
         }
       }
     }

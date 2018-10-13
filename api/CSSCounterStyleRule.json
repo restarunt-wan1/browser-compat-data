@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSS3 Counter Styles",
+            "url": "https://drafts.csswg.org/css-counter-styles-3/#the-csscounterstylerule-interface"
+          }
+        ]
       }
     }
   }

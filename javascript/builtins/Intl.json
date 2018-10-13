@@ -52,7 +52,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES Int 1.0",
+              "url": "https://www.ecma-international.org/ecma-402/1.0/#sec-8"
+            },
+            {
+              "name": "ES Int 2.0",
+              "url": "https://www.ecma-international.org/ecma-402/2.0/#sec-8"
+            },
+            {
+              "name": "ES Int Draft",
+              "url": "https://tc39.github.io/ecma402/#intl-object"
+            }
+          ]
         },
         "getCanonicalLocales": {
           "__compat": {
@@ -105,7 +119,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES Int Draft",
+                "url": "https://tc39.github.io/ecma402/#sec-intl.getcanonicallocales"
+              }
+            ]
           }
         },
         "Collator": {
@@ -159,7 +179,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES Int 1.0",
+                "url": "https://www.ecma-international.org/ecma-402/1.0/#sec-10.1"
+              },
+              {
+                "name": "ES Int 2.0",
+                "url": "https://www.ecma-international.org/ecma-402/2.0/#sec-10.1"
+              },
+              {
+                "name": "ES Int Draft",
+                "url": "https://tc39.github.io/ecma402/#collator-objects"
+              }
+            ]
           },
           "caseFirst": {
             "__compat": {
@@ -483,7 +517,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES Int 1.0",
+                "url": "https://www.ecma-international.org/ecma-402/1.0/#sec-12.1"
+              },
+              {
+                "name": "ES Int 2.0",
+                "url": "https://www.ecma-international.org/ecma-402/2.0/#sec-12.1"
+              },
+              {
+                "name": "ES Int Draft",
+                "url": "https://tc39.github.io/ecma402/#datetimeformat-objects"
+              }
+            ]
           },
           "iana_time_zone_names": {
             "__compat": {
@@ -980,7 +1028,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES Int 1.0",
+                "url": "https://www.ecma-international.org/ecma-402/1.0/#sec-11.1"
+              },
+              {
+                "name": "ES Int 2.0",
+                "url": "https://www.ecma-international.org/ecma-402/2.0/#sec-11.1"
+              },
+              {
+                "name": "ES Int Draft",
+                "url": "https://tc39.github.io/ecma402/#numberformat-objects"
+              }
+            ]
           },
           "prototype": {
             "__compat": {
@@ -1318,7 +1380,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES Int Draft",
+                "url": "https://tc39.github.io/ecma402/#pluralrules-objects"
+              }
+            ]
           },
           "prototype": {
             "__compat": {

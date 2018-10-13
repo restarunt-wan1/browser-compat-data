@@ -63,7 +63,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Basic UI",
+              "url": "https://drafts.csswg.org/css-ui-4/#text-overflow"
+            },
+            {
+              "name": "CSS3 Basic UI",
+              "url": "https://drafts.csswg.org/css-ui-3/#text-overflow"
+            }
+          ]
         },
         "two_value_syntax": {
           "__compat": {

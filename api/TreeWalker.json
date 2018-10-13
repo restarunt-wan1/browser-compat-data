@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-treewalker"
+          },
+          {
+            "name": "DOM2 Traversal_Range",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker"
+          }
+        ]
       },
       "currentNode": {
         "__compat": {
@@ -92,7 +102,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-currentnode"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-currentNode"
+            }
+          ]
         }
       },
       "expandEntityReferences": {
@@ -190,7 +210,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-filter"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-filter"
+            }
+          ]
         }
       },
       "root": {
@@ -238,7 +268,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-root"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-root"
+            }
+          ]
         }
       },
       "whatToShow": {
@@ -286,7 +326,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-whattoshow"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-whatToShow"
+            }
+          ]
         }
       },
       "firstChild": {
@@ -334,7 +384,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-firstchild"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-firstChild"
+            }
+          ]
         }
       },
       "lastChild": {
@@ -382,7 +442,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-lastchild"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-lastChild"
+            }
+          ]
         }
       },
       "nextNode": {
@@ -430,7 +500,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-nextnode"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-nextNode"
+            }
+          ]
         }
       },
       "nextSibling": {
@@ -478,7 +558,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-nextsibling"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-nextSibling"
+            }
+          ]
         }
       },
       "parentNode": {
@@ -526,7 +616,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-parentnode"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-parentNode"
+            }
+          ]
         }
       },
       "previousNode": {
@@ -574,7 +674,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-previousnode"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-previousNode"
+            }
+          ]
         }
       },
       "previousSibling": {
@@ -622,7 +732,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-treewalker-previoussibling"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-TreeWalker-previousSibling"
+            }
+          ]
         }
       }
     }

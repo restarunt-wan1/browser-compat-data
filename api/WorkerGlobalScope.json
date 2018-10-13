@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#workerglobalscope"
+          }
+        ]
       },
       "location": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-workerglobalscope-location"
+            }
+          ]
         }
       },
       "navigator": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-worker-navigator"
+            }
+          ]
         }
       },
       "onerror": {
@@ -200,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-workerglobalscope-onerror"
+            }
+          ]
         }
       },
       "onlanguagechange": {
@@ -251,7 +275,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-workerglobalscope-onlanguagechange"
+            }
+          ]
         }
       },
       "onoffline": {
@@ -302,7 +332,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-workerglobalscope-onoffline"
+            }
+          ]
         }
       },
       "ononline": {
@@ -353,7 +389,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-workerglobalscope-ononline"
+            }
+          ]
         }
       },
       "performance": {
@@ -404,7 +446,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Highres Time Level 2",
+              "url": "https://www.w3.org/TR/hr-time-2/#the-performance-attribute"
+            }
+          ]
         }
       },
       "self": {
@@ -455,7 +503,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-workerglobalscope-self"
+            }
+          ]
         }
       },
       "console": {
@@ -712,7 +766,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-workerglobalscope-importscripts"
+            }
+          ]
         }
       },
       "onclose": {

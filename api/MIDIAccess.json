@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebMIDI API",
+            "url": "https://webaudio.github.io/web-midi-api/#midiaccess-interface"
+          }
+        ]
       }
     }
   }

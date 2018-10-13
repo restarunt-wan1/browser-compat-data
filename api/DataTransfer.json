@@ -46,7 +46,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/interaction.html#datatransfer"
+          },
+          {
+            "name": "HTML5.1",
+            "url": "https://www.w3.org/TR/html51/editing.html#the-datatransfer-interface"
+          }
+        ]
       },
       "DataTransfer": {
         "__compat": {
@@ -94,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-datatransfer"
+            }
+          ]
         }
       },
       "addElement": {
@@ -196,7 +212,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-cleardata"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-cleardata"
+            }
+          ]
         }
       },
       "dropEffect": {
@@ -247,7 +273,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-dropeffect"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-dropeffect"
+            }
+          ]
         }
       },
       "effectAllowed": {
@@ -298,7 +334,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-effectallowed"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-effectallowed"
+            }
+          ]
         }
       },
       "files": {
@@ -349,7 +395,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-files"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-files"
+            }
+          ]
         }
       },
       "getData": {
@@ -400,7 +456,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-getdata"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-getdata"
+            }
+          ]
         }
       },
       "items": {
@@ -448,7 +514,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-items"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-items"
+            }
+          ]
         }
       },
       "mozClearDataAt": {
@@ -907,7 +983,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-setdata"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-setdata"
+            }
+          ]
         }
       },
       "setDragImage": {
@@ -958,7 +1044,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-setdragimage"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-setdragimage"
+            }
+          ]
         }
       },
       "types": {
@@ -1009,7 +1105,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-datatransfer-types"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#dom-datatransfer-types"
+            }
+          ]
         }
       }
     }

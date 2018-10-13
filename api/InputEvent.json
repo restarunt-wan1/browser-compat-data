@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "InputEvents2",
+            "url": "https://w3c.github.io/input-events/index.html#interface-InputEvent"
+          }
+        ]
       },
       "InputEvent": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "InputEvents2",
+              "url": "https://w3c.github.io/input-events/index.html#interface-InputEvent"
+            }
+          ]
         }
       },
       "data": {
@@ -150,7 +162,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "InputEvents2",
+              "url": "https://w3c.github.io/input-events/index.html#dfn-data"
+            }
+          ]
         }
       },
       "dataTransfer": {
@@ -201,7 +219,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "InputEvents2",
+              "url": "https://w3c.github.io/input-events/index.html#dom-inputevent-datatransfer"
+            }
+          ]
         }
       },
       "getTargetRanges": {
@@ -252,7 +276,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "InputEvents2",
+              "url": "https://w3c.github.io/input-events/index.html#dom-inputevent-gettargetranges()"
+            }
+          ]
         }
       },
       "inputType": {
@@ -303,7 +333,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "InputEvents2",
+              "url": "https://w3c.github.io/input-events/index.html#dom-inputevent-inputtype"
+            }
+          ]
         }
       },
       "isComposing": {
@@ -354,7 +390,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-InputEvent-isComposing"
+            }
+          ]
         }
       }
     }

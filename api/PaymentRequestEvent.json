@@ -62,7 +62,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Payment Handler",
+            "url": "https://w3c.github.io/payment-handler/#the-paymentrequestevent"
+          }
+        ]
       },
       "PaymentRequestEvent": {
         "__compat": {
@@ -127,7 +133,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment Handler",
+              "url": "https://w3c.github.io/payment-handler/#the-paymentrequestevent"
+            }
+          ]
         }
       },
       "instrumentKey": {
@@ -192,7 +204,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment Handler",
+              "url": "https://w3c.github.io/payment-handler/#instrumentkey-attribute"
+            }
+          ]
         }
       },
       "methodData": {
@@ -257,7 +275,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment Handler",
+              "url": "https://w3c.github.io/payment-handler/#methoddata-attribute"
+            }
+          ]
         }
       },
       "modifiers": {
@@ -322,7 +346,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment Handler",
+              "url": "https://w3c.github.io/payment-handler/#modifiers-attribute"
+            }
+          ]
         }
       },
       "openWindow": {
@@ -387,7 +417,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment Handler",
+              "url": "https://w3c.github.io/payment-handler/#openwindow-method"
+            }
+          ]
         }
       },
       "paymentRequestId": {
@@ -452,7 +488,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment Handler",
+              "url": "https://w3c.github.io/payment-handler/#paymentrequestid-attribute"
+            }
+          ]
         }
       },
       "paymentRequestOrigin": {
@@ -517,7 +559,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment Handler",
+              "url": "https://w3c.github.io/payment-handler/#paymentrequestorigin-attribute"
+            }
+          ]
         }
       },
       "respondWith": {
@@ -726,7 +774,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment Handler",
+              "url": "https://w3c.github.io/payment-handler/#total-attribute"
+            }
+          ]
         }
       }
     }

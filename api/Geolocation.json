@@ -277,7 +277,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#watch-position"
+            }
+          ]
         }
       }
     }

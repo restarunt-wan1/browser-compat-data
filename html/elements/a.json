@@ -51,7 +51,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Referrer Policy",
+              "url": "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-a-element"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/text-level-semantics.html#the-a-element"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/struct/links.html#h-12.2"
+            }
+          ]
         },
         "charset": {
           "__compat": {

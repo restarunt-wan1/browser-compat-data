@@ -50,7 +50,21 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-attr"
+          },
+          {
+            "name": "DOM4",
+            "url": "https://www.w3.org/TR/dom/#interface-attr"
+          },
+          {
+            "name": "DOM3 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-637646024"
+          }
+        ]
       },
       "localName": {
         "__compat": {
@@ -91,7 +105,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-attr-localname"
+            }
+          ]
         }
       },
       "namespaceURI": {
@@ -133,7 +153,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-element-namespaceuri"
+            }
+          ]
         }
       },
       "prefix": {
@@ -178,7 +204,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-attr-prefix"
+            }
+          ]
         }
       }
     }

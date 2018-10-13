@@ -49,7 +49,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Cascade",
+              "url": "https://drafts.csswg.org/css-cascade/#all-shorthand"
+            },
+            {
+              "name": "CSS3 Cascade",
+              "url": "https://drafts.csswg.org/css-cascade-3/#all-shorthand"
+            }
+          ]
         },
         "revert": {
           "__compat": {

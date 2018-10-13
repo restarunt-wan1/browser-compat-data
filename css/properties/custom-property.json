@@ -50,7 +50,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Variables",
+              "url": "https://drafts.csswg.org/css-variables/#defining-variables"
+            }
+          ]
         },
         "var": {
           "__compat": {
@@ -140,7 +146,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Variables",
+                "url": "https://drafts.csswg.org/css-variables/#using-variables"
+              }
+            ]
           }
         },
         "env": {
@@ -179,7 +191,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Environment Variables",
+                "url": "https://drafts.csswg.org/css-env-1/#env-function"
+              }
+            ]
           }
         }
       }

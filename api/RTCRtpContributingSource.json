@@ -62,7 +62,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebRTC 1.0",
+            "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpcontributingsource"
+          }
+        ]
       },
       "timestamp": {
         "__compat": {
@@ -132,7 +138,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpsynchronizationsource-timestamp"
+            }
+          ]
         }
       },
       "source": {
@@ -197,7 +209,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpcontributingsource-source"
+            }
+          ]
         }
       },
       "audioLevel": {
@@ -262,7 +280,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcrtpcontributingsource-audiolevel"
+            }
+          ]
         }
       }
     }

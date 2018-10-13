@@ -76,7 +76,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Rhythmic Sizing",
+              "url": "https://drafts.csswg.org/css-rhythm/#line-height-step"
+            }
+          ]
         }
       }
     }

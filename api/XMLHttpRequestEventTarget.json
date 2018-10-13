@@ -98,7 +98,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "XMLHttpRequest",
+              "url": "https://xhr.spec.whatwg.org#handler-xhr-onabort"
+            }
+          ]
         }
       },
       "onerror": {
@@ -149,7 +155,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "XMLHttpRequest",
+              "url": "https://xhr.spec.whatwg.org#handler-xhr-onerror"
+            }
+          ]
         }
       },
       "onload": {
@@ -200,7 +212,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "XMLHttpRequest",
+              "url": "https://xhr.spec.whatwg.org#handler-xhr-onload"
+            }
+          ]
         }
       },
       "onloadend": {
@@ -302,7 +320,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "XMLHttpRequest",
+              "url": "https://xhr.spec.whatwg.org#handler-xhr-onloadstart"
+            }
+          ]
         }
       },
       "onprogress": {
@@ -353,7 +377,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "XMLHttpRequest",
+              "url": "https://xhr.spec.whatwg.org#handler-xhr-onload"
+            }
+          ]
         }
       },
       "ontimeout": {

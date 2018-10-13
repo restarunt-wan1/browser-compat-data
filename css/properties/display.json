@@ -49,7 +49,33 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Display",
+              "url": "https://drafts.csswg.org/css-display/#the-display-properties"
+            },
+            {
+              "name": "CSS3 Ruby",
+              "url": "https://drafts.csswg.org/css-ruby/#ruby-display"
+            },
+            {
+              "name": "CSS Grid",
+              "url": "https://drafts.csswg.org/css-grid/#grid-containers"
+            },
+            {
+              "name": "CSS Flexbox",
+              "url": "https://drafts.csswg.org/css-flexbox-1/#flex-containers"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/visuren.html#display-prop"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#display"
+            }
+          ]
         },
         "multi-keyword_values": {
           "__compat": {

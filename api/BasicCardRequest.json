@@ -62,7 +62,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Basic Card Payment",
+            "url": "https://w3c.github.io/payment-method-basic-card/#basiccardrequest-dictionary"
+          }
+        ]
       },
       "supportedNetworks": {
         "__compat": {
@@ -126,7 +132,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Basic Card Payment",
+              "url": "https://w3c.github.io/payment-method-basic-card/#dom-basiccardrequest-supportednetworks"
+            }
+          ]
         }
       },
       "supportedTypes": {
@@ -191,7 +203,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Basic Card Payment",
+              "url": "https://w3c.github.io/payment-method-basic-card/#dom-basiccardrequest-supportedtypes"
+            }
+          ]
         }
       }
     }

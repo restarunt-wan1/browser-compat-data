@@ -74,7 +74,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Streams",
+            "url": "https://streams.spec.whatwg.org/#rs-default-controller-class"
+          }
+        ]
       },
       "ReadableStreamDefaultController": {
         "__compat": {
@@ -125,7 +131,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rs-default-controller-constructor"
+            }
+          ]
         }
       },
       "close": {
@@ -176,7 +188,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rs-default-controller-class"
+            }
+          ]
         }
       },
       "desiredSize": {
@@ -227,7 +245,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rs-default-controller-desired-size"
+            }
+          ]
         }
       },
       "enqueue": {
@@ -278,7 +302,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rs-default-controller-enqueue"
+            }
+          ]
         }
       },
       "error": {
@@ -329,7 +359,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rs-default-controller-error"
+            }
+          ]
         }
       }
     }

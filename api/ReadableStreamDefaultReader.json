@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Streams",
+            "url": "https://streams.spec.whatwg.org/#default-reader-class"
+          }
+        ]
       },
       "ReadableStreamDefaultReader": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-reader-constructor"
+            }
+          ]
         }
       },
       "cancel": {
@@ -150,7 +162,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-reader-cancel"
+            }
+          ]
         }
       },
       "closed": {
@@ -201,7 +219,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-reader-closed"
+            }
+          ]
         }
       },
       "read": {
@@ -252,7 +276,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-reader-read"
+            }
+          ]
         }
       },
       "releaseLock": {
@@ -303,7 +333,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-reader-release-lock"
+            }
+          ]
         }
       }
     }

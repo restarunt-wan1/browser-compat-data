@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebGL",
+            "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/#5.12"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -156,7 +162,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLShaderPrecisionFormat-rangeMin"
+            }
+          ]
         }
       },
       "rangeMax": {
@@ -207,7 +219,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLShaderPrecisionFormat-rangeMax"
+            }
+          ]
         }
       },
       "precision": {
@@ -258,7 +276,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/#DOM-WebGLShaderPrecisionFormat-precision"
+            }
+          ]
         }
       }
     }

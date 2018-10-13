@@ -70,7 +70,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Filters 2.0",
+              "url": "https://drafts.fxtf.org/filter-effects-2/#BackdropFilterProperty"
+            }
+          ]
         }
       }
     }

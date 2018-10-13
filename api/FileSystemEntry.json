@@ -96,7 +96,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-filesystem"
+            }
+          ]
         }
       },
       "fullPath": {
@@ -144,7 +150,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-fullpath"
+            }
+          ]
         }
       },
       "isDirectory": {
@@ -192,7 +204,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-isdirectory"
+            }
+          ]
         }
       },
       "isFile": {
@@ -240,7 +258,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-isfile"
+            }
+          ]
         }
       },
       "name": {
@@ -288,7 +312,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-name"
+            }
+          ]
         }
       },
       "copyTo": {
@@ -336,7 +366,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-copyTo"
+            }
+          ]
         }
       },
       "getMetadata": {
@@ -384,7 +420,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-getMetadata"
+            }
+          ]
         }
       },
       "getParent": {
@@ -432,7 +474,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-getparent"
+            }
+          ]
         }
       },
       "moveTo": {
@@ -480,7 +528,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-moveTo"
+            }
+          ]
         }
       },
       "remove": {
@@ -528,7 +582,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-remove"
+            }
+          ]
         }
       },
       "toURL": {
@@ -576,7 +636,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "File System API",
+              "url": "https://wicg.github.io/entries-api/#dom-entry-tourl"
+            }
+          ]
         }
       }
     }

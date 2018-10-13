@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": false,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Media Source Extensions",
+            "url": "https://w3c.github.io/media-source/#trackdefaultlist"
+          }
+        ]
       },
       "TrackDefaultList": {
         "__compat": {
@@ -93,7 +99,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-ctor-TrackDefaultList--sequence-TrackDefault--trackDefaults"
+            }
+          ]
         }
       },
       "length": {
@@ -141,7 +153,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-TrackDefaultList-length"
+            }
+          ]
         }
       },
       "TrackDefault": {
@@ -189,7 +207,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-TrackDefaultList-TrackDefault-getter-unsigned-long-index"
+            }
+          ]
         }
       }
     }

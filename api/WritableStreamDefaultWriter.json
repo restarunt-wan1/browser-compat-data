@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Streams",
+            "url": "https://streams.spec.whatwg.org/#default-writer-class"
+          }
+        ]
       },
       "WritableStreamDefaultWriter": {
         "__compat": {
@@ -93,7 +99,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-writer-constructor"
+            }
+          ]
         }
       },
       "closed": {
@@ -141,7 +153,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-writer-closed"
+            }
+          ]
         }
       },
       "desiredSize": {
@@ -189,7 +207,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-writer-desiredSize"
+            }
+          ]
         }
       },
       "ready": {
@@ -237,7 +261,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-writer-ready"
+            }
+          ]
         }
       },
       "abort": {
@@ -285,7 +315,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-writer-abort"
+            }
+          ]
         }
       },
       "close": {
@@ -333,7 +369,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-writer-close"
+            }
+          ]
         }
       },
       "releaseLock": {
@@ -381,7 +423,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-reader-release-lock"
+            }
+          ]
         }
       },
       "write": {
@@ -429,7 +477,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#default-writer-write"
+            }
+          ]
         }
       }
     }

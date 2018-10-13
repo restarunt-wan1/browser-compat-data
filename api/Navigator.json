@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#the-navigator-object"
+          }
+        ]
       },
       "activeVRDisplays": {
         "__compat": {
@@ -369,7 +375,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Clipboard API",
+              "url": "https://w3c.github.io/clipboard-apis/#navigator-clipboard"
+            }
+          ]
         }
       },
       "connection": {
@@ -421,7 +433,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Network Information",
+              "url": "https://w3c.github.io/netinfo/#-dfn-connection-dfn-attribute"
+            }
+          ]
         }
       },
       "cookieEnabled": {
@@ -474,7 +492,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#dom-navigator-cookieenabled"
+            }
+          ]
         }
       },
       "credentials": {
@@ -576,7 +600,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Device Memory",
+              "url": "https://w3c.github.io/device-memory/#sec-device-memory-js-api"
+            }
+          ]
         }
       },
       "doNotTrack": {
@@ -636,7 +666,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Tracking",
+              "url": "https://www.w3.org/2011/tracking-protection/drafts/tracking-dnt.html#widl-Navigator-doNotTrack"
+            }
+          ]
         }
       },
       "geolocation": {
@@ -693,7 +729,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#navi-geo"
+            }
+          ]
         },
         "secure_context_only": {
           "__compat": {
@@ -1091,7 +1133,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Locks",
+              "url": "https://wicg.github.io/web-locks/#navigator-mixins"
+            }
+          ]
         }
       },
       "maxTouchPoints": {
@@ -1270,7 +1318,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture",
+              "url": "https://w3c.github.io/mediacapture-main/#widl-NavigatorUserMedia-mediaDevices"
+            }
+          ]
         }
       },
       "mediaSession": {
@@ -1583,7 +1637,13 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-navigator-productsub"
+            }
+          ]
         }
       },
       "registerContentHandler": {
@@ -1687,7 +1747,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/system-state.html#custom-handlers"
+            }
+          ]
         },
         "secure_context_required": {
           "__compat": {
@@ -1819,7 +1885,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#navigator-extension-requestmediakeysystemaccess"
+            }
+          ]
         }
       },
       "sendBeacon": {
@@ -1875,7 +1947,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Beacon",
+              "url": "https://w3c.github.io/beacon/#sec-sendBeacon-method"
+            }
+          ]
         }
       },
       "serviceWorker": {
@@ -1938,7 +2016,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Service Workers",
+              "url": "https://w3c.github.io/ServiceWorker/#navigator-service-worker"
+            }
+          ]
         }
       },
       "share": {
@@ -2040,7 +2124,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-navigator-vendor"
+            }
+          ]
         }
       },
       "vendorSub": {
@@ -2091,7 +2181,13 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-navigator-vendorsub"
+            }
+          ]
         }
       },
       "vibrate": {
@@ -2222,7 +2318,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebDriver",
+              "url": "https://w3c.github.io/webdriver/#dom-navigatorautomationinformation-webdriver"
+            }
+          ]
         }
       }
     }

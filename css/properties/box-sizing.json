@@ -127,7 +127,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Basic UI",
+              "url": "https://drafts.csswg.org/css-ui-3/#box-sizing"
+            }
+          ]
         },
         "padding-box": {
           "__compat": {

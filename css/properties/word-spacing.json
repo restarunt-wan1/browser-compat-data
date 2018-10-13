@@ -49,7 +49,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Text",
+              "url": "https://drafts.csswg.org/css-text-3/#propdef-word-spacing"
+            },
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#animatable-css"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/text.html#propdef-word-spacing"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#word-spacing"
+            }
+          ]
         },
         "percentages": {
           "__compat": {

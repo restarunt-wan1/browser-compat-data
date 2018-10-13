@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebGL2",
+            "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7"
+          }
+        ]
       },
       "beginQuery": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.12"
+            }
+          ]
         }
       },
       "beginTransformFeedback": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "bindBufferBase": {
@@ -200,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.16"
+            }
+          ]
         }
       },
       "bindBufferRange": {
@@ -251,7 +275,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.16"
+            }
+          ]
         }
       },
       "bindSampler": {
@@ -302,7 +332,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.13"
+            }
+          ]
         }
       },
       "bindTransformFeedback": {
@@ -353,7 +389,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "bindVertexArray": {
@@ -404,7 +446,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.17"
+            }
+          ]
         }
       },
       "blitFramebuffer": {
@@ -455,7 +503,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.4"
+            }
+          ]
         }
       },
       "bufferSubData": {
@@ -608,7 +662,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.11"
+            }
+          ]
         }
       },
       "clearBufferfv": {
@@ -659,7 +719,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.11"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -761,7 +827,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.11"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -863,7 +935,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.11"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -965,7 +1043,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.14"
+            }
+          ]
         }
       },
       "compressedTexImage3D": {
@@ -1016,7 +1100,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/1.0/#COMPRESSEDTEXIMAGE2D"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -1118,7 +1208,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+            }
+          ]
         }
       },
       "copyBufferSubData": {
@@ -1169,7 +1265,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.3"
+            }
+          ]
         }
       },
       "copyTexSubImage3D": {
@@ -1220,7 +1322,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+            }
+          ]
         }
       },
       "createQuery": {
@@ -1271,7 +1379,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.12"
+            }
+          ]
         }
       },
       "createSampler": {
@@ -1322,7 +1436,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.13"
+            }
+          ]
         }
       },
       "createTransformFeedback": {
@@ -1373,7 +1493,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "createVertexArray": {
@@ -1424,7 +1550,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.17"
+            }
+          ]
         }
       },
       "deleteQuery": {
@@ -1475,7 +1607,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.12"
+            }
+          ]
         }
       },
       "deleteSampler": {
@@ -1526,7 +1664,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.13"
+            }
+          ]
         }
       },
       "deleteSync": {
@@ -1577,7 +1721,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.13"
+            }
+          ]
         }
       },
       "deleteTransformFeedback": {
@@ -1628,7 +1778,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "deleteVertexArray": {
@@ -1679,7 +1835,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.17"
+            }
+          ]
         }
       },
       "drawArraysInstanced": {
@@ -1730,7 +1892,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.9"
+            }
+          ]
         }
       },
       "drawBuffers": {
@@ -1781,7 +1949,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.11"
+            }
+          ]
         }
       },
       "drawElementsInstanced": {
@@ -1832,7 +2006,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.9"
+            }
+          ]
         }
       },
       "drawRangeElements": {
@@ -1883,7 +2063,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.9"
+            }
+          ]
         }
       },
       "endQuery": {
@@ -1934,7 +2120,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.12"
+            }
+          ]
         }
       },
       "endTransformFeedback": {
@@ -1985,7 +2177,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "fenceSync": {
@@ -2036,7 +2234,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.14"
+            }
+          ]
         }
       },
       "framebufferTextureLayer": {
@@ -2087,7 +2291,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.4"
+            }
+          ]
         }
       },
       "getActiveUniformBlockName": {
@@ -2138,7 +2348,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.16"
+            }
+          ]
         }
       },
       "getActiveUniformBlockParameter": {
@@ -2189,7 +2405,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.16"
+            }
+          ]
         }
       },
       "getActiveUniforms": {
@@ -2240,7 +2462,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.16"
+            }
+          ]
         }
       },
       "getBufferSubData": {
@@ -2291,7 +2519,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.3"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -2393,7 +2627,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.7"
+            }
+          ]
         }
       },
       "getInternalformatParameter": {
@@ -2444,7 +2684,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.5"
+            }
+          ]
         }
       },
       "getQuery": {
@@ -2495,7 +2741,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.12"
+            }
+          ]
         }
       },
       "getQueryParameter": {
@@ -2546,7 +2798,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.12"
+            }
+          ]
         }
       },
       "getSamplerParameter": {
@@ -2597,7 +2855,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.13"
+            }
+          ]
         }
       },
       "getSyncParameter": {
@@ -2648,7 +2912,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.14"
+            }
+          ]
         }
       },
       "getTransformFeedbackVarying": {
@@ -2699,7 +2969,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "getUniformBlockIndex": {
@@ -2750,7 +3026,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.16"
+            }
+          ]
         }
       },
       "getUniformIndices": {
@@ -2801,7 +3083,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.16"
+            }
+          ]
         }
       },
       "getIndexedParameter": {
@@ -2852,7 +3140,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.2"
+            }
+          ]
         }
       },
       "invalidateFramebuffer": {
@@ -2903,7 +3197,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.4"
+            }
+          ]
         }
       },
       "invalidateSubFramebuffer": {
@@ -2954,7 +3254,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.4"
+            }
+          ]
         }
       },
       "isQuery": {
@@ -3005,7 +3311,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.12"
+            }
+          ]
         }
       },
       "isSampler": {
@@ -3056,7 +3368,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.13"
+            }
+          ]
         }
       },
       "isSync": {
@@ -3107,7 +3425,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.14"
+            }
+          ]
         }
       },
       "isTransformFeedback": {
@@ -3158,7 +3482,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "isVertexArray": {
@@ -3209,7 +3539,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.17"
+            }
+          ]
         }
       },
       "pauseTransformFeedback": {
@@ -3260,7 +3596,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "readBuffer": {
@@ -3311,7 +3653,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.4"
+            }
+          ]
         }
       },
       "renderbufferStorageMultisample": {
@@ -3362,7 +3710,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.5"
+            }
+          ]
         }
       },
       "resumeTransformFeedback": {
@@ -3413,7 +3767,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "samplerParameteri": {
@@ -3566,7 +3926,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -3668,7 +4034,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+            }
+          ]
         }
       },
       "texStorage3D": {
@@ -3719,7 +4091,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+            }
+          ]
         }
       },
       "texSubImage3D": {
@@ -3770,7 +4148,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.6"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -3872,7 +4256,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.15"
+            }
+          ]
         }
       },
       "uniform1uiv": {
@@ -3923,7 +4313,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform1ui": {
@@ -3974,7 +4370,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform1i": {
@@ -4025,7 +4427,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform1f": {
@@ -4076,7 +4484,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform2uiv": {
@@ -4127,7 +4541,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform2ui": {
@@ -4178,7 +4598,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform2i": {
@@ -4229,7 +4655,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform2f": {
@@ -4280,7 +4712,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform3uiv": {
@@ -4331,7 +4769,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform3ui": {
@@ -4382,7 +4826,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform3i": {
@@ -4433,7 +4883,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform3f": {
@@ -4484,7 +4940,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform4uiv": {
@@ -4535,7 +4997,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform4ui": {
@@ -4586,7 +5054,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform4i": {
@@ -4637,7 +5111,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniform4f": {
@@ -4688,7 +5168,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "uniformBlockBinding": {
@@ -4739,7 +5225,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.16"
+            }
+          ]
         }
       },
       "uniformMatrix2fv": {
@@ -4790,7 +5282,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -4892,7 +5390,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -4994,7 +5498,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -5096,7 +5606,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -5198,7 +5714,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -5300,7 +5822,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -5402,7 +5930,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -5504,7 +6038,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -5606,7 +6146,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -5708,7 +6254,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.9"
+            }
+          ]
         }
       },
       "vertexAttribI4i": {
@@ -5759,7 +6311,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "vertexAttribI4iv": {
@@ -5810,7 +6368,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -5912,7 +6476,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "vertexAttribI4uiv": {
@@ -5963,7 +6533,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         },
         "SharedArrayBuffer_as_param": {
           "__compat": {
@@ -6065,7 +6641,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.8"
+            }
+          ]
         }
       },
       "waitSync": {
@@ -6116,7 +6698,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebGL2",
+              "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.7.14"
+            }
+          ]
         }
       }
     }

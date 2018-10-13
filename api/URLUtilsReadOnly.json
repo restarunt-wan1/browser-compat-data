@@ -64,7 +64,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "URL",
+            "url": "https://url.spec.whatwg.org/#urlutilsreadonly"
+          }
+        ]
       },
       "hash": {
         "__compat": {
@@ -130,7 +136,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-hash"
+            }
+          ]
         }
       },
       "host": {
@@ -181,7 +193,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-host"
+            }
+          ]
         }
       },
       "hostname": {
@@ -232,7 +250,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-hostname"
+            }
+          ]
         }
       },
       "href": {
@@ -283,7 +307,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-href"
+            }
+          ]
         }
       },
       "origin": {
@@ -334,7 +364,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-origin"
+            }
+          ]
         }
       },
       "pathname": {
@@ -385,7 +421,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-pathname"
+            }
+          ]
         }
       },
       "port": {
@@ -436,7 +478,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-port"
+            }
+          ]
         }
       },
       "protocol": {
@@ -487,7 +535,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-protocol"
+            }
+          ]
         }
       },
       "search": {
@@ -538,7 +592,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-url-search"
+            }
+          ]
         }
       },
       "toString": {
@@ -589,7 +649,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#urlutilsreadonly"
+            }
+          ]
         }
       }
     }

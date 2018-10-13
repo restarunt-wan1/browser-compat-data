@@ -48,7 +48,29 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM View",
+            "url": "https://drafts.csswg.org/cssom-view/#extensions-to-the-mouseevent-interface"
+          },
+          {
+            "name": "Pointer Lock",
+            "url": "https://w3c.github.io/pointerlock/#extensions-to-the-mouseevent-interface"
+          },
+          {
+            "name": "CSSOM View",
+            "url": "https://drafts.csswg.org/cssom-view/#extensions-to-the-mouseevent-interface"
+          },
+          {
+            "name": "DOM3 Events",
+            "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#events-mouseevents"
+          },
+          {
+            "name": "DOM2 Events",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+          }
+        ]
       },
       "MouseEvent": {
         "__compat": {
@@ -99,7 +121,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#extensions-to-the-mouseevent-interface"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#interface-MouseEvent"
+            }
+          ]
         },
         "region_support": {
           "__compat": {
@@ -260,7 +292,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-altKey"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         }
       },
       "button": {
@@ -317,7 +359,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-button"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         }
       },
       "buttons": {
@@ -369,7 +421,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-buttons"
+            }
+          ]
         }
       },
       "clientX": {
@@ -420,7 +478,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-clientx"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-clientX"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -522,7 +594,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-clienty"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-clientY"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -624,7 +710,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-ctrlKey"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         }
       },
       "getModifierState": {
@@ -675,7 +771,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-getModifierState"
+            }
+          ]
         },
         "accel_support": {
           "__compat": {
@@ -828,7 +930,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-metaKey"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         }
       },
       "movementX": {
@@ -907,7 +1019,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Lock",
+              "url": "https://w3c.github.io/pointerlock/#widl-MouseEvent-movementX"
+            }
+          ]
         }
       },
       "movementY": {
@@ -986,7 +1104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Lock",
+              "url": "https://w3c.github.io/pointerlock/#widl-MouseEvent-movementY"
+            }
+          ]
         }
       },
       "offsetX": {
@@ -1037,7 +1161,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-offsetx"
+            }
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1139,7 +1269,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-offsety"
+            }
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1241,7 +1377,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-pagex"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-pageX"
+            }
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1343,7 +1489,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-pagey"
+            },
+            {
+              "name": "Touch Events",
+              "url": "https://www.w3.org/TR/touch-events/#widl-Touch-pagey"
+            }
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1517,7 +1673,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-relatedTarget"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         }
       },
       "screenX": {
@@ -1568,7 +1734,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-screenx"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-screenX"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1670,7 +1850,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-screeny"
+            },
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-screenY"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         },
         "long_to_double": {
           "__compat": {
@@ -1772,7 +1966,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-MouseEvent-shiftKey"
+            },
+            {
+              "name": "DOM2 Events",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-MouseEvent"
+            }
+          ]
         }
       },
       "which": {
@@ -1876,7 +2080,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-x"
+            }
+          ]
         }
       },
       "y": {
@@ -1927,7 +2137,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-mouseevent-y"
+            }
+          ]
         }
       }
     }

@@ -90,7 +90,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Values",
+              "url": "https://drafts.csswg.org/css-values-3/#calc-notation"
+            }
+          ]
         },
         "gradient_color_stops": {
           "__compat": {

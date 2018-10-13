@@ -48,7 +48,17 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#mixin-documentorshadowroot"
+          },
+          {
+            "name": "Shadow DOM",
+            "url": "https://w3c.github.io/webcomponents/spec/shadow/#extensions-to-the-documentorshadowroot-mixin"
+          }
+        ]
       },
       "activeElement": {
         "__compat": {
@@ -98,7 +108,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-document-activeelement"
+            },
+            {
+              "name": "Shadow DOM",
+              "url": "https://w3c.github.io/webcomponents/spec/shadow/#extensions-to-the-documentorshadowroot-mixin"
+            }
+          ]
         }
       },
       "adoptedStyleSheets": {
@@ -200,7 +220,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-document-caretpositionfrompoint"
+            }
+          ]
         }
       },
       "elementFromPoint": {
@@ -251,7 +277,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Shadow DOM",
+              "url": "https://w3c.github.io/webcomponents/spec/shadow/#extensions-to-the-documentorshadowroot-mixin"
+            }
+          ]
         }
       },
       "elementsFromPoint": {
@@ -302,7 +334,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Shadow DOM",
+              "url": "https://w3c.github.io/webcomponents/spec/shadow/#extensions-to-the-documentorshadowroot-mixin"
+            },
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-document-elementsfrompoint"
+            }
+          ]
         }
       },
       "fullscreenElement": {
@@ -396,7 +438,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Fullscreen",
+              "url": "https://fullscreen.spec.whatwg.org/#dom-document-fullscreenelement"
+            }
+          ]
         }
       },
       "getSelection": {
@@ -447,7 +495,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Shadow DOM",
+              "url": "https://w3c.github.io/webcomponents/spec/shadow/#extensions-to-the-documentorshadowroot-mixin"
+            }
+          ]
         }
       },
       "pointerLockElement": {
@@ -498,7 +552,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Lock",
+              "url": "https://w3c.github.io/pointerlock/#extensions-to-the-documentorshadowroot-mixin"
+            }
+          ]
         }
       },
       "styleSheets": {
@@ -549,7 +609,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Shadow DOM",
+              "url": "https://w3c.github.io/webcomponents/spec/shadow/#extensions-to-the-documentorshadowroot-mixin"
+            }
+          ]
         }
       }
     }

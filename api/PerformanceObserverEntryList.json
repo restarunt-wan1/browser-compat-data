@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Performance Timeline Level 2",
+            "url": "https://w3c.github.io/performance-timeline/#idl-def-performanceobserverentrylist"
+          }
+        ]
       },
       "getEntries": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Performance Timeline Level 2",
+              "url": "https://w3c.github.io/performance-timeline/#idl-def-performanceobserverentrylist"
+            }
+          ]
         }
       },
       "getEntriesByType": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Performance Timeline Level 2",
+              "url": "https://w3c.github.io/performance-timeline/#idl-def-performanceobserverentrylist"
+            }
+          ]
         }
       },
       "getEntriesByName": {
@@ -200,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Performance Timeline Level 2",
+              "url": "https://w3c.github.io/performance-timeline/#idl-def-performanceobserverentrylist"
+            }
+          ]
         }
       }
     }

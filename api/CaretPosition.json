@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM View",
+            "url": "https://drafts.csswg.org/cssom-view/#caret-position"
+          }
+        ]
       }
     }
   }

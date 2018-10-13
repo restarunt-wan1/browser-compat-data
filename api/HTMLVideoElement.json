@@ -48,7 +48,21 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Media Source Extensions",
+            "url": "https://w3c.github.io/media-source/#idl-def-HTMLVideoElement"
+          },
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmlvideoelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/embedded-content-0.html#the-video-element"
+          }
+        ]
       },
       "height": {
         "__compat": {
@@ -722,7 +736,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-HTMLVideoElement-getVideoPlaybackQuality-VideoPlaybackQualitye"
+            }
+          ]
         }
       }
     }

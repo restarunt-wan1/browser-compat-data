@@ -60,7 +60,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Encoding",
+            "url": "https://encoding.spec.whatwg.org/#interface-textencoder"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -204,7 +210,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Encoding",
+              "url": "https://encoding.spec.whatwg.org/#dom-textencoder"
+            }
+          ]
         }
       },
       "encoding": {
@@ -267,7 +279,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Encoding",
+              "url": "https://encoding.spec.whatwg.org/#dom-textencoder-encoding"
+            }
+          ]
         }
       },
       "encode": {
@@ -330,7 +348,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Encoding",
+              "url": "https://encoding.spec.whatwg.org/#dom-textencoder-encode"
+            }
+          ]
         }
       }
     }

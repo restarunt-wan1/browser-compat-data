@@ -62,7 +62,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Animations",
+            "url": "https://drafts.csswg.org/web-animations/#the-animationeffect-interface"
+          }
+        ]
       },
       "getComputedTiming": {
         "__compat": {
@@ -112,7 +118,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#dom-animationeffect-getcomputedtiming"
+            }
+          ]
         }
       },
       "getTiming": {
@@ -163,7 +175,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#dom-animationeffect-gettiming"
+            }
+          ]
         }
       },
       "updateTiming": {
@@ -214,7 +232,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#dom-animationeffect-updatetiming"
+            }
+          ]
         }
       }
     }

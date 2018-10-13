@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Streams",
+            "url": "https://streams.spec.whatwg.org/#rbs-controller-class"
+          }
+        ]
       },
       "ReadableByteStreamController": {
         "__compat": {
@@ -93,7 +99,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rbs-controller-constructor"
+            }
+          ]
         }
       },
       "byobRequest": {
@@ -141,7 +153,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rbs-controller-byob-request"
+            }
+          ]
         }
       },
       "desiredSize": {
@@ -189,7 +207,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rbs-controller-desired-size"
+            }
+          ]
         }
       },
       "close": {
@@ -237,7 +261,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rbs-controller-close"
+            }
+          ]
         }
       },
       "enqueue": {
@@ -285,7 +315,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rbs-controller-enqueue"
+            }
+          ]
         }
       },
       "error": {
@@ -333,7 +369,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Streams",
+              "url": "https://streams.spec.whatwg.org/#rbs-controller-error"
+            }
+          ]
         }
       }
     }

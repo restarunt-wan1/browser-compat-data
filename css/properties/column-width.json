@@ -92,7 +92,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Writing Modes",
+              "url": "https://drafts.csswg.org/css-writing-modes-4/#auto-multicol"
+            },
+            {
+              "name": "CSS3 Multicol",
+              "url": "https://drafts.csswg.org/css-multicol-1/#cw"
+            }
+          ]
         },
         "intrinsic_sizes": {
           "__compat": {

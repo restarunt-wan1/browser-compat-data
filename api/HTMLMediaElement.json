@@ -45,7 +45,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/the-video-element.html#htmlmediaelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+          },
+          {
+            "name": "EME",
+            "url": "https://w3c.github.io/encrypted-media/#introduction"
+          },
+          {
+            "name": "Media Capture",
+            "url": "https://w3c.github.io/mediacapture-main/#htmlmediaelement-extensions"
+          }
+        ]
       },
       "addTextTrack": {
         "__compat": {
@@ -93,7 +111,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-audiotracks"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "autoplay": {
@@ -141,7 +169,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-autoplay"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "buffered": {
@@ -189,7 +227,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#media-elements"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "canPlayType": {
@@ -237,7 +285,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-navigator-canplaytype"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "captureStream": {
@@ -281,7 +339,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Capture DOM Elements",
+              "url": "https://w3c.github.io/mediacapture-fromelement/#widl-HTMLMediaElement-captureStream-MediaStream"
+            }
+          ]
         }
       },
       "controller": {
@@ -311,7 +375,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "controls": {
@@ -359,7 +429,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-controls"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "controlsList": {
@@ -441,7 +521,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#attr-media-crossorigin"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "currentSrc": {
@@ -489,7 +579,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-currentsrc"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "currentTime": {
@@ -537,7 +637,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-currenttime"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "defaultMuted": {
@@ -582,7 +692,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-defaultmuted"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "defaultPlaybackRate": {
@@ -618,7 +738,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-defaultplaybackrate"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "disableRemotePlayback": {
@@ -666,7 +796,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/#embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "duration": {
@@ -714,7 +850,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-duration"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "ended": {
@@ -762,7 +908,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-ended"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "error": {
@@ -810,7 +966,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-error"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "fastSeek": {
@@ -834,7 +1000,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-fastseek"
+            }
+          ]
         }
       },
       "initialTime": {
@@ -908,7 +1080,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/media.html#dom-media-load"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/semantics-embedded-content.html#dom-htmlmediaelement-load"
+            }
+          ]
         }
       },
       "loop": {
@@ -944,7 +1126,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-loop"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "mediaGroup": {
@@ -974,7 +1166,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "mediaKeys": {
@@ -1308,7 +1506,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-muted"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "networkState": {
@@ -1359,7 +1567,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-networkstate"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "onerror": {
@@ -1407,7 +1625,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/webappapis.html#handler-onerror"
+            }
+          ]
         }
       },
       "onencrypted": {
@@ -1539,7 +1763,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-pause"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#dom-media-pause"
+            }
+          ]
         }
       },
       "paused": {
@@ -1587,7 +1821,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-paused"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "play": {
@@ -1635,7 +1879,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-play"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#dom-media-play"
+            }
+          ]
         }
       },
       "playbackRate": {
@@ -1671,7 +1925,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-playbackrate"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "played": {
@@ -1841,7 +2105,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-readystate"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       },
       "seekToNextFrame": {
@@ -1915,7 +2189,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/the-video-element.html#dom-media-seekable"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#dom-media-seekable"
+            },
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#htmlmediaelement-extensions"
+            }
+          ]
         }
       },
       "seeking": {
@@ -1974,7 +2262,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "EME",
+              "url": "https://w3c.github.io/encrypted-media/#dom-htmlmediaelement-setmediakeys"
+            }
+          ]
         }
       },
       "setSinkId": {
@@ -2001,7 +2295,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Audio Output",
+              "url": "https://w3c.github.io/mediacapture-output/#dom-htmlmediaelement-setsinkid"
+            }
+          ]
         }
       },
       "sinkId": {
@@ -2028,7 +2328,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Audio Output",
+              "url": "https://w3c.github.io/mediacapture-output/#dom-htmlmediaelement-sinkid"
+            }
+          ]
         }
       },
       "src": {
@@ -2076,7 +2382,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-src"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#dom-media-src"
+            }
+          ]
         }
       },
       "srcObject": {
@@ -2129,7 +2445,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-media-srcobject"
+            }
+          ]
         }
       },
       "textTracks": {
@@ -2185,7 +2507,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-videotracks"
+            }
+          ]
         }
       },
       "volume": {
@@ -2233,7 +2561,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-media-volume"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/embedded-content-0.html#htmlmediaelement"
+            }
+          ]
         }
       }
     }

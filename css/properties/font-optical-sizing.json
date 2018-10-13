@@ -75,7 +75,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Fonts",
+              "url": "https://drafts.csswg.org/css-fonts-4/#font-optical-sizing-def"
+            }
+          ]
         }
       }
     }

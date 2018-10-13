@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#the-csspagerule-interface"
+          },
+          {
+            "name": "DOM2 Style",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSPageRule"
+          }
+        ]
       },
       "selectorText": {
         "__compat": {

@@ -58,7 +58,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Speech API",
+            "url": "https://w3c.github.io/speech-api/#utterance-attributes"
+          }
+        ]
       },
       "SpeechSynthesisUtterance": {
         "__compat": {
@@ -119,7 +125,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#tts-section"
+            }
+          ]
         }
       },
       "lang": {
@@ -180,7 +192,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utterancelang"
+            }
+          ]
         }
       },
       "onboundary": {
@@ -241,7 +259,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utteranceonboundary"
+            }
+          ]
         }
       },
       "onend": {
@@ -302,7 +326,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utteranceonend"
+            }
+          ]
         }
       },
       "onerror": {
@@ -363,7 +393,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utteranceonerror"
+            }
+          ]
         }
       },
       "onmark": {
@@ -424,7 +460,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utteranceonmark"
+            }
+          ]
         }
       },
       "onpause": {
@@ -485,7 +527,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utteranceonpause"
+            }
+          ]
         }
       },
       "onresume": {
@@ -546,7 +594,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utteranceonresume"
+            }
+          ]
         }
       },
       "onstart": {
@@ -607,7 +661,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utteranceonstart"
+            }
+          ]
         }
       },
       "pitch": {
@@ -668,7 +728,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utterancepitch"
+            }
+          ]
         }
       },
       "rate": {
@@ -729,7 +795,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utterancerate"
+            }
+          ]
         }
       },
       "text": {
@@ -790,7 +862,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utterancetext"
+            }
+          ]
         }
       },
       "voice": {
@@ -851,7 +929,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utterancevoice"
+            }
+          ]
         }
       },
       "volume": {
@@ -912,7 +996,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-utterancevolume"
+            }
+          ]
         }
       }
     }

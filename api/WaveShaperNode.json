@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#the-waveshapernode-interface"
+          }
+        ]
       },
       "WaveShaperNode": {
         "__compat": {
@@ -102,7 +108,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#WaveShaperNode"
+            }
+          ]
         }
       },
       "curve": {
@@ -153,7 +165,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-WaveShaperNode-curve"
+            }
+          ]
         }
       },
       "oversample": {
@@ -204,7 +222,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-WaveShaperNode-oversample"
+            }
+          ]
         }
       }
     }

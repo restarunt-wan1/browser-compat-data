@@ -43,7 +43,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Backgrounds",
+              "url": "https://drafts.csswg.org/css-backgrounds-3/#the-border-width"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/box.html#border-width-properties"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#border-left-width"
+            }
+          ]
         }
       }
     }

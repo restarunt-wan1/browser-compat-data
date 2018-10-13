@@ -110,6 +110,28 @@
       "additionalProperties": false
     },
 
+    "specs_block": {
+      "type": "array",
+      "description": "An optional array of objects indicating specific parts of specifications in which this feature is defined.",
+      "minItems": 1,
+      "items": {
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Either a string giving the canonical shortname of a specification in which this feature is defined, or the empty string (if there is no canonical shortname for the specification). If this string is non-empty, it should exactly match one of the canonical shortnames that are the keys in https://github.com/mdn/kumascript/blob/master/macros/SpecData.json."
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^http(s)?:\/\/[^#]+#.+",
+            "description": "A URL for a specific part of a specification in which this feature is defined. The URL must contain a fragment identifier."
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": ["name", "url"]
+    },
+
     "support_block": {
       "type": "object",
       "properties": {
@@ -147,6 +169,7 @@
           "pattern": "^https:\/\/developer\\.mozilla\\.org\/docs\/",
           "description": "A URL that points to an MDN reference page documenting the feature. The URL should be language-agnostic."
         },
+        "specs": { "$ref": "#/definitions/specs_block" },
         "support": { "$ref": "#/definitions/support_block" },
         "status": { "$ref": "#/definitions/status_block" }
       },

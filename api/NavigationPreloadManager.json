@@ -50,7 +50,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Service Workers",
+            "url": "https://w3c.github.io/ServiceWorker/#navigation-preload-manager"
+          }
+        ]
       },
       "enable": {
         "__compat": {

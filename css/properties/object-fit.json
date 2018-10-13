@@ -62,7 +62,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Images",
+              "url": "https://drafts.csswg.org/css-images-4/#the-object-fit"
+            },
+            {
+              "name": "CSS3 Images",
+              "url": "https://drafts.csswg.org/css-images-3/#the-object-fit"
+            }
+          ]
         }
       }
     }

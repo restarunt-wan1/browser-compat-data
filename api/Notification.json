@@ -238,7 +238,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-notificationtitle-options"
+            }
+          ]
         }
       },
       "actions": {
@@ -289,7 +295,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-actions"
+            }
+          ]
         }
       },
       "badge": {
@@ -340,7 +352,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-badge"
+            }
+          ]
         }
       },
       "body": {
@@ -391,7 +409,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-body"
+            }
+          ]
         }
       },
       "data": {
@@ -442,7 +466,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-data"
+            }
+          ]
         }
       },
       "dir": {
@@ -493,7 +523,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-dir"
+            }
+          ]
         }
       },
       "icon": {
@@ -562,7 +598,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-icon"
+            }
+          ]
         }
       },
       "image": {
@@ -613,7 +655,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#image-resource"
+            }
+          ]
         }
       },
       "lang": {
@@ -664,7 +712,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-lang"
+            }
+          ]
         }
       },
       "maxActions": {
@@ -766,7 +820,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-onclick"
+            }
+          ]
         }
       },
       "onclose": {
@@ -868,7 +928,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-onerror"
+            }
+          ]
         }
       },
       "onshow": {
@@ -970,7 +1036,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-permission"
+            }
+          ]
         }
       },
       "renotify": {
@@ -1021,7 +1093,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-renotify"
+            }
+          ]
         }
       },
       "requireInteraction": {
@@ -1072,7 +1150,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-requireinteraction"
+            }
+          ]
         }
       },
       "silent": {
@@ -1123,7 +1207,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-silent"
+            }
+          ]
         }
       },
       "tag": {
@@ -1174,7 +1264,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-tag"
+            }
+          ]
         }
       },
       "timestamp": {
@@ -1225,7 +1321,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-timestamp"
+            }
+          ]
         }
       },
       "title": {
@@ -1276,7 +1378,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-title"
+            }
+          ]
         }
       },
       "vibrate": {
@@ -1327,7 +1435,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Notifications",
+              "url": "https://notifications.spec.whatwg.org/#dom-notification-vibrate"
+            }
+          ]
         }
       },
       "close": {

@@ -77,7 +77,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Logical Properties",
+              "url": "https://drafts.csswg.org/css-logical-props/#propdef-border-inline-end-width"
+            }
+          ]
         }
       }
     }

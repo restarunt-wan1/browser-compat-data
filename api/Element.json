@@ -48,7 +48,61 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Pointer Events 2",
+            "url": "https://w3c.github.io/pointerevents/#extensions-to-the-element-interface"
+          },
+          {
+            "name": "Pointer Events",
+            "url": "https://www.w3.org/TR/pointerevents/#extensions-to-the-element-interface"
+          },
+          {
+            "name": "Selectors API Level 1",
+            "url": "https://www.w3.org/TR/selectors-api/#interface-definitions"
+          },
+          {
+            "name": "Pointer Lock",
+            "url": "https://w3c.github.io/pointerlock/index.html#element-interface"
+          },
+          {
+            "name": "Fullscreen",
+            "url": "https://fullscreen.spec.whatwg.org/#api"
+          },
+          {
+            "name": "DOM Parsing",
+            "url": "https://w3c.github.io/DOM-Parsing/#extensions-to-the-element-interface"
+          },
+          {
+            "name": "CSSOM View",
+            "url": "https://drafts.csswg.org/cssom-view/#extensions-to-the-element-interface"
+          },
+          {
+            "name": "Element Traversal",
+            "url": "https://www.w3.org/TR/ElementTraversal/#ecmascript-bindings"
+          },
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-element"
+          },
+          {
+            "name": "DOM4",
+            "url": "https://www.w3.org/TR/dom/#interface-element"
+          },
+          {
+            "name": "DOM3 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-745549614"
+          },
+          {
+            "name": "DOM2 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-745549614"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-745549614"
+          }
+        ]
       },
       "accessKey": {
         "__compat": {
@@ -154,7 +208,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#the-animatable-interface"
+            }
+          ]
         },
         "id_option": {
           "__compat": {
@@ -335,7 +395,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-attachshadow"
+            }
+          ]
         }
       },
       "attributes": {
@@ -386,7 +452,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-attributes"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-84CF096"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-84CF096"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-84CF096"
+            }
+          ]
         }
       },
       "classList": {
@@ -444,7 +528,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-classlist"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-element-classlist"
+            }
+          ]
         },
         "toggle_method_second_argument": {
           "__compat": {
@@ -648,7 +742,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-classname"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-element-classname"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-95362176"
+            }
+          ]
         }
       },
       "clientHeight": {
@@ -699,7 +807,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-clientheight"
+            }
+          ]
         }
       },
       "clientLeft": {
@@ -750,7 +864,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-clientleft"
+            }
+          ]
         }
       },
       "clientTop": {
@@ -801,7 +921,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-clienttop"
+            }
+          ]
         }
       },
       "clientWidth": {
@@ -852,7 +978,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-clientwidth"
+            }
+          ]
         }
       },
       "closest": {
@@ -903,7 +1035,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-closest"
+            }
+          ]
         }
       },
       "computedStyleMap": {
@@ -954,7 +1092,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Typed OM",
+              "url": "https://drafts.css-houdini.org/css-typed-om-1/#dom-element-computedstylemap"
+            }
+          ]
         }
       },
       "createShadowRoot": {
@@ -1248,7 +1392,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-getattributens"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/#ID-ElGetAttrNS"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/#ID-ElGetAttrNS"
+            }
+          ]
         }
       },
       "getAttributeNames": {
@@ -1299,7 +1457,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-getattributenames"
+            }
+          ]
         }
       },
       "getAttributeNode": {
@@ -1453,7 +1617,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-getboundingclientrect"
+            }
+          ]
         },
         "width": {
           "__compat": {
@@ -1708,7 +1878,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-getclientrects"
+            }
+          ]
         }
       },
       "getElementsByClassName": {
@@ -1761,7 +1937,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-getelementsbyclassname"
+            }
+          ]
         }
       },
       "getElementsByTagName": {
@@ -1817,7 +1999,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-getelementsbytagname"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-1938918D"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-1938918D"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-1938918D"
+            }
+          ]
         },
         "all_elements_selector": {
           "__compat": {
@@ -1931,7 +2131,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-getelementsbytagnamens"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-A6C90942"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-A6C90942"
+            }
+          ]
         },
         "all_elements_selector": {
           "__compat": {
@@ -2012,7 +2226,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-hasattribute"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-ElHasAttr"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-ElHasAttr"
+            }
+          ]
         }
       },
       "hasAttributeNS": {
@@ -2115,7 +2343,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-hasattributes"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/#ID-NodeHasAttrs"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/#ID-NodeHasAttrs"
+            }
+          ]
         }
       },
       "id": {
@@ -2166,7 +2408,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-id"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-63534901"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-63534901"
+            }
+          ]
         }
       },
       "innerHTML": {
@@ -2217,7 +2473,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM Parsing",
+              "url": "https://w3c.github.io/DOM-Parsing/#dom-element-innerhtml"
+            }
+          ]
         }
       },
       "insertAdjacentElement": {
@@ -2268,7 +2530,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-insertadjacentelement"
+            }
+          ]
         }
       },
       "insertAdjacentHTML": {
@@ -2320,7 +2588,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM Parsing",
+              "url": "https://w3c.github.io/DOM-Parsing/#widl-Element-insertAdjacentHTML-void-DOMString-position-DOMString-text"
+            }
+          ]
         }
       },
       "insertAdjacentText": {
@@ -2371,7 +2645,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-insertadjacenttext"
+            }
+          ]
         }
       },
       "localName": {
@@ -2425,7 +2705,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-localname"
+            }
+          ]
         }
       },
       "matches": {
@@ -2580,7 +2866,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-matches"
+            }
+          ]
         }
       },
       "name": {
@@ -2685,7 +2977,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-element-namespaceuri"
+            }
+          ]
         }
       },
       "openOrClosedShadowRoot": {
@@ -2819,7 +3117,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-Element-ongotpointercapture"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-Element-ongotpointercapture"
+            }
+          ]
         }
       },
       "onlostpointercapture": {
@@ -2900,7 +3208,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-Element-onlostpointercapture"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-Element-onlostpointercapture"
+            }
+          ]
         }
       },
       "outerHTML": {
@@ -2951,7 +3269,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM Parsing",
+              "url": "https://w3c.github.io/DOM-Parsing/#outerhtml"
+            }
+          ]
         }
       },
       "prefix": {
@@ -3005,7 +3329,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-element-prefix"
+            }
+          ]
         }
       },
       "querySelector": {
@@ -3063,7 +3393,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "Selectors API Level 2",
+              "url": "https://dev.w3.org/2006/webapi/selectors-api2/#queryselectorall"
+            },
+            {
+              "name": "Selectors API Level 1",
+              "url": "https://www.w3.org/TR/selectors-api/#queryselectorall"
+            }
+          ]
         }
       },
       "querySelectorAll": {
@@ -3121,7 +3465,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "Selectors API Level 2",
+              "url": "https://dev.w3.org/2006/webapi/selectors-api2/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "Selectors API Level 1",
+              "url": "https://www.w3.org/TR/selectors-api/#interface-definitions"
+            }
+          ]
         }
       },
       "releasePointerCapture": {
@@ -3202,7 +3564,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-Element-releasePointerCapture-void-long-pointerId"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-Element-releasePointerCapture-void-long-pointerId"
+            }
+          ]
         }
       },
       "removeAttribute": {
@@ -3465,7 +3837,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Fullscreen",
+              "url": "https://fullscreen.spec.whatwg.org/#dom-element-requestfullscreen"
+            }
+          ]
         },
         "returns_a_promise": {
           "__compat": {
@@ -3585,7 +3963,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Lock",
+              "url": "https://w3c.github.io/pointerlock/#element-interface"
+            }
+          ]
         }
       },
       "runtimeStyle": {
@@ -3690,7 +4074,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-scrollintoview"
+            }
+          ]
         },
         "scrollIntoViewOptions": {
           "__compat": {
@@ -3864,7 +4254,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-scrollheight"
+            }
+          ]
         }
       },
       "scrollLeft": {
@@ -3915,7 +4311,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-scrollleft"
+            }
+          ]
         }
       },
       "scrollLeftMax": {
@@ -4017,7 +4419,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-scrolltop"
+            }
+          ]
         }
       },
       "scrollTopMax": {
@@ -4119,7 +4527,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-element-scrollwidth"
+            }
+          ]
         }
       },
       "setAttribute": {
@@ -4457,7 +4871,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Events 2",
+              "url": "https://w3c.github.io/pointerevents/#widl-Element-setPointerCapture-void-long-pointerId"
+            },
+            {
+              "name": "Pointer Events",
+              "url": "https://www.w3.org/TR/pointerevents/#widl-Element-setPointerCapture-void-long-pointerId"
+            }
+          ]
         }
       },
       "shadowRoot": {
@@ -4536,7 +4960,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-shadowroot"
+            }
+          ]
         }
       },
       "slot": {
@@ -4587,7 +5017,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-slot"
+            }
+          ]
         }
       },
       "tabStop": {
@@ -4689,7 +5125,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-104682815"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-104682815"
+            }
+          ]
         }
       },
       "toggleAttribute": {
@@ -4740,7 +5186,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-toggleattribute"
+            }
+          ]
         }
       }
     }

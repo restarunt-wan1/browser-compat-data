@@ -69,7 +69,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Push API",
+            "url": "https://w3c.github.io/push-api/#the-push-event"
+          }
+        ]
       },
       "PushEvent": {
         "__compat": {
@@ -141,7 +147,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#the-push-event"
+            }
+          ]
         }
       },
       "data": {
@@ -213,7 +225,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Push API",
+              "url": "https://w3c.github.io/push-api/#widl-PushEvent-data"
+            }
+          ]
         }
       }
     }

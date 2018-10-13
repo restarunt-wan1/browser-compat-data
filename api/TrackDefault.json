@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": false,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Media Source Extensions",
+            "url": "https://w3c.github.io/media-source/#trackdefault"
+          }
+        ]
       },
       "TrackDefault": {
         "__compat": {
@@ -93,7 +99,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-ctor-TrackDefault--TrackDefaultType-type-DOMString-language-DOMString-label-sequence-DOMString--kinds-DOMString-byteStreamTrackID"
+            }
+          ]
         }
       },
       "byteStreamTrackID": {
@@ -141,7 +153,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-TrackDefault-byteStreamTrackID"
+            }
+          ]
         }
       },
       "kinds": {
@@ -189,7 +207,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-TrackDefault-kinds"
+            }
+          ]
         }
       },
       "label": {
@@ -237,7 +261,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-TrackDefault-label"
+            }
+          ]
         }
       },
       "language": {
@@ -285,7 +315,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-TrackDefault-language"
+            }
+          ]
         }
       },
       "type": {
@@ -333,7 +369,13 @@
             "experimental": true,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-TrackDefault-type"
+            }
+          ]
         }
       }
     }

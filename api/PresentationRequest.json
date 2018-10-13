@@ -62,7 +62,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Presentation",
+            "url": "https://w3c.github.io/presentation-api/#interface-presentationrequest"
+          }
+        ]
       },
       "secure_context_required": {
         "__compat": {
@@ -178,7 +184,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Presentation",
+              "url": "https://w3c.github.io/presentation-api/#constructing-a-presentationrequest"
+            }
+          ]
         }
       },
       "getAvailability": {
@@ -438,7 +450,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Presentation",
+              "url": "https://w3c.github.io/presentation-api/#dom-presentationrequest-start"
+            }
+          ]
         }
       },
       "startWithDevice": {

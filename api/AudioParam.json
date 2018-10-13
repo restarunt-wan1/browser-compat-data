@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#AudioParam"
+          }
+        ]
       },
       "defaultValue": {
         "__compat": {
@@ -98,7 +104,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audioparam-defaultvalue"
+            }
+          ]
         }
       },
       "maxValue": {
@@ -149,7 +161,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audioparam-maxvalue"
+            }
+          ]
         }
       },
       "minValue": {
@@ -200,7 +218,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audioparam-minvalue"
+            }
+          ]
         }
       },
       "value": {
@@ -251,7 +275,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audioparam-value"
+            }
+          ]
         }
       },
       "cancelAndHoldAtTime": {
@@ -337,7 +367,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioParam-cancelAndHoldAtTime-AudioParam-double-cancelTime"
+            }
+          ]
         }
       },
       "cancelScheduledValues": {
@@ -388,7 +424,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioParam-cancelScheduledValues-void-double-startTime"
+            }
+          ]
         }
       },
       "exponentialRampToValueAtTime": {
@@ -439,7 +481,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioParam-exponentialRampToValueAtTime-void-float-value-double-endTime"
+            }
+          ]
         }
       },
       "linearRampToValueAtTime": {
@@ -490,7 +538,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AudioParam-linearRampToValueAtTime-void-float-value-double-endTime"
+            }
+          ]
         }
       },
       "setTargetAtTime": {
@@ -541,7 +595,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audioparam-settargetattime"
+            }
+          ]
         }
       },
       "setValueAtTime": {
@@ -592,7 +652,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audioparam-setvalueattime"
+            }
+          ]
         }
       },
       "setValueCurveAtTime": {
@@ -643,7 +709,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-audioparam-setvaluecurveattime"
+            }
+          ]
         }
       }
     }

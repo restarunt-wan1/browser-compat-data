@@ -46,7 +46,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "IntersectionObserver",
+            "url": "https://w3c.github.io/IntersectionObserver/#intersection-observer-entry"
+          }
+        ]
       },
       "boundingClientRect": {
         "__compat": {
@@ -94,7 +100,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IntersectionObserver",
+              "url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserverentry-boundingClientRect"
+            }
+          ]
         }
       },
       "intersectionRatio": {
@@ -143,7 +155,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IntersectionObserver",
+              "url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserverentry-intersectionratio"
+            }
+          ]
         }
       },
       "intersectionRect": {
@@ -192,7 +210,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IntersectionObserver",
+              "url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserverentry-intersectionrect"
+            }
+          ]
         }
       },
       "isIntersecting": {
@@ -241,7 +265,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IntersectionObserver",
+              "url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserverentry-isintersecting"
+            }
+          ]
         }
       },
       "rootBounds": {
@@ -290,7 +320,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IntersectionObserver",
+              "url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserverentry-rootbounds"
+            }
+          ]
         }
       },
       "target": {
@@ -339,7 +375,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IntersectionObserver",
+              "url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserverentry-target"
+            }
+          ]
         }
       },
       "time": {
@@ -388,7 +430,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "IntersectionObserver",
+              "url": "https://w3c.github.io/IntersectionObserver/#dom-intersectionobserverentry-time"
+            }
+          ]
         }
       }
     }

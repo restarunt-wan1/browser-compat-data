@@ -68,7 +68,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Media Source Extensions",
+            "url": "https://w3c.github.io/media-source/#sourcebuffer"
+          }
+        ]
       },
       "mode": {
         "__compat": {
@@ -138,7 +144,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-mode"
+            }
+          ]
         }
       },
       "updating": {
@@ -209,7 +221,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-updating"
+            }
+          ]
         }
       },
       "buffered": {
@@ -280,7 +298,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-buffered"
+            }
+          ]
         }
       },
       "changeType": {
@@ -380,7 +404,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#dom-sourcebuffer-changetype"
+            }
+          ]
         }
       },
       "timestampOffset": {
@@ -451,7 +481,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-timestampOffset"
+            }
+          ]
         }
       },
       "audioTracks": {
@@ -522,7 +558,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-audioTracks"
+            }
+          ]
         }
       },
       "videoTracks": {
@@ -593,7 +635,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-videoTracks"
+            }
+          ]
         }
       },
       "textTracks": {
@@ -664,7 +712,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-textTracks"
+            }
+          ]
         }
       },
       "appendWindowStart": {
@@ -735,7 +789,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-appendWindowStart"
+            }
+          ]
         }
       },
       "appendWindowEnd": {
@@ -806,7 +866,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-appendWindowEnd"
+            }
+          ]
         }
       },
       "trackDefaults": {
@@ -827,7 +893,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-trackDefaults"
+            }
+          ]
         }
       },
       "onabort": {
@@ -1218,7 +1290,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-appendBuffer-void-ArrayBuffer-data"
+            }
+          ]
         }
       },
       "appendBufferAsync": {
@@ -1310,7 +1388,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-appendStream-void-ReadableStream-stream-unsigned-long-long-maxSize"
+            }
+          ]
         }
       },
       "abort": {
@@ -1381,7 +1465,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-abort-void"
+            }
+          ]
         }
       },
       "remove": {
@@ -1452,7 +1542,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Media Source Extensions",
+              "url": "https://w3c.github.io/media-source/#widl-SourceBuffer-remove-void-double-start-unrestricted-double-end"
+            }
+          ]
         }
       },
       "removeAsync": {

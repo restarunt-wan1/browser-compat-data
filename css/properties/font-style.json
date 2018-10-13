@@ -51,7 +51,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Fonts",
+              "url": "https://drafts.csswg.org/css-fonts-4/#font-style-prop"
+            },
+            {
+              "name": "CSS3 Fonts",
+              "url": "https://drafts.csswg.org/css-fonts-3/#font-style-prop"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/fonts.html#propdef-font-style"
+            },
+            {
+              "name": "CSS1",
+              "url": "https://www.w3.org/TR/CSS1/#font-style"
+            }
+          ]
         },
         "oblique-angle": {
           "__compat": {

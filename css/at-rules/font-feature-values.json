@@ -74,7 +74,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Fonts",
+              "url": "https://drafts.csswg.org/css-fonts-3/#font-feature-values"
+            }
+          ]
         },
         "annotation": {
           "__compat": {
@@ -149,7 +155,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Fonts",
+                "url": "https://drafts.csswg.org/css-fonts-3/#font-feature-values"
+              }
+            ]
           }
         },
         "character-variant": {
@@ -225,7 +237,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Fonts",
+                "url": "https://drafts.csswg.org/css-fonts-3/#font-feature-values"
+              }
+            ]
           }
         },
         "historical-forms": {
@@ -376,7 +394,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Fonts",
+                "url": "https://drafts.csswg.org/css-fonts-3/#font-feature-values"
+              }
+            ]
           }
         },
         "styleset": {
@@ -452,7 +476,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Fonts",
+                "url": "https://drafts.csswg.org/css-fonts-3/#font-feature-values"
+              }
+            ]
           }
         },
         "stylistic": {
@@ -528,7 +558,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Fonts",
+                "url": "https://drafts.csswg.org/css-fonts-3/#font-feature-values"
+              }
+            ]
           }
         },
         "swash": {
@@ -604,7 +640,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Fonts",
+                "url": "https://drafts.csswg.org/css-fonts-3/#font-feature-values"
+              }
+            ]
           }
         }
       }

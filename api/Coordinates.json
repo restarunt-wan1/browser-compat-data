@@ -54,7 +54,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Geolocation",
+            "url": "https://dev.w3.org/geo/api/spec-source.html#coordinates"
+          }
+        ]
       },
       "secure_context_required": {
         "__compat": {
@@ -161,7 +167,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#accuracy"
+            }
+          ]
         }
       },
       "altitude": {
@@ -218,7 +230,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#altitude"
+            }
+          ]
         }
       },
       "altitudeAccuracy": {
@@ -275,7 +293,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#altitudeaccuracy"
+            }
+          ]
         }
       },
       "heading": {
@@ -332,7 +356,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#heading"
+            }
+          ]
         }
       },
       "latitude": {
@@ -389,7 +419,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#lat"
+            }
+          ]
         }
       },
       "longitude": {
@@ -446,7 +482,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#lon"
+            }
+          ]
         }
       },
       "speed": {
@@ -503,7 +545,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Geolocation",
+              "url": "https://dev.w3.org/geo/api/spec-source.html#speed"
+            }
+          ]
         }
       }
     }

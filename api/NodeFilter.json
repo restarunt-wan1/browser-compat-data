@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-nodefilter"
+          },
+          {
+            "name": "DOM2 Traversal_Range",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-NodeFilter"
+          }
+        ]
       },
       "acceptNode": {
         "__compat": {
@@ -98,7 +108,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#nodeFilter"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#Traversal-NodeFilter"
+            }
+          ]
         }
       }
     }

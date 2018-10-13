@@ -70,7 +70,21 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSS Painting API",
+            "url": "https://drafts.css-houdini.org/css-paint-api-1/#dom-css-paintworklet"
+          },
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#the-css.escape%28%29-method"
+          },
+          {
+            "name": "CSS3 Conditional",
+            "url": "https://drafts.csswg.org/css-conditional-3/#the-css-interface"
+          }
+        ]
       },
       "ch": {
         "__compat": {
@@ -477,7 +491,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#the-css.escape()-method"
+            }
+          ]
         }
       },
       "ex": {
@@ -1621,7 +1641,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Conditional",
+              "url": "https://drafts.csswg.org/css-conditional-3/#the-css-interface"
+            }
+          ]
         }
       },
       "turn": {

@@ -69,7 +69,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebRTC 1.0",
+            "url": "https://w3c.github.io/webrtc-pc/#idl-def-RTCPeerConnectionIceEvent"
+          }
+        ]
       },
       "candidate": {
         "__compat": {
@@ -119,7 +125,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#widl-RTCPeerConnectionIceEvent-canndidate"
+            }
+          ]
         }
       },
       "RTCPeerConnectionIceEvent": {
@@ -171,7 +183,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#widl-ctor-RTCPeerConnectionIceErrorEvent--DOMString-type-RTCPeerConnectionIceErrorEventInit-eventInitDict"
+            }
+          ]
         }
       },
       "url": {

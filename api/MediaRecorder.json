@@ -50,7 +50,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "MediaStream Recording",
+            "url": "https://w3c.github.io/mediacapture-record/#MediaRecorderAPI"
+          }
+        ]
       },
       "MediaRecorder": {
         "__compat": {
@@ -204,7 +210,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-mimeType"
+            }
+          ]
         }
       },
       "state": {
@@ -256,7 +268,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-state"
+            }
+          ]
         }
       },
       "stream": {
@@ -308,7 +326,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-stream"
+            }
+          ]
         }
       },
       "ignoreMutedMedia": {
@@ -359,7 +383,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#dom-mediarecorder-ignoremutedmedia"
+            }
+          ]
         }
       },
       "videoBitsPerSecond": {
@@ -410,7 +440,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#dom-mediarecorder-videobitspersecond"
+            }
+          ]
         }
       },
       "audioBitsPerSecond": {
@@ -461,7 +497,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#dom-mediarecorder-audiobitspersecond"
+            }
+          ]
         }
       },
       "isTypeSupported": {
@@ -512,7 +554,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#dom-mediarecorder-istypesupported"
+            }
+          ]
         }
       },
       "pause": {
@@ -571,7 +619,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-pause-void"
+            }
+          ]
         }
       },
       "requestData": {
@@ -630,7 +684,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-requestData-void"
+            }
+          ]
         }
       },
       "resume": {
@@ -689,7 +749,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-resume-void"
+            }
+          ]
         }
       },
       "start": {
@@ -740,7 +806,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-start-void-long-timeslice"
+            }
+          ]
         }
       },
       "stop": {
@@ -799,7 +871,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-stop-void"
+            }
+          ]
         }
       },
       "ondataavailable": {
@@ -858,7 +936,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-ondataavailable"
+            }
+          ]
         }
       },
       "onerror": {
@@ -917,7 +1001,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onerror"
+            }
+          ]
         }
       },
       "onpause": {
@@ -976,7 +1066,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onpause"
+            }
+          ]
         }
       },
       "onresume": {
@@ -1035,7 +1131,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onresume"
+            }
+          ]
         }
       },
       "onstart": {
@@ -1094,7 +1196,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onstart"
+            }
+          ]
         }
       },
       "onstop": {
@@ -1153,7 +1261,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Recording",
+              "url": "https://w3c.github.io/mediacapture-record/#widl-MediaRecorder-onstop"
+            }
+          ]
         }
       },
       "onwarning": {

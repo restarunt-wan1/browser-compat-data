@@ -88,7 +88,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Animations",
+            "url": "https://drafts.csswg.org/web-animations/#the-documenttimeline-interface"
+          }
+        ]
       },
       "DocumentTimeline": {
         "__compat": {
@@ -179,7 +185,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#dom-documenttimeline-documenttimeline"
+            }
+          ]
         }
       }
     }

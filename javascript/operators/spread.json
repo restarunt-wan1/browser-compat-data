@@ -65,7 +65,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer"
+              },
+              {
+                "name": "ES2018",
+                "url": "https://www.ecma-international.org/ecma-262/9.0/#sec-object-initializer"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-array-initializer"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-object-initializer"
+              }
+            ]
           }
         },
         "spread_in_function_calls": {
@@ -131,7 +149,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer"
+              },
+              {
+                "name": "ES2018",
+                "url": "https://www.ecma-international.org/ecma-262/9.0/#sec-object-initializer"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-array-initializer"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-object-initializer"
+              }
+            ]
           }
         },
         "spread_in_destructuring": {
@@ -251,7 +287,25 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-array-initializer"
+              },
+              {
+                "name": "ES2018",
+                "url": "https://www.ecma-international.org/ecma-262/9.0/#sec-object-initializer"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-array-initializer"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-object-initializer"
+              }
+            ]
           }
         }
       }

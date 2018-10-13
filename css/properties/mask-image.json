@@ -58,7 +58,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Masks",
+              "url": "https://drafts.fxtf.org/css-masking-1/#the-mask-image"
+            }
+          ]
         },
         "multiple_mask_images": {
           "__compat": {

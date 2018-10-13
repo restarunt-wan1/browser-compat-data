@@ -81,7 +81,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Bluetooth",
+            "url": "https://webbluetoothcg.github.io/web-bluetooth/#bluetooth"
+          }
+        ]
       },
       "getAvailability": {
         "__compat": {
@@ -416,7 +422,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetooth-requestdevice"
+            }
+          ]
         }
       }
     }

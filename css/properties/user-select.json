@@ -122,7 +122,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Basic UI",
+              "url": "https://drafts.csswg.org/css-ui-4/#propdef-user-select"
+            }
+          ]
         },
         "auto": {
           "__compat": {

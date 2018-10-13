@@ -50,7 +50,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7469#section-2.1"
+            }
+          ]
         },
         "report-uri": {
           "__compat": {

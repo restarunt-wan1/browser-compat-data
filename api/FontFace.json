@@ -45,7 +45,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSS3 Font Loading",
+            "url": "https://drafts.csswg.org/css-font-loading/#FontFace-interface"
+          }
+        ]
       },
       "FontFace": {
         "__compat": {
@@ -93,7 +99,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Font Loading",
+              "url": "https://drafts.csswg.org/css-font-loading/#font-face-constructor"
+            }
+          ]
         }
       },
       "display": {
@@ -141,7 +153,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Font Loading",
+              "url": "https://drafts.csswg.org/css-font-loading/#dom-fontface-family"
+            },
+            {
+              "name": "CSS4 Fonts",
+              "url": "https://drafts.csswg.org/css-fonts-4/#descdef-font-face-font-display"
+            }
+          ]
         }
       },
       "family": {
@@ -189,7 +211,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Font Loading",
+              "url": "https://drafts.csswg.org/css-font-loading/#dom-fontface-family"
+            }
+          ]
         }
       },
       "style": {

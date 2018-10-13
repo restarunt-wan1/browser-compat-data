@@ -49,7 +49,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Subresource Integrity",
+              "url": "https://w3c.github.io/webappsec/specs/subresourceintegrity/#htmlscriptelement"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/semantics.html#the-link-element"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/document-metadata.html#the-link-element"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/struct/links.html#h-12.3"
+            },
+            {
+              "name": "Resource Hints",
+              "url": "https://www.w3.org/TR/resource-hints/#prefetch"
+            }
+          ]
         },
         "charset": {
           "__compat": {

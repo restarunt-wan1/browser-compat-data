@@ -51,7 +51,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/visuren.html#propdef-position"
+            },
+            {
+              "name": "CSS3 Positioning",
+              "url": "https://drafts.csswg.org/css-position-3/#position-property"
+            }
+          ]
         },
         "fixed": {
           "__compat": {

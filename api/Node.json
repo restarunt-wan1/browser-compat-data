@@ -55,7 +55,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-node"
+          },
+          {
+            "name": "DOM3 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-1950641247"
+          },
+          {
+            "name": "DOM2 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-1950641247"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-1950641247"
+          }
+        ]
       },
       "appendChild": {
         "__compat": {
@@ -102,7 +120,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-appendchild"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-184E7107"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-184E7107"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-184E7107"
+            }
+          ]
         }
       },
       "baseURI": {
@@ -255,7 +291,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-childnodes"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-1451460987"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-1451460987"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-1451460987"
+            }
+          ]
         }
       },
       "cloneNode": {
@@ -303,7 +357,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-clonenode"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-3A0ED0A4"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-3A0ED0A4"
+            }
+          ]
         },
         "deep_defaults_to_false": {
           "__compat": {
@@ -424,7 +492,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-comparedocumentposition"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#Node3-compareDocumentPosition"
+            }
+          ]
         }
       },
       "contains": {
@@ -473,7 +551,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-contains"
+            }
+          ]
         }
       },
       "firstChild": {
@@ -524,7 +608,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-firstchild"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-169727388"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-169727388"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-169727388"
+            }
+          ]
         }
       },
       "getFeature": {
@@ -620,7 +722,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-getrootnode"
+            }
+          ]
         }
       },
       "getUserData": {
@@ -817,7 +925,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#the-innertext-idl-attribute"
+            }
+          ]
         }
       },
       "insertBefore": {
@@ -865,7 +979,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-insertbefore"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-node-insertbefore"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-952280727"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-952280727"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#method-insertBefore"
+            }
+          ]
         }
       },
       "isConnected": {
@@ -916,7 +1052,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-isconnected"
+            }
+          ]
         }
       },
       "isDefaultNamespace": {
@@ -1012,7 +1154,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-isequalnode"
+            }
+          ]
         }
       },
       "isSameNode": {
@@ -1072,7 +1220,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#interface-node"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#Node3-isSameNode"
+            }
+          ]
         }
       },
       "isSupported": {
@@ -1122,7 +1280,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#interface-node"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#Level-2-Core-Node-supports"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#Level-2-Core-Node-supports"
+            }
+          ]
         }
       },
       "lastChild": {
@@ -1173,7 +1345,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-lastchild"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-61AD09FB"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-61AD09FB"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-61AD09FB"
+            }
+          ]
         }
       },
       "localName": {
@@ -1597,7 +1787,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-nodetype"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-1950641247"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-111237558"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-111237558"
+            }
+          ]
         }
       },
       "nodeValue": {
@@ -1811,7 +2019,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-node-ownerdocument"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#node-ownerDoc"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#node-ownerDoc"
+            }
+          ]
         }
       },
       "parentElement": {
@@ -2273,7 +2495,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-node-textcontent"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-node-textcontent"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#Node3-textContent"
+            }
+          ]
         }
       }
     }

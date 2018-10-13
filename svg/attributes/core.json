@@ -143,7 +143,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "SVG2",
+                "url": "https://svgwg.org/svg2-draft/struct.html#SVGElementTabindexAttribute"
+              }
+            ]
           }
         },
         "xml_base": {

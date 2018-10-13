@@ -51,7 +51,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Overflow",
+              "url": "https://drafts.csswg.org/css-overflow-3/#propdef-overflow"
+            },
+            {
+              "name": "CSS3 Box",
+              "url": "https://drafts.csswg.org/css-box-3/#propdef-overflow"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/visufx.html#overflow"
+            }
+          ]
         },
         "multiple_keywords": {
           "__compat": {

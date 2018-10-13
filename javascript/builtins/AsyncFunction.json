@@ -63,7 +63,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-async-function-objects"
+            }
+          ]
         },
         "prototype": {
           "__compat": {
@@ -127,7 +133,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-async-function-constructor-prototype"
+              }
+            ]
           }
         }
       }

@@ -46,7 +46,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MathML3",
+              "url": "https://www.w3.org/TR/MathML3/chapter3.html#presm.mroot"
+            },
+            {
+              "name": "MathML2",
+              "url": "https://www.w3.org/TR/MathML2/chapter3.html#presm.mroot"
+            }
+          ]
         },
         "href": {
           "__compat": {

@@ -55,7 +55,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Overflow",
+              "url": "https://drafts.csswg.org/css-overflow-3/#propdef-overflow-x"
+            }
+          ]
         }
       }
     }

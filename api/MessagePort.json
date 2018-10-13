@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#message-ports"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -149,7 +155,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#dom-messageport-close"
+            }
+          ]
         }
       },
       "onmessage": {
@@ -200,7 +212,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#handler-messageport-onmessage"
+            }
+          ]
         }
       },
       "onmessageerror": {
@@ -251,7 +269,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#handler-messageport-onmessageerror"
+            }
+          ]
         }
       },
       "postMessage": {
@@ -302,7 +326,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#dom-messageport-postmessage"
+            }
+          ]
         }
       },
       "start": {
@@ -353,7 +383,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/web-messaging.html#dom-messageport-start"
+            }
+          ]
         }
       }
     }

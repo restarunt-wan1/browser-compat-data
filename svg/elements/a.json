@@ -49,7 +49,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Referrer Policy",
+              "url": "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+            },
+            {
+              "name": "SVG2",
+              "url": "https://svgwg.org/svg2-draft/linking.html#Links"
+            },
+            {
+              "name": "SVG1.1",
+              "url": "https://www.w3.org/TR/SVG11/linking.html#Links"
+            }
+          ]
         },
         "download": {
           "__compat": {

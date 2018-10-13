@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "SVG2",
+            "url": "https://svgwg.org/svg2-draft/linking.html#InterfaceSVGAElement"
+          },
+          {
+            "name": "SVG1.1",
+            "url": "https://www.w3.org/TR/SVG11/linking.html#InterfaceSVGAElement"
+          }
+        ]
       },
       "download": {
         "__compat": {
@@ -398,7 +408,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "SVG1.1",
+              "url": "https://www.w3.org/TR/SVG11/text.html#InterfaceSVGAElement"
+            }
+          ]
         }
       },
       "text": {

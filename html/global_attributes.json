@@ -49,7 +49,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML5.2",
+              "url": "https://www.w3.org/TR/html52/editing.html#the-accesskey-attribute"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#the-accesskey-attribute"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#the-accesskey-attribute"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/editing.html#the-accesskey-attribute"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/interact/forms.html#h-17.11.2"
+            }
+          ]
         }
       },
       "autocapitalize": {
@@ -109,7 +131,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#autocapitalization"
+            }
+          ]
         }
       },
       "class": {
@@ -160,7 +188,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/elements.html#classes"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/elements.html#classes"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/elements.html#classes"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/struct/global.html#h-7.5.2"
+            }
+          ]
         }
       },
       "contenteditable": {
@@ -208,7 +254,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/contentEditable.html#contenteditable"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/editing.html#attr-contenteditable"
+            },
+            {
+              "name": "HTML5.2",
+              "url": "https://www.w3.org/TR/html52/editing.html#attr-contenteditable"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#attr-contenteditable"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/editing.html#attr-contenteditable"
+            }
+          ]
         },
         "events": {
           "__compat": {
@@ -559,7 +627,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes"
+            }
+          ]
         }
       },
       "dir": {
@@ -610,7 +692,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#the-dir-attribute"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#the-dir-attribute"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/dom.html#the-dir-attribute"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/dirlang.html#h-8.2"
+            }
+          ]
         }
       },
       "draggable": {
@@ -658,7 +758,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#the-draggable-attribute"
+            },
+            {
+              "name": "HTML5.2",
+              "url": "https://www.w3.org/TR/html52/interaction.html#the-draggable-attribute"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#the-draggable-attribute"
+            }
+          ]
         }
       },
       "dropzone": {
@@ -715,7 +829,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#the-dropzone-attribute"
+            }
+          ]
         }
       },
       "hidden": {
@@ -766,7 +886,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#the-hidden-attribute"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/rendering.html#hiddenCSS"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#the-hidden-attribute"
+            }
+          ]
         }
       },
       "id": {
@@ -833,7 +967,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#the-id-attribute"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#the-id-attribute"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/dom.html#the-id-attribute"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/struct/global.html#adef-id"
+            }
+          ]
         }
       },
       "is": {
@@ -940,7 +1092,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/custom-elements.html#attr-is"
+            }
+          ]
         }
       },
       "itemid": {
@@ -991,7 +1149,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Microdata",
+              "url": "https://w3c.github.io/microdata/#items"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/microdata.html#attr-itemid"
+            }
+          ]
         }
       },
       "itemprop": {
@@ -1042,7 +1210,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Microdata",
+              "url": "https://w3c.github.io/microdata/#dfn-attr-itemprop"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/microdata.html#names:-the-itemprop-attribute"
+            }
+          ]
         }
       },
       "itemref": {
@@ -1093,7 +1271,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Microdata",
+              "url": "https://w3c.github.io/microdata/#dfn-itemref"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/microdata.html#attr-itemref"
+            }
+          ]
         }
       },
       "itemscope": {
@@ -1144,7 +1332,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Microdata",
+              "url": "https://w3c.github.io/microdata/#dfn-itemscope"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/microdata.html#attr-itemscope"
+            }
+          ]
         }
       },
       "itemtype": {
@@ -1195,7 +1393,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Microdata",
+              "url": "https://w3c.github.io/microdata/#dfn-itemtype"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/microdata.html#attr-itemtype"
+            }
+          ]
         }
       },
       "lang": {
@@ -1246,7 +1454,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#the-lang-and-xml:lang-attributes"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#the-lang-and-xml:lang-attributes"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/dom.html#the-lang-and-xml:lang-attributes"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/struct/dirlang.html#h-8.1"
+            }
+          ]
         }
       },
       "slot": {
@@ -1354,7 +1580,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#attr-slot"
+            },
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-element-slot"
+            }
+          ]
         }
       },
       "spellcheck": {
@@ -1405,7 +1641,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#spelling-and-grammar-checking"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#spelling-and-grammar-checking"
+            }
+          ]
         }
       },
       "style": {
@@ -1456,7 +1702,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#the-style-attribute"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#the-style-attribute"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/dom.html#the-style-attribute"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/present/styles.html#h-14.2.2"
+            }
+          ]
         }
       },
       "tabindex": {
@@ -1507,7 +1771,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#attr-tabindex"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/editing.html#attr-tabindex"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/editing.html#attr-tabindex"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/interact/forms.html#adef-tabindex"
+            }
+          ]
         }
       },
       "title": {
@@ -1558,7 +1840,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/elements.html#the-title-attribute"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#the-title-attribute"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/dom.html#the-title-attribute"
+            },
+            {
+              "name": "HTML4.01",
+              "url": "https://www.w3.org/TR/html401/struct/global.html#adef-title"
+            }
+          ]
         },
         "multi-line-support": {
           "__compat": {
@@ -1660,7 +1960,17 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#attr-translate"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#the-translate-attribute"
+            }
+          ]
         }
       }
     }

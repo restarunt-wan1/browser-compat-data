@@ -46,7 +46,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "SVG Markers",
+              "url": "https://svgwg.org/specs/markers/#MarkerElement"
+            },
+            {
+              "name": "SVG2",
+              "url": "https://svgwg.org/svg2-draft/painting.html#MarkerElement"
+            },
+            {
+              "name": "SVG1.1",
+              "url": "https://www.w3.org/TR/SVG11/painting.html#MarkerElement"
+            }
+          ]
         },
         "markerHeight": {
           "__compat": {

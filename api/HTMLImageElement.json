@@ -45,7 +45,33 @@
           "deprecated": false,
           "experimental": false,
           "standard_track": true
-        }
+        },
+        "specs": [
+          {
+            "name": "Referrer Policy",
+            "url": "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+          },
+          {
+            "name": "CSSOM View",
+            "url": "https://drafts.csswg.org/cssom-view/#excensions-to-the-htmlimageelement-interface"
+          },
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#htmlimageelement"
+          },
+          {
+            "name": "HTML5 W3C",
+            "url": "https://www.w3.org/TR/html50/embedded-content-0.html#the-img-element"
+          },
+          {
+            "name": "DOM2 HTML",
+            "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-17701901"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#ID-17701901"
+          }
+        ]
       },
       "Image": {
         "__compat": {
@@ -90,7 +116,13 @@
             "deprecated": false,
             "standard_track": true,
             "experimental": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-image"
+            }
+          ]
         }
       },
       "complete": {
@@ -300,7 +332,13 @@
             "deprecated": false,
             "experimental": false,
             "standard_track": true
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/embedded-content.html#dom-img-decoding"
+            }
+          ]
         }
       },
       "lowSrc": {
@@ -532,7 +570,13 @@
             "deprecated": false,
             "experimental": false,
             "standard_track": true
-          }
+          },
+          "specs": [
+            {
+              "name": "Referrer Policy",
+              "url": "https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-delivery-referrer-attribute"
+            }
+          ]
         }
       },
       "sizes": {

@@ -75,7 +75,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Shapes",
+              "url": "https://drafts.csswg.org/css-shapes/#shape-outside-property"
+            }
+          ]
         },
         "image": {
           "__compat": {
@@ -152,7 +158,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Images",
+                "url": "https://drafts.csswg.org/css-images-4/#typedef-image"
+              },
+              {
+                "name": "CSS3 Images",
+                "url": "https://drafts.csswg.org/css-images-3/#typedef-image"
+              }
+            ]
           }
         },
         "gradient": {
@@ -230,7 +246,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Images",
+                "url": "https://drafts.csswg.org/css-images-3/#gradients"
+              }
+            ]
           }
         },
         "inset": {
@@ -308,7 +330,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS Shapes",
+                "url": "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+              }
+            ]
           }
         },
         "circle": {
@@ -386,7 +414,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS Shapes",
+                "url": "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+              }
+            ]
           }
         },
         "polygon": {
@@ -464,7 +498,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS Shapes",
+                "url": "https://drafts.csswg.org/css-shapes/#basic-shape-functions"
+              }
+            ]
           }
         }
       }

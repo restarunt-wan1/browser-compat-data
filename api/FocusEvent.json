@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM3 Events",
+            "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#interface-focusevent"
+          }
+        ]
       },
       "FocusEvent": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#interface-FocusEvent"
+            }
+          ]
         }
       },
       "relatedTarget": {
@@ -150,7 +162,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#widl-FocusEvent-relatedTarget"
+            }
+          ]
         }
       }
     }

@@ -50,7 +50,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Images",
+              "url": "https://drafts.csswg.org/css-images-4/#typedef-image"
+            },
+            {
+              "name": "CSS3 Images",
+              "url": "https://drafts.csswg.org/css-images-3/#typedef-image"
+            }
+          ]
         },
         "gradient": {
           "__compat": {
@@ -1344,7 +1354,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Images",
+                "url": "https://drafts.csswg.org/css-images-4/#element-notation"
+              }
+            ]
           }
         }
       }

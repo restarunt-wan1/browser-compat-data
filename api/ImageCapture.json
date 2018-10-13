@@ -48,7 +48,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "MediaStream Image",
+            "url": "https://w3c.github.io/mediacapture-image/#imagecaptureapi"
+          }
+        ]
       },
       "ImageCapture": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Image",
+              "url": "https://w3c.github.io/mediacapture-image/#dom-imagecapture-imagecapture"
+            }
+          ]
         }
       },
       "getPhotoCapabilities": {
@@ -150,7 +162,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Image",
+              "url": "https://w3c.github.io/mediacapture-image/#dom-imagecapture-getphotocapabilities"
+            }
+          ]
         }
       },
       "getPhotoSettings": {
@@ -201,7 +219,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Image",
+              "url": "https://w3c.github.io/mediacapture-image/#dom-imagecapture-getphotosettings"
+            }
+          ]
         }
       },
       "grabFrame": {
@@ -252,7 +276,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Image",
+              "url": "https://w3c.github.io/mediacapture-image/#dom-imagecapture-grabframe"
+            }
+          ]
         }
       },
       "takePhoto": {
@@ -335,7 +365,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Image",
+              "url": "https://w3c.github.io/mediacapture-image/#dom-imagecapture-takephoto"
+            }
+          ]
         }
       },
       "track": {
@@ -386,7 +422,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "MediaStream Image",
+              "url": "https://w3c.github.io/mediacapture-image/#dom-imagecapture-track"
+            }
+          ]
         }
       }
     }

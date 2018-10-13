@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Gyroscope",
+            "url": "https://www.w3.org/TR/gyroscope/#gyroscope-interface"
+          }
+        ]
       },
       "Gyroscope": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Gyroscope",
+              "url": "https://www.w3.org/TR/gyroscope/#dom-gyroscope-gyroscope"
+            }
+          ]
         }
       },
       "x": {
@@ -150,7 +162,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Gyroscope",
+              "url": "https://www.w3.org/TR/gyroscope/#gyroscope-x"
+            }
+          ]
         }
       },
       "y": {
@@ -201,7 +219,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Gyroscope",
+              "url": "https://www.w3.org/TR/gyroscope/#gyroscope-y"
+            }
+          ]
         }
       },
       "z": {
@@ -252,7 +276,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Gyroscope",
+              "url": "https://www.w3.org/TR/gyroscope/#gyroscope-z"
+            }
+          ]
         }
       }
     }

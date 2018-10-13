@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/canvas.html#imagedata"
+          }
+        ]
       },
       "worker_support": {
         "__compat": {
@@ -150,7 +156,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/scripting.html#dom-imagedata"
+            }
+          ]
         }
       },
       "data": {
@@ -201,7 +213,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/scripting.html#dom-imagedata-data"
+            }
+          ]
         }
       },
       "height": {
@@ -252,7 +270,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/scripting.html#dom-imagedata-height"
+            }
+          ]
         }
       },
       "width": {
@@ -303,7 +327,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/scripting.html#dom-imagedata-width"
+            }
+          ]
         }
       }
     }

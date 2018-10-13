@@ -115,7 +115,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-sharedarraybuffer-objects"
+            },
+            {
+              "name": "ES2017",
+              "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-sharedarraybuffer-objects"
+            }
+          ]
         },
         "sab_in_dataview": {
           "__compat": {
@@ -348,7 +358,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-sharedarraybuffer.prototype"
+              }
+            ]
           }
         },
         "byteLength": {
@@ -465,7 +481,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-get-sharedarraybuffer.prototype.bytelength"
+              }
+            ]
           }
         },
         "slice": {
@@ -582,7 +604,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-sharedarraybuffer.prototype.slice"
+              }
+            ]
           }
         }
       }

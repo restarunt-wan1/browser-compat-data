@@ -54,7 +54,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "SVG2",
+            "url": "https://svgwg.org/svg2-draft/shapes.html#InterfaceSVGPolylineElement"
+          },
+          {
+            "name": "SVG1.1",
+            "url": "https://www.w3.org/TR/SVG11/shapes.html#InterfaceSVGPolylineElement"
+          }
+        ]
       }
     }
   }

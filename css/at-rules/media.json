@@ -50,7 +50,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Conditional",
+              "url": "https://drafts.csswg.org/css-conditional-3/#at-media"
+            },
+            {
+              "name": "CSS4 Media Queries",
+              "url": "https://drafts.csswg.org/mediaqueries-4/#media"
+            },
+            {
+              "name": "CSS3 Media Queries",
+              "url": "https://drafts.csswg.org/mediaqueries-3/#media0"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/media.html#at-media-rule"
+            }
+          ]
         },
         "speech_type": {
           "__compat": {
@@ -205,7 +223,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#descdef-media-any-hover"
+              }
+            ]
           }
         },
         "any-pointer": {
@@ -256,7 +280,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#descdef-media-any-pointer"
+              }
+            ]
           }
         },
         "aspect-ratio": {
@@ -308,7 +338,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#aspect-ratio"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#aspect-ratio"
+              }
+            ]
           }
         },
         "color": {
@@ -360,7 +400,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#color"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#color"
+              }
+            ]
           }
         },
         "color-gamut": {
@@ -412,7 +462,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#color-gamut"
+              }
+            ]
           }
         },
         "color-index": {
@@ -464,7 +520,17 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#color-index"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#color-index"
+              }
+            ]
           }
         },
         "device-aspect-ratio": {
@@ -620,7 +686,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#device-width"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#device-width"
+              }
+            ]
           }
         },
         "display-mode": {
@@ -674,7 +750,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "Manifest",
+                "url": "https://w3c.github.io/manifest/#the-display-mode-media-feature"
+              }
+            ]
           }
         },
         "grid": {
@@ -726,7 +808,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#grid"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#grid"
+              }
+            ]
           }
         },
         "height": {
@@ -778,7 +870,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#height"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#height"
+              }
+            ]
           }
         },
         "inverted-colors": {
@@ -830,7 +932,13 @@
               "experimental": true,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#inverted"
+              }
+            ]
           }
         },
         "hover": {
@@ -880,7 +988,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#hover"
+              }
+            ]
           }
         },
         "light-level": {
@@ -984,7 +1098,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#monochrome"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#monochrome"
+              }
+            ]
           }
         },
         "orientation": {
@@ -1036,7 +1160,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#orientation"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#orientation"
+              }
+            ]
           }
         },
         "overflow-block": {
@@ -1090,7 +1224,13 @@
               "experimental": true,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#mf-overflow-block"
+              }
+            ]
           }
         },
         "overflow-inline": {
@@ -1144,7 +1284,13 @@
               "experimental": true,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#mf-overflow-inline"
+              }
+            ]
           }
         },
         "pointer": {
@@ -1193,7 +1339,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#pointer"
+              }
+            ]
           }
         },
         "prefers-reduced-motion": {
@@ -1301,7 +1453,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#resolution"
+              }
+            ]
           }
         },
         "scan": {
@@ -1353,7 +1511,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#scan"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#scan"
+              }
+            ]
           }
         },
         "scripting": {
@@ -1420,7 +1588,13 @@
               "experimental": true,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#scripting"
+              }
+            ]
           }
         },
         "update": {
@@ -1472,7 +1646,13 @@
               "experimental": true,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#update"
+              }
+            ]
           }
         },
         "width": {
@@ -1524,7 +1704,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-4/#width"
+              },
+              {
+                "name": "CSS3 Media Queries",
+                "url": "https://drafts.csswg.org/mediaqueries-3/#width"
+              }
+            ]
           }
         },
         "-moz-device-pixel-ratio": {
@@ -1710,7 +1900,17 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "Compat",
+                "url": "https://compat.spec.whatwg.org#css-media-queries-webkit-device-pixel-ratio"
+              },
+              {
+                "name": "",
+                "url": "https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/OtherStandardCSS3Features.html#//apple_ref/doc/uid/TP40007601-SW3"
+              }
+            ]
           }
         },
         "-webkit-max-device-pixel-ratio": {
@@ -1792,7 +1992,17 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "Compat",
+                "url": "https://compat.spec.whatwg.org#css-media-queries-webkit-device-pixel-ratio"
+              },
+              {
+                "name": "",
+                "url": "https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/OtherStandardCSS3Features.html#//apple_ref/doc/uid/TP40007601-SW3"
+              }
+            ]
           }
         },
         "-webkit-min-device-pixel-ratio": {
@@ -1880,7 +2090,17 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "Compat",
+                "url": "https://compat.spec.whatwg.org#css-media-queries-webkit-device-pixel-ratio"
+              },
+              {
+                "name": "",
+                "url": "https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/OtherStandardCSS3Features.html#//apple_ref/doc/uid/TP40007601-SW3"
+              }
+            ]
           }
         },
         "-webkit-transform-2d": {
@@ -1996,7 +2216,17 @@
               "experimental": false,
               "standard_track": false,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "Compat",
+                "url": "https://compat.spec.whatwg.org#css-media-queries-webkit-transform-3d"
+              },
+              {
+                "name": "",
+                "url": "https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariCSSRef/Articles/OtherStandardCSS3Features.html#//apple_ref/doc/uid/TP40007601-SW3"
+              }
+            ]
           }
         },
         "-webkit-transition": {

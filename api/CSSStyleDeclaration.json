@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#the-cssstyledeclaration-interface"
+          },
+          {
+            "name": "DOM2 Style",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration"
+          }
+        ]
       },
       "cssText": {
         "__compat": {
@@ -140,7 +150,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-length"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration"
+            }
+          ]
         }
       },
       "item": {
@@ -188,7 +208,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-item"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration"
+            }
+          ]
         }
       },
       "getPropertyValue": {
@@ -236,7 +266,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-getpropertyvalue"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration"
+            }
+          ]
         }
       },
       "getPropertyCSSValue": {
@@ -343,7 +383,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-getpropertypriority"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration"
+            }
+          ]
         }
       },
       "setProperty": {
@@ -391,7 +441,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-setproperty"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration"
+            }
+          ]
         }
       },
       "removeProperty": {
@@ -439,7 +499,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-removeproperty"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration"
+            }
+          ]
         }
       },
       "parentRule": {
@@ -487,7 +557,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstyledeclaration-parentrule"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleDeclaration"
+            }
+          ]
         }
       },
       "cssFloat": {

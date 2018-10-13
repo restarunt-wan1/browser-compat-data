@@ -49,7 +49,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/tables.html#width-layout"
+            }
+          ]
         }
       }
     }

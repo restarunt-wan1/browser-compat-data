@@ -67,7 +67,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Selectors",
+              "url": "https://drafts.csswg.org/selectors-4/#placeholder"
+            }
+          ]
         },
         "non_text_types": {
           "__compat": {

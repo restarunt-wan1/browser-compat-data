@@ -150,7 +150,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#transition-property-property"
+            }
+          ]
         },
         "IDENT_value": {
           "__compat": {

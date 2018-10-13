@@ -81,7 +81,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Bluetooth",
+            "url": "https://webbluetoothcg.github.io/web-bluetooth/#bluetoothremotegattcharacteristic"
+          }
+        ]
       },
       "getDescriptor": {
         "__compat": {
@@ -164,7 +170,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-getdescriptor"
+            }
+          ]
         }
       },
       "getDescriptors": {
@@ -248,7 +260,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-getdescriptors"
+            }
+          ]
         }
       },
       "properties": {
@@ -332,7 +350,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-properties"
+            }
+          ]
         }
       },
       "readValue": {
@@ -416,7 +440,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-readvalue"
+            }
+          ]
         }
       },
       "service": {
@@ -500,7 +530,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-service"
+            }
+          ]
         }
       },
       "startNotifications": {
@@ -584,7 +620,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-startnotifications"
+            }
+          ]
         }
       },
       "stopNotifications": {
@@ -668,7 +710,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-stopnotifications"
+            }
+          ]
         }
       },
       "uuid": {
@@ -752,7 +800,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-uuid"
+            }
+          ]
         }
       },
       "value": {
@@ -836,7 +890,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-value"
+            }
+          ]
         }
       },
       "writeValue": {
@@ -920,7 +980,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothgattcharacteristic-writevalue"
+            }
+          ]
         }
       }
     }

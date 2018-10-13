@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#cssstylesheet"
+          },
+          {
+            "name": "DOM2 Style",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleSheet"
+          }
+        ]
       },
       "cssRules": {
         "__compat": {
@@ -188,7 +198,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstylesheet-deleterule"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleSheet-deleteRule"
+            }
+          ]
         }
       },
       "insertRule": {
@@ -236,7 +256,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM",
+              "url": "https://drafts.csswg.org/cssom/#dom-cssstylesheet-insertrule"
+            },
+            {
+              "name": "DOM2 Style",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Style/css.html#CSS-CSSStyleSheet-insertRule"
+            }
+          ]
         },
         "optional_index": {
           "__compat": {

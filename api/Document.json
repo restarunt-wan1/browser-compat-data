@@ -45,7 +45,61 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-document"
+          },
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/dom.html#the-document-object"
+          },
+          {
+            "name": "HTML Editing",
+            "url": "https://w3c.github.io/editing/#dom-document-getselection"
+          },
+          {
+            "name": "CSSOM View",
+            "url": "https://drafts.csswg.org/cssom-view/#extensions-to-the-document-interface"
+          },
+          {
+            "name": "CSSOM",
+            "url": "https://drafts.csswg.org/cssom/#extensions-to-the-document-interface"
+          },
+          {
+            "name": "Pointer Lock",
+            "url": "https://w3c.github.io/pointerlock/#extensions-to-the-document-interface"
+          },
+          {
+            "name": "Page Visibility API",
+            "url": "https://www.w3.org/TR/page-visibility/#extensions-to-the-document-interface"
+          },
+          {
+            "name": "Selection API",
+            "url": "https://w3c.github.io/selection-api/#extensions-to-document-interface"
+          },
+          {
+            "name": "DOM4",
+            "url": "https://www.w3.org/TR/dom/#interface-document"
+          },
+          {
+            "name": "DOM3 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-3-Core/#i-Document"
+          },
+          {
+            "name": "DOM3 XPath",
+            "url": "https://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathEvaluator"
+          },
+          {
+            "name": "DOM2 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Core/#i-Document"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/#i-Document"
+          }
+        ]
       },
       "Document": {
         "__compat": {
@@ -141,7 +195,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-url"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#attribute-URL"
+            }
+          ]
         }
       },
       "adoptNode": {
@@ -526,7 +590,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#dom-document-body"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#dom-document-body"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/dom.html#dom-document-body"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-56360201"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#attribute-body"
+            }
+          ]
         }
       },
       "captureEvents": {
@@ -791,7 +877,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-characterset"
+            }
+          ]
         }
       },
       "clear": {
@@ -887,7 +979,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-close"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-98948567"
+            }
+          ]
         }
       },
       "compatMode": {
@@ -1031,7 +1133,13 @@
             "experimental": false,
             "standard_track": false,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-contenttype"
+            }
+          ]
         }
       },
       "cookie": {
@@ -1079,7 +1187,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-8747038"
+            }
+          ]
         }
       },
       "createAttribute": {
@@ -1141,7 +1255,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-createattribute"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-1084891198"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-1084891198"
+            },
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-1084891198"
+            }
+          ]
         }
       },
       "createAttributeNS": {
@@ -1333,7 +1465,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-createdocumentfragment"
+            }
+          ]
         }
       },
       "createElement": {
@@ -1382,7 +1520,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-createelement"
+            }
+          ]
         },
         "options": {
           "__compat": {
@@ -1486,7 +1630,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-createelementns"
+            }
+          ]
         },
         "options": {
           "__compat": {
@@ -1925,7 +2075,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-1975348127"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-1975348127"
+            }
+          ]
         }
       },
       "createTouch": {
@@ -2092,7 +2252,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-createtreewalker"
+            },
+            {
+              "name": "DOM2 Traversal_Range",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Traversal-Range/traversal.html#NodeIteratorFactory-createTreeWalker"
+            }
+          ]
         },
         "whatToShow_filter_optional": {
           "__compat": {
@@ -2238,7 +2408,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#dom-document-currentscript"
+            }
+          ]
         }
       },
       "defaultView": {
@@ -2286,7 +2462,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-defaultview"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/browsers.html#dom-document-defaultview"
+            }
+          ]
         }
       },
       "designMode": {
@@ -2334,7 +2520,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#making-entire-documents-editable:-the-designmode-idl-attribute"
+            }
+          ]
         }
       },
       "dir": {
@@ -2384,7 +2576,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-dir"
+            }
+          ]
         }
       },
       "doctype": {
@@ -2432,7 +2630,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-B63ED1A31"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-B63ED1A31"
+            }
+          ]
         }
       },
       "documentElement": {
@@ -2480,7 +2688,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-87CD092"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-87CD092"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-document-documentelement"
+            },
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-documentelement"
+            }
+          ]
         }
       },
       "documentURI": {
@@ -2528,7 +2754,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-documenturi"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/#Document3-documentURI"
+            }
+          ]
         },
         "readonly": {
           "__compat": {
@@ -2726,7 +2962,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/origin.html#relaxing-the-same-origin-restriction"
+            }
+          ]
         }
       },
       "embeds": {
@@ -2774,7 +3016,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-embeds"
+            }
+          ]
         }
       },
       "enableStyleSheetsForSet": {
@@ -2870,7 +3118,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 XPath",
+              "url": "https://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathEvaluator-evaluate"
+            }
+          ]
         }
       },
       "execCommand": {
@@ -2918,7 +3172,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#execcommand()"
+            }
+          ]
         },
         "insertBrOnReturn": {
           "__compat": {
@@ -3313,7 +3573,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Fullscreen",
+              "url": "https://fullscreen.spec.whatwg.org/#dom-document-exitfullscreen"
+            }
+          ]
         },
         "returns_a_promise": {
           "__compat": {
@@ -3409,7 +3675,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Pointer Lock",
+              "url": "https://w3c.github.io/pointerlock/l#extensions-to-the-document-interface"
+            }
+          ]
         }
       },
       "fgColor": {
@@ -3570,7 +3842,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Font Loading",
+              "url": "https://drafts.csswg.org/css-font-loading/#FontFaceSet-interface"
+            }
+          ]
         }
       },
       "forms": {
@@ -3618,7 +3896,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-forms"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-1689064"
+            }
+          ]
         }
       },
       "fullscreen": {
@@ -3799,7 +4087,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Fullscreen",
+              "url": "https://fullscreen.spec.whatwg.org/#dom-document-fullscreenenabled"
+            }
+          ]
         }
       },
       "getAnimations": {
@@ -3848,7 +4142,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#dom-document-getanimations"
+            }
+          ]
         }
       },
       "getBoxObjectFor": {
@@ -3945,7 +4245,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM1",
+              "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-html.html#method-getElementById"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-getElBId"
+            },
+            {
+              "name": "DOM3 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-getElBId"
+            },
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#interface-nonelementparentnode"
+            }
+          ]
         }
       },
       "getElementsByClassName": {
@@ -4044,7 +4362,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-getelementsbyname"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-71555259"
+            }
+          ]
         }
       },
       "getElementsByTagName": {
@@ -4188,7 +4516,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/interaction.html#dom-document-hasfocus"
+            }
+          ]
         }
       },
       "head": {
@@ -4236,7 +4570,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/dom.html#dom-document-head"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/dom.html#dom-document-head"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/dom.html#dom-document-head"
+            }
+          ]
         }
       },
       "height": {
@@ -4354,7 +4702,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Page Visibility API",
+              "url": "https://www.w3.org/TR/page-visibility/#dom-document-hidden"
+            }
+          ]
         }
       },
       "images": {
@@ -4402,7 +4756,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-images"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-90379117"
+            }
+          ]
         }
       },
       "implementation": {
@@ -4498,7 +4862,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-importnode"
+            },
+            {
+              "name": "DOM2 Core",
+              "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#Core-Document-importNode"
+            }
+          ]
         },
         "deep_optional": {
           "__compat": {
@@ -4738,7 +5112,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-links"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-7068919"
+            }
+          ]
         }
       },
       "loadOverlay": {
@@ -4857,7 +5241,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/history.html#the-location-interface"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/browsers.html#the-location-interface"
+            }
+          ]
         }
       },
       "mozSetImageElement": {
@@ -5313,7 +5707,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Fullscreen",
+              "url": "https://fullscreen.spec.whatwg.org/#handler-document-onfullscreenchange"
+            }
+          ]
         }
       },
       "onfullscreenerror": {
@@ -5385,7 +5785,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Fullscreen",
+              "url": "https://fullscreen.spec.whatwg.org/#handler-document-onfullscreenerror"
+            }
+          ]
         }
       },
       "onpaste": {
@@ -5744,7 +6150,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Page Visibility API",
+              "url": "https://www.w3.org/TR/page-visibility/#onvisiblitychange-event-handler"
+            }
+          ]
         }
       },
       "open": {
@@ -5792,7 +6204,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-open"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-72161170"
+            }
+          ]
         }
       },
       "origin": {
@@ -5840,7 +6262,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-document-origin"
+            },
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#concept-origin"
+            }
+          ]
         }
       },
       "plugins": {
@@ -5888,7 +6320,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-plugins"
+            }
+          ]
         }
       },
       "policy": {
@@ -6130,7 +6568,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#querycommandenabled()"
+            }
+          ]
         }
       },
       "queryCommandIndeterm": {
@@ -6226,7 +6670,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#execcommand()"
+            }
+          ]
         }
       },
       "queryCommandSupported": {
@@ -6288,7 +6738,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML Editing",
+              "url": "https://w3c.github.io/editing/#querycommandsupported()"
+            }
+          ]
         }
       },
       "queryCommandText": {
@@ -6438,7 +6894,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Selectors API Level 2",
+              "url": "https://dev.w3.org/2006/webapi/selectors-api2/#interface-definitions"
+            },
+            {
+              "name": "Selectors API Level 1",
+              "url": "https://www.w3.org/TR/selectors-api/#interface-definitions"
+            }
+          ]
         }
       },
       "querySelectorAll": {
@@ -6486,7 +6952,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "Selectors API Level 2",
+              "url": "https://dev.w3.org/2006/webapi/selectors-api2/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "DOM4",
+              "url": "https://www.w3.org/TR/dom/#dom-parentnode-queryselectorall"
+            },
+            {
+              "name": "Selectors API Level 1",
+              "url": "https://www.w3.org/TR/selectors-api/#interface-definitions"
+            }
+          ]
         }
       },
       "readyState": {
@@ -6543,7 +7027,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#current-document-readiness"
+            },
+            {
+              "name": "HTML5.1",
+              "url": "https://www.w3.org/TR/html51/#current-document-readiness"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/#current-document-readiness"
+            }
+          ]
         }
       },
       "referrer": {
@@ -6857,7 +7355,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-scripts"
+            }
+          ]
         }
       },
       "scrollingElement": {
@@ -6917,7 +7421,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSSOM View",
+              "url": "https://drafts.csswg.org/cssom-view/#dom-document-scrollingelement"
+            }
+          ]
         }
       },
       "selectedStyleSheetSet": {
@@ -7063,7 +7573,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#dom-document-timeline"
+            }
+          ]
         }
       },
       "title": {
@@ -7278,7 +7794,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Page Visibility API",
+              "url": "https://www.w3.org/TR/page-visibility/#dom-document-visibilitystate"
+            }
+          ]
         },
         "prerender": {
           "__compat": {
@@ -7518,7 +8040,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-write"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-75233634"
+            }
+          ]
         }
       },
       "writeln": {
@@ -7566,7 +8098,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-document-writeln"
+            },
+            {
+              "name": "DOM2 HTML",
+              "url": "https://www.w3.org/TR/DOM-Level-2-HTML/html.html#ID-35318390"
+            }
+          ]
         }
       },
       "xmlEncoding": {

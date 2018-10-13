@@ -45,7 +45,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Storage",
+            "url": "https://storage.spec.whatwg.org/#dictdef-storageestimate"
+          }
+        ]
       },
       "quota": {
         "__compat": {
@@ -92,7 +98,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Storage",
+              "url": "https://storage.spec.whatwg.org/#site-storage-quota"
+            }
+          ]
         }
       },
       "usage": {
@@ -140,7 +152,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Storage",
+              "url": "https://storage.spec.whatwg.org/#site-storage-usage"
+            }
+          ]
         }
       }
     }

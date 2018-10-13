@@ -88,7 +88,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Animations",
+            "url": "https://drafts.csswg.org/web-animations/#the-animationtimeline-interface"
+          }
+        ]
       },
       "currentTime": {
         "__compat": {
@@ -178,7 +184,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Animations",
+              "url": "https://drafts.csswg.org/web-animations/#dom-animationtimeline-currenttime"
+            }
+          ]
         }
       }
     }

@@ -49,7 +49,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Content",
+              "url": "https://drafts.csswg.org/css-content-3/#content-property"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/generate.html#content"
+            }
+          ]
         },
         "element_replacement": {
           "__compat": {
@@ -151,7 +161,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS3 Values",
+                "url": "https://drafts.csswg.org/css-values-3/#urls"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/syndata.html#uri"
+              },
+              {
+                "name": "CSS1",
+                "url": "https://www.w3.org/TR/CSS1/#url"
+              }
+            ]
           }
         }
       }

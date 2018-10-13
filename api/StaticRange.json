@@ -48,7 +48,17 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-staticrange"
+          },
+          {
+            "name": "Static Range",
+            "url": "https://w3c.github.io/staticrange/index.html#interface-staticrange"
+          }
+        ]
       },
       "StaticRange": {
         "__compat": {
@@ -99,7 +109,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Static Range",
+              "url": "https://w3c.github.io/staticrange/index.html#dom-staticrange-staticrange-initdict-initdict"
+            }
+          ]
         }
       },
       "startContainer": {
@@ -150,7 +166,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Static Range",
+              "url": "https://w3c.github.io/staticrange/index.html#dom-staticrange-startcontainer"
+            }
+          ]
         }
       },
       "startOffset": {
@@ -201,7 +223,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Static Range",
+              "url": "https://w3c.github.io/staticrange/index.html#dom-staticrange-startoffset"
+            }
+          ]
         }
       },
       "endContainer": {
@@ -252,7 +280,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Static Range",
+              "url": "https://w3c.github.io/staticrange/index.html#dom-staticrange-endcontainer"
+            }
+          ]
         }
       },
       "endOffset": {
@@ -303,7 +337,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Static Range",
+              "url": "https://w3c.github.io/staticrange/index.html#dom-staticrange-endoffset"
+            }
+          ]
         }
       },
       "collapsed": {
@@ -354,7 +394,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Static Range",
+              "url": "https://w3c.github.io/staticrange/index.html#dom-staticrange-collapsed"
+            }
+          ]
         }
       },
       "toRange": {
@@ -405,7 +451,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Static Range",
+              "url": "https://w3c.github.io/staticrange/index.html#dom-staticrange-torange"
+            }
+          ]
         }
       }
     }

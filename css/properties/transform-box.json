@@ -95,7 +95,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Transforms",
+              "url": "https://drafts.csswg.org/css-transforms/#transform-box"
+            }
+          ]
         }
       }
     }

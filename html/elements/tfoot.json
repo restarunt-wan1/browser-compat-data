@@ -49,7 +49,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/tables.html#the-tfoot-element"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/tabular-data.html#the-tfoot-element"
+            }
+          ]
         },
         "align": {
           "__compat": {

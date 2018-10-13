@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebRTC 1.0",
+            "url": "https://w3c.github.io/webrtc-pc/#rtcicecandidate-interface"
+          }
+        ]
       },
       "RTCIceCandidate": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dfn-rtcicecandidate"
+            }
+          ]
         }
       },
       "candidate": {
@@ -150,7 +162,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-candidate"
+            }
+          ]
         }
       },
       "foundation": {
@@ -201,7 +219,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-foundation"
+            }
+          ]
         }
       },
       "ip": {
@@ -252,7 +276,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-ip"
+            }
+          ]
         }
       },
       "port": {
@@ -303,7 +333,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-port"
+            }
+          ]
         }
       },
       "priority": {
@@ -354,7 +390,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-priority"
+            }
+          ]
         }
       },
       "protocol": {
@@ -405,7 +447,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-protocol"
+            }
+          ]
         }
       },
       "relatedAddress": {
@@ -456,7 +504,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-relatedAddress"
+            }
+          ]
         }
       },
       "relatedPort": {
@@ -507,7 +561,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-relatedPort"
+            }
+          ]
         }
       },
       "sdpMid": {
@@ -558,7 +618,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-sdpmid"
+            }
+          ]
         }
       },
       "sdpMLineIndex": {
@@ -609,7 +675,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-sdpmlineindex"
+            }
+          ]
         }
       },
       "tcpType": {
@@ -660,7 +732,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-tcptype"
+            }
+          ]
         }
       },
       "type": {
@@ -711,7 +789,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-type"
+            }
+          ]
         }
       },
       "component": {
@@ -762,7 +846,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-component"
+            }
+          ]
         }
       },
       "usernameFragment": {
@@ -813,7 +903,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-usernamefragment"
+            }
+          ]
         }
       },
       "toJSON": {
@@ -864,7 +960,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebRTC 1.0",
+              "url": "https://w3c.github.io/webrtc-pc/#dom-rtcicecandidate-tojson"
+            }
+          ]
         }
       }
     }

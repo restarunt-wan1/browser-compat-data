@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "HTML WHATWG",
+            "url": "https://html.spec.whatwg.org/multipage/#sharedworkerglobalscope"
+          }
+        ]
       },
       "applicationCache": {
         "__compat": {
@@ -149,7 +155,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-sharedworkerglobalscope-name"
+            }
+          ]
         }
       },
       "onconnect": {
@@ -200,7 +212,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#handler-sharedworkerglobalscope-onconnect"
+            }
+          ]
         }
       },
       "close": {
@@ -251,7 +269,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#dom-sharedworkerglobalscope-close"
+            }
+          ]
         }
       }
     }

@@ -51,7 +51,21 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "ES5.1",
+            "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-13"
+          },
+          {
+            "name": "ES6",
+            "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function-definitions"
+          },
+          {
+            "name": "ESDraft",
+            "url": "https://tc39.github.io/ecma262/#sec-function-definitions"
+          }
+        ]
       },
       "arguments": {
         "__compat": {
@@ -104,7 +118,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-10.6"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-arguments-exotic-objects"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-arguments-exotic-objects"
+            }
+          ]
         },
         "callee": {
           "__compat": {
@@ -157,7 +185,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-10.6"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-arguments-exotic-objects"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-arguments-exotic-objects"
+              }
+            ]
           }
         },
         "caller": {
@@ -266,7 +308,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-10.6"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-arguments-exotic-objects"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-arguments-exotic-objects"
+              }
+            ]
           }
         },
         "@@iterator": {
@@ -320,7 +376,25 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-createunmappedargumentsobject"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-createmappedargumentsobject"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-createunmappedargumentsobject"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-createmappedargumentsobject"
+              }
+            ]
           }
         }
       },
@@ -384,7 +458,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-arrow-function-definitions"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-arrow-function-definitions"
+            }
+          ]
         },
         "trailing_comma": {
           "__compat": {
@@ -547,7 +631,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function-definitions"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-function-definitions"
+            }
+          ]
         },
         "parameters_without_defaults_after_default_parameters": {
           "__compat": {
@@ -710,7 +804,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-method-definitions"
+            },
+            {
+              "name": "ES2016",
+              "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-method-definitions"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-method-definitions"
+            }
+          ]
         },
         "generator_methods_not_constructable": {
           "__compat": {
@@ -960,7 +1068,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-function-definitions"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-function-definitions"
+            }
+          ]
         },
         "destructuring": {
           "__compat": {
@@ -1068,7 +1186,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.1.5"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-method-definitions"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-method-definitions"
+            }
+          ]
         },
         "computed_property_names": {
           "__compat": {
@@ -1176,7 +1308,21 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES5.1",
+              "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.1.5"
+            },
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-method-definitions"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-method-definitions"
+            }
+          ]
         },
         "computed_property_names": {
           "__compat": {

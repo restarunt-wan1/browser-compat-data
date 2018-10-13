@@ -49,7 +49,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.2.1"
+            }
+          ]
         }
       },
       "200": {
@@ -100,7 +106,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.3.1"
+            }
+          ]
         }
       },
       "201": {
@@ -151,7 +163,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.3.2"
+            }
+          ]
         }
       },
       "204": {
@@ -202,7 +220,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.3.5"
+            }
+          ]
         }
       },
       "206": {
@@ -253,7 +277,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7233#section-4.1"
+            }
+          ]
         }
       },
       "301": {
@@ -304,7 +334,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.4.2"
+            }
+          ]
         }
       },
       "302": {
@@ -355,7 +391,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.4.3"
+            }
+          ]
         }
       },
       "303": {
@@ -406,7 +448,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.4.4"
+            }
+          ]
         }
       },
       "304": {
@@ -457,7 +505,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7232#section-4.1"
+            }
+          ]
         }
       },
       "307": {
@@ -508,7 +562,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.4.7"
+            }
+          ]
         }
       },
       "308": {
@@ -560,7 +620,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7538#section-3"
+            }
+          ]
         }
       },
       "401": {
@@ -611,7 +677,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7235#section-3.1"
+            }
+          ]
         }
       },
       "403": {
@@ -662,7 +734,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.5.3"
+            }
+          ]
         }
       },
       "404": {
@@ -713,7 +791,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.5.4"
+            }
+          ]
         }
       },
       "406": {
@@ -764,7 +848,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.5.6"
+            }
+          ]
         }
       },
       "407": {
@@ -815,7 +905,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7235#section-3.2"
+            }
+          ]
         }
       },
       "410": {
@@ -866,7 +962,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.5.9"
+            }
+          ]
         }
       },
       "412": {
@@ -917,7 +1019,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7232#section-4.2"
+            }
+          ]
         }
       },
       "416": {
@@ -968,7 +1076,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7233#section-4.4"
+            }
+          ]
         }
       },
       "425": {
@@ -1019,7 +1133,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc8470#section-5.2"
+            }
+          ]
         }
       },
       "451": {
@@ -1121,7 +1241,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.6.1"
+            }
+          ]
         }
       },
       "501": {
@@ -1172,7 +1298,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.6.2"
+            }
+          ]
         }
       },
       "502": {
@@ -1223,7 +1355,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.6.3"
+            }
+          ]
         }
       },
       "503": {
@@ -1274,7 +1412,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.6.4"
+            }
+          ]
         }
       },
       "504": {
@@ -1325,7 +1469,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "",
+              "url": "https://tools.ietf.org/html/rfc7231#section-6.6.4"
+            }
+          ]
         }
       }
     }

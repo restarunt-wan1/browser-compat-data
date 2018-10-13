@@ -102,7 +102,25 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS4 Pseudo-Elements",
+              "url": "https://drafts.csswg.org/css-pseudo-4/#selectordef-after"
+            },
+            {
+              "name": "CSS3 Transitions",
+              "url": "https://drafts.csswg.org/css-transitions/#animatable-properties"
+            },
+            {
+              "name": "CSS3 Selectors",
+              "url": "https://drafts.csswg.org/selectors-3/#gen-content"
+            },
+            {
+              "name": "CSS2.1",
+              "url": "https://www.w3.org/TR/CSS2/generate.html#before-after-content"
+            }
+          ]
         },
         "animation_and_transition_support": {
           "__compat": {

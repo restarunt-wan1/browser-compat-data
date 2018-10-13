@@ -62,7 +62,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Payment",
+            "url": "https://w3c.github.io/payment-request/#PaymentMethodChangeEvent-interface"
+          }
+        ]
       },
       "methodDetails": {
         "__compat": {
@@ -126,7 +132,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentmethodchangeevent-methoddetails"
+            }
+          ]
         }
       },
       "methodName": {
@@ -191,7 +203,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Payment",
+              "url": "https://w3c.github.io/payment-request/#dom-paymentmethodchangeevent-methodname"
+            }
+          ]
         }
       }
     }

@@ -118,7 +118,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Writing Modes",
+              "url": "https://drafts.csswg.org/css-writing-modes-3/#block-flow"
+            },
+            {
+              "name": "CSS4 Writing Modes",
+              "url": "https://drafts.csswg.org/css-writing-modes-4/#block-flow"
+            }
+          ]
         },
         "svg_values": {
           "__compat": {

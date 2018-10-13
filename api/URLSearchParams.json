@@ -50,7 +50,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "URL",
+            "url": "https://url.spec.whatwg.org/#urlsearchparams"
+          }
+        ]
       },
       "URLSearchParams": {
         "__compat": {
@@ -203,7 +209,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-urlsearchparams-append"
+            }
+          ]
         }
       },
       "delete": {
@@ -254,7 +266,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-urlsearchparams-delete"
+            }
+          ]
         }
       },
       "entries": {
@@ -305,7 +323,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#urlsearchparams"
+            }
+          ]
         }
       },
       "get": {
@@ -356,7 +380,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-urlsearchparams-get"
+            }
+          ]
         }
       },
       "getAll": {
@@ -407,7 +437,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-urlsearchparams-getall"
+            }
+          ]
         }
       },
       "has": {
@@ -458,7 +494,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-urlsearchparams-has"
+            }
+          ]
         }
       },
       "keys": {
@@ -509,7 +551,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#urlsearchparams"
+            }
+          ]
         }
       },
       "set": {
@@ -560,7 +608,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#dom-urlsearchparams-set"
+            }
+          ]
         }
       },
       "sort": {
@@ -611,7 +665,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#urlsearchparams"
+            }
+          ]
         }
       },
       "toString": {
@@ -662,7 +722,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#urlsearchparams-stringification-behavior"
+            }
+          ]
         }
       },
       "values": {
@@ -713,7 +779,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "URL",
+              "url": "https://url.spec.whatwg.org/#urlsearchparams"
+            }
+          ]
         }
       }
     }

@@ -100,7 +100,21 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Cascade",
+                "url": "https://drafts.csswg.org/css-cascade/#inherit"
+              },
+              {
+                "name": "CSS3 Values",
+                "url": "https://drafts.csswg.org/css-values-3/#common-keywords"
+              },
+              {
+                "name": "CSS2.1",
+                "url": "https://www.w3.org/TR/CSS2/cascade.html#value-def-inherit"
+              }
+            ]
           }
         },
         "initial": {
@@ -166,7 +180,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Cascade",
+                "url": "https://drafts.csswg.org/css-cascade/#initial"
+              },
+              {
+                "name": "CSS3 Cascade",
+                "url": "https://drafts.csswg.org/css-cascade-3/#initial"
+              }
+            ]
           }
         },
         "revert": {
@@ -225,7 +249,13 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Cascade",
+                "url": "https://drafts.csswg.org/css-cascade/#default"
+              }
+            ]
           }
         },
         "unset": {
@@ -277,7 +307,17 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "CSS4 Cascade",
+                "url": "https://drafts.csswg.org/css-cascade/#inherit-initial"
+              },
+              {
+                "name": "CSS3 Cascade",
+                "url": "https://drafts.csswg.org/css-cascade-3/#inherit-initial"
+              }
+            ]
           }
         }
       }

@@ -141,7 +141,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Writing Modes",
+              "url": "https://drafts.csswg.org/css-writing-modes-3/#propdef-text-combine-upright"
+            },
+            {
+              "name": "CSS4 Writing Modes",
+              "url": "https://drafts.csswg.org/css-writing-modes-4/#propdef-text-combine-upright"
+            }
+          ]
         },
         "digits": {
           "__compat": {

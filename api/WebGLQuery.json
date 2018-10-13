@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebGL2",
+            "url": "https://www.khronos.org/registry/webgl/specs/latest/2.0/#3.2"
+          }
+        ]
       }
     }
   }

@@ -76,7 +76,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#interface-shadowroot"
+          }
+        ]
       },
       "delegatesFocus": {
         "__compat": {
@@ -268,7 +274,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-shadowroot-host"
+            }
+          ]
         }
       },
       "innerHTML": {
@@ -426,7 +438,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM WHATWG",
+              "url": "https://dom.spec.whatwg.org/#dom-shadowroot-mode"
+            }
+          ]
         }
       }
     }

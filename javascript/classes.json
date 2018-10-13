@@ -72,7 +72,25 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "ES6",
+            "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-class-definitions"
+          },
+          {
+            "name": "ES2016",
+            "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-class-definitions"
+          },
+          {
+            "name": "ES2017",
+            "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-class-definitions"
+          },
+          {
+            "name": "ESDraft",
+            "url": "https://tc39.github.io/ecma262/#sec-class-definitions"
+          }
+        ]
       },
       "constructor": {
         "__compat": {
@@ -146,7 +164,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-static-semantics-constructormethod"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-static-semantics-constructormethod"
+            }
+          ]
         }
       },
       "extends": {
@@ -221,7 +249,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-class-definitions"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-class-definitions"
+            }
+          ]
         }
       },
       "static": {
@@ -296,7 +334,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "ES6",
+              "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-class-definitions"
+            },
+            {
+              "name": "ESDraft",
+              "url": "https://tc39.github.io/ecma262/#sec-class-definitions"
+            }
+          ]
         }
       }
     }

@@ -50,7 +50,29 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "HTML WHATWG",
+              "url": "https://html.spec.whatwg.org/multipage/#selector-checked"
+            },
+            {
+              "name": "HTML5 W3C",
+              "url": "https://www.w3.org/TR/html50/#selector-checked"
+            },
+            {
+              "name": "CSS4 Selectors",
+              "url": "https://drafts.csswg.org/selectors-4/#checked"
+            },
+            {
+              "name": "CSS3 Basic UI",
+              "url": "https://drafts.csswg.org/css-ui-3/#pseudo-checked"
+            },
+            {
+              "name": "CSS3 Selectors",
+              "url": "https://drafts.csswg.org/selectors-3/#checked"
+            }
+          ]
         }
       }
     }

@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#the-stereopannernode-interface"
+          }
+        ]
       },
       "StereoPannerNode": {
         "__compat": {
@@ -102,7 +108,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#the-stereopannernode-interface"
+            }
+          ]
         }
       },
       "pan": {
@@ -153,7 +165,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-StereoPannerNode-pan"
+            }
+          ]
         }
       }
     }

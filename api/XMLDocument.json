@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "DOM WHATWG",
+            "url": "https://dom.spec.whatwg.org/#xmldocument"
+          },
+          {
+            "name": "DOM4",
+            "url": "https://www.w3.org/TR/dom/#xmldocument"
+          }
+        ]
       },
       "load": {
         "__compat": {

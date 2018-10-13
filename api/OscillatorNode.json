@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#the-oscillatornode-interface"
+          }
+        ]
       },
       "OscillatorNode": {
         "__compat": {
@@ -102,7 +108,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#the-oscillatornode-interface"
+            }
+          ]
         }
       },
       "detune": {
@@ -153,7 +165,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OscillatorNode-detune"
+            }
+          ]
         }
       },
       "frequency": {
@@ -204,7 +222,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OscillatorNode-frequency"
+            }
+          ]
         }
       },
       "onended": {
@@ -255,7 +279,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OscillatorNode-onended"
+            }
+          ]
         }
       },
       "type": {
@@ -306,7 +336,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OscillatorNode-type"
+            }
+          ]
         }
       },
       "setPeriodicWave": {
@@ -357,7 +393,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OscillatorNode-setPeriodicWave-void-PeriodicWave-periodicWave"
+            }
+          ]
         }
       },
       "start": {
@@ -410,7 +452,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OscillatorNode-start-void-double-when"
+            }
+          ]
         }
       },
       "stop": {
@@ -463,7 +511,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-OscillatorNode-stop-void-double-when"
+            }
+          ]
         }
       }
     }

@@ -48,7 +48,13 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Audio API",
+            "url": "https://webaudio.github.io/web-audio-api/#the-analysernode-interface"
+          }
+        ]
       },
       "AnalyserNode": {
         "__compat": {
@@ -99,7 +105,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-analysernode"
+            }
+          ]
         }
       },
       "fftSize": {
@@ -150,7 +162,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-analysernode-fftsize"
+            }
+          ]
         }
       },
       "frequencyBinCount": {
@@ -201,7 +219,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-analysernode-frequencybincount"
+            }
+          ]
         }
       },
       "minDecibels": {
@@ -252,7 +276,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AnalyserNode-minDecibels"
+            }
+          ]
         }
       },
       "maxDecibels": {
@@ -303,7 +333,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#dom-analysernode-maxdecibels"
+            }
+          ]
         }
       },
       "smoothingTimeConstant": {
@@ -354,7 +390,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AnalyserNode-smoothingTimeConstant"
+            }
+          ]
         }
       },
       "getFloatFrequencyData": {
@@ -405,7 +447,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AnalyserNode-getFloatFrequencyData-void-Float32Array-array"
+            }
+          ]
         }
       },
       "getByteFrequencyData": {
@@ -456,7 +504,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AnalyserNode-getByteFrequencyData-void-Uint8Array-array"
+            }
+          ]
         }
       },
       "getFloatTimeDomainData": {
@@ -507,7 +561,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AnalyserNode-getFloatTimeDomainData-void-Float32Array-array"
+            }
+          ]
         }
       },
       "getByteTimeDomainData": {
@@ -558,7 +618,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Audio API",
+              "url": "https://webaudio.github.io/web-audio-api/#widl-AnalyserNode-getByteTimeDomainData-void-Uint8Array-array"
+            }
+          ]
         }
       }
     }

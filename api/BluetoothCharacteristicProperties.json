@@ -63,7 +63,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Bluetooth",
+            "url": "https://webbluetoothcg.github.io/web-bluetooth/#characteristicproperties"
+          }
+        ]
       },
       "broadcast": {
         "__compat": {

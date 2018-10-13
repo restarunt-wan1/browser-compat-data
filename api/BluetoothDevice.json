@@ -53,7 +53,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Bluetooth",
+            "url": "https://webbluetoothcg.github.io/web-bluetooth/#bluetoothdevice"
+          }
+        ]
       },
       "adData": {
         "__compat": {
@@ -255,7 +261,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothdevice-gatt"
+            }
+          ]
         }
       },
       "gattServer": {
@@ -361,7 +373,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothdevice-id"
+            }
+          ]
         }
       },
       "name": {
@@ -417,7 +435,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothdevice-name"
+            }
+          ]
         }
       },
       "paired": {
@@ -679,7 +703,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Bluetooth",
+              "url": "https://webbluetoothcg.github.io/web-bluetooth/#dom-bluetoothdevice-uuids"
+            }
+          ]
         }
       },
       "vendorID": {

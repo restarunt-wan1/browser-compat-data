@@ -54,7 +54,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "decrement": {
@@ -109,7 +131,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "division": {
@@ -164,7 +208,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "exponentiation": {
@@ -230,7 +296,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "increment": {
@@ -285,7 +373,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "multiplication": {
@@ -340,7 +450,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "remainder": {
@@ -395,7 +527,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "subtraction": {
@@ -450,7 +604,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "unary_negation": {
@@ -505,7 +681,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         },
         "unary_plus": {
@@ -560,7 +758,29 @@
               "experimental": false,
               "standard_track": true,
               "deprecated": false
-            }
+            },
+            "specs": [
+              {
+                "name": "ES5.1",
+                "url": "https://www.ecma-international.org/ecma-262/5.1/#sec-11.3"
+              },
+              {
+                "name": "ES6",
+                "url": "https://www.ecma-international.org/ecma-262/6.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2016",
+                "url": "https://www.ecma-international.org/ecma-262/7.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ES2017",
+                "url": "https://www.ecma-international.org/ecma-262/8.0/#sec-postfix-expressions"
+              },
+              {
+                "name": "ESDraft",
+                "url": "https://tc39.github.io/ecma262/#sec-additive-operators"
+              }
+            ]
           }
         }
       }

@@ -56,7 +56,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Logical Properties",
+              "url": "https://drafts.csswg.org/css-logical-props/#resize"
+            },
+            {
+              "name": "CSS3 Basic UI",
+              "url": "https://drafts.csswg.org/css-ui-3/#resize"
+            }
+          ]
         },
         "block_level_support": {
           "__compat": {

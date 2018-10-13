@@ -49,7 +49,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS3 Text",
+              "url": "https://drafts.csswg.org/css-text-3/#hanging-punctuation-property"
+            }
+          ]
         }
       }
     }

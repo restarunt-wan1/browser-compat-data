@@ -48,7 +48,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "UI Events",
+            "url": "https://w3c.github.io/uievents/#interface-compositionevent"
+          },
+          {
+            "name": "DOM3 Events",
+            "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#idl-compositionevent"
+          }
+        ]
       },
       "CompositionEvent": {
         "__compat": {
@@ -99,7 +109,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#dom-compositionevent-compositionevent"
+            }
+          ]
         }
       },
       "data": {
@@ -150,7 +166,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "DOM3 Events",
+              "url": "https://www.w3.org/TR/2014/WD-DOM-Level-3-Events-20140925/#dom-compositionevent-data"
+            }
+          ]
         }
       },
       "initCompositionEvent": {

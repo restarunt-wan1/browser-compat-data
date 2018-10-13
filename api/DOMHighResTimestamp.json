@@ -45,7 +45,17 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Highres Time Level 2",
+            "url": "https://www.w3.org/TR/hr-time-2/#dom-domhighrestimestamp"
+          },
+          {
+            "name": "Highres Time",
+            "url": "https://www.w3.org/TR/hr-time-1/#sec-DOMHighResTimeStamp"
+          }
+        ]
       }
     }
   }

@@ -48,7 +48,29 @@
           "experimental": false,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "WebIDL",
+            "url": "https://heycam.github.io/webidl/#es-DOMException-call"
+          },
+          {
+            "name": "DOM4",
+            "url": "https://www.w3.org/TR/dom/#exception-domexception"
+          },
+          {
+            "name": "DOM3 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-3-Core/core.html#ID-17189187"
+          },
+          {
+            "name": "DOM2 Core",
+            "url": "https://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-17189187"
+          },
+          {
+            "name": "DOM1",
+            "url": "https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html#ID-17189187"
+          }
+        ]
       },
       "DOMException": {
         "__compat": {
@@ -99,7 +121,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebIDL",
+              "url": "https://heycam.github.io/webidl/#es-DOMException-call"
+            }
+          ]
         }
       },
       "code": {
@@ -150,7 +178,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebIDL",
+              "url": "https://heycam.github.io/webidl/#dom-domexception-code"
+            }
+          ]
         }
       },
       "message": {
@@ -201,7 +235,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebIDL",
+              "url": "https://heycam.github.io/webidl/#dom-domexception-message"
+            }
+          ]
         }
       },
       "name": {
@@ -252,7 +292,13 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "WebIDL",
+              "url": "https://heycam.github.io/webidl/#dom-domexception-name"
+            }
+          ]
         }
       }
     }

@@ -67,7 +67,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Motion Path Level 1",
+              "url": "https://drafts.fxtf.org/motion-1/#offset-shorthand"
+            }
+          ]
         }
       }
     }

@@ -130,7 +130,17 @@
             "experimental": false,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "CSS Transforms 2",
+              "url": "https://drafts.csswg.org/css-transforms-2/#transform-functions"
+            },
+            {
+              "name": "CSS3 Transforms",
+              "url": "https://drafts.csswg.org/css-transforms/#transform-property"
+            }
+          ]
         },
         "3d": {
           "__compat": {

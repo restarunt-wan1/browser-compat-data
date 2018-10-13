@@ -51,7 +51,13 @@
           "experimental": true,
           "standard_track": true,
           "deprecated": false
-        }
+        },
+        "specs": [
+          {
+            "name": "Web Speech API",
+            "url": "https://w3c.github.io/speech-api/#speechreco-error"
+          }
+        ]
       },
       "error": {
         "__compat": {
@@ -104,7 +110,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-error"
+            }
+          ]
         }
       },
       "message": {
@@ -158,7 +170,13 @@
             "experimental": true,
             "standard_track": true,
             "deprecated": false
-          }
+          },
+          "specs": [
+            {
+              "name": "Web Speech API",
+              "url": "https://w3c.github.io/speech-api/#dfn-message"
+            }
+          ]
         }
       }
     }
